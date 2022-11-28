@@ -1,0 +1,13 @@
+# accession.version	start	stop	gap_length	gap_type	linkage_evidence
+NZ_LFUS01000010.1	22439	22448	10	within_scaffold	paired-ends
+NZ_LFUS01000011.1	55091	55102	12	within_scaffold	paired-ends
+NZ_LFUS01000017.1	1482	1703	222	within_scaffold	paired-ends
+NZ_LFUS01000020.1	12193	12262	70	within_scaffold	paired-ends
+NZ_LFUS01000021.1	37936	38076	141	within_scaffold	paired-ends
+NZ_LFUS01000038.1	12839	12988	150	within_scaffold	paired-ends
+NZ_LFUS01000041.1	726	954	229	within_scaffold	paired-ends
+NZ_LFUS01000041.1	1986	2050	65	within_scaffold	paired-ends
+NZ_LFUS01000042.1	397	493	97	within_scaffold	paired-ends
+NZ_LFUS01000046.1	4581	4593	13	within_scaffold	paired-ends
+NZ_LFUS01000049.1	16692	16869	178	within_scaffold	paired-ends
+NZ_LFUS01000056.1	4394	4406	13	within_scaffold	paired-ends

@@ -1,0 +1,1767 @@
+#Name,Accession,Start,Stop,Strand,GeneID,Locus,Locus tag,Protein product,Length,Protein Name
+chromosome,NC_014218.1,116,1711,+,,dnaA,ARCH_RS00010,WP_041640490.1,531,chromosomal replication initiator protein DnaA
+chromosome,NC_014218.1,2071,3189,+,,dnaN,ARCH_RS00015,WP_013169268.1,372,DNA polymerase III subunit beta
+chromosome,NC_014218.1,3195,4427,+,,recF,ARCH_RS00020,WP_013169269.1,410,DNA replication/repair protein RecF
+chromosome,NC_014218.1,4424,5008,+,,,ARCH_RS00025,WP_013169270.1,194,DciA family protein
+chromosome,NC_014218.1,5191,7239,+,,gyrB,ARCH_RS00030,WP_013169271.1,682,DNA topoisomerase (ATP-hydrolyzing) subunit B
+chromosome,NC_014218.1,7264,9828,+,,gyrA,ARCH_RS00035,WP_013169272.1,854,DNA gyrase subunit A
+chromosome,NC_014218.1,9864,10298,+,,,ARCH_RS00040,WP_013169273.1,144,DUF3566 domain-containing protein
+chromosome,NC_014218.1,11373,13109,-,,,ARCH_RS00055,WP_013169275.1,578,putative DNA binding domain-containing protein
+chromosome,NC_014218.1,13363,16311,-,,,ARCH_RS09155,WP_013169276.1,982,discoidin domain-containing protein
+chromosome,NC_014218.1,16863,18680,+,,,ARCH_RS00065,WP_013169277.1,605,LTA synthase family protein
+chromosome,NC_014218.1,18755,19846,-,,,ARCH_RS00070,WP_041640240.1,363,aminoglycoside phosphotransferase family protein
+chromosome,NC_014218.1,19831,21987,-,,gnpA,ARCH_RS00075,WP_041640242.1,718,"1,3-beta-galactosyl-N-acetylhexosamine phosphorylase"
+chromosome,NC_014218.1,22246,23418,+,,,ARCH_RS00080,WP_013169280.1,390,ROK family transcriptional regulator
+chromosome,NC_014218.1,23405,24640,-,,,ARCH_RS00085,WP_041640244.1,411,sodium:glutamate symporter
+chromosome,NC_014218.1,24767,25372,+,,,ARCH_RS09160,WP_013169282.1,201,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,25350,26057,-,,,ARCH_RS00095,WP_013169283.1,235,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,26177,29101,+,,,ARCH_RS00100,WP_013169284.1,974,YhgE/Pip domain-containing protein
+chromosome,NC_014218.1,29323,30975,+,,,ARCH_RS00105,WP_187286518.1,550,lactate permease LctP family transporter
+chromosome,NC_014218.1,31039,31827,+,,,ARCH_RS00110,WP_013169286.1,262,(Fe-S)-binding protein
+chromosome,NC_014218.1,31827,33353,+,,,ARCH_RS00115,WP_013169287.1,508,LutB/LldF family L-lactate oxidation iron-sulfur protein
+chromosome,NC_014218.1,33374,34003,+,,,ARCH_RS00120,WP_041640501.1,209,LUD domain-containing protein
+chromosome,NC_014218.1,34768,37215,+,,,ARCH_RS00125,WP_231958047.1,815,choice-of-anchor K domain-containing protein
+chromosome,NC_014218.1,37240,38715,+,,,ARCH_RS00130,WP_013169290.1,491,SpaH/EbpB family LPXTG-anchored major pilin
+chromosome,NC_014218.1,38911,40626,+,,,ARCH_RS00135,WP_013169291.1,571,5\\'-nucleotidase C-terminal domain-containing protein
+chromosome,NC_014218.1,40803,43460,+,,,ARCH_RS09165,WP_013169292.1,885,exo-alpha-sialidase
+chromosome,NC_014218.1,43596,43865,+,,,ARCH_RS09825,WP_145961595.1,89,hypothetical protein
+chromosome,NC_014218.1,46249,47247,+,,rarD,ARCH_RS00150,WP_013169294.1,332,EamA family transporter RarD
+chromosome,NC_014218.1,47510,49942,+,,,ARCH_RS00155,WP_041640246.1,810,SpaA isopeptide-forming pilin-related protein
+chromosome,NC_014218.1,49953,50138,+,,,ARCH_RS00160,WP_041640248.1,61,LPXTG cell wall anchor domain-containing protein
+chromosome,NC_014218.1,50172,51638,+,,,ARCH_RS00165,WP_013169296.1,488,SpaH/EbpB family LPXTG-anchored major pilin
+chromosome,NC_014218.1,51741,52616,+,,,ARCH_RS00170,WP_013169297.1,291,class C sortase
+chromosome,NC_014218.1,52741,53979,-,,,ARCH_RS00175,WP_013169298.1,412,cellulase family glycosylhydrolase
+chromosome,NC_014218.1,53976,56999,-,,,ARCH_RS00180,WP_041640250.1,1007,glycosyl hydrolase-related protein
+chromosome,NC_014218.1,57174,58202,+,,,ARCH_RS00185,WP_013169300.1,342,LacI family transcriptional regulator
+chromosome,NC_014218.1,58253,59203,+,,,ARCH_RS00190,WP_013169301.1,316,carbohydrate kinase
+chromosome,NC_014218.1,59335,60612,-,,,ARCH_RS00195,WP_013169302.1,425,AGE family epimerase/isomerase
+chromosome,NC_014218.1,61302,62435,+,,,ARCH_RS00200,WP_013169303.1,377,zinc-binding dehydrogenase
+chromosome,NC_014218.1,62893,64497,+,,,ARCH_RS00205,WP_197712430.1,534,MFS transporter
+chromosome,NC_014218.1,64556,64930,-,,,ARCH_RS00210,WP_041640253.1,124,hypothetical protein
+chromosome,NC_014218.1,65252,66115,-,,,ARCH_RS00215,WP_013169306.1,287,sugar phosphate isomerase/epimerase
+chromosome,NC_014218.1,66156,67142,-,,iolG,ARCH_RS00220,WP_013169307.1,328,inositol 2-dehydrogenase
+chromosome,NC_014218.1,67179,68258,-,,,ARCH_RS00225,WP_013169308.1,359,transaldolase family protein
+chromosome,NC_014218.1,68491,69267,-,,,ARCH_RS00230,WP_013169309.1,258,GntR family transcriptional regulator
+chromosome,NC_014218.1,69438,70427,+,,iolC,ARCH_RS00235,WP_013169310.1,329,5-dehydro-2-deoxygluconokinase
+chromosome,NC_014218.1,70424,71287,+,,,ARCH_RS00240,WP_013169311.1,287,hypothetical protein
+chromosome,NC_014218.1,71284,72180,+,,iolB,ARCH_RS00245,WP_013169312.1,298,5-deoxy-glucuronate isomerase
+chromosome,NC_014218.1,72177,74060,+,,iolD,ARCH_RS00250,WP_013169313.1,627,"3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)"
+chromosome,NC_014218.1,74258,75751,+,,,ARCH_RS00255,WP_013169314.1,497,CoA-acylating methylmalonate-semialdehyde dehydrogenase
+chromosome,NC_014218.1,75960,77477,-,,,ARCH_RS00260,WP_013169315.1,505,M81 family metallopeptidase
+chromosome,NC_014218.1,77503,78672,-,,,ARCH_RS00265,WP_013169316.1,389,ROK family transcriptional regulator
+chromosome,NC_014218.1,78859,80667,+,,,ARCH_RS00270,WP_013169317.1,602,peptide ABC transporter substrate-binding protein
+chromosome,NC_014218.1,80747,81709,+,,,ARCH_RS00275,WP_013169318.1,320,ABC transporter permease
+chromosome,NC_014218.1,81706,82563,+,,,ARCH_RS00280,WP_013169319.1,285,ABC transporter permease
+chromosome,NC_014218.1,82572,84563,+,,,ARCH_RS00285,WP_013169320.1,663,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,84569,85471,+,,,ARCH_RS00290,WP_013169321.1,300,ROK family protein
+chromosome,NC_014218.1,85465,86736,+,,,ARCH_RS00295,WP_013169322.1,423,alpha-L-fucosidase
+chromosome,NC_014218.1,87163,87822,+,,,ARCH_RS00300,WP_013169323.1,219,hypothetical protein
+chromosome,NC_014218.1,87959,88837,+,,,ARCH_RS00305,WP_013169324.1,292,glycosyltransferase family 2 protein
+chromosome,NC_014218.1,88960,89703,+,,,ARCH_RS00310,WP_013169325.1,247,glycerophosphoryl diester phosphodiesterase
+chromosome,NC_014218.1,89823,91235,+,,,ARCH_RS00315,WP_013169326.1,470,MFS transporter
+chromosome,NC_014218.1,91422,91940,+,,,ARCH_RS00320,WP_013169327.1,172,DUF3800 domain-containing protein
+chromosome,NC_014218.1,92889,93896,-,,,ARCH_RS00335,WP_013169328.1,335,trypsin-like serine protease
+chromosome,NC_014218.1,93899,94852,-,,,ARCH_RS00340,WP_013169329.1,317,DUF418 domain-containing protein
+chromosome,NC_014218.1,95705,96697,-,,rfbB,ARCH_RS00350,WP_013169330.1,330,"dTDP-glucose 4,6-dehydratase"
+chromosome,NC_014218.1,96727,97953,-,,,ARCH_RS00355,WP_013169331.1,408,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,97956,98891,-,,,ARCH_RS00360,WP_013169332.1,311,ABC transporter permease
+chromosome,NC_014218.1,99082,100605,+,,,ARCH_RS00365,WP_013169333.1,507,hypothetical protein
+chromosome,NC_014218.1,100602,103040,+,,,ARCH_RS00370,WP_013169334.1,812,glycosyltransferase
+chromosome,NC_014218.1,103068,103784,+,,,ARCH_RS00375,WP_013169335.1,238,glycosyltransferase family 2 protein
+chromosome,NC_014218.1,103793,104161,+,,,ARCH_RS00380,WP_013169336.1,122,DUF2304 domain-containing protein
+chromosome,NC_014218.1,104168,105514,+,,,ARCH_RS00385,WP_013169337.1,448,glycosyltransferase family 39 protein
+chromosome,NC_014218.1,105518,105877,-,,,ARCH_RS00390,WP_013169338.1,119,DUF2304 domain-containing protein
+chromosome,NC_014218.1,105880,106593,-,,,ARCH_RS00395,WP_231957972.1,237,glycosyltransferase
+chromosome,NC_014218.1,106734,108260,+,,,ARCH_RS00400,WP_013169340.1,508,DUF2142 domain-containing protein
+chromosome,NC_014218.1,108237,109472,-,,,ARCH_RS00405,WP_013169341.1,411,integral membrane protein
+chromosome,NC_014218.1,109526,110395,+,,,ARCH_RS00410,WP_013169342.1,289,glycosyltransferase
+chromosome,NC_014218.1,110523,111524,+,,,ARCH_RS00415,WP_013169343.1,333,glycosyltransferase
+chromosome,NC_014218.1,111539,112399,-,,,ARCH_RS00420,WP_013169344.1,286,LicD family protein
+chromosome,NC_014218.1,112409,113356,-,,,ARCH_RS00425,WP_013169345.1,315,DMT family transporter
+chromosome,NC_014218.1,113353,115164,-,,,ARCH_RS00430,WP_013169346.1,603,NTP transferase domain-containing protein
+chromosome,NC_014218.1,115282,116376,-,,,ARCH_RS00435,WP_013169347.1,364,glycosyltransferase family 4 protein
+chromosome,NC_014218.1,116590,117795,+,,,ARCH_RS00440,WP_231957971.1,401,polysaccharide biosynthesis protein
+chromosome,NC_014218.1,117864,118712,-,,rfbD,ARCH_RS00445,WP_013169349.1,282,dTDP-4-dehydrorhamnose reductase
+chromosome,NC_014218.1,119095,120411,-,,,ARCH_RS00450,WP_013169351.1,438,ATP-binding protein
+chromosome,NC_014218.1,120519,121136,+,,,ARCH_RS00455,WP_013169352.1,205,"dTDP-4-dehydrorhamnose 3,5-epimerase"
+chromosome,NC_014218.1,121279,121470,+,,,ARCH_RS09540,WP_197712422.1,63,AAA family ATPase
+chromosome,NC_014218.1,121541,121822,+,,,ARCH_RS00460,WP_013170013.1,93,MULTISPECIES: transposase
+chromosome,NC_014218.1,121876,122697,+,,,ARCH_RS00465,WP_013170014.1,273,IS3 family transposase
+chromosome,NC_014218.1,122719,123090,+,,,ARCH_RS09545,WP_261974481.1,123,AAA family ATPase
+chromosome,NC_014218.1,123087,123575,+,,,ARCH_RS00470,WP_049765780.1,162,ATP-binding protein
+chromosome,NC_014218.1,123598,124464,-,,,ARCH_RS00475,WP_013169354.1,288,glycosyltransferase family 2 protein
+chromosome,NC_014218.1,124464,125339,-,,rfbA,ARCH_RS00480,WP_013169355.1,291,glucose-1-phosphate thymidylyltransferase RfbA
+chromosome,NC_014218.1,125425,126390,-,,,ARCH_RS00485,WP_041640262.1,321,DMT family transporter
+chromosome,NC_014218.1,126513,127406,-,,,ARCH_RS09170,WP_049765781.1,297,hypothetical protein
+chromosome,NC_014218.1,127597,128118,+,,,ARCH_RS00495,WP_041640264.1,173,peptidylprolyl isomerase
+chromosome,NC_014218.1,128190,128768,+,,,ARCH_RS00500,WP_049765782.1,192,rhomboid family intramembrane serine protease
+chromosome,NC_014218.1,128819,129091,-,,,ARCH_RS00505,WP_223804399.1,90,cell division protein CrgA
+chromosome,NC_014218.1,129213,130154,+,,,ARCH_RS00510,WP_013169361.1,313,class E sortase
+chromosome,NC_014218.1,130157,130312,+,,,ARCH_RS10035,WP_013169362.1,51,hypothetical protein
+chromosome,NC_014218.1,130585,131784,-,,,ARCH_RS00520,WP_013169363.1,399,IS110 family transposase
+chromosome,NC_014218.1,132085,133986,-,,pknB,ARCH_RS00525,WP_013169364.1,633,Stk1 family PASTA domain-containing Ser/Thr kinase
+chromosome,NC_014218.1,134071,135516,-,,,ARCH_RS00530,WP_013169365.1,481,penicillin-binding transpeptidase domain-containing protein
+chromosome,NC_014218.1,135513,137006,-,,,ARCH_RS00535,WP_013169366.1,497,FtsW/RodA/SpoVE family cell cycle protein
+chromosome,NC_014218.1,137003,138322,-,,,ARCH_RS00540,WP_013169367.1,439,protein phosphatase 2C domain-containing protein
+chromosome,NC_014218.1,138319,138783,-,,,ARCH_RS00545,WP_013169368.1,154,FHA domain-containing protein
+chromosome,NC_014218.1,138780,139478,-,,,ARCH_RS00550,WP_013169369.1,232,DUF3662 domain-containing protein
+chromosome,NC_014218.1,139990,140796,-,,,ARCH_RS00560,WP_013169370.1,268,TRIC cation channel family protein
+chromosome,NC_014218.1,140822,141730,-,,,ARCH_RS00565,WP_013169371.1,302,macro domain-containing protein
+chromosome,NC_014218.1,141801,142385,+,,,ARCH_RS00570,WP_013169372.1,194,ribonuclease HI
+chromosome,NC_014218.1,142428,144605,+,,,ARCH_RS00575,WP_013169373.1,725,S9 family peptidase
+chromosome,NC_014218.1,144805,145677,+,,,ARCH_RS00580,WP_049765783.1,290,hypothetical protein
+chromosome,NC_014218.1,146096,147433,-,,mtnN,ARCH_RS09175,WP_013169375.1,445,5\\'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+chromosome,NC_014218.1,147430,147891,-,,,ARCH_RS00590,WP_013169376.1,153,S-ribosylhomocysteine lyase
+chromosome,NC_014218.1,147922,148062,-,,,ARCH_RS10040,WP_170121718.1,46,hypothetical protein
+chromosome,NC_014218.1,148131,148382,+,,nrdH,ARCH_RS00595,WP_013169377.1,83,glutaredoxin-like protein NrdH
+chromosome,NC_014218.1,148417,148818,+,,nrdI,ARCH_RS00600,WP_013169378.1,133,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI
+chromosome,NC_014218.1,148800,150950,+,,nrdE,ARCH_RS00605,WP_013169379.1,716,class 1b ribonucleoside-diphosphate reductase subunit alpha
+chromosome,NC_014218.1,151293,151448,-,,,ARCH_RS10045,WP_170121717.1,51,hypothetical protein
+chromosome,NC_014218.1,151535,152509,+,,nrdF,ARCH_RS00610,WP_013169380.1,324,class 1b ribonucleoside-diphosphate reductase subunit beta
+chromosome,NC_014218.1,152747,153319,+,,,ARCH_RS00615,WP_013169382.1,190,low molecular weight phosphotyrosine protein phosphatase
+chromosome,NC_014218.1,153345,153809,-,,,ARCH_RS00620,WP_013169383.1,154,SprT-like domain-containing protein
+chromosome,NC_014218.1,153866,154537,+,,,ARCH_RS00625,WP_013169384.1,223,hypothetical protein
+chromosome,NC_014218.1,155024,155797,-,,,ARCH_RS00630,WP_013169385.1,257,amino acid ABC transporter ATP-binding protein
+chromosome,NC_014218.1,155811,156782,-,,,ARCH_RS00635,WP_013169386.1,323,amino acid ABC transporter permease
+chromosome,NC_014218.1,156788,157693,-,,,ARCH_RS00640,WP_013169387.1,301,ABC transporter substrate-binding protein
+chromosome,NC_014218.1,157829,161917,-,,hrpA,ARCH_RS00645,WP_013169388.1,1362,ATP-dependent RNA helicase HrpA
+chromosome,NC_014218.1,162056,163075,+,,,ARCH_RS09180,WP_013169389.1,339,endonuclease/exonuclease/phosphatase family protein
+chromosome,NC_014218.1,163206,164315,-,,,ARCH_RS00655,WP_013169390.1,369,DUF2183 domain-containing protein
+chromosome,NC_014218.1,164516,165271,-,,,ARCH_RS00660,WP_013169391.1,251,GntR family transcriptional regulator
+chromosome,NC_014218.1,165272,166954,-,,pgm,ARCH_RS00665,WP_013169392.1,560,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)"
+chromosome,NC_014218.1,166980,169562,-,,,ARCH_RS00670,WP_013169393.1,860,flippase-like domain-containing protein
+chromosome,NC_014218.1,169636,171822,-,,,ARCH_RS00675,WP_013169394.1,728,cation-translocating P-type ATPase
+chromosome,NC_014218.1,171819,172046,-,,,ARCH_RS00680,WP_013169395.1,75,heavy-metal-associated domain-containing protein
+chromosome,NC_014218.1,172125,173594,-,,,ARCH_RS00685,WP_013169396.1,489,hypothetical protein
+chromosome,NC_014218.1,173658,174317,-,,,ARCH_RS00690,WP_013169397.1,219,DedA family protein
+chromosome,NC_014218.1,174317,174718,-,,,ARCH_RS00695,WP_041640270.1,133,phage holin family protein
+chromosome,NC_014218.1,174764,175528,-,,,ARCH_RS00700,WP_013169399.1,254,YwiC-like family protein
+chromosome,NC_014218.1,175528,176460,-,,,ARCH_RS00705,WP_013169400.1,310,hypothetical protein
+chromosome,NC_014218.1,176601,177329,+,,aroD,ARCH_RS00710,WP_013169401.1,242,type I 3-dehydroquinate dehydratase
+chromosome,NC_014218.1,177746,178249,-,,,ARCH_RS00715,WP_013169402.1,167,phosphoribosyltransferase
+chromosome,NC_014218.1,178587,179525,+,,,ARCH_RS00720,WP_013169403.1,312,zinc ABC transporter substrate-binding protein
+chromosome,NC_014218.1,179540,180295,+,,,ARCH_RS00725,WP_013169404.1,251,metal ABC transporter ATP-binding protein
+chromosome,NC_014218.1,180277,181221,+,,,ARCH_RS00730,WP_222831741.1,314,metal ABC transporter permease
+chromosome,NC_014218.1,181218,182102,+,,,ARCH_RS00735,WP_013169406.1,294,metal ABC transporter permease
+chromosome,NC_014218.1,182052,182729,-,,,ARCH_RS00740,WP_013169407.1,225,metal-dependent transcriptional regulator
+chromosome,NC_014218.1,182848,183429,+,,dcd,ARCH_RS00745,WP_013169408.1,193,dCTP deaminase
+chromosome,NC_014218.1,183482,186328,+,,,ARCH_RS00750,WP_013169409.1,948,Na+/H+ antiporter subunit A
+chromosome,NC_014218.1,186328,186786,+,,,ARCH_RS00755,WP_013169410.1,152,Na(+)/H(+) antiporter subunit C
+chromosome,NC_014218.1,186783,188336,+,,,ARCH_RS00760,WP_013169411.1,517,Na+/H+ antiporter subunit D
+chromosome,NC_014218.1,188329,188940,+,,,ARCH_RS00765,WP_013169412.1,203,Na+/H+ antiporter subunit E
+chromosome,NC_014218.1,188937,189197,+,,,ARCH_RS00770,WP_013169413.1,86,monovalent cation/H+ antiporter complex subunit F
+chromosome,NC_014218.1,189194,189553,+,,mnhG,ARCH_RS00775,WP_013169414.1,119,monovalent cation/H(+) antiporter subunit G
+chromosome,NC_014218.1,189596,189847,+,,,ARCH_RS00780,WP_013169415.1,83,DUF4235 domain-containing protein
+chromosome,NC_014218.1,190061,191131,+,,,ARCH_RS00785,WP_013169416.1,356,thiamine ABC transporter substrate-binding protein
+chromosome,NC_014218.1,191128,192939,+,,,ARCH_RS00790,WP_013169417.1,603,ABC transporter permease subunit
+chromosome,NC_014218.1,192936,193583,+,,,ARCH_RS00795,WP_013169418.1,215,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,193718,195124,-,,,ARCH_RS00800,WP_013169419.1,468,family 20 glycosylhydrolase
+chromosome,NC_014218.1,195124,196023,-,,,ARCH_RS00805,WP_231957970.1,299,ABC transporter permease subunit
+chromosome,NC_014218.1,196032,197021,-,,,ARCH_RS00810,WP_013169421.1,329,sugar ABC transporter permease
+chromosome,NC_014218.1,197053,198342,-,,,ARCH_RS00815,WP_013169422.1,429,sugar ABC transporter substrate-binding protein
+chromosome,NC_014218.1,198866,200197,-,,,ARCH_RS00820,WP_013169423.1,443,DUF4921 family protein
+chromosome,NC_014218.1,200287,201588,+,,,ARCH_RS00825,WP_013169424.1,433,MFS transporter
+chromosome,NC_014218.1,201643,202644,+,,,ARCH_RS00830,WP_013169425.1,333,peptidoglycan bridge formation glycyltransferase FemA/FemB family protein
+chromosome,NC_014218.1,202644,203822,+,,,ARCH_RS00835,WP_013169426.1,392,ATP-grasp domain-containing protein
+chromosome,NC_014218.1,203987,204418,+,,,ARCH_RS00840,WP_013169427.1,143,cupin domain-containing protein
+chromosome,NC_014218.1,204573,206642,-,,,ARCH_RS00845,WP_013169428.1,689,prolyl oligopeptidase family serine peptidase
+chromosome,NC_014218.1,206847,208703,+,,dnaK,ARCH_RS00850,WP_013169429.1,618,molecular chaperone DnaK
+chromosome,NC_014218.1,208792,209361,+,,grpE,ARCH_RS00855,WP_013169430.1,189,nucleotide exchange factor GrpE
+chromosome,NC_014218.1,209408,210403,+,,,ARCH_RS00860,WP_013169431.1,331,DnaJ domain-containing protein
+chromosome,NC_014218.1,211122,211769,+,,,ARCH_RS00870,WP_013169433.1,215,CoA pyrophosphatase
+chromosome,NC_014218.1,211766,212167,-,,,ARCH_RS00875,WP_013169434.1,133,DUF3806 domain-containing protein
+chromosome,NC_014218.1,212345,215428,+,,,ARCH_RS00880,WP_049765784.1,1027,ExeM/NucH family extracellular endonuclease
+chromosome,NC_014218.1,215497,215994,-,,ybaK,ARCH_RS00885,WP_013169436.1,165,Cys-tRNA(Pro) deacylase
+chromosome,NC_014218.1,216009,216464,+,,,ARCH_RS00890,WP_013169437.1,151,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,216461,216976,-,,,ARCH_RS00895,WP_013169438.1,171,tryptophan-rich sensory protein
+chromosome,NC_014218.1,217145,218203,+,,gluQRS,ARCH_RS00900,WP_013169439.1,352,tRNA glutamyl-Q(34) synthetase GluQRS
+chromosome,NC_014218.1,218644,218838,-,,,ARCH_RS00905,WP_013169440.1,64,antitoxin
+chromosome,NC_014218.1,219597,222206,+,,clpB,ARCH_RS00910,WP_013169441.1,869,ATP-dependent chaperone ClpB
+chromosome,NC_014218.1,222267,223733,+,,,ARCH_RS00915,WP_231957969.1,488,amino acid permease
+chromosome,NC_014218.1,224065,225144,-,,,ARCH_RS00920,WP_013169443.1,359,inositol-3-phosphate synthase
+chromosome,NC_014218.1,225487,226308,+,,,ARCH_RS00925,WP_013169444.1,273,serine hydrolase
+chromosome,NC_014218.1,226370,227179,-,,,ARCH_RS00930,WP_013169445.1,269,exodeoxyribonuclease III
+chromosome,NC_014218.1,227216,227983,+,,,ARCH_RS00935,WP_013169446.1,255,SDR family NAD(P)-dependent oxidoreductase
+chromosome,NC_014218.1,228096,228410,+,,,ARCH_RS00940,WP_231957968.1,104,NYN domain-containing protein
+chromosome,NC_014218.1,228442,228846,+,,,ARCH_RS00945,WP_013169447.1,134,(deoxy)nucleoside triphosphate pyrophosphohydrolase
+chromosome,NC_014218.1,228849,229100,+,,,ARCH_RS00950,WP_041640279.1,83,hypothetical protein
+chromosome,NC_014218.1,229453,229902,+,,,ARCH_RS09185,WP_013169448.1,149,hypothetical protein
+chromosome,NC_014218.1,229895,230575,+,,,ARCH_RS00965,WP_013169449.1,226,RNA methyltransferase
+chromosome,NC_014218.1,230694,231485,-,,,ARCH_RS00970,WP_013169450.1,263,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein
+chromosome,NC_014218.1,231814,232836,+,,fbaA,ARCH_RS00975,WP_013169451.1,340,class II fructose-bisphosphate aldolase
+chromosome,NC_014218.1,233063,233596,+,,,ARCH_RS00980,WP_013169452.1,177,DUF4091 domain-containing protein
+chromosome,NC_014218.1,233816,235135,+,,,ARCH_RS00985,WP_013169453.1,439,extracellular solute-binding protein
+chromosome,NC_014218.1,235298,236161,+,,,ARCH_RS00990,WP_111724982.1,287,sugar ABC transporter permease
+chromosome,NC_014218.1,236161,237072,+,,,ARCH_RS00995,WP_013169455.1,303,carbohydrate ABC transporter permease
+chromosome,NC_014218.1,237149,237688,-,,,ARCH_RS01000,WP_013169456.1,179,hypothetical protein
+chromosome,NC_014218.1,237688,238488,-,,,ARCH_RS01005,WP_013169457.1,266,hypothetical protein
+chromosome,NC_014218.1,238622,239599,-,,,ARCH_RS01010,WP_041640287.1,325,hypothetical protein
+chromosome,NC_014218.1,239913,241763,+,,,ARCH_RS01015,WP_013169459.1,616,phosphoenolpyruvate carboxykinase (GTP)
+chromosome,NC_014218.1,241972,242871,+,,,ARCH_RS01020,WP_013169460.1,299,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+chromosome,NC_014218.1,243001,244338,+,,gdhA,ARCH_RS01025,WP_013169461.1,445,NADP-specific glutamate dehydrogenase
+chromosome,NC_014218.1,244508,246778,+,,,ARCH_RS01030,WP_013169462.1,756,bifunctional metallophosphatase/5\\'-nucleotidase
+chromosome,NC_014218.1,246905,247252,+,,,ARCH_RS01035,WP_041640291.1,115,sterol carrier family protein
+chromosome,NC_014218.1,247385,247621,-,,,ARCH_RS01040,WP_013169464.1,78,DUF3073 domain-containing protein
+chromosome,NC_014218.1,247979,248170,+,,,ARCH_RS01045,WP_013169465.1,63,BldC family transcriptional regulator
+chromosome,NC_014218.1,248266,248616,-,,,ARCH_RS01050,WP_013169466.1,116,DUF3618 domain-containing protein
+chromosome,NC_014218.1,248613,249056,-,,,ARCH_RS01055,WP_013169467.1,147,phage holin family protein
+chromosome,NC_014218.1,249172,251025,-,,,ARCH_RS01060,WP_013169468.1,617,virulence factor MVIN family protein
+chromosome,NC_014218.1,251932,253557,+,,,ARCH_RS09190,WP_013169469.1,541,mechanosensitive ion channel
+chromosome,NC_014218.1,253558,254001,+,,msrB,ARCH_RS01090,WP_013169470.1,147,peptide-methionine (R)-S-oxide reductase MsrB
+chromosome,NC_014218.1,254001,254771,+,,,ARCH_RS01095,WP_013169471.1,256,endonuclease/exonuclease/phosphatase family protein
+chromosome,NC_014218.1,254783,255646,+,,,ARCH_RS01100,WP_013169472.1,287,EamA family transporter
+chromosome,NC_014218.1,256162,256761,+,,,ARCH_RS01110,WP_013169473.1,199,hypothetical protein
+chromosome,NC_014218.1,257240,258331,+,,pstS,ARCH_RS01115,WP_013169474.1,363,phosphate ABC transporter substrate-binding protein PstS
+chromosome,NC_014218.1,258343,259242,+,,pstC,ARCH_RS01120,WP_013169475.1,299,phosphate ABC transporter permease subunit PstC
+chromosome,NC_014218.1,259239,260156,+,,pstA,ARCH_RS01125,WP_013169476.1,305,phosphate ABC transporter permease PstA
+chromosome,NC_014218.1,260267,261073,+,,pstB,ARCH_RS01130,WP_049765879.1,268,phosphate ABC transporter ATP-binding protein PstB
+chromosome,NC_014218.1,261175,262188,-,,,ARCH_RS01135,WP_013169478.1,337,inorganic phosphate transporter
+chromosome,NC_014218.1,262188,262781,-,,,ARCH_RS01140,WP_113722442.1,197,DUF47 family protein
+chromosome,NC_014218.1,263074,264516,+,,,ARCH_RS01145,WP_013169480.1,480,alanine:cation symporter family protein
+chromosome,NC_014218.1,264616,265476,-,,,ARCH_RS01150,WP_013169481.1,286,hypothetical protein
+chromosome,NC_014218.1,266169,266957,+,,,ARCH_RS09195,WP_145961623.1,262,hypothetical protein
+chromosome,NC_014218.1,266971,267564,+,,,ARCH_RS01160,WP_013169483.1,197,FABP family protein
+chromosome,NC_014218.1,267561,268661,+,,,ARCH_RS01165,WP_013169484.1,366,folate-binding protein YgfZ
+chromosome,NC_014218.1,268661,269125,+,,dtd,ARCH_RS01170,WP_013169485.1,154,D-aminoacyl-tRNA deacylase
+chromosome,NC_014218.1,269213,271834,+,,,ARCH_RS01175,WP_013169486.1,873,ATP-dependent Clp protease ATP-binding subunit
+chromosome,NC_014218.1,272445,274094,+,,,ARCH_RS01180,WP_138974965.1,549,SpaH/EbpB family LPXTG-anchored major pilin
+chromosome,NC_014218.1,274312,275289,+,,,ARCH_RS01185,WP_197712421.1,325,class C sortase
+chromosome,NC_014218.1,275286,276005,+,,,ARCH_RS01190,WP_013169489.1,239,hypothetical protein
+chromosome,NC_014218.1,276007,280086,+,,,ARCH_RS01195,WP_013169490.1,1359,LPXTG cell wall anchor domain-containing protein
+chromosome,NC_014218.1,280428,281627,+,,,ARCH_RS01200,WP_013169491.1,399,IS110 family transposase
+chromosome,NC_014218.1,282164,282832,+,,,ARCH_RS01205,WP_013169492.1,222,hypothetical protein
+chromosome,NC_014218.1,282829,283062,+,,,ARCH_RS10050,WP_013169493.1,77,hypothetical protein
+chromosome,NC_014218.1,284311,285642,-,,,ARCH_RS01225,WP_013169494.1,443,TRAP transporter large permease subunit
+chromosome,NC_014218.1,285898,288645,+,,,ARCH_RS01230,WP_013169495.1,915,5\\'-nucleotidase C-terminal domain-containing protein
+chromosome,NC_014218.1,288894,291632,+,,ppdK,ARCH_RS01235,WP_013169496.1,912,"pyruvate, phosphate dikinase"
+chromosome,NC_014218.1,291821,293614,+,,,ARCH_RS01240,WP_013169497.1,597,acetyltransferase
+chromosome,NC_014218.1,293724,295010,+,,,ARCH_RS01245,WP_013169498.1,428,hypothetical protein
+chromosome,NC_014218.1,295007,296035,-,,,ARCH_RS01250,WP_013169499.1,342,alpha/beta hydrolase
+chromosome,NC_014218.1,296094,298475,-,,,ARCH_RS09200,WP_013169500.1,793,GDSL-type esterase/lipase family protein
+chromosome,NC_014218.1,298479,298799,-,,,ARCH_RS01260,WP_145961622.1,106,hypothetical protein
+chromosome,NC_014218.1,299155,300684,+,,,ARCH_RS09205,WP_013169502.1,509,C40 family peptidase
+chromosome,NC_014218.1,301016,301519,-,,,ARCH_RS01270,WP_013169503.1,167,inorganic diphosphatase
+chromosome,NC_014218.1,301605,302966,+,,dacB,ARCH_RS01275,WP_013169504.1,453,D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+chromosome,NC_014218.1,303028,303894,+,,,ARCH_RS01280,WP_013169505.1,288,zinc-dependent metalloprotease
+chromosome,NC_014218.1,303891,304976,+,,tilS,ARCH_RS01285,WP_013169506.1,361,tRNA lysidine(34) synthetase TilS
+chromosome,NC_014218.1,304973,307216,+,,ftsH,ARCH_RS01290,WP_013169507.1,747,ATP-dependent zinc metalloprotease FtsH
+chromosome,NC_014218.1,307209,307802,+,,folE,ARCH_RS01295,WP_013169508.1,197,GTP cyclohydrolase I FolE
+chromosome,NC_014218.1,307813,308625,+,,folP,ARCH_RS01300,WP_013169509.1,270,dihydropteroate synthase
+chromosome,NC_014218.1,308635,309510,+,,folK,ARCH_RS01305,WP_013169510.1,291,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+chromosome,NC_014218.1,309500,309982,+,,,ARCH_RS01310,WP_013169511.1,160,DUF3180 domain-containing protein
+chromosome,NC_014218.1,310112,310615,+,,,ARCH_RS01315,WP_041640295.1,167,PH domain-containing protein
+chromosome,NC_014218.1,310615,312165,+,,,ARCH_RS01320,WP_013169513.1,516,PH domain-containing protein
+chromosome,NC_014218.1,312155,313036,+,,,ARCH_RS01325,WP_231957967.1,293,DUF2520 domain-containing protein
+chromosome,NC_014218.1,313077,313904,+,,panC,ARCH_RS01330,WP_013169515.1,275,pantoate--beta-alanine ligase
+chromosome,NC_014218.1,313921,314352,+,,,ARCH_RS01335,WP_041640608.1,143,aspartate 1-decarboxylase
+chromosome,NC_014218.1,314416,316005,+,,lysS,ARCH_RS01340,WP_013169517.1,529,lysine--tRNA ligase
+chromosome,NC_014218.1,316580,318103,-,,glpK,ARCH_RS01345,WP_013169518.1,507,glycerol kinase GlpK
+chromosome,NC_014218.1,318173,318919,-,,,ARCH_RS01350,WP_013169519.1,248,aquaporin family protein
+chromosome,NC_014218.1,319140,319802,-,,,ARCH_RS01355,WP_013169520.1,220,ATP-binding protein
+chromosome,NC_014218.1,319881,321140,-,,,ARCH_RS01360,WP_013169521.1,419,anaerobic glycerol-3-phosphate dehydrogenase subunit C
+chromosome,NC_014218.1,321137,322336,-,,glpB,ARCH_RS01365,WP_013169522.1,399,glycerol-3-phosphate dehydrogenase subunit GlpB
+chromosome,NC_014218.1,322333,324030,-,,glpA,ARCH_RS01370,WP_013169523.1,565,anaerobic glycerol-3-phosphate dehydrogenase subunit GlpA
+chromosome,NC_014218.1,324215,325165,+,,,ARCH_RS01375,WP_013169524.1,316,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,325168,326058,-,,,ARCH_RS01380,WP_013169525.1,296,A/G-specific adenine glycosylase
+chromosome,NC_014218.1,326055,326597,-,,,ARCH_RS01385,WP_013169526.1,180,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,326584,328104,-,,,ARCH_RS01390,WP_013169527.1,506,MFS transporter
+chromosome,NC_014218.1,328135,329424,-,,,ARCH_RS01395,WP_170121758.1,429,MFS transporter
+chromosome,NC_014218.1,329631,330779,+,,,ARCH_RS01400,WP_013169529.1,382,ATP-binding protein
+chromosome,NC_014218.1,330783,331367,+,,,ARCH_RS09210,WP_013169530.1,194,hypothetical protein
+chromosome,NC_014218.1,331564,332508,+,,,ARCH_RS01410,WP_013169531.1,314,hypothetical protein
+chromosome,NC_014218.1,332564,333940,-,,radA,ARCH_RS01415,WP_013169532.1,458,DNA repair protein RadA
+chromosome,NC_014218.1,333978,334646,-,,,ARCH_RS01420,WP_013169533.1,222,TrkA family potassium uptake protein
+chromosome,NC_014218.1,334724,336169,-,,,ARCH_RS01425,WP_013169534.1,481,potassium transporter Trk
+chromosome,NC_014218.1,336451,336666,+,,,ARCH_RS01430,WP_013169535.1,71,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,336756,336854,+,,,ARCH_RS09550,WP_005504750.1,32,MULTISPECIES: AURKAIP1/COX24 domain-containing protein
+chromosome,NC_014218.1,337136,337612,+,,,ARCH_RS01435,WP_013169536.1,158,MarR family transcriptional regulator
+chromosome,NC_014218.1,337662,338324,+,,,ARCH_RS01440,WP_013169537.1,220,histidine phosphatase family protein
+chromosome,NC_014218.1,338528,338938,-,,,ARCH_RS01445,WP_138974984.1,136,PLD nuclease N-terminal domain-containing protein
+chromosome,NC_014218.1,338980,339858,-,,,ARCH_RS01450,WP_013169539.1,292,"1,4-dihydroxy-2-naphthoate polyprenyltransferase"
+chromosome,NC_014218.1,339845,340999,-,,,ARCH_RS01455,WP_187286512.1,384,AMP-binding protein
+chromosome,NC_014218.1,340977,341960,-,,,ARCH_RS01460,WP_041640620.1,327,"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+chromosome,NC_014218.1,341971,342612,-,,,ARCH_RS01465,WP_049765789.1,213,class I SAM-dependent methyltransferase
+chromosome,NC_014218.1,342613,343596,+,,,ARCH_RS01470,WP_013169543.1,327,o-succinylbenzoate synthase
+chromosome,NC_014218.1,343593,345215,+,,menD,ARCH_RS01475,WP_013169544.1,540,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+chromosome,NC_014218.1,345297,346964,+,,,ARCH_RS10260,WP_013169545.1,555,trypsin-like peptidase domain-containing protein
+chromosome,NC_014218.1,347139,348458,-,,,ARCH_RS01490,WP_013169546.1,439,isochorismate synthase
+chromosome,NC_014218.1,348497,349237,+,,,ARCH_RS01495,WP_013169547.1,246,class I SAM-dependent methyltransferase
+chromosome,NC_014218.1,349422,350705,+,,,ARCH_RS01500,WP_013169548.1,427,geranylgeranyl reductase family protein
+chromosome,NC_014218.1,350797,351156,+,,,ARCH_RS01505,WP_013169549.1,119,NADH-quinone oxidoreductase subunit A
+chromosome,NC_014218.1,351160,351717,+,,,ARCH_RS01510,WP_013169550.1,185,NADH-quinone oxidoreductase subunit B
+chromosome,NC_014218.1,351714,352412,+,,,ARCH_RS01515,WP_013169551.1,232,NADH-quinone oxidoreductase subunit C
+chromosome,NC_014218.1,352424,353761,+,,,ARCH_RS01520,WP_223804432.1,445,NADH-quinone oxidoreductase subunit D
+chromosome,NC_014218.1,353761,354441,+,,nuoE,ARCH_RS01525,WP_013169553.1,226,NADH-quinone oxidoreductase subunit NuoE
+chromosome,NC_014218.1,354438,355763,+,,nuoF,ARCH_RS01530,WP_013169554.1,441,NADH-quinone oxidoreductase subunit NuoF
+chromosome,NC_014218.1,355776,358373,+,,,ARCH_RS01535,WP_013169555.1,865,NADH-quinone oxidoreductase subunit G
+chromosome,NC_014218.1,358370,359704,+,,nuoH,ARCH_RS01540,WP_013169556.1,444,NADH-quinone oxidoreductase subunit NuoH
+chromosome,NC_014218.1,359697,360380,+,,nuoI,ARCH_RS01545,WP_013169557.1,227,NADH-quinone oxidoreductase subunit NuoI
+chromosome,NC_014218.1,360380,361372,+,,,ARCH_RS01550,WP_013169558.1,330,NADH-quinone oxidoreductase subunit J
+chromosome,NC_014218.1,361372,361671,+,,nuoK,ARCH_RS01555,WP_013169559.1,99,NADH-quinone oxidoreductase subunit NuoK
+chromosome,NC_014218.1,361745,363616,+,,nuoL,ARCH_RS01560,WP_049765882.1,623,NADH-quinone oxidoreductase subunit L
+chromosome,NC_014218.1,363636,365168,+,,,ARCH_RS01565,WP_013169561.1,510,NADH-quinone oxidoreductase subunit M
+chromosome,NC_014218.1,365165,366766,+,,nuoN,ARCH_RS01570,WP_013169562.1,533,NADH-quinone oxidoreductase subunit NuoN
+chromosome,NC_014218.1,366763,367779,+,,,ARCH_RS01575,WP_013169563.1,338,polyprenyl synthetase family protein
+chromosome,NC_014218.1,367884,370691,+,,secA,ARCH_RS01580,WP_013169564.1,935,preprotein translocase subunit SecA
+chromosome,NC_014218.1,370807,372063,+,,,ARCH_RS01585,WP_013169565.1,418,class I SAM-dependent RNA methyltransferase
+chromosome,NC_014218.1,372158,372571,-,,,ARCH_RS01590,WP_013169566.1,137,type II toxin-antitoxin system VapC family toxin
+chromosome,NC_014218.1,372568,372804,-,,,ARCH_RS01595,WP_013169567.1,78,hypothetical protein
+chromosome,NC_014218.1,372980,373555,-,,,ARCH_RS09215,WP_049765791.1,191,Rv3235 family protein
+chromosome,NC_014218.1,373552,373758,-,,,ARCH_RS10055,WP_049765792.1,68,LysM peptidoglycan-binding domain-containing protein
+chromosome,NC_014218.1,374279,374827,+,,,ARCH_RS01610,WP_041640298.1,182,hypothetical protein
+chromosome,NC_014218.1,374845,375057,-,,,ARCH_RS01615,WP_013169571.1,70,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,375167,375751,+,,,ARCH_RS01620,WP_013169572.1,194,SAF domain-containing protein
+chromosome,NC_014218.1,375748,376938,+,,,ARCH_RS01625,WP_013169573.1,396,hypothetical protein
+chromosome,NC_014218.1,376917,377366,+,,,ARCH_RS01630,WP_013169574.1,149,hypothetical protein
+chromosome,NC_014218.1,377352,380411,-,,,ARCH_RS01635,WP_013169575.1,1019,SMC family ATPase
+chromosome,NC_014218.1,380401,381588,-,,,ARCH_RS01640,WP_013169576.1,395,exonuclease SbcCD subunit D
+chromosome,NC_014218.1,381713,383152,+,,,ARCH_RS09220,WP_013169577.1,479,hypothetical protein
+chromosome,NC_014218.1,383206,383970,-,,,ARCH_RS01650,WP_187286513.1,254,CAMP factor family pore-forming toxin
+chromosome,NC_014218.1,384404,384808,-,,,ARCH_RS09225,WP_013169579.1,134,hypothetical protein
+chromosome,NC_014218.1,384926,385558,+,,,ARCH_RS09230,WP_013169580.1,210,SatD family protein
+chromosome,NC_014218.1,386808,387836,-,,rsgA,ARCH_RS01670,WP_013169581.1,342,ribosome small subunit-dependent GTPase A
+chromosome,NC_014218.1,387833,389218,-,,aroA,ARCH_RS01675,WP_013169582.1,461,3-phosphoshikimate 1-carboxyvinyltransferase
+chromosome,NC_014218.1,389218,389730,-,,,ARCH_RS01680,WP_013169583.1,170,hypothetical protein
+chromosome,NC_014218.1,389798,390577,-,,,ARCH_RS01685,WP_261974469.1,259,GntR family transcriptional regulator
+chromosome,NC_014218.1,390649,391566,+,,,ARCH_RS01690,WP_013169585.1,305,ROK family protein
+chromosome,NC_014218.1,391566,392249,+,,,ARCH_RS01695,WP_013169586.1,227,N-acetylmannosamine-6-phosphate 2-epimerase
+chromosome,NC_014218.1,392292,393068,+,,,ARCH_RS01700,WP_013169587.1,258,glucosamine-6-phosphate deaminase
+chromosome,NC_014218.1,393065,394225,+,,,ARCH_RS01705,WP_013169588.1,386,amidohydrolase family protein
+chromosome,NC_014218.1,394358,394963,+,,,ARCH_RS01710,WP_013169589.1,201,sigma-70 family RNA polymerase sigma factor
+chromosome,NC_014218.1,394965,395246,+,,,ARCH_RS01715,WP_013169590.1,93,anti-sigma factor
+chromosome,NC_014218.1,395716,395931,-,,,ARCH_RS01720,WP_013169591.1,71,hypothetical protein
+chromosome,NC_014218.1,395936,396901,-,,,ARCH_RS01725,WP_013169592.1,321,SPFH domain-containing protein
+chromosome,NC_014218.1,396980,398221,-,,,ARCH_RS01730,WP_013169593.1,413,DUF5692 family protein
+chromosome,NC_014218.1,398383,399408,+,,,ARCH_RS01735,WP_013169594.1,341,hypothetical protein
+chromosome,NC_014218.1,399490,400569,-,,,ARCH_RS01740,WP_013169595.1,359,DUF5692 family protein
+chromosome,NC_014218.1,400661,401065,-,,,ARCH_RS01745,WP_013169596.1,134,type II toxin-antitoxin system VapC family toxin
+chromosome,NC_014218.1,401062,401373,-,,,ARCH_RS01750,WP_013169597.1,103,type II toxin-antitoxin system prevent-host-death family antitoxin
+chromosome,NC_014218.1,401443,402057,-,,,ARCH_RS01755,WP_041640647.1,204,GDSL-type esterase/lipase family protein
+chromosome,NC_014218.1,402592,406308,-,,,ARCH_RS01760,WP_013169599.1,1238,multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit
+chromosome,NC_014218.1,406489,407805,+,,,ARCH_RS01765,WP_041640301.1,438,hemolysin family protein
+chromosome,NC_014218.1,407802,408833,+,,,ARCH_RS01770,WP_013169601.1,343,hemolysin family protein
+chromosome,NC_014218.1,408928,409938,+,,,ARCH_RS09235,WP_111724924.1,336,M23 family metallopeptidase
+chromosome,NC_014218.1,409942,410718,+,,,ARCH_RS01780,WP_013169603.1,258,glycerophosphodiester phosphodiesterase family protein
+chromosome,NC_014218.1,411029,412702,+,,argS,ARCH_RS01790,WP_013169604.1,557,arginine--tRNA ligase
+chromosome,NC_014218.1,412717,413544,+,,,ARCH_RS09240,WP_013169605.1,275,homoserine kinase
+chromosome,NC_014218.1,413646,413900,+,,,ARCH_RS10060,WP_013169606.1,84,hypothetical protein
+chromosome,NC_014218.1,414239,415930,+,,rho,ARCH_RS01805,WP_049765883.1,563,transcription termination factor Rho
+chromosome,NC_014218.1,416124,416336,+,,rpmE,ARCH_RS01810,WP_013169608.1,70,50S ribosomal protein L31
+chromosome,NC_014218.1,416453,417568,+,,prfA,ARCH_RS01815,WP_111724975.1,371,peptide chain release factor 1
+chromosome,NC_014218.1,417565,418410,+,,prmC,ARCH_RS01820,WP_013169610.1,281,peptide chain release factor N(5)-glutamine methyltransferase
+chromosome,NC_014218.1,418415,419062,+,,,ARCH_RS01825,WP_013169611.1,215,L-threonylcarbamoyladenylate synthase
+chromosome,NC_014218.1,419059,420207,+,,,ARCH_RS01830,WP_013169612.1,382,undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+chromosome,NC_014218.1,420243,420659,+,,,ARCH_RS01835,WP_041640303.1,138,hypothetical protein
+chromosome,NC_014218.1,420805,421635,+,,atpB,ARCH_RS01840,WP_013169614.1,276,F0F1 ATP synthase subunit A
+chromosome,NC_014218.1,421665,421874,+,,atpE,ARCH_RS01845,WP_013169615.1,69,ATP synthase F0 subunit C
+chromosome,NC_014218.1,421880,422440,+,,atpF,ARCH_RS01850,WP_013169616.1,186,F0F1 ATP synthase subunit B
+chromosome,NC_014218.1,422440,423255,+,,,ARCH_RS01855,WP_013169617.1,271,F0F1 ATP synthase subunit delta
+chromosome,NC_014218.1,423296,424921,+,,atpA,ARCH_RS01860,WP_013169618.1,541,F0F1 ATP synthase subunit alpha
+chromosome,NC_014218.1,424924,425829,+,,,ARCH_RS01865,WP_013169619.1,301,F0F1 ATP synthase subunit gamma
+chromosome,NC_014218.1,425866,427326,+,,atpD,ARCH_RS01870,WP_013169620.1,486,F0F1 ATP synthase subunit beta
+chromosome,NC_014218.1,427296,427577,+,,atpC,ARCH_RS01875,WP_049765794.1,93,ATP synthase F1 subunit epsilon
+chromosome,NC_014218.1,427581,427985,+,,,ARCH_RS01880,WP_013169622.1,134,DUF2550 domain-containing protein
+chromosome,NC_014218.1,428161,428856,+,,nucS,ARCH_RS01885,WP_013169623.1,231,endonuclease NucS
+chromosome,NC_014218.1,428856,429143,+,,,ARCH_RS01890,WP_013169624.1,95,hypothetical protein
+chromosome,NC_014218.1,429200,429979,+,,,ARCH_RS01895,WP_013169625.1,259,alpha/beta hydrolase
+chromosome,NC_014218.1,429989,431296,-,,,ARCH_RS01900,WP_013169626.1,435,hypothetical protein
+chromosome,NC_014218.1,431441,432514,+,,,ARCH_RS01905,WP_013169627.1,357,hypothetical protein
+chromosome,NC_014218.1,432507,433514,+,,,ARCH_RS01910,WP_013169628.1,335,hypothetical protein
+chromosome,NC_014218.1,433519,434451,+,,,ARCH_RS01915,WP_013169629.1,310,tetratricopeptide repeat protein
+chromosome,NC_014218.1,434448,436127,-,,,ARCH_RS01920,WP_111724923.1,559,glycoside hydrolase family 13 protein
+chromosome,NC_014218.1,436146,437156,-,,,ARCH_RS01925,WP_013169631.1,336,LacI family transcriptional regulator
+chromosome,NC_014218.1,437480,438712,+,,,ARCH_RS01930,WP_013169632.1,410,extracellular solute-binding protein
+chromosome,NC_014218.1,438780,440396,+,,,ARCH_RS01935,WP_013169633.1,538,ABC transporter permease subunit
+chromosome,NC_014218.1,440399,441313,+,,,ARCH_RS01940,WP_013169634.1,304,sugar ABC transporter permease
+chromosome,NC_014218.1,441407,441970,-,,,ARCH_RS01945,WP_013169635.1,187,NAD(P)H-dependent oxidoreductase
+chromosome,NC_014218.1,442194,444380,-,,glgB,ARCH_RS01950,WP_013169636.1,728,"1,4-alpha-glucan branching protein GlgB"
+chromosome,NC_014218.1,444419,445798,-,,,ARCH_RS01955,WP_013169637.1,459,phosphotransferase
+chromosome,NC_014218.1,445785,447488,-,,treS,ARCH_RS01960,WP_049765884.1,567,maltose alpha-D-glucosyltransferase
+chromosome,NC_014218.1,447467,449542,-,,,ARCH_RS01965,WP_013169639.1,691,DUF3416 domain-containing protein
+chromosome,NC_014218.1,449643,450320,-,,,ARCH_RS09245,WP_081440738.1,225,methylated-DNA-
+chromosome,NC_014218.1,450671,453004,-,,,ARCH_RS01975,WP_223804433.1,777,glycogen/starch/alpha-glucan phosphorylase
+chromosome,NC_014218.1,453223,454329,-,,trpS,ARCH_RS01980,WP_013169642.1,368,tryptophan--tRNA ligase
+chromosome,NC_014218.1,454950,457106,-,,glgX,ARCH_RS01985,WP_013169643.1,718,glycogen debranching protein GlgX
+chromosome,NC_014218.1,457234,458022,+,,nudC,ARCH_RS01990,WP_013169644.1,262,NAD(+) diphosphatase
+chromosome,NC_014218.1,458134,460167,+,,,ARCH_RS01995,WP_013169645.1,677,ATP-dependent DNA helicase UvrD2
+chromosome,NC_014218.1,460111,461064,-,,,ARCH_RS02000,WP_013169646.1,317,hypothetical protein
+chromosome,NC_014218.1,461157,462521,-,,,ARCH_RS02005,WP_111724922.1,454,zinc-dependent metalloprotease
+chromosome,NC_014218.1,462645,463763,+,,,ARCH_RS02010,WP_013169648.1,372,hypothetical protein
+chromosome,NC_014218.1,463767,464315,-,,,ARCH_RS02015,WP_013169649.1,182,PPA1309 family protein
+chromosome,NC_014218.1,464457,467516,+,,,ARCH_RS02020,WP_013169650.1,1019,UPF0182 family protein
+chromosome,NC_014218.1,467744,467887,+,,,ARCH_RS10065,WP_187286514.1,47,hypothetical protein
+chromosome,NC_014218.1,468011,468727,-,,,ARCH_RS02025,WP_013169651.1,238,hypothetical protein
+chromosome,NC_014218.1,468724,469476,-,,,ARCH_RS02030,WP_013169652.1,250,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,469473,469862,-,,,ARCH_RS02035,WP_013169653.1,129,GntR family transcriptional regulator
+chromosome,NC_014218.1,470198,470641,+,,,ARCH_RS02045,WP_013169654.1,147,pyrimidine dimer DNA glycosylase/endonuclease V
+chromosome,NC_014218.1,470965,471513,+,,,ARCH_RS02050,WP_013169655.1,182,PadR family transcriptional regulator
+chromosome,NC_014218.1,471483,472145,+,,,ARCH_RS02055,WP_013169656.1,220,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,472152,474344,+,,,ARCH_RS02060,WP_013169657.1,730,FtsX-like permease family protein
+chromosome,NC_014218.1,474387,474971,+,,,ARCH_RS02065,WP_013169658.1,194,NTP transferase domain-containing protein
+chromosome,NC_014218.1,474975,475646,-,,,ARCH_RS02070,WP_013169659.1,223,FMN-binding negative transcriptional regulator
+chromosome,NC_014218.1,475657,476196,-,,,ARCH_RS02075,WP_013169660.1,179,dihydrofolate reductase
+chromosome,NC_014218.1,476193,476993,-,,,ARCH_RS02080,WP_013169661.1,266,thymidylate synthase
+chromosome,NC_014218.1,476990,477493,-,,,ARCH_RS02085,WP_041640304.1,167,DUF2505 domain-containing protein
+chromosome,NC_014218.1,477531,478955,+,,,ARCH_RS02090,WP_013169663.1,474,PAS domain-containing sensor histidine kinase
+chromosome,NC_014218.1,479024,479272,-,,,ARCH_RS02095,WP_013169664.1,82,WhiB family transcriptional regulator
+chromosome,NC_014218.1,479419,481932,-,,,ARCH_RS02100,WP_013169665.1,837,ABC transporter permease
+chromosome,NC_014218.1,481936,482664,-,,,ARCH_RS02105,WP_013169666.1,242,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,482661,483353,-,,,ARCH_RS02110,WP_013169667.1,230,response regulator transcription factor
+chromosome,NC_014218.1,483350,484540,-,,,ARCH_RS09250,WP_013169668.1,396,sensor histidine kinase
+chromosome,NC_014218.1,484579,487101,+,,,ARCH_RS02120,WP_223804412.1,840,DNA ligase (NAD(+)) LigA
+chromosome,NC_014218.1,487147,488406,-,,,ARCH_RS02125,WP_013169670.1,419,phospholipase D-like domain-containing protein
+chromosome,NC_014218.1,488464,488760,+,,gatC,ARCH_RS02130,WP_013169671.1,98,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+chromosome,NC_014218.1,488764,490263,+,,gatA,ARCH_RS02135,WP_013169672.1,499,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA
+chromosome,NC_014218.1,490269,491762,+,,gatB,ARCH_RS02140,WP_013169673.1,497,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+chromosome,NC_014218.1,491842,493242,+,,,ARCH_RS02145,WP_013169674.1,466,NAD-dependent malic enzyme
+chromosome,NC_014218.1,493381,493647,+,,,ARCH_RS09845,WP_145961620.1,88,hypothetical protein
+chromosome,NC_014218.1,499212,499652,+,,,ARCH_RS02165,WP_013169675.1,146,DUF2871 domain-containing protein
+chromosome,NC_014218.1,499823,501205,-,,nhaA,ARCH_RS02170,WP_013169676.1,460,Na+/H+ antiporter NhaA
+chromosome,NC_014218.1,501374,502129,+,,,ARCH_RS02175,WP_013169677.1,251,class I SAM-dependent methyltransferase
+chromosome,NC_014218.1,502245,503570,+,,,ARCH_RS02180,WP_013169678.1,441,threonine/serine exporter family protein
+chromosome,NC_014218.1,503696,505297,-,,,ARCH_RS02185,WP_013169679.1,533,transporter
+chromosome,NC_014218.1,505524,506969,+,,aspA,ARCH_RS02190,WP_013169680.1,481,aspartate ammonia-lyase
+chromosome,NC_014218.1,508451,510538,+,,pflB,ARCH_RS02200,WP_013169681.1,695,formate C-acetyltransferase
+chromosome,NC_014218.1,510588,510839,+,,grcA2,ARCH_RS02205,WP_111724973.1,83,autonomous glycyl radical cofactor GrcA2
+chromosome,NC_014218.1,510863,511789,+,,pflA,ARCH_RS02210,WP_013169683.1,308,pyruvate formate-lyase-activating protein
+chromosome,NC_014218.1,511786,512478,-,,,ARCH_RS02215,WP_013169684.1,230,YggS family pyridoxal phosphate-dependent enzyme
+chromosome,NC_014218.1,512478,515150,-,,,ARCH_RS02220,WP_013169685.1,890,DEAD/DEAH box helicase
+chromosome,NC_014218.1,515147,516154,-,,,ARCH_RS02225,WP_013169686.1,335,LacI family transcriptional regulator
+chromosome,NC_014218.1,516313,517722,-,,uxaC,ARCH_RS02230,WP_013169687.1,469,glucuronate isomerase
+chromosome,NC_014218.1,517801,518901,-,,,ARCH_RS02235,WP_013169688.1,366,sugar kinase
+chromosome,NC_014218.1,518898,519542,-,,eda,ARCH_RS02240,WP_013169689.1,214,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+chromosome,NC_014218.1,519572,520651,-,,,ARCH_RS02245,WP_013169690.1,359,mannonate dehydratase
+chromosome,NC_014218.1,520680,522281,-,,,ARCH_RS02250,WP_013169691.1,533,mannitol dehydrogenase family protein
+chromosome,NC_014218.1,522585,522707,-,,,ARCH_RS10265,WP_261974470.1,40,hypothetical protein
+chromosome,NC_014218.1,522981,524165,+,,,ARCH_RS02260,WP_013169693.1,394,hypothetical protein
+chromosome,NC_014218.1,524340,525362,+,,,ARCH_RS02265,WP_013169694.1,340,efflux RND transporter periplasmic adaptor subunit
+chromosome,NC_014218.1,525365,526123,+,,,ARCH_RS02270,WP_013169695.1,252,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,526120,527436,+,,,ARCH_RS02275,WP_013169696.1,438,ABC transporter permease
+chromosome,NC_014218.1,527941,528558,-,,,ARCH_RS02290,WP_013169697.1,205,N-acetyltransferase
+chromosome,NC_014218.1,528778,529707,+,,,ARCH_RS02295,WP_041640677.1,309,glutathione synthetase
+chromosome,NC_014218.1,530249,530905,-,,orn,ARCH_RS02305,WP_013169699.1,218,oligoribonuclease
+chromosome,NC_014218.1,531151,532704,+,,,ARCH_RS02315,WP_187286515.1,517,GTPase domain-containing protein
+chromosome,NC_014218.1,532734,534197,+,,,ARCH_RS02320,WP_049765797.1,487,50S ribosome-binding GTPase
+chromosome,NC_014218.1,534332,534892,+,,,ARCH_RS09255,WP_013169702.1,186,single-stranded DNA-binding protein
+chromosome,NC_014218.1,534986,536668,+,,ettA,ARCH_RS02330,WP_013169703.1,560,energy-dependent translational throttle protein EttA
+chromosome,NC_014218.1,536800,538446,+,,,ARCH_RS02335,WP_013169704.1,548,alpha/beta hydrolase
+chromosome,NC_014218.1,538967,539464,+,,,ARCH_RS02340,WP_145961619.1,165,hypothetical protein
+chromosome,NC_014218.1,539457,540050,+,,,ARCH_RS02345,WP_013169705.1,197,transcriptional regulator
+chromosome,NC_014218.1,541060,541437,+,,,ARCH_RS09570,WP_013169706.1,125,HNH endonuclease
+chromosome,NC_014218.1,541791,542102,+,,,ARCH_RS09575,WP_081440740.1,103,type I 3-dehydroquinate dehydratase
+chromosome,NC_014218.1,542495,545116,+,,,ARCH_RS02360,WP_013169707.1,873,SpaA isopeptide-forming pilin-related protein
+chromosome,NC_014218.1,545487,545906,-,,,ARCH_RS02365,WP_013169708.1,139,hypothetical protein
+chromosome,NC_014218.1,546855,547244,-,,,ARCH_RS02375,WP_013169709.1,129,hypothetical protein
+chromosome,NC_014218.1,547520,547942,-,,,ARCH_RS09260,WP_013169710.1,140,DUF4065 domain-containing protein
+chromosome,NC_014218.1,548014,548529,-,,,ARCH_RS02385,WP_013169711.1,171,NUDIX hydrolase
+chromosome,NC_014218.1,548696,548956,+,,,ARCH_RS02390,WP_013169712.1,86,type II toxin-antitoxin system RelB/DinJ family antitoxin
+chromosome,NC_014218.1,548949,549215,+,,,ARCH_RS09585,WP_187286520.1,88,Txe/YoeB family addiction module toxin
+chromosome,NC_014218.1,549333,550232,-,,,ARCH_RS02395,WP_013169714.1,299,thioesterase family protein
+chromosome,NC_014218.1,550472,552613,+,,malQ,ARCH_RS02400,WP_013169715.1,713,4-alpha-glucanotransferase
+chromosome,NC_014218.1,552676,552915,+,,,ARCH_RS02405,WP_013169716.1,79,PTS transporter subunit EIIB
+chromosome,NC_014218.1,552902,554107,-,,,ARCH_RS02410,WP_013169717.1,401,dicarboxylate/amino acid:cation symporter
+chromosome,NC_014218.1,554393,555169,-,,,ARCH_RS02415,WP_013169718.1,258,formate/nitrite transporter family protein
+chromosome,NC_014218.1,555237,557861,-,,pepN,ARCH_RS02420,WP_231957964.1,874,aminopeptidase N
+chromosome,NC_014218.1,557898,558050,+,,,ARCH_RS10070,WP_170121753.1,50,hypothetical protein
+chromosome,NC_014218.1,558199,560199,-,,,ARCH_RS02425,WP_013169720.1,666,M13 family peptidase
+chromosome,NC_014218.1,560236,560679,+,,,ARCH_RS02430,WP_013169721.1,147,ribose-5-phosphate isomerase
+chromosome,NC_014218.1,560692,561273,-,,cysE,ARCH_RS02435,WP_013169722.1,193,serine O-acetyltransferase
+chromosome,NC_014218.1,561295,562221,-,,cysK,ARCH_RS02440,WP_013169723.1,308,cysteine synthase A
+chromosome,NC_014218.1,562323,562976,-,,,ARCH_RS02445,WP_013169724.1,217,IMPACT family protein
+chromosome,NC_014218.1,563136,563300,+,,rpmF,ARCH_RS02450,WP_013169725.1,54,MULTISPECIES: 50S ribosomal protein L32
+chromosome,NC_014218.1,563505,564137,+,,,ARCH_RS02455,WP_013169726.1,210,hypothetical protein
+chromosome,NC_014218.1,564166,565161,+,,,ARCH_RS02460,WP_013169727.1,331,glycoside hydrolase
+chromosome,NC_014218.1,565138,566001,-,,,ARCH_RS02465,WP_013169728.1,287,anchored repeat-type ABC transporter permease subunit
+chromosome,NC_014218.1,565998,566720,-,,,ARCH_RS02470,WP_013169729.1,240,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,566717,567652,-,,,ARCH_RS02475,WP_013169730.1,311,choice-of-anchor M domain-containing protein
+chromosome,NC_014218.1,567649,569205,-,,,ARCH_RS02480,WP_013169731.1,518,"anchored repeat ABC transporter, substrate-binding protein"
+chromosome,NC_014218.1,569550,571907,+,,,ARCH_RS02485,WP_013169732.1,785,carbon starvation protein A
+chromosome,NC_014218.1,572054,572254,+,,,ARCH_RS02490,WP_013169733.1,66,YbdD/YjiX family protein
+chromosome,NC_014218.1,572372,573196,-,,,ARCH_RS02495,WP_013169734.1,274,aldo/keto reductase
+chromosome,NC_014218.1,573506,573799,-,,,ARCH_RS02500,WP_013169735.1,97,hypothetical protein
+chromosome,NC_014218.1,573842,574141,-,,,ARCH_RS02505,WP_013169736.1,99,metalloregulator ArsR/SmtB family transcription factor
+chromosome,NC_014218.1,574342,575010,-,,,ARCH_RS02510,WP_013169737.1,222,deoxynucleoside kinase
+chromosome,NC_014218.1,575164,576249,-,,,ARCH_RS02515,WP_138975049.1,361,TDT family transporter
+chromosome,NC_014218.1,576308,576817,-,,,ARCH_RS09265,WP_013169739.1,169,molybdopterin-binding protein
+chromosome,NC_014218.1,577023,578423,+,,,ARCH_RS02525,WP_013169740.1,466,extracellular solute-binding protein
+chromosome,NC_014218.1,578495,579442,+,,,ARCH_RS02530,WP_013169741.1,315,sugar ABC transporter permease
+chromosome,NC_014218.1,579445,580377,+,,,ARCH_RS02535,WP_223804435.1,310,carbohydrate ABC transporter permease
+chromosome,NC_014218.1,580390,581757,+,,,ARCH_RS02540,WP_013169743.1,455,alpha-L-fucosidase
+chromosome,NC_014218.1,581779,581961,+,,,ARCH_RS02545,WP_013169744.1,60,hypothetical protein
+chromosome,NC_014218.1,582008,582247,+,,,ARCH_RS02550,WP_013169745.1,79,hypothetical protein
+chromosome,NC_014218.1,582737,585199,+,,,ARCH_RS02560,WP_013169747.1,820,hypothetical protein
+chromosome,NC_014218.1,585311,585541,+,,,ARCH_RS09270,WP_148214495.1,76,hypothetical protein
+chromosome,NC_014218.1,585896,586537,+,,,ARCH_RS02570,WP_013169748.1,213,N-6 DNA methylase
+chromosome,NC_014218.1,586540,588159,+,,,ARCH_RS02575,WP_013169749.1,539,Eco57I restriction-modification methylase domain-containing protein
+chromosome,NC_014218.1,588159,590732,+,,,ARCH_RS02580,WP_013169750.1,857,type III restriction endonuclease
+chromosome,NC_014218.1,591348,592202,+,,,ARCH_RS02590,WP_013169751.1,284,IS3 family transposase
+chromosome,NC_014218.1,592310,593605,-,,,ARCH_RS02595,WP_013169752.1,431,MFS transporter
+chromosome,NC_014218.1,593605,594189,-,,,ARCH_RS10280,WP_261974471.1,194,YcaO-like family protein
+chromosome,NC_014218.1,595524,596531,+,,,ARCH_RS02610,WP_231957962.1,335,DEAD/DEAH box helicase
+chromosome,NC_014218.1,596522,596737,+,,,ARCH_RS10290,WP_231957961.1,71,hypothetical protein
+chromosome,NC_014218.1,596716,596976,+,,,ARCH_RS10295,WP_231957960.1,86,hypothetical protein
+chromosome,NC_014218.1,597116,597469,+,,,ARCH_RS09600,WP_013169753.1,117,HNH endonuclease
+chromosome,NC_014218.1,598328,599239,-,,,ARCH_RS02625,WP_013169755.1,303,hypothetical protein
+chromosome,NC_014218.1,599580,600239,-,,,ARCH_RS02630,WP_041640316.1,219,hypothetical protein
+chromosome,NC_014218.1,600264,600836,+,,,ARCH_RS02635,WP_013169757.1,190,terminase
+chromosome,NC_014218.1,600916,601776,+,,,ARCH_RS02640,WP_013169758.1,286,methionine adenosyltransferase domain-containing protein
+chromosome,NC_014218.1,602229,603479,+,,,ARCH_RS02650,WP_013169760.1,416,site-specific DNA-methyltransferase
+chromosome,NC_014218.1,603583,603870,+,,,ARCH_RS02655,WP_013169761.1,95,hypothetical protein
+chromosome,NC_014218.1,603900,605504,+,,,ARCH_RS02660,WP_041640319.1,534,terminase large subunit
+chromosome,NC_014218.1,605564,606295,-,,,ARCH_RS02665,WP_013169763.1,243,DUF1643 domain-containing protein
+chromosome,NC_014218.1,606330,607079,+,,,ARCH_RS02670,WP_013169764.1,249,phage portal protein
+chromosome,NC_014218.1,607296,608066,+,,,ARCH_RS02675,WP_197712417.1,256,hypothetical protein
+chromosome,NC_014218.1,608306,608965,-,,,ARCH_RS02680,WP_013169767.1,219,response regulator transcription factor
+chromosome,NC_014218.1,608973,609860,-,,,ARCH_RS09290,WP_138975051.1,295,histidine kinase
+chromosome,NC_014218.1,611003,611680,-,,,ARCH_RS02695,WP_013169770.1,225,response regulator transcription factor
+chromosome,NC_014218.1,611685,612413,-,,,ARCH_RS02700,WP_013169771.1,242,histidine kinase
+chromosome,NC_014218.1,612741,613424,+,,,ARCH_RS02710,WP_041640323.1,227,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,613421,614815,+,,,ARCH_RS02715,WP_013169773.1,464,FtsX-like permease family protein
+chromosome,NC_014218.1,614830,615177,-,,,ARCH_RS09295,WP_013169774.1,115,hypothetical protein
+chromosome,NC_014218.1,615862,616386,+,,,ARCH_RS10185,WP_049765806.1,174,YdcF family protein
+chromosome,NC_014218.1,616383,617438,-,,,ARCH_RS02730,WP_013169775.1,351,GTP-binding protein
+chromosome,NC_014218.1,617534,617839,+,,rpsN,ARCH_RS02735,WP_013169776.1,101,30S ribosomal protein S14
+chromosome,NC_014218.1,617855,617977,+,,ykgO,ARCH_RS09620,WP_013169777.1,40,type B 50S ribosomal protein L36
+chromosome,NC_014218.1,617977,618210,+,,rpmB,ARCH_RS02740,WP_013169778.1,77,50S ribosomal protein L28
+chromosome,NC_014218.1,618218,618385,+,,rpmG,ARCH_RS02745,WP_013169779.1,55,50S ribosomal protein L33
+chromosome,NC_014218.1,619843,621381,+,,tig,ARCH_RS02760,WP_013169780.1,512,trigger factor
+chromosome,NC_014218.1,621517,622233,+,,,ARCH_RS02765,WP_013169781.1,238,ATP-dependent Clp protease proteolytic subunit
+chromosome,NC_014218.1,622281,622928,+,,,ARCH_RS02770,WP_181461410.1,215,ATP-dependent Clp protease proteolytic subunit
+chromosome,NC_014218.1,623093,624361,+,,clpX,ARCH_RS02775,WP_013169783.1,422,ATP-dependent Clp protease ATP-binding subunit ClpX
+chromosome,NC_014218.1,624398,625414,+,,,ARCH_RS02780,WP_138975052.1,338,LacI family transcriptional regulator
+chromosome,NC_014218.1,625620,627020,+,,uhpT,ARCH_RS02785,WP_013169785.1,466,hexose-6-phosphate:phosphate antiporter
+chromosome,NC_014218.1,627048,627827,+,,,ARCH_RS02790,WP_013169786.1,259,inositol monophosphatase family protein
+chromosome,NC_014218.1,627904,629730,-,,,ARCH_RS02795,WP_013169787.1,608,long-chain fatty acid--CoA ligase
+chromosome,NC_014218.1,629831,630232,-,,,ARCH_RS02800,WP_013169788.1,133,hypothetical protein
+chromosome,NC_014218.1,630316,632988,-,,valS,ARCH_RS02805,WP_013169789.1,890,valine--tRNA ligase
+chromosome,NC_014218.1,633087,633344,-,,,ARCH_RS10300,WP_231958110.1,85,hypothetical protein
+chromosome,NC_014218.1,633305,633688,-,,,ARCH_RS10305,WP_049765808.1,127,NAD(P)-binding domain-containing protein
+chromosome,NC_014218.1,633887,635560,-,,,ARCH_RS02815,WP_013169790.1,557,ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,635557,637260,-,,,ARCH_RS02820,WP_013169791.1,567,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,637839,641018,+,,ileS,ARCH_RS02825,WP_013169792.1,1059,isoleucine--tRNA ligase
+chromosome,NC_014218.1,641019,642536,+,,,ARCH_RS02830,WP_013169793.1,505,bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+chromosome,NC_014218.1,642536,642952,+,,ndk,ARCH_RS02835,WP_013169794.1,138,nucleoside-diphosphate kinase
+chromosome,NC_014218.1,642964,643560,+,,dhaL,ARCH_RS02840,WP_041640715.1,198,dihydroxyacetone kinase subunit DhaL
+chromosome,NC_014218.1,643566,647120,+,,smc,ARCH_RS02845,WP_013169796.1,1184,chromosome segregation protein SMC
+chromosome,NC_014218.1,647184,647522,+,,,ARCH_RS02850,WP_013169797.1,112,hypothetical protein
+chromosome,NC_014218.1,647569,648756,+,,ftsY,ARCH_RS02855,WP_013169798.1,395,signal recognition particle-docking protein FtsY
+chromosome,NC_014218.1,648808,650349,+,,ffh,ARCH_RS02860,WP_013169799.1,513,signal recognition particle protein
+chromosome,NC_014218.1,650407,651438,+,,,ARCH_RS02865,WP_049765809.1,343,amidohydrolase family protein
+chromosome,NC_014218.1,651539,651928,-,,,ARCH_RS02870,WP_013169801.1,129,hypothetical protein
+chromosome,NC_014218.1,651928,652488,-,,,ARCH_RS09310,WP_013169802.1,186,phospholipase A(2)
+chromosome,NC_014218.1,654702,655646,-,,,ARCH_RS02885,WP_013169804.1,314,cation diffusion facilitator family transporter
+chromosome,NC_014218.1,655929,656372,+,,rpsP,ARCH_RS02890,WP_261974472.1,147,30S ribosomal protein S16
+chromosome,NC_014218.1,656372,656608,+,,,ARCH_RS02895,WP_013169806.1,78,RNA-binding protein
+chromosome,NC_014218.1,656675,657208,+,,rimM,ARCH_RS02900,WP_013169807.1,177,ribosome maturation factor RimM
+chromosome,NC_014218.1,657210,658520,+,,trmD,ARCH_RS02905,WP_013169808.1,436,tRNA (guanosine(37)-N1)-methyltransferase TrmD
+chromosome,NC_014218.1,658652,659005,+,,rplS,ARCH_RS02910,WP_013169809.1,117,50S ribosomal protein L19
+chromosome,NC_014218.1,659194,660024,+,,lepB,ARCH_RS02915,WP_013169810.1,276,signal peptidase I
+chromosome,NC_014218.1,660031,660705,+,,,ARCH_RS02920,WP_013169811.1,224,ribonuclease HII
+chromosome,NC_014218.1,660718,661029,+,,,ARCH_RS02925,WP_013169812.1,103,DUF2469 domain-containing protein
+chromosome,NC_014218.1,661144,661515,+,,,ARCH_RS02930,WP_013169813.1,123,YraN family protein
+chromosome,NC_014218.1,661512,663026,+,,,ARCH_RS02935,WP_013169814.1,504,YifB family Mg chelatase-like AAA ATPase
+chromosome,NC_014218.1,663026,664180,+,,dprA,ARCH_RS02940,WP_013169815.1,384,DNA-processing protein DprA
+chromosome,NC_014218.1,664177,665118,+,,,ARCH_RS02945,WP_013169816.1,313,tyrosine recombinase XerC
+chromosome,NC_014218.1,665375,667297,+,,,ARCH_RS02950,WP_013169817.1,640,S8 family serine peptidase
+chromosome,NC_014218.1,667320,667859,+,,,ARCH_RS02955,WP_013169818.1,179,hypothetical protein
+chromosome,NC_014218.1,667964,668533,-,,,ARCH_RS02960,WP_049765812.1,189,M23 family metallopeptidase
+chromosome,NC_014218.1,668865,669680,+,,rpsB,ARCH_RS02965,WP_013169820.1,271,30S ribosomal protein S2
+chromosome,NC_014218.1,669711,670577,+,,tsf,ARCH_RS02970,WP_013169821.1,288,translation elongation factor Ts
+chromosome,NC_014218.1,670808,671569,+,,,ARCH_RS02975,WP_013169822.1,253,electron transfer flavoprotein subunit alpha
+chromosome,NC_014218.1,671584,672468,+,,,ARCH_RS02980,WP_013169823.1,294,electron transfer flavoprotein subunit alpha/FixB family protein
+chromosome,NC_014218.1,672478,673779,+,,,ARCH_RS02985,WP_013169824.1,433,FAD-dependent oxidoreductase
+chromosome,NC_014218.1,673779,674081,+,,,ARCH_RS02990,WP_013169825.1,100,4Fe-4S dicluster domain-containing protein
+chromosome,NC_014218.1,674462,675889,-,,,ARCH_RS02995,WP_013169826.1,475,amino acid permease
+chromosome,NC_014218.1,676063,677604,-,,,ARCH_RS03000,WP_013169827.1,513,MFS transporter
+chromosome,NC_014218.1,677637,677975,-,,,ARCH_RS03005,WP_181461391.1,112,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,678121,678366,+,,,ARCH_RS03010,WP_041640328.1,81,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,678414,678719,-,,,ARCH_RS03015,WP_041640329.1,101,hypothetical protein
+chromosome,NC_014218.1,678893,679237,+,,,ARCH_RS03020,WP_013169830.1,114,hypothetical protein
+chromosome,NC_014218.1,679476,680099,+,,,ARCH_RS03025,WP_145961617.1,207,hypothetical protein
+chromosome,NC_014218.1,680338,680595,+,,,ARCH_RS09875,WP_138975064.1,85,hypothetical protein
+chromosome,NC_014218.1,680952,681413,-,,,ARCH_RS09890,WP_138975065.1,153,DDE-type integrase/transposase/recombinase
+chromosome,NC_014218.1,681569,681898,-,,,ARCH_RS03040,WP_081440746.1,109,transposase
+chromosome,NC_014218.1,681922,682509,-,,,ARCH_RS09895,WP_138975066.1,195,hypothetical protein
+chromosome,NC_014218.1,682699,683082,+,,,ARCH_RS03045,WP_013169833.1,127,RNA-binding S4 domain-containing protein
+chromosome,NC_014218.1,683119,683859,+,,pyrH,ARCH_RS03050,WP_013169834.1,246,UMP kinase
+chromosome,NC_014218.1,683869,684426,+,,frr,ARCH_RS03055,WP_013169835.1,185,ribosome recycling factor
+chromosome,NC_014218.1,684429,685322,+,,,ARCH_RS03060,WP_013169836.1,297,phosphatidate cytidylyltransferase
+chromosome,NC_014218.1,685360,686640,+,,rlmN,ARCH_RS03065,WP_013169837.1,426,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+chromosome,NC_014218.1,686640,687191,+,,,ARCH_RS03070,WP_013169838.1,183,DivIVA domain-containing protein
+chromosome,NC_014218.1,687191,688414,+,,dxr,ARCH_RS03075,WP_013169839.1,407,1-deoxy-D-xylulose-5-phosphate reductoisomerase
+chromosome,NC_014218.1,688430,689671,+,,,ARCH_RS03080,WP_013169840.1,413,site-2 protease family protein
+chromosome,NC_014218.1,689707,690861,+,,ispG,ARCH_RS03085,WP_041640330.1,384,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase
+chromosome,NC_014218.1,690863,691714,+,,,ARCH_RS03090,WP_013169842.1,283,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,691811,693598,+,,,ARCH_RS03095,WP_013169843.1,595,proline--tRNA ligase
+chromosome,NC_014218.1,693866,694741,-,,,ARCH_RS03100,WP_013169844.1,291,hypothetical protein
+chromosome,NC_014218.1,694845,695315,+,,,ARCH_RS03105,WP_013169845.1,156,ribosome maturation factor RimP
+chromosome,NC_014218.1,695315,696292,+,,nusA,ARCH_RS03110,WP_013169846.1,325,transcription termination factor NusA
+chromosome,NC_014218.1,696388,696711,+,,,ARCH_RS03115,WP_111724911.1,107,YlxR family protein
+chromosome,NC_014218.1,696826,699741,+,,infB,ARCH_RS03120,WP_013169848.1,971,translation initiation factor IF-2
+chromosome,NC_014218.1,699758,700246,+,,rbfA,ARCH_RS03125,WP_013169849.1,162,30S ribosome-binding factor RbfA
+chromosome,NC_014218.1,700247,701272,+,,truB,ARCH_RS03130,WP_111724910.1,341,tRNA pseudouridine(55) synthase TruB
+chromosome,NC_014218.1,701437,703320,+,,,ARCH_RS03135,WP_013169851.1,627,LPXTG cell wall anchor domain-containing protein
+chromosome,NC_014218.1,703482,703976,+,,,ARCH_RS03140,WP_138975072.1,164,hypothetical protein
+chromosome,NC_014218.1,703976,704428,+,,,ARCH_RS03145,WP_041640333.1,150,hypothetical protein
+chromosome,NC_014218.1,704542,704967,+,,,ARCH_RS03150,WP_013169852.1,141,peptidase inhibitor family I36 protein
+chromosome,NC_014218.1,704976,705941,+,,,ARCH_RS03155,WP_013169853.1,321,hypothetical protein
+chromosome,NC_014218.1,706092,706484,+,,,ARCH_RS03160,WP_261974474.1,130,peptidase inhibitor family I36 protein
+chromosome,NC_014218.1,706515,707462,+,,,ARCH_RS03165,WP_013169855.1,315,hypothetical protein
+chromosome,NC_014218.1,707579,708706,+,,,ARCH_RS03170,WP_187286516.1,375,peptidoglycan-binding protein
+chromosome,NC_014218.1,708703,709368,+,,,ARCH_RS03175,WP_013169857.1,221,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,709385,710608,+,,,ARCH_RS03180,WP_041640336.1,407,ABC transporter permease
+chromosome,NC_014218.1,710790,710972,+,,,ARCH_RS03185,WP_041640337.1,60,hypothetical protein
+chromosome,NC_014218.1,710976,711971,+,,,ARCH_RS03190,WP_013169859.1,331,bifunctional riboflavin kinase/FAD synthetase
+chromosome,NC_014218.1,711996,712160,+,,,ARCH_RS10095,WP_013169860.1,54,ABC transporter family protein
+chromosome,NC_014218.1,712950,716084,+,,,ARCH_RS09315,WP_013169861.1,1044,HtaA domain-containing protein
+chromosome,NC_014218.1,716178,717254,+,,,ARCH_RS03205,WP_013169862.1,358,ABC transporter substrate-binding protein
+chromosome,NC_014218.1,717258,718322,+,,,ARCH_RS03210,WP_013169863.1,354,iron ABC transporter permease
+chromosome,NC_014218.1,718319,719098,+,,,ARCH_RS03215,WP_013169864.1,259,heme ABC transporter ATP-binding protein
+chromosome,NC_014218.1,719265,719534,+,,rpsO,ARCH_RS03220,WP_013169865.1,89,30S ribosomal protein S15
+chromosome,NC_014218.1,719845,722226,+,,,ARCH_RS03225,WP_041640339.1,793,polyribonucleotide nucleotidyltransferase
+chromosome,NC_014218.1,722349,723554,+,,,ARCH_RS03230,WP_013169867.1,401,MFS transporter
+chromosome,NC_014218.1,723590,723883,+,,,ARCH_RS09900,WP_138975084.1,97,insulinase family protein
+chromosome,NC_014218.1,723880,724911,+,,,ARCH_RS03235,WP_138975085.1,343,insulinase family protein
+chromosome,NC_014218.1,725080,725661,-,,,ARCH_RS03240,WP_013169868.1,193,hypothetical protein
+chromosome,NC_014218.1,725750,727423,+,,,ARCH_RS03245,WP_013169869.1,557,ribonuclease J
+chromosome,NC_014218.1,727578,728702,-,,,ARCH_RS03250,WP_013169870.1,374,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,728794,730584,-,,,ARCH_RS03255,WP_013169871.1,596,iron ABC transporter permease
+chromosome,NC_014218.1,730618,731670,-,,,ARCH_RS03260,WP_013169872.1,350,ABC transporter substrate-binding protein
+chromosome,NC_014218.1,732138,732824,-,,,ARCH_RS03265,WP_013169873.1,228,response regulator
+chromosome,NC_014218.1,732843,733616,-,,,ARCH_RS03270,WP_013169874.1,257,HAMP domain-containing histidine kinase
+chromosome,NC_014218.1,733715,734623,-,,,ARCH_RS03275,WP_013169875.1,302,2-hydroxyacid dehydrogenase
+chromosome,NC_014218.1,734875,737289,+,,,ARCH_RS03280,WP_111724966.1,804,DNA translocase FtsK
+chromosome,NC_014218.1,737344,737946,+,,pgsA,ARCH_RS03285,WP_258399713.1,200,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+chromosome,NC_014218.1,737953,738432,+,,,ARCH_RS03290,WP_013169878.1,159,CinA family protein
+chromosome,NC_014218.1,738628,738981,+,,,ARCH_RS03295,WP_223804438.1,117,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,739513,740559,+,,recA,ARCH_RS03300,WP_013169881.1,348,recombinase RecA
+chromosome,NC_014218.1,740648,741235,+,,,ARCH_RS03305,WP_013169882.1,195,recombination regulator RecX
+chromosome,NC_014218.1,741332,742876,+,,miaB,ARCH_RS03310,WP_013169883.1,514,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB
+chromosome,NC_014218.1,742883,743824,+,,miaA,ARCH_RS03315,WP_111724965.1,313,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+chromosome,NC_014218.1,743796,744428,-,,,ARCH_RS03320,WP_013169885.1,210,methyltransferase
+chromosome,NC_014218.1,744458,746038,+,,hflX,ARCH_RS03325,WP_013169886.1,526,GTPase HflX
+chromosome,NC_014218.1,746031,747974,+,,,ARCH_RS03330,WP_013169887.1,647,ATP-dependent DNA helicase
+chromosome,NC_014218.1,747984,748682,-,,lexA,ARCH_RS03335,WP_041640764.1,232,transcriptional repressor LexA
+chromosome,NC_014218.1,749274,749519,+,,,ARCH_RS10100,WP_187286517.1,81,LysM peptidoglycan-binding domain-containing protein
+chromosome,NC_014218.1,749572,750048,+,,nrdR,ARCH_RS03345,WP_041640342.1,158,transcriptional regulator NrdR
+chromosome,NC_014218.1,750142,752181,-,,,ARCH_RS03350,WP_013169891.1,679,AMP-binding protein
+chromosome,NC_014218.1,752279,754534,-,,,ARCH_RS03355,WP_013169892.1,751,AAA family ATPase
+chromosome,NC_014218.1,754692,755714,+,,,ARCH_RS03360,WP_013169893.1,340,PAC2 family protein
+chromosome,NC_014218.1,755711,756532,-,,,ARCH_RS03365,WP_013169894.1,273,fused MFS/spermidine synthase
+chromosome,NC_014218.1,756593,757819,+,,dinB,ARCH_RS03370,WP_013169895.1,408,DNA polymerase IV
+chromosome,NC_014218.1,757882,758277,+,,,ARCH_RS03375,WP_013169896.1,131,DUF3040 domain-containing protein
+chromosome,NC_014218.1,758753,759184,+,,mraZ,ARCH_RS03380,WP_013169897.1,143,division/cell wall cluster transcriptional repressor MraZ
+chromosome,NC_014218.1,759299,760309,+,,rsmH,ARCH_RS03385,WP_013169898.1,336,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+chromosome,NC_014218.1,760306,760704,+,,,ARCH_RS03390,WP_013169899.1,132,hypothetical protein
+chromosome,NC_014218.1,760793,762610,+,,,ARCH_RS03395,WP_111724908.1,605,penicillin-binding protein 2
+chromosome,NC_014218.1,762607,764085,+,,,ARCH_RS03400,WP_013169901.1,492,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase"
+chromosome,NC_014218.1,764098,765501,+,,,ARCH_RS03405,WP_223804419.1,467,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+chromosome,NC_014218.1,765502,766587,+,,mraY,ARCH_RS03410,WP_013169903.1,361,phospho-N-acetylmuramoyl-pentapeptide-transferase
+chromosome,NC_014218.1,766584,768065,+,,murD,ARCH_RS03415,WP_013169904.1,493,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+chromosome,NC_014218.1,768068,769297,+,,,ARCH_RS03420,WP_013169905.1,409,FtsW/RodA/SpoVE family cell cycle protein
+chromosome,NC_014218.1,769297,770403,+,,murG,ARCH_RS03425,WP_013169906.1,368,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+chromosome,NC_014218.1,770403,771755,+,,murC,ARCH_RS03430,WP_013169907.1,450,UDP-N-acetylmuramate--L-alanine ligase
+chromosome,NC_014218.1,771752,772729,+,,,ARCH_RS03435,WP_013169908.1,325,cell division protein FtsQ/DivIB
+chromosome,NC_014218.1,772849,774066,+,,ftsZ,ARCH_RS03440,WP_013169909.1,405,cell division protein FtsZ
+chromosome,NC_014218.1,774150,774920,+,,,ARCH_RS03445,WP_013169910.1,256,polyphenol oxidase family protein
+chromosome,NC_014218.1,774978,775388,+,,,ARCH_RS03450,WP_013169911.1,136,cell division protein SepF
+chromosome,NC_014218.1,775391,775684,+,,,ARCH_RS03455,WP_013169912.1,97,YggT family protein
+chromosome,NC_014218.1,775856,776434,+,,,ARCH_RS03460,WP_013169913.1,192,DivIVA domain-containing protein
+chromosome,NC_014218.1,776519,777007,+,,lspA,ARCH_RS03465,WP_113722526.1,162,signal peptidase II
+chromosome,NC_014218.1,777007,777927,+,,,ARCH_RS03470,WP_013169915.1,306,RluA family pseudouridine synthase
+chromosome,NC_014218.1,777979,778167,+,,,ARCH_RS03475,WP_049765814.1,62,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,778223,781771,+,,dnaE,ARCH_RS03480,WP_013169916.1,1182,DNA polymerase III subunit alpha
+chromosome,NC_014218.1,781837,782064,-,,,ARCH_RS03485,WP_013169917.1,75,RNA-binding S4 domain-containing protein
+chromosome,NC_014218.1,782061,782687,-,,,ARCH_RS03490,WP_013169918.1,208,VTT domain-containing protein
+chromosome,NC_014218.1,782688,783086,-,,,ARCH_RS03495,WP_013169919.1,132,transcriptional repressor
+chromosome,NC_014218.1,783127,783993,-,,,ARCH_RS03500,WP_013169920.1,288,metal ABC transporter permease
+chromosome,NC_014218.1,783986,784705,-,,,ARCH_RS03505,WP_013169921.1,239,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,784710,785927,-,,,ARCH_RS03510,WP_013169922.1,405,metal ABC transporter substrate-binding protein
+chromosome,NC_014218.1,786088,787482,+,,,ARCH_RS03515,WP_013169923.1,464,glycine--tRNA ligase
+chromosome,NC_014218.1,787472,788680,+,,,ARCH_RS03520,WP_013169924.1,402,YibE/F family protein
+chromosome,NC_014218.1,788681,789904,+,,dusB,ARCH_RS03525,WP_013169925.1,407,tRNA dihydrouridine synthase DusB
+chromosome,NC_014218.1,789946,790956,-,,,ARCH_RS03530,WP_013169926.1,336,hypothetical protein
+chromosome,NC_014218.1,790993,792243,+,,,ARCH_RS03535,WP_013169927.1,416,deoxyguanosinetriphosphate triphosphohydrolase
+chromosome,NC_014218.1,792370,793602,+,,,ARCH_RS03540,WP_013169928.1,410,substrate-binding domain-containing protein
+chromosome,NC_014218.1,793693,795201,+,,,ARCH_RS03545,WP_013169929.1,502,sugar ABC transporter ATP-binding protein
+chromosome,NC_014218.1,795212,796870,+,,,ARCH_RS03550,WP_013169930.1,552,galactoside ABC transporter permease
+chromosome,NC_014218.1,796950,797297,-,,,ARCH_RS03555,WP_013169931.1,115,rhodanese-like domain-containing protein
+chromosome,NC_014218.1,797384,799345,+,,dnaG,ARCH_RS03560,WP_041640347.1,653,DNA primase
+chromosome,NC_014218.1,799832,800407,+,,,ARCH_RS03570,WP_013169933.1,191,DUF6318 family protein
+chromosome,NC_014218.1,800410,801183,+,,,ARCH_RS03575,WP_013169934.1,257,PKD domain-containing protein
+chromosome,NC_014218.1,801193,801447,+,,,ARCH_RS03580,WP_013169935.1,84,hypothetical protein
+chromosome,NC_014218.1,801428,801946,+,,,ARCH_RS03585,WP_013169936.1,172,hypothetical protein
+chromosome,NC_014218.1,802220,802663,+,,,ARCH_RS03595,WP_013169937.1,147,hypothetical protein
+chromosome,NC_014218.1,802771,804387,+,,,ARCH_RS09320,WP_013169938.1,538,cutinase family protein
+chromosome,NC_014218.1,804836,805576,-,,,ARCH_RS03605,WP_013169940.1,246,phosphatidylcholine synthase
+chromosome,NC_014218.1,805784,806725,+,,,ARCH_RS03610,WP_013169941.1,313,TIGR01777 family oxidoreductase
+chromosome,NC_014218.1,806844,807350,+,,,ARCH_RS03615,WP_013169942.1,168,DUF3145 domain-containing protein
+chromosome,NC_014218.1,807355,807681,-,,,ARCH_RS03620,WP_013169943.1,108,hypothetical protein
+chromosome,NC_014218.1,807736,808338,+,,,ARCH_RS03625,WP_013169944.1,200,hypothetical protein
+chromosome,NC_014218.1,808372,808998,+,,,ARCH_RS03630,WP_013169945.1,208,L-threonylcarbamoyladenylate synthase
+chromosome,NC_014218.1,809013,809726,+,,,ARCH_RS03635,WP_013169946.1,237,HAD hydrolase-like protein
+chromosome,NC_014218.1,809704,811506,-,,,ARCH_RS03640,WP_231957956.1,600,ABC transporter transmembrane domain-containing protein
+chromosome,NC_014218.1,811503,813257,-,,,ARCH_RS03645,WP_081440753.1,584,ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,813389,816142,-,,aceE,ARCH_RS03650,WP_013169949.1,917,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type"
+chromosome,NC_014218.1,816433,816846,+,,,ARCH_RS03655,WP_013169950.1,137,DUF3052 domain-containing protein
+chromosome,NC_014218.1,817152,817373,-,,,ARCH_RS03665,WP_049765816.1,73,NAD(P)H-dependent oxidoreductase
+chromosome,NC_014218.1,817938,820685,+,,,ARCH_RS03670,WP_013169952.1,915,family 20 glycosylhydrolase
+chromosome,NC_014218.1,820790,821587,+,,,ARCH_RS03675,WP_013169953.1,265,Nif3-like dinuclear metal center hexameric protein
+chromosome,NC_014218.1,821603,822349,+,,,ARCH_RS03680,WP_013169954.1,248,hypothetical protein
+chromosome,NC_014218.1,822321,823094,-,,,ARCH_RS03685,WP_013169955.1,257,peroxide stress protein YaaA
+chromosome,NC_014218.1,823743,824513,-,,,ARCH_RS03690,WP_013169956.1,256,ROK family protein
+chromosome,NC_014218.1,824550,825431,-,,map,ARCH_RS03695,WP_013169957.1,293,type I methionyl aminopeptidase
+chromosome,NC_014218.1,825441,826241,-,,panB,ARCH_RS03700,WP_013169958.1,266,3-methyl-2-oxobutanoate hydroxymethyltransferase
+chromosome,NC_014218.1,826359,827687,+,,,ARCH_RS03705,WP_013169959.1,442,glutamine synthetase family protein
+chromosome,NC_014218.1,827687,830500,+,,,ARCH_RS03710,WP_013169960.1,937,bifunctional
+chromosome,NC_014218.1,830520,831122,+,,,ARCH_RS03715,WP_013169961.1,200,histidine phosphatase family protein
+chromosome,NC_014218.1,831184,832611,-,,glnA,ARCH_RS03720,WP_013169962.1,475,type I glutamate--ammonia ligase
+chromosome,NC_014218.1,832727,833437,-,,,ARCH_RS03725,WP_013169963.1,236,DUF4191 domain-containing protein
+chromosome,NC_014218.1,833510,834775,-,,,ARCH_RS03730,WP_013169964.1,421,MFS transporter
+chromosome,NC_014218.1,835021,836715,-,,sucB,ARCH_RS03735,WP_013169965.1,564,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase"
+chromosome,NC_014218.1,836733,838109,-,,lpdA,ARCH_RS03740,WP_013169966.1,458,dihydrolipoyl dehydrogenase
+chromosome,NC_014218.1,838302,838604,+,,,ARCH_RS03745,WP_013169967.1,100,hypothetical protein
+chromosome,NC_014218.1,838608,839417,-,,,ARCH_RS03750,WP_197712416.1,269,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,839414,840391,-,,,ARCH_RS03755,WP_013169969.1,325,iron ABC transporter permease
+chromosome,NC_014218.1,840395,841402,-,,,ARCH_RS03760,WP_197712415.1,335,iron ABC transporter permease
+chromosome,NC_014218.1,841427,842341,-,,,ARCH_RS03765,WP_041640352.1,304,ABC transporter substrate-binding protein
+chromosome,NC_014218.1,842752,844176,-,,,ARCH_RS03770,WP_170121750.1,474,leucyl aminopeptidase
+chromosome,NC_014218.1,844248,844916,-,,,ARCH_RS03775,WP_013169973.1,222,DUF3043 domain-containing protein
+chromosome,NC_014218.1,845006,846337,+,,,ARCH_RS03780,WP_197712414.1,443,dipeptidase
+chromosome,NC_014218.1,846338,847411,+,,,ARCH_RS03785,WP_041640353.1,357,hypothetical protein
+chromosome,NC_014218.1,847481,847822,+,,erpA,ARCH_RS03790,WP_013169976.1,113,iron-sulfur cluster insertion protein ErpA
+chromosome,NC_014218.1,847881,848807,+,,,ARCH_RS09325,WP_013169977.1,308,FKBP-type peptidyl-prolyl cis-trans isomerase
+chromosome,NC_014218.1,848870,849487,-,,,ARCH_RS03800,WP_013169978.1,205,superoxide dismutase
+chromosome,NC_014218.1,849711,850106,+,,,ARCH_RS03805,WP_013169979.1,131,response regulator transcription factor
+chromosome,NC_014218.1,850107,851900,-,,,ARCH_RS03810,WP_013169980.1,597,DEDD exonuclease domain-containing protein
+chromosome,NC_014218.1,851945,852310,-,,,ARCH_RS03815,WP_013169981.1,121,hypothetical protein
+chromosome,NC_014218.1,852409,853629,+,,,ARCH_RS03820,WP_013169982.1,406,pyrophosphate--fructose-6-phosphate 1-phosphotransferase
+chromosome,NC_014218.1,853767,855032,+,,,ARCH_RS03825,WP_013169983.1,421,3-deoxy-7-phosphoheptulonate synthase
+chromosome,NC_014218.1,855035,856960,-,,pknB,ARCH_RS03830,WP_013169984.1,641,Stk1 family PASTA domain-containing Ser/Thr kinase
+chromosome,NC_014218.1,857041,858054,-,,,ARCH_RS03835,WP_013169985.1,337,LysM peptidoglycan-binding domain-containing protein
+chromosome,NC_014218.1,858187,858549,+,,,ARCH_RS03840,WP_013169986.1,120,Rv2175c family DNA-binding protein
+chromosome,NC_014218.1,858546,859598,-,,,ARCH_RS03845,WP_013169987.1,350,polyprenyl synthetase family protein
+chromosome,NC_014218.1,859706,860767,+,,,ARCH_RS03850,WP_013169988.1,353,DUF4192 family protein
+chromosome,NC_014218.1,860846,861244,+,,,ARCH_RS03855,WP_013169989.1,132,hypothetical protein
+chromosome,NC_014218.1,861471,862931,+,,,ARCH_RS03860,WP_261974473.1,486,RNA polymerase sigma factor
+chromosome,NC_014218.1,862971,863573,-,,,ARCH_RS03865,WP_013169991.1,200,3\\'-5\\' exonuclease
+chromosome,NC_014218.1,863662,863865,+,,,ARCH_RS03870,WP_013169992.1,67,hypothetical protein
+chromosome,NC_014218.1,863952,866057,+,,,ARCH_RS03875,WP_013169993.1,701,type IIA DNA topoisomerase subunit B
+chromosome,NC_014218.1,866076,867119,+,,,ARCH_RS09330,WP_013169994.1,347,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,867119,868081,+,,,ARCH_RS03885,WP_013169995.1,320,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,868071,870485,-,,,ARCH_RS03890,WP_013169996.1,804,DNA topoisomerase IV subunit A
+chromosome,NC_014218.1,870588,871151,+,,,ARCH_RS03895,WP_013169997.1,187,DUF5998 family protein
+chromosome,NC_014218.1,871148,872266,+,,,ARCH_RS03900,WP_013169998.1,372,alkaline phosphatase family protein
+chromosome,NC_014218.1,872266,872913,+,,,ARCH_RS03905,WP_013169999.1,215,thymidine kinase
+chromosome,NC_014218.1,872915,873973,-,,sepH,ARCH_RS03910,WP_013170000.1,352,septation protein SepH
+chromosome,NC_014218.1,874137,874436,+,,,ARCH_RS03915,WP_013170001.1,99,DUF4193 domain-containing protein
+chromosome,NC_014218.1,874515,875123,+,,,ARCH_RS03920,WP_013170002.1,202,DUF3710 domain-containing protein
+chromosome,NC_014218.1,875124,875375,+,,,ARCH_RS03925,WP_013170003.1,83,hypothetical protein
+chromosome,NC_014218.1,875365,876054,+,,,ARCH_RS03930,WP_111724906.1,229,DUF3159 domain-containing protein
+chromosome,NC_014218.1,875966,876706,-,,,ARCH_RS03935,WP_013170005.1,246,TrkA family potassium uptake protein
+chromosome,NC_014218.1,876703,877371,-,,,ARCH_RS03940,WP_223804423.1,222,TrkA family potassium uptake protein
+chromosome,NC_014218.1,877504,879264,+,,,ARCH_RS03945,WP_041640355.1,586,hypothetical protein
+chromosome,NC_014218.1,880222,882102,+,,,ARCH_RS03955,WP_013170009.1,626,site-specific DNA-methyltransferase
+chromosome,NC_014218.1,882118,885084,+,,,ARCH_RS03960,WP_013170010.1,988,DEAD/DEAH box helicase family protein
+chromosome,NC_014218.1,885097,887943,+,,,ARCH_RS03965,WP_013170011.1,948,SNF2-related protein
+chromosome,NC_014218.1,887974,888288,+,,,ARCH_RS03970,WP_138975123.1,104,hypothetical protein
+chromosome,NC_014218.1,888757,889983,-,,,ARCH_RS03975,WP_013170012.1,408,IS3 family transposase
+chromosome,NC_014218.1,890148,890429,+,,,ARCH_RS03980,WP_013170013.1,93,MULTISPECIES: transposase
+chromosome,NC_014218.1,890483,891304,+,,,ARCH_RS03985,WP_013170014.1,273,IS3 family transposase
+chromosome,NC_014218.1,891595,892872,+,,,ARCH_RS03990,WP_013170015.1,425,ABC transporter permease
+chromosome,NC_014218.1,892882,893538,+,,,ARCH_RS03995,WP_013170016.1,218,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,893538,894914,+,,,ARCH_RS04000,WP_013170017.1,458,ABC transporter permease
+chromosome,NC_014218.1,895130,895396,+,,,ARCH_RS04005,WP_013170018.1,88,AIR carboxylase family protein
+chromosome,NC_014218.1,895467,895748,+,,,ARCH_RS04010,WP_013170013.1,93,MULTISPECIES: transposase
+chromosome,NC_014218.1,895802,896623,+,,,ARCH_RS04015,WP_013170014.1,273,IS3 family transposase
+chromosome,NC_014218.1,896996,897343,+,,,ARCH_RS10195,WP_197712412.1,115,formate--tetrahydrofolate ligase
+chromosome,NC_014218.1,898032,900710,+,,acnA,ARCH_RS04025,WP_013170019.1,892,aconitate hydratase AcnA
+chromosome,NC_014218.1,900783,902651,+,,dxs,ARCH_RS04030,WP_013170020.1,622,1-deoxy-D-xylulose-5-phosphate synthase
+chromosome,NC_014218.1,902652,903848,-,,,ARCH_RS04035,WP_013170021.1,398,HRDC domain-containing protein
+chromosome,NC_014218.1,903848,904429,-,,,ARCH_RS04040,WP_013170022.1,193,DUF3000 domain-containing protein
+chromosome,NC_014218.1,904484,906217,-,,treZ,ARCH_RS04045,WP_013170023.1,577,malto-oligosyltrehalose trehalohydrolase
+chromosome,NC_014218.1,906214,908724,-,,treY,ARCH_RS04050,WP_013170024.1,836,malto-oligosyltrehalose synthase
+chromosome,NC_014218.1,908761,911019,-,,glgX,ARCH_RS04055,WP_013170025.1,752,glycogen debranching protein GlgX
+chromosome,NC_014218.1,911052,911531,-,,,ARCH_RS04060,WP_013170026.1,159,hypothetical protein
+chromosome,NC_014218.1,912503,913309,-,,,ARCH_RS04095,WP_013170027.1,268,sulfite exporter TauE/SafE family protein
+chromosome,NC_014218.1,913693,915876,-,,feoB,ARCH_RS04105,WP_013170029.1,727,ferrous iron transport protein B
+chromosome,NC_014218.1,915876,916070,-,,,ARCH_RS09655,WP_041640359.1,64,ferrous iron transport protein A
+chromosome,NC_014218.1,916587,917300,+,,,ARCH_RS04115,WP_013170030.1,237,ZinT/AdcA family metal-binding protein
+chromosome,NC_014218.1,917337,918641,+,,,ARCH_RS04120,WP_013170031.1,434,zinc ABC transporter substrate-binding protein
+chromosome,NC_014218.1,918619,919329,+,,,ARCH_RS04125,WP_049765820.1,236,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,919322,920155,+,,,ARCH_RS04130,WP_013170033.1,277,metal ABC transporter permease
+chromosome,NC_014218.1,920136,921518,-,,,ARCH_RS04135,WP_013170034.1,460,L-serine ammonia-lyase
+chromosome,NC_014218.1,921656,923686,+,,thrS,ARCH_RS04140,WP_041640360.1,676,threonine--tRNA ligase
+chromosome,NC_014218.1,923695,924330,+,,,ARCH_RS04145,WP_013170036.1,211,CDP-alcohol phosphatidyltransferase family protein
+chromosome,NC_014218.1,924308,925270,+,,,ARCH_RS04150,WP_013170037.1,320,phosphatidylinositol mannoside acyltransferase
+chromosome,NC_014218.1,925267,926403,+,,,ARCH_RS04155,WP_013170038.1,378,glycosyltransferase family 4 protein
+chromosome,NC_014218.1,926403,926987,+,,,ARCH_RS04160,WP_013170039.1,194,hypothetical protein
+chromosome,NC_014218.1,926977,928131,+,,,ARCH_RS09345,WP_049765822.1,384,PrsW family glutamic-type intramembrane protease
+chromosome,NC_014218.1,928141,928701,+,,,ARCH_RS04170,WP_013170041.1,186,NUDIX domain-containing protein
+chromosome,NC_014218.1,928776,929540,+,,,ARCH_RS04175,WP_013170042.1,254,YebC/PmpR family DNA-binding transcriptional regulator
+chromosome,NC_014218.1,929541,930161,+,,ruvC,ARCH_RS04180,WP_013170043.1,206,crossover junction endodeoxyribonuclease RuvC
+chromosome,NC_014218.1,930200,930799,+,,ruvA,ARCH_RS04185,WP_013170044.1,199,Holliday junction branch migration protein RuvA
+chromosome,NC_014218.1,930802,931818,+,,ruvB,ARCH_RS04190,WP_013170045.1,338,Holliday junction branch migration DNA helicase RuvB
+chromosome,NC_014218.1,931958,932323,+,,yajC,ARCH_RS04195,WP_013170046.1,121,preprotein translocase subunit YajC
+chromosome,NC_014218.1,932358,934214,+,,secD,ARCH_RS04200,WP_013170047.1,618,protein translocase subunit SecD
+chromosome,NC_014218.1,934214,935311,+,,secF,ARCH_RS04205,WP_013170048.1,365,protein translocase subunit SecF
+chromosome,NC_014218.1,935308,935856,+,,,ARCH_RS04210,WP_013170049.1,182,adenine phosphoribosyltransferase
+chromosome,NC_014218.1,935992,938310,+,,,ARCH_RS04215,WP_013170050.1,772,"bifunctional (p)ppGpp synthetase/guanosine-3\\',5\\'-bis(diphosphate) 3\\'-pyrophosphohydrolase"
+chromosome,NC_014218.1,938234,938842,-,,,ARCH_RS09910,WP_013170051.1,202,hypothetical protein
+chromosome,NC_014218.1,938944,940272,-,,,ARCH_RS04220,WP_013170052.1,442,DUF349 domain-containing protein
+chromosome,NC_014218.1,940376,941101,+,,,ARCH_RS04225,WP_013170053.1,241,MBL fold metallo-hydrolase
+chromosome,NC_014218.1,941169,942494,+,,hisS,ARCH_RS04230,WP_013170054.1,441,histidine--tRNA ligase
+chromosome,NC_014218.1,942498,944207,+,,,ARCH_RS04235,WP_013170055.1,569,dynamin family protein
+chromosome,NC_014218.1,944204,945796,+,,,ARCH_RS04240,WP_013170056.1,530,dynamin family protein
+chromosome,NC_014218.1,945882,947744,-,,,ARCH_RS04245,WP_013170057.1,620,DEAD/DEAH box helicase
+chromosome,NC_014218.1,947896,949269,-,,,ARCH_RS04250,WP_013170058.1,457,MFS transporter
+chromosome,NC_014218.1,949500,951317,+,,aspS,ARCH_RS04255,WP_041640362.1,605,aspartate--tRNA ligase
+chromosome,NC_014218.1,951405,952832,+,,,ARCH_RS04260,WP_013170060.1,475,"L,D-transpeptidase family protein"
+chromosome,NC_014218.1,953004,955280,-,,,ARCH_RS04265,WP_013170061.1,758,MMPL family transporter
+chromosome,NC_014218.1,955379,956707,+,,,ARCH_RS04270,WP_013170062.1,442,replication-associated recombination protein A
+chromosome,NC_014218.1,956817,957437,+,,rpsD,ARCH_RS04275,WP_013170063.1,206,30S ribosomal protein S4
+chromosome,NC_014218.1,957584,960256,+,,alaS,ARCH_RS04280,WP_013170064.1,890,alanine--tRNA ligase
+chromosome,NC_014218.1,960274,960735,+,,ruvX,ARCH_RS04285,WP_013170065.1,153,Holliday junction resolvase RuvX
+chromosome,NC_014218.1,960736,961857,+,,mltG,ARCH_RS04290,WP_013170066.1,373,endolytic transglycosylase MltG
+chromosome,NC_014218.1,961857,962564,+,,,ARCH_RS04295,WP_013170067.1,235,hypothetical protein
+chromosome,NC_014218.1,962591,963139,+,,,ARCH_RS04300,WP_013170068.1,182,hypothetical protein
+chromosome,NC_014218.1,963136,964356,+,,aroC,ARCH_RS04305,WP_041640363.1,406,chorismate synthase
+chromosome,NC_014218.1,964356,965903,+,,aroB,ARCH_RS04310,WP_013170070.1,515,3-dehydroquinate synthase
+chromosome,NC_014218.1,965900,966451,+,,,ARCH_RS04315,WP_013170071.1,183,shikimate kinase
+chromosome,NC_014218.1,966517,967074,+,,efp,ARCH_RS04320,WP_013170072.1,185,elongation factor P
+chromosome,NC_014218.1,967074,967553,+,,nusB,ARCH_RS04325,WP_013170073.1,159,transcription antitermination factor NusB
+chromosome,NC_014218.1,967755,968066,+,,,ARCH_RS04330,WP_013170074.1,103,hypothetical protein
+chromosome,NC_014218.1,968127,968699,+,,gmk,ARCH_RS04335,WP_013170075.1,190,guanylate kinase
+chromosome,NC_014218.1,968745,969008,+,,rpoZ,ARCH_RS04340,WP_013170076.1,87,DNA-directed RNA polymerase subunit omega
+chromosome,NC_014218.1,969010,970311,+,,coaBC,ARCH_RS04345,WP_013170077.1,433,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+chromosome,NC_014218.1,970308,971504,+,,metK,ARCH_RS04350,WP_013170078.1,398,methionine adenosyltransferase
+chromosome,NC_014218.1,971578,973650,+,,,ARCH_RS04355,WP_013170079.1,690,primosome assembly protein PriA
+chromosome,NC_014218.1,973691,974617,+,,fmt,ARCH_RS04360,WP_013170080.1,308,methionyl-tRNA formyltransferase
+chromosome,NC_014218.1,974614,976068,+,,,ARCH_RS04365,WP_013170081.1,484,16S rRNA methyltransferase
+chromosome,NC_014218.1,976081,976746,+,,rpe,ARCH_RS04370,WP_013170082.1,221,ribulose-phosphate 3-epimerase
+chromosome,NC_014218.1,976963,977715,+,,,ARCH_RS04375,WP_013170083.1,250,ABC transporter permease
+chromosome,NC_014218.1,977727,978737,+,,,ARCH_RS04380,WP_013170084.1,336,ABC transporter substrate-binding protein
+chromosome,NC_014218.1,978740,979840,-,,,ARCH_RS04385,WP_197712439.1,366,DUF3866 family protein
+chromosome,NC_014218.1,979874,980779,+,,,ARCH_RS04390,WP_013170086.1,301,WYL domain-containing protein
+chromosome,NC_014218.1,980766,981671,+,,,ARCH_RS04395,WP_013170087.1,301,WYL domain-containing protein
+chromosome,NC_014218.1,981671,984271,+,,,ARCH_RS04400,WP_013170088.1,866,DEAD/DEAH box helicase
+chromosome,NC_014218.1,984496,986004,+,,lnt,ARCH_RS04405,WP_170121747.1,502,apolipoprotein N-acyltransferase
+chromosome,NC_014218.1,986062,986415,-,,,ARCH_RS04410,WP_013170090.1,117,RNA polymerase-binding protein RbpA
+chromosome,NC_014218.1,986597,987112,-,,,ARCH_RS04415,WP_049765894.1,171,MerR family transcriptional regulator
+chromosome,NC_014218.1,987282,988034,-,,,ARCH_RS04420,WP_013170092.1,250,MerR family transcriptional regulator
+chromosome,NC_014218.1,988031,988483,-,,,ARCH_RS04425,WP_013170093.1,150,FHA domain-containing protein
+chromosome,NC_014218.1,988555,991086,-,,pepN,ARCH_RS04430,WP_013170094.1,843,aminopeptidase N
+chromosome,NC_014218.1,991484,992899,-,,der,ARCH_RS04440,WP_231958106.1,471,ribosome biogenesis GTPase Der
+chromosome,NC_014218.1,992995,993690,-,,cmk,ARCH_RS04445,WP_013170096.1,231,(d)CMP kinase
+chromosome,NC_014218.1,993690,994445,-,,,ARCH_RS04450,WP_013170097.1,251,rRNA pseudouridine synthase
+chromosome,NC_014218.1,994442,995005,-,,scpB,ARCH_RS04455,WP_013170098.1,187,SMC-Scp complex subunit ScpB
+chromosome,NC_014218.1,994998,995813,-,,,ARCH_RS04460,WP_013170099.1,271,segregation/condensation protein A
+chromosome,NC_014218.1,995824,996675,-,,,ARCH_RS04465,WP_013170100.1,283,ParA family protein
+chromosome,NC_014218.1,996696,997628,-,,xerD,ARCH_RS04470,WP_013170101.1,310,site-specific tyrosine recombinase XerD
+chromosome,NC_014218.1,997728,999821,+,,tkt,ARCH_RS04475,WP_041640364.1,697,transketolase
+chromosome,NC_014218.1,999997,1000242,-,,secG,ARCH_RS04480,WP_013170103.1,81,preprotein translocase subunit SecG
+chromosome,NC_014218.1,1000366,1001145,-,,tpiA,ARCH_RS04485,WP_013170104.1,259,triose-phosphate isomerase
+chromosome,NC_014218.1,1001151,1002344,-,,,ARCH_RS04490,WP_013170105.1,397,phosphoglycerate kinase
+chromosome,NC_014218.1,1002465,1003472,-,,gap,ARCH_RS04495,WP_013170106.1,335,type I glyceraldehyde-3-phosphate dehydrogenase
+chromosome,NC_014218.1,1003690,1004682,-,,whiA,ARCH_RS04500,WP_013170107.1,330,DNA-binding protein WhiA
+chromosome,NC_014218.1,1004744,1005715,-,,yvcK,ARCH_RS04505,WP_013170108.1,323,uridine diphosphate-N-acetylglucosamine-binding protein YvcK
+chromosome,NC_014218.1,1005712,1006647,-,,rapZ,ARCH_RS04510,WP_013170109.1,311,RNase adapter RapZ
+chromosome,NC_014218.1,1008639,1011506,-,,uvrA,ARCH_RS04520,WP_041640843.1,955,excinuclease ABC subunit UvrA
+chromosome,NC_014218.1,1011581,1011859,+,,,ARCH_RS04525,WP_013170111.1,92,YciI family protein
+chromosome,NC_014218.1,1012090,1013076,-,,,ARCH_RS04530,WP_013170112.1,328,TerC/Alx family metal homeostasis membrane protein
+chromosome,NC_014218.1,1013282,1015330,-,,uvrB,ARCH_RS04535,WP_013170113.1,682,excinuclease ABC subunit UvrB
+chromosome,NC_014218.1,1015396,1016241,-,,coaE,ARCH_RS09350,WP_013170114.1,281,dephospho-CoA kinase
+chromosome,NC_014218.1,1016448,1017917,-,,rpsA,ARCH_RS04545,WP_013170115.1,489,30S ribosomal protein S1
+chromosome,NC_014218.1,1018086,1018874,+,,,ARCH_RS04550,WP_013170116.1,262,class I SAM-dependent methyltransferase
+chromosome,NC_014218.1,1018880,1021561,-,,polA,ARCH_RS04555,WP_041640365.1,893,DNA polymerase I
+chromosome,NC_014218.1,1021611,1022012,+,,,ARCH_RS04560,WP_013170118.1,133,PaaI family thioesterase
+chromosome,NC_014218.1,1021990,1022610,-,,,ARCH_RS04565,WP_223804439.1,206,response regulator
+chromosome,NC_014218.1,1022866,1024284,-,,pyk,ARCH_RS04575,WP_013170120.1,472,pyruvate kinase
+chromosome,NC_014218.1,1024295,1025158,-,,lgt,ARCH_RS04580,WP_013170121.1,287,prolipoprotein diacylglyceryl transferase
+chromosome,NC_014218.1,1025186,1026055,-,,,ARCH_RS04585,WP_013170122.1,289,FKBP-type peptidyl-prolyl cis-trans isomerase
+chromosome,NC_014218.1,1026056,1027423,-,,,ARCH_RS04590,WP_041640368.1,455,proteasome accessory factor PafA2 family protein
+chromosome,NC_014218.1,1027435,1027614,-,,,ARCH_RS04595,WP_013170124.1,59,ubiquitin-like protein Pup
+chromosome,NC_014218.1,1027625,1029085,-,,dop,ARCH_RS04600,WP_013170125.1,486,depupylase/deamidase Dop
+chromosome,NC_014218.1,1029107,1030627,-,,arc,ARCH_RS04605,WP_013170126.1,506,proteasome ATPase
+chromosome,NC_014218.1,1030638,1031735,-,,,ARCH_RS04610,WP_013170127.1,365,tRNA (adenine-N1)-methyltransferase
+chromosome,NC_014218.1,1031871,1032722,+,,,ARCH_RS04615,WP_013170128.1,283,PD-(D/E)XK nuclease family protein
+chromosome,NC_014218.1,1032679,1033344,-,,,ARCH_RS04620,WP_013170129.1,221,HAD family phosphatase
+chromosome,NC_014218.1,1033356,1034198,-,,,ARCH_RS04625,WP_013170130.1,280,undecaprenyl-diphosphate phosphatase
+chromosome,NC_014218.1,1034245,1035186,+,,,ARCH_RS04630,WP_013170131.1,313,aldo/keto reductase
+chromosome,NC_014218.1,1035349,1036194,+,,,ARCH_RS04635,WP_013170132.1,281,HNH endonuclease family protein
+chromosome,NC_014218.1,1036250,1036552,-,,,ARCH_RS10105,WP_013170133.1,100,hypothetical protein
+chromosome,NC_014218.1,1036590,1037456,-,,aroE,ARCH_RS04645,WP_013170134.1,288,shikimate dehydrogenase
+chromosome,NC_014218.1,1037501,1037782,-,,,ARCH_RS04650,WP_013170135.1,93,hypothetical protein
+chromosome,NC_014218.1,1038072,1038383,-,,,ARCH_RS09660,WP_111724903.1,103,hypothetical protein
+chromosome,NC_014218.1,1039328,1039795,+,,,ARCH_RS04665,WP_013170136.1,155,nucleoside triphosphate pyrophosphohydrolase family protein
+chromosome,NC_014218.1,1039862,1040371,-,,,ARCH_RS04670,WP_013170137.1,169,hypothetical protein
+chromosome,NC_014218.1,1040364,1040828,-,,,ARCH_RS04675,WP_013170138.1,154,hypothetical protein
+chromosome,NC_014218.1,1040888,1041181,-,,,ARCH_RS04680,WP_041640369.1,97,hypothetical protein
+chromosome,NC_014218.1,1041354,1041830,+,,,ARCH_RS04685,WP_013170139.1,158,tRNA (cytidine(34)-2\\'-O)-methyltransferase
+chromosome,NC_014218.1,1041900,1042208,+,,,ARCH_RS04690,WP_013170140.1,102,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,1042205,1043050,-,,,ARCH_RS04695,WP_013170141.1,281,RNA methyltransferase
+chromosome,NC_014218.1,1043116,1044174,-,,,ARCH_RS04700,WP_013170142.1,352,SPFH/Band 7/PHB domain protein
+chromosome,NC_014218.1,1044200,1044619,-,,,ARCH_RS04705,WP_013170143.1,139,NfeD family protein
+chromosome,NC_014218.1,1044685,1045470,-,,,ARCH_RS04710,WP_013170144.1,261,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1045509,1046732,-,,glgA,ARCH_RS04715,WP_013170145.1,407,glycogen synthase
+chromosome,NC_014218.1,1046924,1048183,+,,,ARCH_RS04720,WP_013170146.1,419,glucose-1-phosphate adenylyltransferase
+chromosome,NC_014218.1,1048268,1049833,-,,,ARCH_RS04725,WP_231958104.1,521,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1049991,1050884,+,,,ARCH_RS04730,WP_013170148.1,297,neutral zinc metallopeptidase
+chromosome,NC_014218.1,1050958,1051275,-,,,ARCH_RS04735,WP_013170149.1,105,metal-sulfur cluster assembly factor
+chromosome,NC_014218.1,1051302,1051760,-,,,ARCH_RS04740,WP_013170150.1,152,SUF system NifU family Fe-S cluster assembly protein
+chromosome,NC_014218.1,1051763,1053025,-,,,ARCH_RS04745,WP_223804441.1,420,SufS family cysteine desulfurase
+chromosome,NC_014218.1,1053033,1053782,-,,sufC,ARCH_RS04750,WP_013170152.1,249,Fe-S cluster assembly ATPase SufC
+chromosome,NC_014218.1,1053822,1054145,-,,,ARCH_RS04755,WP_013170153.1,107,non-heme iron oxygenase ferredoxin subunit
+chromosome,NC_014218.1,1054138,1055268,-,,sufD,ARCH_RS04760,WP_013170154.1,376,Fe-S cluster assembly protein SufD
+chromosome,NC_014218.1,1055268,1056710,-,,sufB,ARCH_RS04765,WP_013170155.1,480,Fe-S cluster assembly protein SufB
+chromosome,NC_014218.1,1056707,1057438,-,,,ARCH_RS04770,WP_013170156.1,243,winged helix-turn-helix transcriptional regulator
+chromosome,NC_014218.1,1057568,1058185,-,,,ARCH_RS04775,WP_013170157.1,205,NUDIX hydrolase
+chromosome,NC_014218.1,1058182,1059741,-,,,ARCH_RS04780,WP_013170158.1,519,MATE family efflux transporter
+chromosome,NC_014218.1,1059751,1060566,-,,,ARCH_RS04785,WP_013170159.1,271,hypothetical protein
+chromosome,NC_014218.1,1060563,1061579,-,,,ARCH_RS04790,WP_013170160.1,338,copper transporter
+chromosome,NC_014218.1,1061572,1062771,-,,steA,ARCH_RS04795,WP_261974475.1,399,putative cytokinetic ring protein SteA
+chromosome,NC_014218.1,1062773,1064467,-,,recN,ARCH_RS04800,WP_013170162.1,564,DNA repair protein RecN
+chromosome,NC_014218.1,1064464,1065345,-,,,ARCH_RS04805,WP_013170163.1,293,NAD kinase
+chromosome,NC_014218.1,1065390,1066214,-,,,ARCH_RS04810,WP_013170164.1,274,TlyA family RNA methyltransferase
+chromosome,NC_014218.1,1066235,1066414,-,,,ARCH_RS04815,WP_113722191.1,59,hypothetical protein
+chromosome,NC_014218.1,1066420,1067433,-,,,ARCH_RS04820,WP_013170166.1,337,HAD-IIA family hydrolase
+chromosome,NC_014218.1,1067426,1068271,-,,,ARCH_RS09355,WP_049765897.1,281,hypothetical protein
+chromosome,NC_014218.1,1068268,1068939,-,,,ARCH_RS09920,WP_145961614.1,223,hypothetical protein
+chromosome,NC_014218.1,1075313,1076572,-,,tyrS,ARCH_RS04845,WP_013170168.1,419,tyrosine--tRNA ligase
+chromosome,NC_014218.1,1076763,1078169,+,,,ARCH_RS04850,WP_013170169.1,468,hypothetical protein
+chromosome,NC_014218.1,1078223,1078963,-,,,ARCH_RS04855,WP_013170170.1,246,nitroreductase family protein
+chromosome,NC_014218.1,1078960,1079469,-,,argR,ARCH_RS04860,WP_013170171.1,169,arginine repressor
+chromosome,NC_014218.1,1079466,1080611,-,,,ARCH_RS04865,WP_013170172.1,381,aminotransferase class III-fold pyridoxal phosphate-dependent enzyme
+chromosome,NC_014218.1,1080702,1081487,-,,,ARCH_RS04870,WP_013170173.1,261,SDR family oxidoreductase
+chromosome,NC_014218.1,1081561,1084140,-,,pheT,ARCH_RS04875,WP_013170174.1,859,phenylalanine--tRNA ligase subunit beta
+chromosome,NC_014218.1,1084140,1085222,-,,pheS,ARCH_RS04880,WP_013170175.1,360,phenylalanine--tRNA ligase subunit alpha
+chromosome,NC_014218.1,1085408,1085758,+,,,ARCH_RS04885,WP_013170176.1,116,hypothetical protein
+chromosome,NC_014218.1,1085877,1086797,-,,,ARCH_RS04890,WP_261974476.1,306,dihydrodipicolinate synthase family protein
+chromosome,NC_014218.1,1086806,1087615,-,,,ARCH_RS04895,WP_013170178.1,269,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1087612,1089648,-,,,ARCH_RS04900,WP_013170179.1,678,dipeptide/oligopeptide/nickel ABC transporter permease/ATP-binding protein
+chromosome,NC_014218.1,1089651,1090601,-,,,ARCH_RS04905,WP_013170180.1,316,ABC transporter permease
+chromosome,NC_014218.1,1090695,1092266,-,,,ARCH_RS04910,WP_013170181.1,523,ABC transporter substrate-binding protein
+chromosome,NC_014218.1,1092492,1093388,-,,,ARCH_RS04915,WP_013170182.1,298,RNA methyltransferase
+chromosome,NC_014218.1,1093474,1093854,-,,rplT,ARCH_RS04920,WP_013170183.1,126,50S ribosomal protein L20
+chromosome,NC_014218.1,1093885,1094079,-,,rpmI,ARCH_RS04925,WP_013170184.1,64,MULTISPECIES: 50S ribosomal protein L35
+chromosome,NC_014218.1,1094171,1094815,-,,infC,ARCH_RS04930,WP_081440773.1,214,translation initiation factor IF-3
+chromosome,NC_014218.1,1095041,1095763,-,,,ARCH_RS04935,WP_013170186.1,240,SseB family protein
+chromosome,NC_014218.1,1095756,1096295,-,,,ARCH_RS09360,WP_013170187.1,179,hypothetical protein
+chromosome,NC_014218.1,1096463,1097227,+,,,ARCH_RS04945,WP_013170188.1,254,VIT family protein
+chromosome,NC_014218.1,1097237,1098037,-,,,ARCH_RS04950,WP_013170189.1,266,isoprenyl transferase
+chromosome,NC_014218.1,1098044,1098775,-,,recO,ARCH_RS04955,WP_013170190.1,243,DNA repair protein RecO
+chromosome,NC_014218.1,1098782,1099714,-,,era,ARCH_RS04960,WP_013170191.1,310,GTPase Era
+chromosome,NC_014218.1,1099711,1100973,-,,,ARCH_RS04965,WP_013170192.1,420,hemolysin family protein
+chromosome,NC_014218.1,1100976,1101488,-,,ybeY,ARCH_RS04970,WP_013170193.1,170,rRNA maturation RNase YbeY
+chromosome,NC_014218.1,1101481,1102446,-,,,ARCH_RS04975,WP_013170194.1,321,PhoH family protein
+chromosome,NC_014218.1,1102457,1103194,-,,,ARCH_RS04980,WP_013170195.1,245,16S rRNA (uracil(1498)-N(3))-methyltransferase
+chromosome,NC_014218.1,1103194,1104333,-,,dnaJ,ARCH_RS04985,WP_013170196.1,379,molecular chaperone DnaJ
+chromosome,NC_014218.1,1104372,1105400,-,,hrcA,ARCH_RS04990,WP_013170197.1,342,heat-inducible transcriptional repressor HrcA
+chromosome,NC_014218.1,1105567,1105815,-,,,ARCH_RS04995,WP_013170198.1,82,PIN domain-containing protein
+chromosome,NC_014218.1,1106266,1106448,-,,,ARCH_RS10110,WP_145961613.1,60,hypothetical protein
+chromosome,NC_014218.1,1106761,1109196,-,,,ARCH_RS05000,WP_013170199.1,811,hypothetical protein
+chromosome,NC_014218.1,1109636,1109857,-,,,ARCH_RS09930,WP_145961612.1,73,hypothetical protein
+chromosome,NC_014218.1,1110322,1111188,+,,,ARCH_RS05010,WP_041640373.1,288,DUF3097 domain-containing protein
+chromosome,NC_014218.1,1111224,1111841,-,,,ARCH_RS05015,WP_013170201.1,205,hypothetical protein
+chromosome,NC_014218.1,1112070,1113254,-,,hemW,ARCH_RS05020,WP_013170202.1,394,radical SAM family heme chaperone HemW
+chromosome,NC_014218.1,1113251,1114069,-,,trmB,ARCH_RS05025,WP_013170203.1,272,tRNA (guanosine(46)-N7)-methyltransferase TrmB
+chromosome,NC_014218.1,1114066,1115925,-,,lepA,ARCH_RS05030,WP_013170204.1,619,translation elongation factor 4
+chromosome,NC_014218.1,1116003,1116599,+,,,ARCH_RS05035,WP_013170205.1,198,hypothetical protein
+chromosome,NC_014218.1,1116620,1117120,+,,,ARCH_RS05040,WP_013170206.1,166,PH domain-containing protein
+chromosome,NC_014218.1,1117123,1117716,+,,,ARCH_RS05045,WP_013170207.1,197,type II toxin-antitoxin system PemK/MazF family toxin
+chromosome,NC_014218.1,1117924,1118190,+,,rpsT,ARCH_RS05050,WP_013170208.1,88,30S ribosomal protein S20
+chromosome,NC_014218.1,1118287,1119720,-,,pntB,ARCH_RS05055,WP_041640881.1,477,Re/Si-specific NAD(P)(+) transhydrogenase subunit beta
+chromosome,NC_014218.1,1119742,1121274,-,,,ARCH_RS05060,WP_013170210.1,510,Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+chromosome,NC_014218.1,1121328,1122293,-,,holA,ARCH_RS05065,WP_013170211.1,321,DNA polymerase III subunit delta
+chromosome,NC_014218.1,1122298,1123728,-,,,ARCH_RS09370,WP_013170212.1,476,ComEC/Rec2 family competence protein
+chromosome,NC_014218.1,1123728,1124582,-,,,ARCH_RS05075,WP_013170213.1,284,ComEA family DNA-binding protein
+chromosome,NC_014218.1,1124647,1126455,+,,,ARCH_RS05080,WP_013170214.1,602,DUF853 family protein
+chromosome,NC_014218.1,1126547,1127509,-,,,ARCH_RS05085,WP_111724956.1,320,aldose 1-epimerase
+chromosome,NC_014218.1,1127705,1130584,-,,leuS,ARCH_RS05090,WP_013170216.1,959,leucine--tRNA ligase
+chromosome,NC_014218.1,1130702,1131139,+,,,ARCH_RS05095,WP_013170217.1,145,HIT family protein
+chromosome,NC_014218.1,1131147,1131827,-,,,ARCH_RS05100,WP_049765828.1,226,vitamin K epoxide reductase family protein
+chromosome,NC_014218.1,1131820,1132587,-,,,ARCH_RS05105,WP_013170219.1,255,HAD-IIB family hydrolase
+chromosome,NC_014218.1,1132676,1133947,+,,,ARCH_RS05110,WP_013170220.1,423,AI-2E family transporter
+chromosome,NC_014218.1,1134024,1134731,+,,,ARCH_RS05115,WP_013170221.1,235,purine-nucleoside phosphorylase
+chromosome,NC_014218.1,1135169,1136158,+,,,ARCH_RS05120,WP_013170222.1,329,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1136155,1136889,+,,,ARCH_RS05125,WP_013170223.1,244,ABC transporter permease
+chromosome,NC_014218.1,1136886,1137029,-,,,ARCH_RS10115,WP_170121743.1,47,hypothetical protein
+chromosome,NC_014218.1,1137015,1137839,+,,,ARCH_RS05130,WP_013170224.1,274,MetQ/NlpA family ABC transporter substrate-binding protein
+chromosome,NC_014218.1,1138085,1139659,+,,putP,ARCH_RS05135,WP_013170226.1,524,sodium/proline symporter PutP
+chromosome,NC_014218.1,1139874,1141178,-,,,ARCH_RS05140,WP_013170227.1,434,TRAP transporter large permease
+chromosome,NC_014218.1,1141175,1141738,-,,,ARCH_RS05145,WP_013170228.1,187,TRAP transporter small permease
+chromosome,NC_014218.1,1141738,1142772,-,,,ARCH_RS05150,WP_013170229.1,344,TRAP transporter substrate-binding protein
+chromosome,NC_014218.1,1142863,1143513,-,,,ARCH_RS05155,WP_013170230.1,216,pyroglutamyl-peptidase I
+chromosome,NC_014218.1,1143704,1149052,-,,,ARCH_RS09375,WP_013170231.1,1782,S8 family serine peptidase
+chromosome,NC_014218.1,1149340,1149939,+,,,ARCH_RS05165,WP_041640375.1,199,DUF998 domain-containing protein
+chromosome,NC_014218.1,1149902,1150531,+,,,ARCH_RS05170,WP_013170233.1,209,alpha/beta fold hydrolase
+chromosome,NC_014218.1,1150515,1153703,-,,lysX,ARCH_RS05175,WP_013170234.1,1062,bifunctional lysylphosphatidylglycerol synthetase/lysine--tRNA ligase LysX
+chromosome,NC_014218.1,1153740,1154822,-,,pyrB,ARCH_RS05180,WP_013170235.1,360,aspartate carbamoyltransferase
+chromosome,NC_014218.1,1154827,1155471,-,,pyrE,ARCH_RS05185,WP_013170236.1,214,orotate phosphoribosyltransferase
+chromosome,NC_014218.1,1155468,1156166,-,,pyrF,ARCH_RS05190,WP_013170237.1,232,orotidine-5\\'-phosphate decarboxylase
+chromosome,NC_014218.1,1156169,1157092,-,,,ARCH_RS05195,WP_013170238.1,307,dihydroorotate dehydrogenase
+chromosome,NC_014218.1,1157092,1157847,-,,,ARCH_RS05200,WP_013170239.1,251,dihydroorotate dehydrogenase electron transfer subunit
+chromosome,NC_014218.1,1157853,1161044,-,,carB,ARCH_RS05205,WP_013170240.1,1063,carbamoyl-phosphate synthase large subunit
+chromosome,NC_014218.1,1161068,1162318,-,,,ARCH_RS05210,WP_111724898.1,416,dihydroorotase
+chromosome,NC_014218.1,1162716,1163438,-,,,ARCH_RS05215,WP_013170243.1,240,hypothetical protein
+chromosome,NC_014218.1,1163513,1165099,-,,,ARCH_RS05220,WP_013170244.1,528,Na+/H+ antiporter NhaC family protein
+chromosome,NC_014218.1,1165270,1165515,+,,,ARCH_RS05225,WP_013170245.1,81,type B 50S ribosomal protein L31
+chromosome,NC_014218.1,1165523,1166440,-,,,ARCH_RS05230,WP_013170246.1,305,alpha/beta hydrolase fold domain-containing protein
+chromosome,NC_014218.1,1166441,1168003,-,,,ARCH_RS05235,WP_013170247.1,520,MFS transporter
+chromosome,NC_014218.1,1168009,1168629,-,,,ARCH_RS09380,WP_013170248.1,206,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,1168669,1169037,-,,,ARCH_RS05245,WP_013170249.1,122,CrcB family protein
+chromosome,NC_014218.1,1169034,1169396,-,,,ARCH_RS05250,WP_041640377.1,120,CrcB family protein
+chromosome,NC_014218.1,1169399,1169530,-,,,ARCH_RS10320,WP_261974463.1,43,hypothetical protein
+chromosome,NC_014218.1,1169499,1170158,-,,,ARCH_RS05255,WP_013170251.1,219,DedA family protein
+chromosome,NC_014218.1,1170329,1171954,-,,,ARCH_RS05260,WP_041640895.1,541,SulP family inorganic anion transporter
+chromosome,NC_014218.1,1172287,1172655,-,,,ARCH_RS05270,WP_041640379.1,122,hypothetical protein
+chromosome,NC_014218.1,1173272,1176424,+,,,ARCH_RS05275,WP_013170253.1,1050,cadherin-like beta sandwich domain-containing protein
+chromosome,NC_014218.1,1177382,1177945,+,,,ARCH_RS05280,WP_013170254.1,187,hypothetical protein
+chromosome,NC_014218.1,1178727,1179926,-,,,ARCH_RS05285,WP_013169363.1,399,IS110 family transposase
+chromosome,NC_014218.1,1180953,1181525,-,,,ARCH_RS05290,WP_013170255.1,190,hypothetical protein
+chromosome,NC_014218.1,1181616,1182524,+,,,ARCH_RS05295,WP_013170256.1,302,hypothetical protein
+chromosome,NC_014218.1,1183513,1183911,-,,,ARCH_RS05305,WP_223804365.1,132,hypothetical protein
+chromosome,NC_014218.1,1185080,1185538,+,,,ARCH_RS05315,WP_261974477.1,152,Abi family protein
+chromosome,NC_014218.1,1185981,1186538,-,,,ARCH_RS05320,WP_013170260.1,185,hypothetical protein
+chromosome,NC_014218.1,1186571,1187074,-,,,ARCH_RS10120,WP_261974478.1,167,restriction endonuclease subunit S
+chromosome,NC_014218.1,1187320,1188069,-,,,ARCH_RS05325,WP_013170262.1,249,restriction endonuclease subunit S
+chromosome,NC_014218.1,1188066,1189538,-,,,ARCH_RS05330,WP_013170263.1,490,type I restriction-modification system subunit M
+chromosome,NC_014218.1,1189552,1191936,-,,,ARCH_RS05335,WP_013170264.1,794,DEAD/DEAH box helicase family protein
+chromosome,NC_014218.1,1192579,1193169,+,,,ARCH_RS05340,WP_013170266.1,196,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein
+chromosome,NC_014218.1,1193166,1194023,+,,,ARCH_RS05345,WP_013170267.1,285,nucleotidyl transferase AbiEii/AbiGii toxin family protein
+chromosome,NC_014218.1,1194233,1194637,-,,,ARCH_RS05350,WP_145961611.1,134,hypothetical protein
+chromosome,NC_014218.1,1194750,1195553,+,,,ARCH_RS05355,WP_013170268.1,267,methyltransferase domain-containing protein
+chromosome,NC_014218.1,1195587,1195928,+,,,ARCH_RS05360,WP_010934538.1,113,MULTISPECIES: cupin domain-containing protein
+chromosome,NC_014218.1,1196498,1197232,+,,,ARCH_RS05370,WP_013170269.1,244,HNH endonuclease family protein
+chromosome,NC_014218.1,1199606,1200223,-,,,ARCH_RS05385,WP_013170271.1,205,histidine phosphatase family protein
+chromosome,NC_014218.1,1200235,1200702,-,,rsfS,ARCH_RS05390,WP_013170272.1,155,ribosome silencing factor
+chromosome,NC_014218.1,1200729,1201454,-,,,ARCH_RS05395,WP_013170273.1,241,hypothetical protein
+chromosome,NC_014218.1,1201498,1202190,-,,nadD,ARCH_RS05400,WP_013170274.1,230,nicotinate-nucleotide adenylyltransferase
+chromosome,NC_014218.1,1202362,1202727,+,,trxA,ARCH_RS05405,WP_013170275.1,121,thioredoxin
+chromosome,NC_014218.1,1202792,1203733,-,,,ARCH_RS05410,WP_013170276.1,313,hypothetical protein
+chromosome,NC_014218.1,1204013,1205557,-,,obgE,ARCH_RS05415,WP_013170277.1,514,GTPase ObgE
+chromosome,NC_014218.1,1205658,1205915,-,,rpmA,ARCH_RS05420,WP_013170278.1,85,MULTISPECIES: 50S ribosomal protein L27
+chromosome,NC_014218.1,1205966,1206271,-,,rplU,ARCH_RS05425,WP_013170279.1,101,MULTISPECIES: 50S ribosomal protein L21
+chromosome,NC_014218.1,1206433,1208967,-,,,ARCH_RS05430,WP_187286501.1,844,Rne/Rng family ribonuclease
+chromosome,NC_014218.1,1209434,1210933,+,,,ARCH_RS05435,WP_013170281.1,499,cytochrome ubiquinol oxidase subunit I
+chromosome,NC_014218.1,1210952,1212091,+,,cydB,ARCH_RS05440,WP_013170282.1,379,cytochrome d ubiquinol oxidase subunit II
+chromosome,NC_014218.1,1212243,1213904,+,,cydD,ARCH_RS05445,WP_013170283.1,553,thiol reductant ABC exporter subunit CydD
+chromosome,NC_014218.1,1213901,1215661,+,,cydC,ARCH_RS05450,WP_013170284.1,586,thiol reductant ABC exporter subunit CydC
+chromosome,NC_014218.1,1215664,1217298,+,,,ARCH_RS05455,WP_013170285.1,544,GAF domain-containing protein
+chromosome,NC_014218.1,1217407,1218030,-,,,ARCH_RS05460,WP_013170286.1,207,response regulator transcription factor
+chromosome,NC_014218.1,1218071,1218925,-,,mutM,ARCH_RS05465,WP_013170287.1,284,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase
+chromosome,NC_014218.1,1218935,1219642,-,,rnc,ARCH_RS05470,WP_013170288.1,235,ribonuclease III
+chromosome,NC_014218.1,1219645,1220196,-,,,ARCH_RS05475,WP_013170289.1,183,DUF177 domain-containing protein
+chromosome,NC_014218.1,1220264,1220770,-,,,ARCH_RS05480,WP_013170290.1,168,hypothetical protein
+chromosome,NC_014218.1,1220767,1221243,-,,coaD,ARCH_RS05485,WP_013170291.1,158,pantetheine-phosphate adenylyltransferase
+chromosome,NC_014218.1,1221248,1221811,-,,rsmD,ARCH_RS05490,WP_013170292.1,187,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+chromosome,NC_014218.1,1221826,1224051,-,,,ARCH_RS05495,WP_013170293.1,741,ATP-dependent DNA helicase RecG
+chromosome,NC_014218.1,1224285,1224476,+,,rpmB,ARCH_RS05500,WP_013170294.1,63,50S ribosomal protein L28
+chromosome,NC_014218.1,1224597,1225355,-,,,ARCH_RS05505,WP_013170295.1,252,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1225352,1226353,-,,,ARCH_RS05510,WP_013170296.1,333,iron chelate uptake ABC transporter family permease subunit
+chromosome,NC_014218.1,1226355,1227326,-,,,ARCH_RS05515,WP_013170297.1,323,iron chelate uptake ABC transporter family permease subunit
+chromosome,NC_014218.1,1227386,1228408,-,,,ARCH_RS05520,WP_013170298.1,340,ABC transporter substrate-binding protein
+chromosome,NC_014218.1,1228553,1229527,-,,thiL,ARCH_RS05525,WP_013170299.1,324,thiamine-phosphate kinase
+chromosome,NC_014218.1,1229537,1230655,-,,,ARCH_RS05530,WP_013170300.1,372,D-alanine--D-alanine ligase
+chromosome,NC_014218.1,1230726,1231541,-,,,ARCH_RS05535,WP_013170301.1,271,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chromosome,NC_014218.1,1231561,1232883,-,,murA,ARCH_RS05540,WP_013170302.1,440,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+chromosome,NC_014218.1,1233076,1233807,+,,,ARCH_RS05545,WP_013170303.1,243,IclR family transcriptional regulator
+chromosome,NC_014218.1,1233817,1234950,+,,,ARCH_RS05550,WP_013170304.1,377,glycosyltransferase family 4 protein
+chromosome,NC_014218.1,1235003,1237012,+,,,ARCH_RS05555,WP_013170305.1,669,M3 family metallopeptidase
+chromosome,NC_014218.1,1237114,1237593,-,,,ARCH_RS05560,WP_013170306.1,159,hypothetical protein
+chromosome,NC_014218.1,1237695,1238624,-,,,ARCH_RS05565,WP_041640381.1,309,phospholipase D
+chromosome,NC_014218.1,1239515,1241020,-,,gltX,ARCH_RS05585,WP_013170308.1,501,glutamate--tRNA ligase
+chromosome,NC_014218.1,1241046,1241816,-,,,ARCH_RS05590,WP_013170309.1,256,fumarylacetoacetate hydrolase family protein
+chromosome,NC_014218.1,1241844,1242821,+,,,ARCH_RS05595,WP_013170310.1,325,hypothetical protein
+chromosome,NC_014218.1,1242825,1243136,+,,,ARCH_RS05600,WP_013170311.1,103,thiamine-binding protein
+chromosome,NC_014218.1,1243914,1246952,-,,,ARCH_RS05605,WP_187286502.1,1012,Cna B-type domain-containing protein
+chromosome,NC_014218.1,1247456,1247935,-,,bcp,ARCH_RS05615,WP_013170313.1,159,thioredoxin-dependent thiol peroxidase
+chromosome,NC_014218.1,1247972,1248286,-,,,ARCH_RS05620,WP_013170314.1,104,hypothetical protein
+chromosome,NC_014218.1,1248400,1248930,+,,,ARCH_RS05625,WP_013170315.1,176,NUDIX hydrolase family protein
+chromosome,NC_014218.1,1248910,1249539,-,,rdgB,ARCH_RS05630,WP_013170316.1,209,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+chromosome,NC_014218.1,1249551,1250291,-,,rph,ARCH_RS05635,WP_013170317.1,246,ribonuclease PH
+chromosome,NC_014218.1,1250330,1251526,-,,,ARCH_RS05640,WP_013170318.1,398,Fic family protein
+chromosome,NC_014218.1,1251671,1252471,-,,,ARCH_RS05645,WP_013170319.1,266,MBL fold metallo-hydrolase
+chromosome,NC_014218.1,1252484,1253332,-,,murI,ARCH_RS05650,WP_013170320.1,282,glutamate racemase
+chromosome,NC_014218.1,1253343,1254050,-,,,ARCH_RS09390,WP_013170321.1,235,DUF2017 family protein
+chromosome,NC_014218.1,1254051,1254353,-,,clpS,ARCH_RS05660,WP_013170322.1,100,ATP-dependent Clp protease adapter ClpS
+chromosome,NC_014218.1,1254440,1255792,+,,,ARCH_RS05665,WP_013170323.1,450,nicotinate phosphoribosyltransferase
+chromosome,NC_014218.1,1255937,1257724,-,,,ARCH_RS05670,WP_013170324.1,595,DEAD/DEAH box helicase
+chromosome,NC_014218.1,1257721,1258077,-,,,ARCH_RS05675,WP_013170325.1,118,DUF3039 domain-containing protein
+chromosome,NC_014218.1,1258289,1258570,-,,,ARCH_RS05680,WP_013170326.1,93,HU family DNA-binding protein
+chromosome,NC_014218.1,1258761,1260329,-,,,ARCH_RS05685,WP_013170327.1,522,transporter
+chromosome,NC_014218.1,1260832,1261692,+,,,ARCH_RS05690,WP_170121740.1,286,alpha/beta hydrolase-fold protein
+chromosome,NC_014218.1,1261780,1262499,-,,dhaM,ARCH_RS05695,WP_013170329.1,239,dihydroxyacetone kinase phosphoryl donor subunit DhaM
+chromosome,NC_014218.1,1262496,1264238,-,,dhaK,ARCH_RS09695,WP_013170330.1,580,dihydroxyacetone kinase subunit DhaK
+chromosome,NC_014218.1,1264445,1265575,+,,,ARCH_RS05705,WP_013170331.1,376,AI-2E family transporter
+chromosome,NC_014218.1,1265576,1266391,-,,nadE,ARCH_RS05710,WP_013170332.1,271,ammonia-dependent NAD(+) synthetase
+chromosome,NC_014218.1,1266556,1269654,+,,,ARCH_RS05715,WP_013170333.1,1032,TIGR03773 family transporter-associated surface protein
+chromosome,NC_014218.1,1269706,1270677,-,,,ARCH_RS05720,WP_013170334.1,323,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1270674,1273088,-,,,ARCH_RS05725,WP_013170335.1,804,substrate-binding domain-containing protein
+chromosome,NC_014218.1,1273382,1274770,-,,,ARCH_RS05730,WP_013170336.1,462,MFS transporter
+chromosome,NC_014218.1,1274942,1275625,-,,,ARCH_RS05735,WP_013170337.1,227,response regulator transcription factor
+chromosome,NC_014218.1,1275622,1276422,-,,,ARCH_RS05740,WP_013170338.1,266,ATP-binding protein
+chromosome,NC_014218.1,1276427,1277380,-,,hemH,ARCH_RS05745,WP_013170339.1,317,ferrochelatase
+chromosome,NC_014218.1,1277522,1277656,+,,,ARCH_RS10325,WP_013170340.1,44,hypothetical protein
+chromosome,NC_014218.1,1277802,1278473,+,,,ARCH_RS05750,WP_013170341.1,223,queuosine precursor transporter
+chromosome,NC_014218.1,1278470,1279156,-,,,ARCH_RS05755,WP_013170342.1,228,nitroreductase
+chromosome,NC_014218.1,1279204,1280244,+,,,ARCH_RS05760,WP_013170343.1,346,LD-carboxypeptidase
+chromosome,NC_014218.1,1280383,1280949,+,,,ARCH_RS05765,WP_013170344.1,188,hypothetical protein
+chromosome,NC_014218.1,1281074,1281211,-,,,ARCH_RS10330,WP_013170345.1,45,hypothetical protein
+chromosome,NC_014218.1,1281354,1281548,+,,,ARCH_RS10335,WP_231958042.1,64,hypothetical protein
+chromosome,NC_014218.1,1281980,1282612,-,,pdxT,ARCH_RS05775,WP_013170347.1,210,pyridoxal 5\\'-phosphate synthase glutaminase subunit PdxT
+chromosome,NC_014218.1,1282617,1283495,-,,pdxS,ARCH_RS05780,WP_013170348.1,292,pyridoxal 5\\'-phosphate synthase lyase subunit PdxS
+chromosome,NC_014218.1,1283748,1284395,+,,,ARCH_RS05785,WP_013170349.1,215,HD domain-containing protein
+chromosome,NC_014218.1,1284367,1285236,-,,,ARCH_RS05790,WP_013170350.1,289,metal ABC transporter permease
+chromosome,NC_014218.1,1285233,1285976,-,,,ARCH_RS05795,WP_013170351.1,247,metal ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1286216,1287154,-,,,ARCH_RS05800,WP_187286522.1,312,metal ABC transporter substrate-binding protein
+chromosome,NC_014218.1,1287316,1288467,+,,,ARCH_RS05805,WP_013170353.1,383,DUF2207 domain-containing protein
+chromosome,NC_014218.1,1288614,1289720,+,,,ARCH_RS05810,WP_111724893.1,368,LssY C-terminal domain-containing protein
+chromosome,NC_014218.1,1289801,1291162,+,,,ARCH_RS05815,WP_013170355.1,453,endonuclease/exonuclease/phosphatase family protein
+chromosome,NC_014218.1,1291336,1291716,+,,,ARCH_RS05820,WP_013170356.1,126,GntR family transcriptional regulator
+chromosome,NC_014218.1,1291709,1292413,+,,,ARCH_RS05825,WP_013170357.1,234,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1292410,1293222,+,,,ARCH_RS05830,WP_013170358.1,270,hypothetical protein
+chromosome,NC_014218.1,1293326,1294075,-,,,ARCH_RS05835,WP_013170359.1,249,amino acid ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1294075,1294743,-,,,ARCH_RS05840,WP_013170360.1,222,amino acid ABC transporter permease
+chromosome,NC_014218.1,1294740,1295552,-,,,ARCH_RS05845,WP_013170361.1,270,transporter substrate-binding domain-containing protein
+chromosome,NC_014218.1,1295777,1296124,+,,,ARCH_RS05850,WP_041640384.1,115,hypothetical protein
+chromosome,NC_014218.1,1296127,1297425,-,,brnQ,ARCH_RS05855,WP_013170363.1,432,branched-chain amino acid transport system II carrier protein
+chromosome,NC_014218.1,1297422,1298738,-,,brnQ,ARCH_RS05860,WP_013170364.1,438,branched-chain amino acid transport system II carrier protein
+chromosome,NC_014218.1,1298809,1300122,-,,brnQ,ARCH_RS05865,WP_041640386.1,437,branched-chain amino acid transport system II carrier protein
+chromosome,NC_014218.1,1300451,1301014,+,,,ARCH_RS05870,WP_013170366.1,187,DNA-3-methyladenine glycosylase I
+chromosome,NC_014218.1,1301291,1301968,+,,,ARCH_RS05875,WP_231958027.1,225,MgtC/SapB family protein
+chromosome,NC_014218.1,1302978,1303415,+,,,ARCH_RS05885,WP_013170369.1,145,FMN-binding protein
+chromosome,NC_014218.1,1303416,1304258,+,,,ARCH_RS05890,WP_013170370.1,280,FAD:protein FMN transferase
+chromosome,NC_014218.1,1304330,1305466,+,,galK,ARCH_RS05895,WP_013170371.1,378,galactokinase
+chromosome,NC_014218.1,1305463,1305945,-,,,ARCH_RS05900,WP_013170372.1,160,hypothetical protein
+chromosome,NC_014218.1,1305923,1306138,-,,,ARCH_RS05905,WP_013170373.1,71,hypothetical protein
+chromosome,NC_014218.1,1306145,1307161,-,,galE,ARCH_RS05910,WP_013170374.1,338,UDP-glucose 4-epimerase GalE
+chromosome,NC_014218.1,1307193,1308668,-,,,ARCH_RS05915,WP_013170375.1,491,UDP-glucose--hexose-1-phosphate uridylyltransferase
+chromosome,NC_014218.1,1309053,1310492,-,,,ARCH_RS05920,WP_013170377.1,479,NAD(P)/FAD-dependent oxidoreductase
+chromosome,NC_014218.1,1310786,1311367,+,,,ARCH_RS05925,WP_013170378.1,193,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,1311380,1312411,+,,,ARCH_RS05930,WP_013170379.1,343,DUF5692 family protein
+chromosome,NC_014218.1,1312757,1313968,+,,,ARCH_RS05935,WP_013170380.1,403,argininosuccinate synthase
+chromosome,NC_014218.1,1313978,1315366,+,,argH,ARCH_RS05940,WP_013170381.1,462,argininosuccinate lyase
+chromosome,NC_014218.1,1315376,1315873,+,,,ARCH_RS05945,WP_013170382.1,165,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,1315984,1317414,-,,purB,ARCH_RS05950,WP_197712426.1,476,adenylosuccinate lyase
+chromosome,NC_014218.1,1317446,1318741,-,,,ARCH_RS05955,WP_013170384.1,431,adenylosuccinate synthase
+chromosome,NC_014218.1,1318803,1320248,-,,,ARCH_RS05960,WP_013170385.1,481,GuaB1 family IMP dehydrogenase-related protein
+chromosome,NC_014218.1,1320400,1321071,-,,,ARCH_RS05965,WP_013170386.1,223,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,1321068,1322822,-,,,ARCH_RS05970,WP_013170387.1,584,ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,1322819,1324609,-,,,ARCH_RS05975,WP_013170388.1,596,ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,1324593,1326110,-,,,ARCH_RS05980,WP_013170389.1,505,energy-coupling factor ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1326110,1326916,-,,,ARCH_RS05985,WP_013170390.1,268,energy-coupling factor transporter transmembrane protein EcfT
+chromosome,NC_014218.1,1326930,1327565,-,,,ARCH_RS05990,WP_013170391.1,211,MptD family putative ECF transporter S component
+chromosome,NC_014218.1,1327740,1328354,+,,,ARCH_RS09945,WP_013170392.1,204,hypothetical protein
+chromosome,NC_014218.1,1328351,1329139,+,,,ARCH_RS06000,WP_013170393.1,262,MerR family transcriptional regulator
+chromosome,NC_014218.1,1329469,1329915,+,,,ARCH_RS06005,WP_013170394.1,148,hypothetical protein
+chromosome,NC_014218.1,1329922,1330119,+,,,ARCH_RS06010,WP_013170395.1,65,helix-turn-helix transcriptional regulator
+chromosome,NC_014218.1,1330240,1330461,-,,,ARCH_RS09950,WP_013170396.1,73,hypothetical protein
+chromosome,NC_014218.1,1330493,1330921,+,,,ARCH_RS06015,WP_013170397.1,142,hypothetical protein
+chromosome,NC_014218.1,1331053,1331730,+,,,ARCH_RS09705,WP_197712437.1,225,ATP-binding protein
+chromosome,NC_014218.1,1332138,1333655,+,,,ARCH_RS06025,WP_013170398.1,505,C69 family dipeptidase
+chromosome,NC_014218.1,1334184,1334405,+,,,ARCH_RS10340,WP_231958024.1,73,hypothetical protein
+chromosome,NC_014218.1,1334453,1334734,+,,,ARCH_RS06035,WP_013170013.1,93,MULTISPECIES: transposase
+chromosome,NC_014218.1,1334788,1335609,+,,,ARCH_RS06040,WP_013170014.1,273,IS3 family transposase
+chromosome,NC_014218.1,1335651,1335914,-,,,ARCH_RS06045,WP_013170400.1,87,type II toxin-antitoxin system RelB/DinJ family antitoxin
+chromosome,NC_014218.1,1336515,1336847,+,,,ARCH_RS06050,WP_041640389.1,110,hypothetical protein
+chromosome,NC_014218.1,1336913,1337200,-,,,ARCH_RS06055,WP_013170401.1,95,hypothetical protein
+chromosome,NC_014218.1,1337487,1337867,-,,,ARCH_RS06065,WP_187286503.1,126,hypothetical protein
+chromosome,NC_014218.1,1339122,1340231,+,,,ARCH_RS06070,WP_013170406.1,369,radical SAM protein
+chromosome,NC_014218.1,1340301,1341566,+,,,ARCH_RS06075,WP_013170407.1,421,MFS transporter
+chromosome,NC_014218.1,1341855,1342139,+,,,ARCH_RS10125,WP_170121714.1,94,hypothetical protein
+chromosome,NC_014218.1,1342096,1342989,+,,,ARCH_RS06085,WP_013170408.1,297,IS3 family transposase
+chromosome,NC_014218.1,1343124,1343348,+,,,ARCH_RS06090,WP_013170409.1,74,DUF2283 domain-containing protein
+chromosome,NC_014218.1,1344888,1345118,+,,,ARCH_RS10345,WP_041640395.1,76,hypothetical protein
+chromosome,NC_014218.1,1345022,1346059,+,,,ARCH_RS06110,WP_041640936.1,345,"recombinase family protein, partial"
+chromosome,NC_014218.1,1346134,1347699,+,,,ARCH_RS06115,WP_013170411.1,521,recombinase family protein
+chromosome,NC_014218.1,1347706,1349328,-,,,ARCH_RS06120,WP_013170412.1,540,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1350060,1350821,-,,,ARCH_RS06125,WP_013170413.1,253,HAD-IIA family hydrolase
+chromosome,NC_014218.1,1350979,1351527,-,,smpB,ARCH_RS06130,WP_013170414.1,182,SsrA-binding protein SmpB
+chromosome,NC_014218.1,1351546,1352829,-,,,ARCH_RS06135,WP_013170415.1,427,peptidoglycan DD-metalloendopeptidase family protein
+chromosome,NC_014218.1,1352832,1353746,-,,ftsX,ARCH_RS06140,WP_013170416.1,304,permease-like cell division protein FtsX
+chromosome,NC_014218.1,1353746,1354435,-,,ftsE,ARCH_RS06145,WP_013170417.1,229,cell division ATP-binding protein FtsE
+chromosome,NC_014218.1,1354548,1355678,-,,prfB,ARCH_RS06150,WP_013170418.1,376,peptide chain release factor 2
+chromosome,NC_014218.1,1355694,1356110,-,,,ARCH_RS06155,WP_013170419.1,138,hypothetical protein
+chromosome,NC_014218.1,1356107,1356535,-,,,ARCH_RS06160,WP_013170420.1,142,pilus assembly protein
+chromosome,NC_014218.1,1356519,1356884,-,,,ARCH_RS06165,WP_013170421.1,121,hypothetical protein
+chromosome,NC_014218.1,1356881,1357090,-,,,ARCH_RS06170,WP_013170422.1,69,hypothetical protein
+chromosome,NC_014218.1,1357112,1357987,-,,,ARCH_RS06175,WP_013170423.1,291,type II secretion system F family protein
+chromosome,NC_014218.1,1357984,1358796,-,,,ARCH_RS06180,WP_013170424.1,270,type II secretion system F family protein
+chromosome,NC_014218.1,1358772,1360025,-,,,ARCH_RS06185,WP_013170425.1,417,"ATPase, T2SS/T4P/T4SS family"
+chromosome,NC_014218.1,1360194,1361213,+,,,ARCH_RS06190,WP_013170426.1,339,phosphotransferase
+chromosome,NC_014218.1,1361261,1364734,-,,,ARCH_RS06195,WP_081440786.1,1157,DEAD/DEAH box helicase
+chromosome,NC_014218.1,1364731,1367865,-,,,ARCH_RS06200,WP_013170428.1,1044,PD-(D/E)XK nuclease family protein
+chromosome,NC_014218.1,1367986,1368900,+,,,ARCH_RS06205,WP_013170429.1,304,DUF808 domain-containing protein
+chromosome,NC_014218.1,1368990,1369214,+,,,ARCH_RS06210,WP_013170430.1,74,DUF3107 domain-containing protein
+chromosome,NC_014218.1,1369248,1370810,+,,,ARCH_RS06215,WP_013170431.1,520,DEAD/DEAH box helicase
+chromosome,NC_014218.1,1370883,1371506,-,,,ARCH_RS06220,WP_013170432.1,207,MarC family protein
+chromosome,NC_014218.1,1371506,1372342,-,,,ARCH_RS06225,WP_013170433.1,278,PHP domain-containing protein
+chromosome,NC_014218.1,1372434,1373942,+,,,ARCH_RS06230,WP_013170434.1,502,aminopeptidase P family protein
+chromosome,NC_014218.1,1373999,1375288,+,,,ARCH_RS06235,WP_013170435.1,429,CBS domain-containing protein
+chromosome,NC_014218.1,1375288,1375869,+,,,ARCH_RS06240,WP_013170436.1,193,DUF1003 domain-containing protein
+chromosome,NC_014218.1,1375875,1376999,+,,,ARCH_RS06245,WP_013170437.1,374,Mrp/NBP35 family ATP-binding protein
+chromosome,NC_014218.1,1377018,1377647,+,,,ARCH_RS06250,WP_013170438.1,209,O-methyltransferase
+chromosome,NC_014218.1,1377652,1378410,-,,,ARCH_RS06255,WP_231958012.1,252,twin-arginine translocase subunit TatC
+chromosome,NC_014218.1,1378417,1378605,-,,tatA,ARCH_RS06260,WP_013170440.1,62,twin-arginine translocase TatA/TatE family subunit
+chromosome,NC_014218.1,1378770,1379531,+,,modA,ARCH_RS06265,WP_013170441.1,253,molybdate ABC transporter substrate-binding protein
+chromosome,NC_014218.1,1379534,1381018,+,,,ARCH_RS06270,WP_013170442.1,494,ABC transporter permease
+chromosome,NC_014218.1,1381039,1381509,-,,moaC,ARCH_RS06275,WP_041640942.1,156,cyclic pyranopterin monophosphate synthase MoaC
+chromosome,NC_014218.1,1381539,1382759,-,,,ARCH_RS06280,WP_231958010.1,406,molybdopterin-binding protein
+chromosome,NC_014218.1,1382756,1383475,-,,,ARCH_RS06285,WP_013170445.1,239,HesA/MoeB/ThiF family protein
+chromosome,NC_014218.1,1383524,1384516,+,,,ARCH_RS10350,WP_013170446.1,330,molybdenum cofactor biosynthesis protein MoaE
+chromosome,NC_014218.1,1384517,1384774,-,,,ARCH_RS06295,WP_013170447.1,85,MoaD/ThiS family protein
+chromosome,NC_014218.1,1384812,1385855,-,,moaA,ARCH_RS06300,WP_041640397.1,347,"GTP 3\\',8-cyclase MoaA"
+chromosome,NC_014218.1,1385949,1386824,-,,,ARCH_RS06305,WP_013170449.1,291,4Fe-4S dicluster domain-containing protein
+chromosome,NC_014218.1,1386817,1387434,-,,,ARCH_RS06310,WP_013170450.1,205,molecular chaperone TorD family protein
+chromosome,NC_014218.1,1387552,1388514,-,,,ARCH_RS06315,WP_013170451.1,320,dimethyl sulfoxide reductase anchor subunit
+chromosome,NC_014218.1,1388514,1389152,-,,dmsB,ARCH_RS06320,WP_013170452.1,212,dimethylsulfoxide reductase subunit B
+chromosome,NC_014218.1,1389164,1391716,-,,,ARCH_RS06325,WP_013170453.1,850,molybdopterin-dependent oxidoreductase
+chromosome,NC_014218.1,1392014,1392691,+,,,ARCH_RS06330,WP_013170454.1,225,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,1392714,1393040,+,,,ARCH_RS06335,WP_013170455.1,108,hypothetical protein
+chromosome,NC_014218.1,1393050,1393322,+,,,ARCH_RS06340,WP_013170456.1,90,DUF6457 domain-containing protein
+chromosome,NC_014218.1,1393407,1393586,-,,,ARCH_RS06345,WP_013170457.1,59,DUF3117 domain-containing protein
+chromosome,NC_014218.1,1393664,1394413,-,,,ARCH_RS06350,WP_111724951.1,249,TIGR00730 family Rossman fold protein
+chromosome,NC_014218.1,1394536,1395360,+,,,ARCH_RS06355,WP_013170459.1,274,purine-nucleoside phosphorylase
+chromosome,NC_014218.1,1395501,1397192,+,,,ARCH_RS06360,WP_013170460.1,563,phospho-sugar mutase
+chromosome,NC_014218.1,1397348,1398013,-,,deoC,ARCH_RS06365,WP_197712435.1,221,deoxyribose-phosphate aldolase
+chromosome,NC_014218.1,1398053,1398766,-,,,ARCH_RS06370,WP_013170462.1,237,hypothetical protein
+chromosome,NC_014218.1,1398766,1400055,-,,,ARCH_RS06375,WP_013170463.1,429,thymidine phosphorylase
+chromosome,NC_014218.1,1400055,1400525,-,,,ARCH_RS06380,WP_013170464.1,156,cytidine deaminase
+chromosome,NC_014218.1,1400596,1401828,-,,,ARCH_RS06385,WP_049765901.1,410,ABC transporter permease
+chromosome,NC_014218.1,1401927,1403207,-,,,ARCH_RS06390,WP_013170466.1,426,ABC transporter permease
+chromosome,NC_014218.1,1403207,1404757,-,,,ARCH_RS06395,WP_041640401.1,516,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1404952,1406037,-,,,ARCH_RS06400,WP_013170468.1,361,BMP family ABC transporter substrate-binding protein
+chromosome,NC_014218.1,1406305,1407411,-,,,ARCH_RS06405,WP_013170469.1,368,mannose-1-phosphate guanylyltransferase
+chromosome,NC_014218.1,1407436,1408680,-,,,ARCH_RS06410,WP_013170470.1,414,YihY/virulence factor BrkB family protein
+chromosome,NC_014218.1,1408683,1409555,-,,,ARCH_RS06415,WP_013170471.1,290,exodeoxyribonuclease III
+chromosome,NC_014218.1,1409603,1410454,-,,,ARCH_RS06420,WP_013170472.1,283,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+chromosome,NC_014218.1,1410478,1411761,-,,,ARCH_RS06425,WP_013170473.1,427,serine hydroxymethyltransferase
+chromosome,NC_014218.1,1411901,1412761,+,,purU,ARCH_RS06430,WP_187286504.1,286,formyltetrahydrofolate deformylase
+chromosome,NC_014218.1,1412786,1414399,-,,,ARCH_RS06435,WP_013170475.1,537,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+chromosome,NC_014218.1,1414433,1415140,-,,,ARCH_RS06440,WP_013170476.1,235,thiamine phosphate synthase
+chromosome,NC_014218.1,1415137,1415940,-,,thiM,ARCH_RS06445,WP_013170477.1,267,hydroxyethylthiazole kinase
+chromosome,NC_014218.1,1416054,1416662,-,,,ARCH_RS06450,WP_013170478.1,202,sugar O-acetyltransferase
+chromosome,NC_014218.1,1416672,1417340,-,,,ARCH_RS06455,WP_013170479.1,222,response regulator transcription factor
+chromosome,NC_014218.1,1417337,1418557,-,,,ARCH_RS06460,WP_013170480.1,406,PspC domain-containing protein
+chromosome,NC_014218.1,1418671,1420008,+,,,ARCH_RS06465,WP_013170481.1,445,PspC domain-containing protein
+chromosome,NC_014218.1,1420018,1420281,+,,,ARCH_RS09960,WP_013170482.1,87,hypothetical protein
+chromosome,NC_014218.1,1420222,1420578,-,,,ARCH_RS06470,WP_081440787.1,118,YchJ family metal-binding protein
+chromosome,NC_014218.1,1420693,1421688,-,,,ARCH_RS06475,WP_013170484.1,331,malate dehydrogenase
+chromosome,NC_014218.1,1422239,1423897,-,,pgi,ARCH_RS06485,WP_013170486.1,552,glucose-6-phosphate isomerase
+chromosome,NC_014218.1,1424004,1426247,-,,,ARCH_RS06490,WP_013170487.1,747,alpha-amylase family glycosyl hydrolase
+chromosome,NC_014218.1,1426393,1428687,+,,,ARCH_RS06495,WP_013170488.1,764,6-phosphofructokinase
+chromosome,NC_014218.1,1428762,1433996,-,,,ARCH_RS06500,WP_013170489.1,1744,discoidin domain-containing protein
+chromosome,NC_014218.1,1434200,1434472,-,,,ARCH_RS09395,WP_013170490.1,90,DUF3017 domain-containing protein
+chromosome,NC_014218.1,1434465,1435628,-,,,ARCH_RS06505,WP_013170491.1,387,DUF6350 family protein
+chromosome,NC_014218.1,1435684,1436604,-,,sucD,ARCH_RS06510,WP_013170492.1,306,succinate--CoA ligase subunit alpha
+chromosome,NC_014218.1,1436615,1437787,-,,sucC,ARCH_RS06515,WP_013170493.1,390,ADP-forming succinate--CoA ligase subunit beta
+chromosome,NC_014218.1,1437931,1439934,-,,,ARCH_RS09400,WP_013170494.1,667,acyltransferase
+chromosome,NC_014218.1,1439939,1442449,-,,,ARCH_RS06525,WP_013170495.1,836,UvrD-helicase domain-containing protein
+chromosome,NC_014218.1,1442636,1445209,-,,,ARCH_RS09405,WP_013170496.1,857,exo-alpha-sialidase
+chromosome,NC_014218.1,1445409,1445792,+,,,ARCH_RS06535,WP_013170497.1,127,AzlC family ABC transporter permease
+chromosome,NC_014218.1,1445882,1446166,+,,,ARCH_RS06540,WP_170121735.1,94,transposase
+chromosome,NC_014218.1,1446226,1446813,+,,,ARCH_RS09965,WP_170121736.1,195,DDE-type integrase/transposase/recombinase
+chromosome,NC_014218.1,1447074,1447496,-,,,ARCH_RS06550,WP_013170499.1,140,hypothetical protein
+chromosome,NC_014218.1,1447767,1448180,-,,,ARCH_RS09980,WP_187286505.1,137,DDE-type integrase/transposase/recombinase
+chromosome,NC_014218.1,1448415,1448699,-,,,ARCH_RS06560,WP_170121735.1,94,transposase
+chromosome,NC_014218.1,1448924,1449295,-,,,ARCH_RS06565,WP_013170500.1,123,SdpI family protein
+chromosome,NC_014218.1,1449529,1451094,-,,guaA,ARCH_RS06570,WP_013170501.1,521,glutamine-hydrolyzing GMP synthase
+chromosome,NC_014218.1,1451727,1452011,+,,,ARCH_RS06580,WP_013170504.1,94,hypothetical protein
+chromosome,NC_014218.1,1452034,1452744,-,,,ARCH_RS06585,WP_148214500.1,236,hypothetical protein
+chromosome,NC_014218.1,1452641,1453441,-,,,ARCH_RS06590,WP_013170506.1,266,ImmA/IrrE family metallo-endopeptidase
+chromosome,NC_014218.1,1453458,1453787,-,,,ARCH_RS06595,WP_013170507.1,109,helix-turn-helix transcriptional regulator
+chromosome,NC_014218.1,1453863,1454792,-,,,ARCH_RS06600,WP_013170508.1,309,pseudouridine synthase
+chromosome,NC_014218.1,1454872,1456491,+,,pta,ARCH_RS06605,WP_013170509.1,539,phosphate acetyltransferase
+chromosome,NC_014218.1,1456579,1457751,+,,,ARCH_RS06610,WP_013170510.1,390,acetate kinase
+chromosome,NC_014218.1,1457753,1458199,+,,,ARCH_RS06615,WP_013170511.1,148,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,1458511,1460595,-,,,ARCH_RS06620,WP_013170512.1,694,hypothetical protein
+chromosome,NC_014218.1,1461120,1462508,-,,,ARCH_RS06625,WP_013170513.1,462,class II fumarate hydratase
+chromosome,NC_014218.1,1462606,1463715,-,,,ARCH_RS06630,WP_013170514.1,369,GuaB3 family IMP dehydrogenase-related protein
+chromosome,NC_014218.1,1463816,1464502,+,,,ARCH_RS06635,WP_013170515.1,228,exonuclease domain-containing protein
+chromosome,NC_014218.1,1464705,1466249,-,,ahpF,ARCH_RS06640,WP_013170516.1,514,alkyl hydroperoxide reductase subunit F
+chromosome,NC_014218.1,1466249,1466812,-,,ahpC,ARCH_RS06645,WP_013170517.1,187,alkyl hydroperoxide reductase subunit C
+chromosome,NC_014218.1,1467074,1467325,+,,,ARCH_RS10130,WP_041640405.1,83,hypothetical protein
+chromosome,NC_014218.1,1467334,1467789,+,,,ARCH_RS06655,WP_111724884.1,151,P-loop NTPase fold protein
+chromosome,NC_014218.1,1467842,1469011,-,,,ARCH_RS06660,WP_013170518.1,389,IMP dehydrogenase
+chromosome,NC_014218.1,1469248,1469532,+,,,ARCH_RS06665,WP_041640968.1,94,WhiB family transcriptional regulator
+chromosome,NC_014218.1,1469795,1470091,-,,groES,ARCH_RS06670,WP_013170520.1,98,co-chaperone GroES
+chromosome,NC_014218.1,1470230,1471471,+,,,ARCH_RS06675,WP_013170521.1,413,class I SAM-dependent methyltransferase
+chromosome,NC_014218.1,1471557,1472600,-,,tsaD,ARCH_RS06680,WP_041640408.1,347,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+chromosome,NC_014218.1,1472731,1473474,-,,,ARCH_RS06685,WP_013170523.1,247,succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+chromosome,NC_014218.1,1473471,1475441,-,,,ARCH_RS06690,WP_013170524.1,656,fumarate reductase/succinate dehydrogenase flavoprotein subunit
+chromosome,NC_014218.1,1475453,1476169,-,,,ARCH_RS06695,WP_170121734.1,238,succinate dehydrogenase cytochrome b subunit
+chromosome,NC_014218.1,1476358,1476849,-,,,ARCH_RS06700,WP_013170526.1,163,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,1476849,1477559,-,,tsaB,ARCH_RS06705,WP_013170527.1,236,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+chromosome,NC_014218.1,1477564,1478433,-,,,ARCH_RS06710,WP_013170528.1,289,hypothetical protein
+chromosome,NC_014218.1,1478430,1478963,-,,tsaE,ARCH_RS06715,WP_013170529.1,177,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+chromosome,NC_014218.1,1478995,1480119,-,,alr,ARCH_RS06720,WP_013170530.1,374,alanine racemase
+chromosome,NC_014218.1,1480112,1480963,-,,,ARCH_RS06725,WP_013170531.1,283,NAD(P)H-hydrate dehydratase
+chromosome,NC_014218.1,1480975,1482831,-,,glmS,ARCH_RS06730,WP_013170532.1,618,glutamine--fructose-6-phosphate transaminase (isomerizing)
+chromosome,NC_014218.1,1482989,1483930,+,,coaA,ARCH_RS06735,WP_013170533.1,313,type I pantothenate kinase
+chromosome,NC_014218.1,1484050,1485381,-,,glmM,ARCH_RS06740,WP_013170534.1,443,phosphoglucosamine mutase
+chromosome,NC_014218.1,1485568,1486053,-,,rpsI,ARCH_RS06745,WP_013170535.1,161,30S ribosomal protein S9
+chromosome,NC_014218.1,1486084,1486527,-,,rplM,ARCH_RS06750,WP_041640978.1,147,50S ribosomal protein L13
+chromosome,NC_014218.1,1486791,1487672,-,,,ARCH_RS06755,WP_013170537.1,293,tRNA pseudouridine synthase A
+chromosome,NC_014218.1,1487671,1488468,+,,,ARCH_RS06760,WP_013170538.1,265,ROK family protein
+chromosome,NC_014218.1,1488931,1489428,-,,rplQ,ARCH_RS06765,WP_013170540.1,165,50S ribosomal protein L17
+chromosome,NC_014218.1,1489464,1490468,-,,,ARCH_RS06770,WP_013170541.1,334,DNA-directed RNA polymerase subunit alpha
+chromosome,NC_014218.1,1490602,1490994,-,,rpsK,ARCH_RS06775,WP_013170542.1,130,30S ribosomal protein S11
+chromosome,NC_014218.1,1491047,1491421,-,,rpsM,ARCH_RS06780,WP_013170543.1,124,30S ribosomal protein S13
+chromosome,NC_014218.1,1491542,1491655,-,,rpmJ,ARCH_RS09715,WP_013170544.1,37,MULTISPECIES: 50S ribosomal protein L36
+chromosome,NC_014218.1,1491714,1491935,-,,infA,ARCH_RS06790,WP_013170545.1,73,MULTISPECIES: translation initiation factor IF-1
+chromosome,NC_014218.1,1492156,1492452,-,,,ARCH_RS09720,WP_013170546.1,98,4Fe-4S dicluster domain-containing protein
+chromosome,NC_014218.1,1492452,1493753,-,,,ARCH_RS06795,WP_013170547.1,433,FAD-dependent oxidoreductase
+chromosome,NC_014218.1,1493750,1494619,-,,,ARCH_RS06800,WP_013170548.1,289,electron transfer flavoprotein subunit alpha/FixB family protein
+chromosome,NC_014218.1,1494655,1495416,-,,,ARCH_RS06805,WP_013170549.1,253,electron transfer flavoprotein subunit alpha
+chromosome,NC_014218.1,1495508,1496122,+,,,ARCH_RS06810,WP_013170550.1,204,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,1496119,1496748,-,,,ARCH_RS06815,WP_013170551.1,209,MBL fold metallo-hydrolase
+chromosome,NC_014218.1,1496752,1498071,-,,,ARCH_RS06820,WP_231957997.1,439,MFS transporter
+chromosome,NC_014218.1,1498135,1499010,-,,,ARCH_RS06825,WP_013170553.1,291,MaoC/PaaZ C-terminal domain-containing protein
+chromosome,NC_014218.1,1499028,1500530,-,,,ARCH_RS06830,WP_013170554.1,500,AMP-binding protein
+chromosome,NC_014218.1,1500556,1501764,-,,caiB,ARCH_RS06835,WP_013170555.1,402,L-carnitine CoA-transferase
+chromosome,NC_014218.1,1501774,1502907,-,,caiA,ARCH_RS06840,WP_013170556.1,377,crotonobetainyl-CoA dehydrogenase
+chromosome,NC_014218.1,1502935,1503897,-,,aes,ARCH_RS06845,WP_013170557.1,320,acetyl esterase
+chromosome,NC_014218.1,1503909,1505186,-,,,ARCH_RS06850,WP_013170558.1,425,MFS transporter
+chromosome,NC_014218.1,1505511,1506344,-,,map,ARCH_RS06855,WP_013170559.1,277,type I methionyl aminopeptidase
+chromosome,NC_014218.1,1506417,1507001,-,,,ARCH_RS06860,WP_013170560.1,194,adenylate kinase
+chromosome,NC_014218.1,1506998,1508284,-,,secY,ARCH_RS06865,WP_013170561.1,428,preprotein translocase subunit SecY
+chromosome,NC_014218.1,1508540,1508986,-,,rplO,ARCH_RS06870,WP_013170562.1,148,50S ribosomal protein L15
+chromosome,NC_014218.1,1508986,1509168,-,,rpmD,ARCH_RS06875,WP_013170563.1,60,MULTISPECIES: 50S ribosomal protein L30
+chromosome,NC_014218.1,1509165,1509872,-,,rpsE,ARCH_RS06880,WP_013170564.1,235,30S ribosomal protein S5
+chromosome,NC_014218.1,1509898,1510269,-,,rplR,ARCH_RS06885,WP_013170565.1,123,50S ribosomal protein L18
+chromosome,NC_014218.1,1510269,1510805,-,,rplF,ARCH_RS06890,WP_013170566.1,178,50S ribosomal protein L6
+chromosome,NC_014218.1,1510821,1511219,-,,rpsH,ARCH_RS06895,WP_013170567.1,132,30S ribosomal protein S8
+chromosome,NC_014218.1,1511275,1511460,-,,,ARCH_RS09725,WP_013170568.1,61,MULTISPECIES: type Z 30S ribosomal protein S14
+chromosome,NC_014218.1,1511466,1512011,-,,rplE,ARCH_RS06900,WP_041640984.1,181,50S ribosomal protein L5
+chromosome,NC_014218.1,1512020,1512364,-,,rplX,ARCH_RS06905,WP_013170570.1,114,50S ribosomal protein L24
+chromosome,NC_014218.1,1512368,1512736,-,,rplN,ARCH_RS06910,WP_013170571.1,122,MULTISPECIES: 50S ribosomal protein L14
+chromosome,NC_014218.1,1512828,1513112,-,,rpsQ,ARCH_RS06915,WP_013170572.1,94,30S ribosomal protein S17
+chromosome,NC_014218.1,1513121,1513339,-,,rpmC,ARCH_RS06920,WP_181461421.1,72,50S ribosomal protein L29
+chromosome,NC_014218.1,1513351,1513767,-,,rplP,ARCH_RS06925,WP_013170574.1,138,50S ribosomal protein L16
+chromosome,NC_014218.1,1513773,1514597,-,,rpsC,ARCH_RS06930,WP_013170575.1,274,30S ribosomal protein S3
+chromosome,NC_014218.1,1514600,1514959,-,,rplV,ARCH_RS06935,WP_013170576.1,119,50S ribosomal protein L22
+chromosome,NC_014218.1,1514987,1515268,-,,rpsS,ARCH_RS06940,WP_013170577.1,93,30S ribosomal protein S19
+chromosome,NC_014218.1,1515286,1516122,-,,rplB,ARCH_RS06945,WP_013170578.1,278,50S ribosomal protein L2
+chromosome,NC_014218.1,1516152,1516466,-,,rplW,ARCH_RS06950,WP_013170579.1,104,50S ribosomal protein L23
+chromosome,NC_014218.1,1516463,1517110,-,,rplD,ARCH_RS06955,WP_013170580.1,215,50S ribosomal protein L4
+chromosome,NC_014218.1,1517116,1517784,-,,rplC,ARCH_RS06960,WP_013170581.1,222,50S ribosomal protein L3
+chromosome,NC_014218.1,1517798,1518106,-,,rpsJ,ARCH_RS06965,WP_013170582.1,102,MULTISPECIES: 30S ribosomal protein S10
+chromosome,NC_014218.1,1518429,1519619,-,,tuf,ARCH_RS06970,WP_013170583.1,396,elongation factor Tu
+chromosome,NC_014218.1,1519744,1521864,-,,fusA,ARCH_RS06975,WP_013170584.1,706,elongation factor G
+chromosome,NC_014218.1,1521908,1522378,-,,rpsG,ARCH_RS06980,WP_013170585.1,156,30S ribosomal protein S7
+chromosome,NC_014218.1,1522378,1522752,-,,rpsL,ARCH_RS06985,WP_013170586.1,124,MULTISPECIES: 30S ribosomal protein S12
+chromosome,NC_014218.1,1523065,1524393,-,,,ARCH_RS06990,WP_013170587.1,442,hypothetical protein
+chromosome,NC_014218.1,1524478,1528455,-,,rpoC,ARCH_RS06995,WP_013170588.1,1325,DNA-directed RNA polymerase subunit beta\\'
+chromosome,NC_014218.1,1528547,1532011,-,,,ARCH_RS07000,WP_013170589.1,1154,DNA-directed RNA polymerase subunit beta
+chromosome,NC_014218.1,1532498,1532881,-,,rplL,ARCH_RS07005,WP_013170590.1,127,50S ribosomal protein L7/L12
+chromosome,NC_014218.1,1532945,1533469,-,,rplJ,ARCH_RS07010,WP_013170591.1,174,50S ribosomal protein L10
+chromosome,NC_014218.1,1533732,1534355,-,,udk,ARCH_RS07015,WP_013170592.1,207,uridine kinase
+chromosome,NC_014218.1,1534703,1535404,-,,rplA,ARCH_RS07020,WP_013170593.1,233,50S ribosomal protein L1
+chromosome,NC_014218.1,1535509,1535943,-,,rplK,ARCH_RS07025,WP_013170594.1,144,50S ribosomal protein L11
+chromosome,NC_014218.1,1536067,1536933,-,,nusG,ARCH_RS07030,WP_013170595.1,288,transcription termination/antitermination protein NusG
+chromosome,NC_014218.1,1536967,1537212,-,,secE,ARCH_RS07035,WP_013170596.1,81,preprotein translocase subunit SecE
+chromosome,NC_014218.1,1537541,1538746,+,,,ARCH_RS07045,WP_013170597.1,401,pyridoxal phosphate-dependent aminotransferase
+chromosome,NC_014218.1,1538828,1539109,-,,,ARCH_RS07050,WP_013170598.1,93,hypothetical protein
+chromosome,NC_014218.1,1539613,1540812,+,,,ARCH_RS07055,WP_013169363.1,399,IS110 family transposase
+chromosome,NC_014218.1,1541049,1542308,-,,,ARCH_RS07060,WP_013170599.1,419,aminoglycoside phosphotransferase family protein
+chromosome,NC_014218.1,1542423,1543460,+,,,ARCH_RS07065,WP_013170600.1,345,adenosine deaminase
+chromosome,NC_014218.1,1543408,1544298,+,,,ARCH_RS09410,WP_013170601.1,296,alpha/beta fold hydrolase
+chromosome,NC_014218.1,1544295,1544945,+,,,ARCH_RS07075,WP_013170602.1,216,alpha/beta hydrolase
+chromosome,NC_014218.1,1544942,1546120,-,,,ARCH_RS07080,WP_013170603.1,392,UDP-N-acetylmuramate dehydrogenase
+chromosome,NC_014218.1,1547137,1547631,+,,,ARCH_RS07100,WP_013170605.1,164,YajQ family cyclic di-GMP-binding protein
+chromosome,NC_014218.1,1547824,1549206,-,,,ARCH_RS07105,WP_013170606.1,460,FAD-dependent oxidoreductase
+chromosome,NC_014218.1,1549517,1550185,-,,raiA,ARCH_RS07110,WP_013170607.1,222,ribosome-associated translation inhibitor RaiA
+chromosome,NC_014218.1,1550401,1551102,-,,,ARCH_RS07115,WP_013170608.1,233,phosphoribosyltransferase family protein
+chromosome,NC_014218.1,1551108,1552787,-,,,ARCH_RS07120,WP_013170609.1,559,LpqB family beta-propeller domain-containing protein
+chromosome,NC_014218.1,1552784,1554448,-,,mtrB,ARCH_RS07125,WP_013170610.1,554,MtrAB system histidine kinase MtrB
+chromosome,NC_014218.1,1554445,1555119,-,,mtrA,ARCH_RS07130,WP_013170611.1,224,MtrAB system response regulator MtrA
+chromosome,NC_014218.1,1555154,1555600,-,,,ARCH_RS07135,WP_013170612.1,148,DUF3499 domain-containing protein
+chromosome,NC_014218.1,1555655,1556083,+,,,ARCH_RS07140,WP_013170613.1,142,metallopeptidase family protein
+chromosome,NC_014218.1,1556037,1557506,-,,,ARCH_RS07145,WP_013170614.1,489,DUF5719 family protein
+chromosome,NC_014218.1,1557503,1560421,-,,,ARCH_RS07150,WP_013170615.1,972,glycosyltransferase
+chromosome,NC_014218.1,1560430,1560714,-,,,ARCH_RS07155,WP_041640994.1,94,WhiB family transcriptional regulator
+chromosome,NC_014218.1,1560971,1561618,+,,,ARCH_RS09415,WP_013170617.1,215,TIGR03089 family protein
+chromosome,NC_014218.1,1561676,1562833,+,,,ARCH_RS07165,WP_013170618.1,385,LCP family protein
+chromosome,NC_014218.1,1562851,1564203,+,,,ARCH_RS07170,WP_013170619.1,450,LCP family protein
+chromosome,NC_014218.1,1564205,1565521,-,,,ARCH_RS07175,WP_013170620.1,438,HAMP domain-containing histidine kinase
+chromosome,NC_014218.1,1565544,1566224,-,,,ARCH_RS07180,WP_013170621.1,226,response regulator transcription factor
+chromosome,NC_014218.1,1566314,1567351,-,,,ARCH_RS07185,WP_013170622.1,345,adenylate/guanylate cyclase domain-containing protein
+chromosome,NC_014218.1,1567471,1569135,+,,,ARCH_RS07190,WP_013170623.1,554,DUF885 domain-containing protein
+chromosome,NC_014218.1,1569132,1569767,+,,,ARCH_RS07195,WP_013170624.1,211,Maf family nucleotide pyrophosphatase
+chromosome,NC_014218.1,1569841,1571172,-,,,ARCH_RS07200,WP_013170625.1,443,citrate synthase
+chromosome,NC_014218.1,1571333,1571656,-,,,ARCH_RS07205,WP_013170626.1,107,ferredoxin family protein
+chromosome,NC_014218.1,1571734,1573437,-,,,ARCH_RS07210,WP_041640417.1,567,VanW family protein
+chromosome,NC_014218.1,1573434,1573820,-,,,ARCH_RS07215,WP_013170628.1,128,hypothetical protein
+chromosome,NC_014218.1,1573827,1575749,-,,typA,ARCH_RS07220,WP_111724947.1,640,translational GTPase TypA
+chromosome,NC_014218.1,1575922,1576533,+,,,ARCH_RS09420,WP_049765842.1,203,PH domain-containing protein
+chromosome,NC_014218.1,1576530,1578260,-,,,ARCH_RS07230,WP_013170631.1,576,ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,1578257,1580098,-,,,ARCH_RS07235,WP_187286506.1,613,ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,1580725,1582416,-,,,ARCH_RS07240,WP_013170633.1,563,ABC transporter family substrate-binding protein
+chromosome,NC_014218.1,1582617,1584746,-,,,ARCH_RS07245,WP_013170634.1,709,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1584743,1585708,-,,,ARCH_RS07250,WP_013170635.1,321,ABC transporter permease
+chromosome,NC_014218.1,1585708,1586715,-,,,ARCH_RS07255,WP_013170636.1,335,ABC transporter permease
+chromosome,NC_014218.1,1586985,1587770,+,,lipB,ARCH_RS07260,WP_013170637.1,261,lipoyl(octanoyl) transferase LipB
+chromosome,NC_014218.1,1587749,1588798,+,,,ARCH_RS07265,WP_013170638.1,349,lipoyl synthase
+chromosome,NC_014218.1,1588896,1590452,-,,,ARCH_RS07270,WP_013170639.1,518,AMP-binding protein
+chromosome,NC_014218.1,1590449,1591750,-,,,ARCH_RS07275,WP_013170640.1,433,M18 family aminopeptidase
+chromosome,NC_014218.1,1591773,1592540,-,,,ARCH_RS09425,WP_013170641.1,255,alpha/beta hydrolase
+chromosome,NC_014218.1,1592653,1593030,-,,,ARCH_RS07285,WP_049765843.1,125,hypothetical protein
+chromosome,NC_014218.1,1593321,1595528,+,,,ARCH_RS07290,WP_013170643.1,735,NADP-dependent isocitrate dehydrogenase
+chromosome,NC_014218.1,1595596,1596141,+,,,ARCH_RS09430,WP_013170644.1,181,LppP/LprE family lipoprotein
+chromosome,NC_014218.1,1596288,1597244,-,,,ARCH_RS07300,WP_013170645.1,318,L-lactate dehydrogenase
+chromosome,NC_014218.1,1597388,1598170,+,,,ARCH_RS07305,WP_013170646.1,260,"2-oxo-hept-3-ene-1,7-dioate hydratase"
+chromosome,NC_014218.1,1598182,1599438,+,,,ARCH_RS07310,WP_013170647.1,418,alpha/beta fold hydrolase
+chromosome,NC_014218.1,1599499,1599897,+,,,ARCH_RS07315,WP_013170648.1,132,DUF4870 domain-containing protein
+chromosome,NC_014218.1,1599890,1601116,-,,pepT,ARCH_RS07320,WP_013170649.1,408,peptidase T
+chromosome,NC_014218.1,1601335,1603314,+,,,ARCH_RS07325,WP_013170650.1,659,glucose PTS transporter subunit IIA
+chromosome,NC_014218.1,1603323,1604168,+,,,ARCH_RS07330,WP_013170651.1,281,PRD domain-containing protein
+chromosome,NC_014218.1,1604263,1605963,-,,ptsP,ARCH_RS07335,WP_013170652.1,566,phosphoenolpyruvate--protein phosphotransferase
+chromosome,NC_014218.1,1605968,1606231,-,,,ARCH_RS07340,WP_013170653.1,87,HPr family phosphocarrier protein
+chromosome,NC_014218.1,1612113,1612655,+,,,ARCH_RS07360,WP_013170654.1,180,NAD(P)H-dependent oxidoreductase
+chromosome,NC_014218.1,1612732,1613163,-,,,ARCH_RS07365,WP_013170655.1,143,rhodanese-like domain-containing protein
+chromosome,NC_014218.1,1613201,1613437,-,,,ARCH_RS07370,WP_013170656.1,78,discoidin domain-containing protein
+chromosome,NC_014218.1,1613490,1613795,-,,,ARCH_RS07375,WP_145961605.1,101,hypothetical protein
+chromosome,NC_014218.1,1613949,1614410,+,,,ARCH_RS07380,WP_013170658.1,153,DNA starvation/stationary phase protection protein
+chromosome,NC_014218.1,1614541,1615446,-,,,ARCH_RS07385,WP_013170659.1,301,DUF4300 family protein
+chromosome,NC_014218.1,1615463,1616203,-,,,ARCH_RS07390,WP_041640419.1,246,CPBP family intramembrane metalloprotease
+chromosome,NC_014218.1,1616257,1616856,-,,,ARCH_RS07395,WP_013170661.1,199,redoxin domain-containing protein
+chromosome,NC_014218.1,1616979,1617836,-,,ccsB,ARCH_RS07400,WP_013170662.1,285,c-type cytochrome biogenesis protein CcsB
+chromosome,NC_014218.1,1617829,1619271,-,,,ARCH_RS07405,WP_013170663.1,480,cytochrome c biogenesis protein ResB
+chromosome,NC_014218.1,1619290,1619979,-,,,ARCH_RS07410,WP_013170664.1,229,cytochrome c biogenesis CcdA family protein
+chromosome,NC_014218.1,1619982,1620734,-,,,ARCH_RS07415,WP_170121732.1,250,tetratricopeptide repeat protein
+chromosome,NC_014218.1,1620841,1622328,-,,,ARCH_RS07420,WP_013170666.1,495,ammonia-forming cytochrome c nitrite reductase subunit c552
+chromosome,NC_014218.1,1622334,1622765,-,,nrfH,ARCH_RS07425,WP_258399618.1,143,cytochrome c nitrite reductase small subunit
+chromosome,NC_014218.1,1623077,1623526,-,,,ARCH_RS07430,WP_013170668.1,149,ribose-5-phosphate isomerase
+chromosome,NC_014218.1,1624023,1625054,-,,,ARCH_RS07440,WP_013170670.1,343,LacI family transcriptional regulator
+chromosome,NC_014218.1,1625094,1625327,-,,,ARCH_RS07445,WP_041640420.1,77,hypothetical protein
+chromosome,NC_014218.1,1625540,1626133,-,,,ARCH_RS07450,WP_013170671.1,197,mismatch-specific DNA-glycosylase
+chromosome,NC_014218.1,1626333,1626863,-,,,ARCH_RS07455,WP_013170672.1,176,GNAT family N-acetyltransferase
+chromosome,NC_014218.1,1626863,1627489,-,,,ARCH_RS07460,WP_013170673.1,208,DUF2812 domain-containing protein
+chromosome,NC_014218.1,1627486,1627806,-,,,ARCH_RS07465,WP_013170674.1,106,PadR family transcriptional regulator
+chromosome,NC_014218.1,1627950,1628075,-,,,ARCH_RS09735,WP_013170675.1,41,methionine/alanine import family NSS transporter small subunit
+chromosome,NC_014218.1,1628072,1629631,-,,,ARCH_RS07470,WP_013170676.1,519,sodium-dependent transporter
+chromosome,NC_014218.1,1629972,1630337,-,,,ARCH_RS07475,WP_013170677.1,121,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1630577,1631998,-,,,ARCH_RS07480,WP_013170678.1,473,sulfatase-like hydrolase/transferase
+chromosome,NC_014218.1,1632075,1633088,+,,,ARCH_RS07485,WP_013170679.1,337,LacI family transcriptional regulator
+chromosome,NC_014218.1,1633085,1634449,-,,,ARCH_RS07490,WP_013170680.1,454,MFS transporter
+chromosome,NC_014218.1,1634618,1635871,+,,,ARCH_RS07495,WP_013170681.1,417,anaerobic sulfatase maturase
+chromosome,NC_014218.1,1635876,1636622,+,,,ARCH_RS07500,WP_013170682.1,248,sulfite exporter TauE/SafE family protein
+chromosome,NC_014218.1,1637121,1638428,-,,,ARCH_RS07505,WP_013170683.1,435,nucleotidyltransferase
+chromosome,NC_014218.1,1638428,1639024,-,,,ARCH_RS07510,WP_013170684.1,198,SLATT domain-containing protein
+chromosome,NC_014218.1,1639085,1640182,-,,ychF,ARCH_RS07515,WP_013170685.1,365,redox-regulated ATPase YchF
+chromosome,NC_014218.1,1640313,1641536,+,,,ARCH_RS07520,WP_013170686.1,407,DNA recombination protein RmuC
+chromosome,NC_014218.1,1641556,1641999,-,,,ARCH_RS07525,WP_013170687.1,147,hypothetical protein
+chromosome,NC_014218.1,1642007,1642360,-,,,ARCH_RS07530,WP_013170688.1,117,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,1642422,1642964,-,,,ARCH_RS07535,WP_013170689.1,180,hypothetical protein
+chromosome,NC_014218.1,1643001,1644098,-,,,ARCH_RS07540,WP_049765906.1,365,4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+chromosome,NC_014218.1,1644386,1645651,+,,xseA,ARCH_RS07545,WP_013170691.1,421,exodeoxyribonuclease VII large subunit
+chromosome,NC_014218.1,1645638,1645892,+,,,ARCH_RS07550,WP_013170692.1,84,exodeoxyribonuclease VII small subunit
+chromosome,NC_014218.1,1645894,1646841,+,,,ARCH_RS07555,WP_013170693.1,315,PfkB family carbohydrate kinase
+chromosome,NC_014218.1,1646894,1647652,-,,,ARCH_RS07560,WP_013170694.1,252,isoprenyl transferase
+chromosome,NC_014218.1,1647797,1648462,+,,,ARCH_RS07565,WP_111724877.1,221,hemolysin III family protein
+chromosome,NC_014218.1,1648663,1649142,+,,greA,ARCH_RS07570,WP_013170696.1,159,transcription elongation factor GreA
+chromosome,NC_014218.1,1649090,1649815,+,,msrA,ARCH_RS07575,WP_223804383.1,241,peptide-methionine (S)-S-oxide reductase MsrA
+chromosome,NC_014218.1,1649871,1650305,+,,,ARCH_RS07580,WP_013170698.1,144,FKBP-type peptidyl-prolyl cis-trans isomerase
+chromosome,NC_014218.1,1650369,1651175,-,,,ARCH_RS07585,WP_013170699.1,268,Bax inhibitor-1/YccA family protein
+chromosome,NC_014218.1,1651425,1652366,+,,,ARCH_RS07590,WP_013170700.1,313,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1652657,1653172,+,,,ARCH_RS10225,WP_138975309.1,171,hypothetical protein
+chromosome,NC_014218.1,1653444,1653623,-,,,ARCH_RS07605,WP_041640423.1,59,hypothetical protein
+chromosome,NC_014218.1,1655274,1656230,-,,,ARCH_RS10230,WP_013170702.1,318,Ppx/GppA family phosphatase
+chromosome,NC_014218.1,1656249,1656812,-,,,ARCH_RS10235,WP_013170703.1,187,DUF501 domain-containing protein
+chromosome,NC_014218.1,1656809,1657321,-,,,ARCH_RS07630,WP_170121731.1,170,septum formation initiator family protein
+chromosome,NC_014218.1,1657676,1658956,-,,eno,ARCH_RS07635,WP_013170705.1,426,phosphopyruvate hydratase
+chromosome,NC_014218.1,1659192,1662698,-,,mfd,ARCH_RS07640,WP_013170706.1,1168,transcription-repair coupling factor
+chromosome,NC_014218.1,1662726,1663313,-,,pth,ARCH_RS07645,WP_013170707.1,195,aminoacyl-tRNA hydrolase
+chromosome,NC_014218.1,1663486,1664067,-,,,ARCH_RS07650,WP_013170708.1,193,50S ribosomal protein L25/general stress protein Ctc
+chromosome,NC_014218.1,1664248,1665228,-,,,ARCH_RS07655,WP_041640425.1,326,ribose-phosphate diphosphokinase
+chromosome,NC_014218.1,1665286,1666353,-,,,ARCH_RS07660,WP_041640426.1,355,NTP transferase domain-containing protein
+chromosome,NC_014218.1,1666708,1667313,+,,,ARCH_RS07670,WP_041640428.1,201,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,1667364,1668332,+,,,ARCH_RS07675,WP_197712433.1,322,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1668334,1669560,+,,,ARCH_RS07680,WP_013170713.1,408,ABC transporter permease
+chromosome,NC_014218.1,1669746,1670621,-,,,ARCH_RS07685,WP_197712425.1,291,hypothetical protein
+chromosome,NC_014218.1,1670701,1671069,+,,,ARCH_RS10355,WP_223804385.1,122,hypothetical protein
+chromosome,NC_014218.1,1671024,1671764,+,,,ARCH_RS10360,WP_049765848.1,246,type IV secretory system conjugative DNA transfer family protein
+chromosome,NC_014218.1,1671740,1672219,+,,,ARCH_RS10365,WP_231957981.1,159,TraM recognition domain-containing protein
+chromosome,NC_014218.1,1672281,1672928,-,,,ARCH_RS07695,WP_013170714.1,215,ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,1673203,1673664,-,,,ARCH_RS09995,WP_138975065.1,153,DDE-type integrase/transposase/recombinase
+chromosome,NC_014218.1,1673820,1674149,-,,,ARCH_RS07705,WP_081440792.1,109,transposase
+chromosome,NC_014218.1,1675656,1676537,+,,,ARCH_RS07715,WP_041640429.1,293,hypothetical protein
+chromosome,NC_014218.1,1676524,1677630,+,,,ARCH_RS07720,WP_013170719.1,368,methyltransferase
+chromosome,NC_014218.1,1677780,1678625,-,,,ARCH_RS07725,WP_013170720.1,281,hypothetical protein
+chromosome,NC_014218.1,1678915,1679607,-,,,ARCH_RS07730,WP_013170721.1,230,hypothetical protein
+chromosome,NC_014218.1,1679607,1681259,-,,,ARCH_RS07735,WP_231957980.1,550,tape measure protein
+chromosome,NC_014218.1,1681286,1681708,-,,,ARCH_RS10370,WP_223804387.1,140,hypothetical protein
+chromosome,NC_014218.1,1682120,1682389,+,,,ARCH_RS09750,WP_013170722.1,89,hypothetical protein
+chromosome,NC_014218.1,1682389,1682562,+,,,ARCH_RS10140,WP_013170723.1,57,hypothetical protein
+chromosome,NC_014218.1,1682892,1683290,-,,,ARCH_RS07745,WP_013170725.1,132,hypothetical protein
+chromosome,NC_014218.1,1683303,1683890,-,,,ARCH_RS07750,WP_013170726.1,195,phage tail protein
+chromosome,NC_014218.1,1683910,1684254,-,,,ARCH_RS07755,WP_013170727.1,114,hypothetical protein
+chromosome,NC_014218.1,1684251,1684688,-,,,ARCH_RS07760,WP_013170728.1,145,hypothetical protein
+chromosome,NC_014218.1,1684695,1685024,-,,,ARCH_RS07765,WP_013170729.1,109,head-tail adaptor protein
+chromosome,NC_014218.1,1685024,1685353,-,,,ARCH_RS07770,WP_013170730.1,109,head-tail connector protein
+chromosome,NC_014218.1,1685396,1686421,-,,,ARCH_RS07775,WP_013170731.1,341,phage major capsid protein
+chromosome,NC_014218.1,1686443,1687276,-,,,ARCH_RS07780,WP_013170732.1,277,Clp protease ClpP
+chromosome,NC_014218.1,1687273,1688583,-,,,ARCH_RS07785,WP_013170733.1,436,phage portal protein
+chromosome,NC_014218.1,1688703,1689005,+,,,ARCH_RS07790,WP_013170734.1,100,metalloregulator ArsR/SmtB family transcription factor
+chromosome,NC_014218.1,1689092,1690180,+,,,ARCH_RS07795,WP_197712424.1,362,permease
+chromosome,NC_014218.1,1690191,1690586,+,,,ARCH_RS07800,WP_013170736.1,131,MULTISPECIES: low molecular weight phosphatase family protein
+chromosome,NC_014218.1,1690605,1690841,+,,,ARCH_RS07805,WP_013170737.1,78,MULTISPECIES: thioredoxin family protein
+chromosome,NC_014218.1,1690847,1692445,-,,,ARCH_RS07810,WP_013170738.1,532,terminase large subunit
+chromosome,NC_014218.1,1693164,1693505,-,,,ARCH_RS10000,WP_041640434.1,113,hypothetical protein
+chromosome,NC_014218.1,1693731,1694090,+,,,ARCH_RS07825,WP_026420851.1,119,MULTISPECIES: metalloregulator ArsR/SmtB family transcription factor
+chromosome,NC_014218.1,1694087,1694689,+,,,ARCH_RS07830,WP_013170740.1,200,cadmium resistance transporter
+chromosome,NC_014218.1,1694873,1695226,+,,,ARCH_RS07835,WP_013170741.1,117,hypothetical protein
+chromosome,NC_014218.1,1695360,1696688,+,,,ARCH_RS10240,WP_013170742.1,442,hypothetical protein
+chromosome,NC_014218.1,1696685,1697176,+,,,ARCH_RS10145,WP_013170743.1,163,hypothetical protein
+chromosome,NC_014218.1,1697575,1697865,-,,,ARCH_RS07850,WP_013170744.1,96,hypothetical protein
+chromosome,NC_014218.1,1698339,1698686,-,,,ARCH_RS07860,WP_013170745.1,115,hypothetical protein
+chromosome,NC_014218.1,1698802,1698981,-,,,ARCH_RS07865,WP_013170746.1,59,DUF4314 domain-containing protein
+chromosome,NC_014218.1,1698984,1699634,-,,,ARCH_RS07870,WP_013170747.1,216,hypothetical protein
+chromosome,NC_014218.1,1699631,1699816,-,,,ARCH_RS07875,WP_013170748.1,61,hypothetical protein
+chromosome,NC_014218.1,1701086,1701367,+,,,ARCH_RS07885,WP_013170013.1,93,MULTISPECIES: transposase
+chromosome,NC_014218.1,1701421,1702242,+,,,ARCH_RS07890,WP_013170014.1,273,IS3 family transposase
+chromosome,NC_014218.1,1704090,1705832,-,,,ARCH_RS07900,WP_013170750.1,580,MULTISPECIES: ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,1705847,1707628,-,,,ARCH_RS07905,WP_231957978.1,593,ABC transporter ATP-binding protein/permease
+chromosome,NC_014218.1,1707625,1709883,-,,,ARCH_RS07910,WP_049765907.1,752,ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1709945,1710538,-,,,ARCH_RS07915,WP_013170753.1,197,MULTISPECIES: ECF transporter S component
+chromosome,NC_014218.1,1710979,1711872,+,,,ARCH_RS07920,WP_261974479.1,297,recombinase family protein
+chromosome,NC_014218.1,1711873,1713549,+,,,ARCH_RS07925,WP_013170755.1,558,recombinase family protein
+chromosome,NC_014218.1,1713471,1714235,-,,,ARCH_RS07930,WP_013170756.1,254,hypothetical protein
+chromosome,NC_014218.1,1714270,1714965,-,,,ARCH_RS07935,WP_013170757.1,231,type I restriction-modification system subunit M N-terminal domain-containing protein
+chromosome,NC_014218.1,1714955,1715161,-,,,ARCH_RS07940,WP_013170758.1,68,type II toxin-antitoxin system Phd/YefM family antitoxin
+chromosome,NC_014218.1,1715505,1715909,-,,,ARCH_RS07945,WP_013170759.1,134,hypothetical protein
+chromosome,NC_014218.1,1716634,1717164,-,,,ARCH_RS07955,WP_013170760.1,176,MarR family transcriptional regulator
+chromosome,NC_014218.1,1717418,1719259,-,,,ARCH_RS07960,WP_013170761.1,613,ABC-F family ATP-binding cassette domain-containing protein
+chromosome,NC_014218.1,1719373,1720323,-,,ispE,ARCH_RS07965,WP_013170762.1,316,4-(cytidine 5\\'-diphospho)-2-C-methyl-D-erythritol kinase
+chromosome,NC_014218.1,1720413,1720898,-,,,ARCH_RS07970,WP_013170763.1,161,PTS glucose transporter subunit IIA
+chromosome,NC_014218.1,1720898,1722493,-,,nagE,ARCH_RS07975,WP_013170764.1,531,N-acetylglucosamine-specific PTS transporter subunit IIBC
+chromosome,NC_014218.1,1722510,1723352,-,,,ARCH_RS07980,WP_013170765.1,280,PRD domain-containing protein
+chromosome,NC_014218.1,1723480,1724385,-,,rsmA,ARCH_RS07985,WP_013170766.1,301,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA
+chromosome,NC_014218.1,1724386,1725561,-,,,ARCH_RS10150,WP_013170767.1,391,G5 domain-containing protein
+chromosome,NC_014218.1,1725677,1726630,-,,,ARCH_RS07995,WP_013170768.1,317,TatD family hydrolase
+chromosome,NC_014218.1,1726641,1728446,-,,metG,ARCH_RS08000,WP_013170769.1,601,methionine--tRNA ligase
+chromosome,NC_014218.1,1728575,1729609,+,,,ARCH_RS08005,WP_013170770.1,344,isochorismatase family protein
+chromosome,NC_014218.1,1729724,1730128,-,,,ARCH_RS08010,WP_013170771.1,134,DUF1801 domain-containing protein
+chromosome,NC_014218.1,1730137,1732398,-,,,ARCH_RS08015,WP_013170772.1,753,MMPL family transporter
+chromosome,NC_014218.1,1732410,1733243,-,,rsmI,ARCH_RS08020,WP_013170773.1,277,16S rRNA (cytidine(1402)-2\\'-O)-methyltransferase
+chromosome,NC_014218.1,1733245,1733598,-,,,ARCH_RS08025,WP_013170774.1,117,metallopeptidase family protein
+chromosome,NC_014218.1,1733743,1734093,+,,,ARCH_RS08030,WP_013170775.1,116,DsrE family protein
+chromosome,NC_014218.1,1734162,1735079,+,,,ARCH_RS08035,WP_013170776.1,305,ABC transporter ATP-binding protein
+chromosome,NC_014218.1,1735081,1735836,+,,,ARCH_RS08040,WP_013170777.1,251,hypothetical protein
+chromosome,NC_014218.1,1735883,1736962,+,,,ARCH_RS09450,WP_013170778.1,359,sensor histidine kinase
+chromosome,NC_014218.1,1736959,1737564,+,,,ARCH_RS08050,WP_013170779.1,201,response regulator transcription factor
+chromosome,NC_014218.1,1737574,1738680,-,,,ARCH_RS08055,WP_013170780.1,368,methyltransferase
+chromosome,NC_014218.1,1738725,1739102,+,,,ARCH_RS09455,WP_013170781.1,125,DUF2314 domain-containing protein
+chromosome,NC_014218.1,1739106,1739570,-,,,ARCH_RS08065,WP_013170782.1,154,hypothetical protein
+chromosome,NC_014218.1,1739574,1740497,-,,,ARCH_RS08070,WP_013170783.1,307,hypothetical protein
+chromosome,NC_014218.1,1740604,1741815,-,,,ARCH_RS08075,WP_013170784.1,403,molybdopterin molybdotransferase MoeA
+chromosome,NC_014218.1,1741908,1742525,+,,,ARCH_RS08080,WP_013170785.1,205,5-formyltetrahydrofolate cyclo-ligase
+chromosome,NC_014218.1,1742620,1743267,+,,,ARCH_RS08085,WP_041640439.1,215,SAF domain-containing protein
+chromosome,NC_014218.1,1743315,1743689,+,,mscL,ARCH_RS08090,WP_013170787.1,124,large conductance mechanosensitive channel protein MscL
+chromosome,NC_014218.1,1743747,1743965,-,,,ARCH_RS08095,WP_013170788.1,72,hypothetical protein
+chromosome,NC_014218.1,1743958,1748163,-,,,ARCH_RS08100,WP_013170789.1,1401,DNA helicase
+chromosome,NC_014218.1,1748199,1749107,-,,,ARCH_RS08105,WP_013170790.1,302,rhodanese-related sulfurtransferase
+chromosome,NC_014218.1,1749572,1750504,-,,,ARCH_RS08115,WP_013170791.1,310,universal stress protein
+chromosome,NC_014218.1,1750664,1751386,-,,,ARCH_RS08120,WP_013170792.1,240,C40 family peptidase
+chromosome,NC_014218.1,1751613,1752290,-,,,ARCH_RS08125,WP_013170793.1,225,metal-dependent transcriptional regulator
+chromosome,NC_014218.1,1752528,1754000,-,,,ARCH_RS08130,WP_013170794.1,490,NCS2 family permease
+chromosome,NC_014218.1,1754093,1755337,-,,manA,ARCH_RS08135,WP_013170795.1,414,"mannose-6-phosphate isomerase, class I"
+chromosome,NC_014218.1,1755341,1756129,-,,,ARCH_RS08140,WP_041640441.1,262,DUF3027 domain-containing protein
+chromosome,NC_014218.1,1756122,1756496,-,,,ARCH_RS08145,WP_041640442.1,124,cold shock domain-containing protein
+chromosome,NC_014218.1,1756702,1758621,+,,,ARCH_RS08150,WP_013170798.1,639,TPM domain-containing protein
+chromosome,NC_014218.1,1758703,1759440,+,,,ARCH_RS08155,WP_013170799.1,245,PspA/IM30 family protein
+chromosome,NC_014218.1,1759593,1760189,+,,,ARCH_RS08160,WP_013170800.1,198,NYN domain-containing protein
+chromosome,NC_014218.1,1760240,1760977,+,,,ARCH_RS08165,WP_111724871.1,245,response regulator transcription factor
+chromosome,NC_014218.1,1760980,1762509,+,,,ARCH_RS08170,WP_013170802.1,509,HAMP domain-containing histidine kinase
+chromosome,NC_014218.1,1762430,1763143,-,,,ARCH_RS08175,WP_013170803.1,237,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chromosome,NC_014218.1,1763140,1763937,-,,,ARCH_RS08180,WP_113722923.1,265,SDR family NAD(P)-dependent oxidoreductase
+chromosome,NC_014218.1,1764080,1765285,+,,,ARCH_RS09460,WP_013170805.1,401,hypothetical protein
+chromosome,NC_014218.1,1765543,1767165,-,,groL,ARCH_RS08190,WP_013170806.1,540,chaperonin GroEL
+chromosome,NC_014218.1,1767433,1768062,-,,,ARCH_RS09465,WP_013170807.1,209,LytR C-terminal domain-containing protein
+chromosome,NC_014218.1,1768119,1768382,-,,,ARCH_RS08200,WP_013170808.1,87,DUF3263 domain-containing protein
+chromosome,NC_014218.1,1768432,1769103,+,,,ARCH_RS08205,WP_013170809.1,223,uracil-DNA glycosylase
+chromosome,NC_014218.1,1769111,1770382,-,,,ARCH_RS08210,WP_041640444.1,423,thioester domain-containing protein
+chromosome,NC_014218.1,1770509,1771699,-,,,ARCH_RS08215,WP_013170811.1,396,glycine C-acetyltransferase
+chromosome,NC_014218.1,1771699,1772757,-,,tdh,ARCH_RS08220,WP_013170812.1,352,L-threonine 3-dehydrogenase
+chromosome,NC_014218.1,1772862,1774250,+,,,ARCH_RS08225,WP_041640445.1,462,hypothetical protein
+chromosome,NC_014218.1,1774266,1774934,+,,,ARCH_RS08230,WP_013170814.1,222,TrkA family potassium uptake protein
+chromosome,NC_014218.1,1775127,1776569,-,,,ARCH_RS08235,WP_013170815.1,480,alanine:cation symporter family protein
+chromosome,NC_014218.1,1776996,1777820,-,,,ARCH_RS08245,WP_170121729.1,274,thioredoxin domain-containing protein
+chromosome,NC_014218.1,1777899,1779530,-,,,ARCH_RS09470,WP_013170817.1,543,serine/threonine protein kinase
+chromosome,NC_014218.1,1779756,1780883,+,,ugpC,ARCH_RS08255,WP_013170818.1,375,sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC
+chromosome,NC_014218.1,1781029,1782279,+,,,ARCH_RS08260,WP_041640447.1,416,DUF4032 domain-containing protein
+chromosome,NC_014218.1,1782379,1783005,-,,recR,ARCH_RS08265,WP_013170820.1,208,recombination mediator RecR
+chromosome,NC_014218.1,1783005,1785551,-,,,ARCH_RS09475,WP_013170821.1,848,DNA polymerase III subunit gamma and tau
+chromosome,NC_014218.1,1786453,1787757,-,,,ARCH_RS08280,WP_013170822.1,434,MFS transporter
+chromosome,NC_014218.1,1787939,1788760,-,,,ARCH_RS08285,WP_013170014.1,273,IS3 family transposase
+chromosome,NC_014218.1,1788814,1789095,-,,,ARCH_RS10385,WP_013170013.1,93,MULTISPECIES: transposase
+chromosome,NC_014218.1,1789507,1789914,+,,,ARCH_RS08295,WP_013170823.1,135,hypothetical protein
+chromosome,NC_014218.1,1790073,1790291,+,,,ARCH_RS10010,WP_187286507.1,72,hypothetical protein
+chromosome,NC_014218.1,1790593,1790934,+,,,ARCH_RS08300,WP_148214501.1,113,hypothetical protein
+chromosome,NC_014218.1,1791036,1791608,+,,,ARCH_RS09480,WP_013170825.1,190,LytR C-terminal domain-containing protein
+chromosome,NC_014218.1,1791613,1792977,-,,,ARCH_RS08310,WP_013170826.1,454,NCS2 family nucleobase:cation symporter
+chromosome,NC_014218.1,1793078,1793599,-,,,ARCH_RS08315,WP_013170827.1,173,ASCH domain-containing protein
+chromosome,NC_014218.1,1793602,1794867,-,,,ARCH_RS08320,WP_013170828.1,421,hypothetical protein
+chromosome,NC_014218.1,1794874,1795857,-,,rlmB,ARCH_RS08325,WP_013170829.1,327,23S rRNA (guanosine(2251)-2\\'-O)-methyltransferase RlmB
+chromosome,NC_014218.1,1795857,1797284,-,,cysS,ARCH_RS08330,WP_013170830.1,475,cysteine--tRNA ligase
+chromosome,NC_014218.1,1797468,1798874,+,,,ARCH_RS08335,WP_231957975.1,468,MFS transporter
+chromosome,NC_014218.1,1798900,1799388,-,,ispF,ARCH_RS08340,WP_041641085.1,162,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+chromosome,NC_014218.1,1799395,1800093,-,,ispD,ARCH_RS08345,WP_013170833.1,232,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+chromosome,NC_014218.1,1800166,1800711,-,,,ARCH_RS08350,WP_013170834.1,181,CarD family transcriptional regulator
+chromosome,NC_014218.1,1800786,1801472,-,,,ARCH_RS08355,WP_041641087.1,228,response regulator transcription factor
+chromosome,NC_014218.1,1801472,1802653,-,,,ARCH_RS08360,WP_013170836.1,393,ATP-binding protein
+chromosome,NC_014218.1,1802797,1803441,+,,phoU,ARCH_RS08365,WP_013170837.1,214,phosphate signaling complex protein PhoU
+chromosome,NC_014218.1,1803542,1804282,-,,,ARCH_RS08370,WP_013170838.1,246,phosphoglyceromutase
+chromosome,NC_014218.1,1804469,1804879,+,,,ARCH_RS08375,WP_013170839.1,136,YccF domain-containing protein
+chromosome,NC_014218.1,1805191,1806807,+,,,ARCH_RS08380,WP_013170841.1,538,FAD-dependent oxidoreductase
+chromosome,NC_014218.1,1806839,1807093,+,,,ARCH_RS08385,WP_013170842.1,84,metal-sensitive transcriptional regulator
+chromosome,NC_014218.1,1807194,1808627,-,,,ARCH_RS08390,WP_049765910.1,477,cytosine permease
+chromosome,NC_014218.1,1808895,1810781,+,,,ARCH_RS08395,WP_041640449.1,628,purine/pyrimidine permease
+chromosome,NC_014218.1,1816218,1816472,-,,,ARCH_RS08415,WP_013170845.1,84,hypothetical protein
+chromosome,NC_014218.1,1816752,1817078,+,,,ARCH_RS08420,WP_049765856.1,108,metalloregulator ArsR/SmtB family transcription factor
+chromosome,NC_014218.1,1817404,1817667,+,,,ARCH_RS08425,WP_041640451.1,87,hypothetical protein
+chromosome,NC_014218.1,1817621,1817797,+,,,ARCH_RS09790,WP_231958062.1,58,thioredoxin family protein
+chromosome,NC_014218.1,1818239,1819069,+,,,ARCH_RS08430,WP_049765858.1,276,tyrosine-type recombinase/integrase
+chromosome,NC_014218.1,1819072,1819848,+,,,ARCH_RS08435,WP_013170848.1,258,ParA family protein
+chromosome,NC_014218.1,1819877,1820218,+,,,ARCH_RS08440,WP_013170849.1,113,hypothetical protein
+chromosome,NC_014218.1,1820987,1821376,+,,,ARCH_RS08445,WP_013170850.1,129,hypothetical protein
+chromosome,NC_014218.1,1821712,1822209,+,,,ARCH_RS08450,WP_145961600.1,165,hypothetical protein
+chromosome,NC_014218.1,1822424,1822738,-,,,ARCH_RS08455,WP_013170852.1,104,hypothetical protein
+chromosome,NC_014218.1,1823038,1823376,+,,,ARCH_RS08460,WP_187286508.1,112,plasmid mobilization relaxosome protein MobC
+chromosome,NC_014218.1,1823339,1824700,+,,,ARCH_RS09795,WP_170121726.1,453,relaxase/mobilization nuclease domain-containing protein
+chromosome,NC_014218.1,1824700,1825248,+,,,ARCH_RS08475,WP_013170855.1,182,PcfB family protein
+chromosome,NC_014218.1,1825245,1826120,+,,,ARCH_RS08480,WP_013170856.1,291,hypothetical protein
+chromosome,NC_014218.1,1826129,1826365,+,,,ARCH_RS08485,WP_187286509.1,78,hypothetical protein
+chromosome,NC_014218.1,1826841,1828523,+,,,ARCH_RS08495,WP_013170859.1,560,type IV secretory system conjugative DNA transfer family protein
+chromosome,NC_014218.1,1828525,1829172,-,,,ARCH_RS08500,WP_013170860.1,215,DUF2335 domain-containing protein
+chromosome,NC_014218.1,1829360,1830172,-,,,ARCH_RS08505,WP_013170861.1,270,hypothetical protein
+chromosome,NC_014218.1,1830177,1831820,-,,,ARCH_RS09485,WP_013170862.1,547,transglycosylase SLT domain-containing protein
+chromosome,NC_014218.1,1831875,1834277,-,,,ARCH_RS08515,WP_013170863.1,800,DUF87 domain-containing protein
+chromosome,NC_014218.1,1834225,1834590,-,,,ARCH_RS08520,WP_013170864.1,121,PrgI family protein
+chromosome,NC_014218.1,1834602,1834799,-,,,ARCH_RS08525,WP_013170865.1,65,hypothetical protein
+chromosome,NC_014218.1,1835007,1835813,-,,,ARCH_RS08530,WP_013170866.1,268,hypothetical protein
+chromosome,NC_014218.1,1835813,1836787,-,,,ARCH_RS08535,WP_013170867.1,324,hypothetical protein
+chromosome,NC_014218.1,1836790,1837008,-,,,ARCH_RS08540,WP_049765860.1,72,helix-turn-helix domain-containing protein
+chromosome,NC_014218.1,1837739,1839301,-,,,ARCH_RS08550,WP_013170869.1,520,alpha/beta hydrolase
+chromosome,NC_014218.1,1839328,1840530,-,,,ARCH_RS08555,WP_013170870.1,400,DNA polymerase III subunit delta\\'
+chromosome,NC_014218.1,1840527,1841186,-,,tmk,ARCH_RS08560,WP_013170871.1,219,dTMP kinase
+chromosome,NC_014218.1,1841190,1843949,-,,topA,ARCH_RS08565,WP_013170872.1,919,type I DNA topoisomerase
+chromosome,NC_014218.1,1844020,1845510,-,,,ARCH_RS08570,WP_013170873.1,496,methyltransferase
+chromosome,NC_014218.1,1845825,1846568,-,,,ARCH_RS08575,WP_223804394.1,247,anaerobic ribonucleoside-triphosphate reductase activating protein
+chromosome,NC_014218.1,1846595,1848397,-,,,ARCH_RS08580,WP_013170875.1,600,ribonucleoside triphosphate reductase
+chromosome,NC_014218.1,1848661,1850997,+,,,ARCH_RS08585,WP_013170876.1,778,DEAD/DEAH box helicase
+chromosome,NC_014218.1,1850903,1851301,-,,,ARCH_RS09800,WP_013170877.1,132,hypothetical protein
+chromosome,NC_014218.1,1851291,1851668,-,,,ARCH_RS08590,WP_138975356.1,125,hypothetical protein
+chromosome,NC_014218.1,1851892,1852086,-,,,ARCH_RS08595,WP_013170879.1,64,DUF4244 domain-containing protein
+chromosome,NC_014218.1,1852363,1852545,-,,,ARCH_RS08600,WP_013170880.1,60,hypothetical protein
+chromosome,NC_014218.1,1853897,1854355,-,,,ARCH_RS08610,WP_138975357.1,152,hypothetical protein
+chromosome,NC_014218.1,1854421,1855023,-,,,ARCH_RS08615,WP_138975358.1,200,hypothetical protein
+chromosome,NC_014218.1,1855077,1856237,-,,,ARCH_RS08620,WP_013170884.1,386,TadA family conjugal transfer-associated ATPase
+chromosome,NC_014218.1,1856237,1857253,-,,,ARCH_RS08625,WP_013170885.1,338,hypothetical protein
+chromosome,NC_014218.1,1857436,1858473,+,,,ARCH_RS08630,WP_013170886.1,345,hypothetical protein
+chromosome,NC_014218.1,1858575,1859471,+,,,ARCH_RS08635,WP_013170887.1,298,alpha/beta hydrolase
+chromosome,NC_014218.1,1859624,1860184,-,,,ARCH_RS08640,WP_049765862.1,186,hypothetical protein
+chromosome,NC_014218.1,1860755,1861435,-,,nth,ARCH_RS08645,WP_013170889.1,226,endonuclease III
+chromosome,NC_014218.1,1861650,1862327,+,,,ARCH_RS08650,WP_013170890.1,225,Crp/Fnr family transcriptional regulator
+chromosome,NC_014218.1,1862630,1862935,-,,,ARCH_RS08655,WP_041640465.1,101,hypothetical protein
+chromosome,NC_014218.1,1863020,1863208,-,,,ARCH_RS10015,WP_138975361.1,62,hypothetical protein
+chromosome,NC_014218.1,1863312,1863779,-,,,ARCH_RS08660,WP_013170892.1,155,RidA family protein
+chromosome,NC_014218.1,1863776,1863934,-,,,ARCH_RS10155,WP_013170893.1,52,hypothetical protein
+chromosome,NC_014218.1,1863980,1864300,-,,,ARCH_RS08665,WP_013170894.1,106,WhiB family transcriptional regulator
+chromosome,NC_014218.1,1864457,1866859,+,,,ARCH_RS08670,WP_013170895.1,800,penicillin-binding protein
+chromosome,NC_014218.1,1866856,1868151,+,,,ARCH_RS08675,WP_013170896.1,431,metallophosphoesterase
+chromosome,NC_014218.1,1869237,1870139,-,,rbsK,ARCH_RS08685,WP_013170897.1,300,ribokinase
+chromosome,NC_014218.1,1870142,1871161,-,,,ARCH_RS08690,WP_013170898.1,339,aldose 1-epimerase family protein
+chromosome,NC_014218.1,1871171,1872547,-,,fucP,ARCH_RS08695,WP_041640468.1,458,L-fucose:H+ symporter permease
+chromosome,NC_014218.1,1873013,1873486,-,,,ARCH_RS08700,WP_170121725.1,157,Abi family protein
+chromosome,NC_014218.1,1873562,1874503,-,,,ARCH_RS08705,WP_013170901.1,313,DeoR family transcriptional regulator
+chromosome,NC_014218.1,1874681,1876438,-,,,ARCH_RS09490,WP_013170902.1,585,collagen-like protein
+chromosome,NC_014218.1,1876519,1878264,-,,,ARCH_RS09495,WP_049765865.1,581,integrin alpha
+chromosome,NC_014218.1,1878650,1879375,-,,,ARCH_RS08715,WP_013170904.1,241,SpaA isopeptide-forming pilin-related protein
+chromosome,NC_014218.1,1879447,1879701,-,,,ARCH_RS08720,WP_013170905.1,84,GlsB/YeaQ/YmgE family stress response membrane protein
+chromosome,NC_014218.1,1880156,1882516,-,,,ARCH_RS08725,WP_013170906.1,786,HAD-IC family P-type ATPase
+chromosome,NC_014218.1,1882542,1884035,-,,,ARCH_RS08730,WP_013170907.1,497,DUF1846 domain-containing protein
+chromosome,NC_014218.1,1884260,1884934,-,,def,ARCH_RS08735,WP_013170908.1,224,peptide deformylase
+chromosome,NC_014218.1,1884982,1885251,+,,,ARCH_RS08740,WP_138975366.1,89,hypothetical protein
+chromosome,NC_014218.1,1885366,1886475,+,,,ARCH_RS08745,WP_013170910.1,369,acyltransferase family protein
+chromosome,NC_014218.1,1886709,1887341,-,,,ARCH_RS08750,WP_261974480.1,210,DUF3800 domain-containing protein
+chromosome,NC_014218.1,1888166,1888621,-,,tadA,ARCH_RS08760,WP_049765867.1,151,tRNA adenosine(34) deaminase TadA
+chromosome,NC_014218.1,1888672,1889310,+,,upp,ARCH_RS08765,WP_013170913.1,212,uracil phosphoribosyltransferase
+chromosome,NC_014218.1,1889313,1890311,+,,,ARCH_RS08770,WP_013170914.1,332,alpha/beta fold hydrolase
+chromosome,NC_014218.1,1890397,1891254,+,,,ARCH_RS08775,WP_013170915.1,285,DUF5926 family protein
+chromosome,NC_014218.1,1891528,1892301,+,,,ARCH_RS08780,WP_013170916.1,257,glycosyltransferase
+chromosome,NC_014218.1,1892406,1893368,+,,,ARCH_RS08785,WP_041640474.1,320,helix-turn-helix transcriptional regulator
+chromosome,NC_014218.1,1893510,1895741,-,,,ARCH_RS08790,WP_148214504.1,743,hypothetical protein
+chromosome,NC_014218.1,1895750,1896910,-,,,ARCH_RS08795,WP_013170919.1,386,diacylglycerol kinase family protein
+chromosome,NC_014218.1,1897016,1898293,+,,serS,ARCH_RS08800,WP_013170920.1,425,serine--tRNA ligase
+chromosome,NC_014218.1,1898290,1899234,+,,,ARCH_RS09805,WP_013170921.1,314,HAD-IIB family hydrolase
+chromosome,NC_014218.1,1899124,1901430,-,,,ARCH_RS08810,WP_013170922.1,768,hypothetical protein
+chromosome,NC_014218.1,1902356,1902832,+,,,ARCH_RS08830,WP_013170923.1,158,carboxymuconolactone decarboxylase family protein
+chromosome,NC_014218.1,1903203,1903934,-,,cas5e,ARCH_RS08835,WP_013170924.1,243,type I-E CRISPR-associated protein Cas5/CasD
+chromosome,NC_014218.1,1903931,1904986,-,,cas7e,ARCH_RS08840,WP_013170925.1,351,type I-E CRISPR-associated protein Cas7/Cse4/CasC
+chromosome,NC_014218.1,1905000,1905626,-,,casB,ARCH_RS08845,WP_013170926.1,208,type I-E CRISPR-associated protein Cse2/CasB
+chromosome,NC_014218.1,1905628,1907268,-,,,ARCH_RS08850,WP_013170927.1,546,type I-E CRISPR-associated protein Cse1/CasA
+chromosome,NC_014218.1,1907518,1908216,+,,cas6e,ARCH_RS08855,WP_013170928.1,232,type I-E CRISPR-associated protein Cas6/Cse3/CasE
+chromosome,NC_014218.1,1908213,1910858,+,,,ARCH_RS08860,WP_013170929.1,881,CRISPR-associated helicase/endonuclease Cas3
+chromosome,NC_014218.1,1910855,1911838,+,,cas1e,ARCH_RS08865,WP_013170930.1,327,type I-E CRISPR-associated endonuclease Cas1e
+chromosome,NC_014218.1,1911801,1912118,+,,cas2e,ARCH_RS08870,WP_231957973.1,105,type I-E CRISPR-associated endoribonuclease Cas2e
+chromosome,NC_014218.1,1918158,1918841,-,,,ARCH_RS08880,WP_013170934.1,227,GntR family transcriptional regulator
+chromosome,NC_014218.1,1918919,1920322,-,,,ARCH_RS08885,WP_013170935.1,467,sugar porter family MFS transporter
+chromosome,NC_014218.1,1920354,1922009,-,,,ARCH_RS08890,WP_041640482.1,551,alpha/beta hydrolase
+chromosome,NC_014218.1,1922275,1923657,-,,,ARCH_RS08895,WP_013170937.1,460,MFS transporter
+chromosome,NC_014218.1,1924145,1925716,+,,,ARCH_RS08900,WP_013170938.1,523,DASS family sodium-coupled anion symporter
+chromosome,NC_014218.1,1926109,1929768,+,,,ARCH_RS08910,WP_049765869.1,1219,endo-alpha-N-acetylgalactosaminidase family protein
+chromosome,NC_014218.1,1929837,1930973,-,,,ARCH_RS08915,WP_081440811.1,378,thioester domain-containing protein
+chromosome,NC_014218.1,1931000,1931170,-,,,ARCH_RS10160,WP_170121724.1,56,hypothetical protein
+chromosome,NC_014218.1,1931389,1932759,+,,,ARCH_RS08920,WP_187286511.1,456,MurT ligase domain-containing protein
+chromosome,NC_014218.1,1932756,1933577,+,,,ARCH_RS08925,WP_013170941.1,273,glutamine amidotransferase
+chromosome,NC_014218.1,1934074,1935261,-,,rlmC,ARCH_RS08930,WP_013170942.1,395,23S rRNA (uracil(747)-C(5))-methyltransferase RlmC
+chromosome,NC_014218.1,1935279,1935923,-,,,ARCH_RS09500,WP_013170943.1,214,HAD-IA family hydrolase
+chromosome,NC_014218.1,1936098,1936322,+,,,ARCH_RS08940,WP_145961598.1,74,hypothetical protein
+chromosome,NC_014218.1,1936584,1936751,+,,,ARCH_RS10165,WP_013170945.1,55,hypothetical protein
+chromosome,NC_014218.1,1936871,1937692,-,,,ARCH_RS08945,WP_013170014.1,273,IS3 family transposase
+chromosome,NC_014218.1,1937746,1938027,-,,,ARCH_RS08950,WP_013170013.1,93,MULTISPECIES: transposase
+chromosome,NC_014218.1,1938580,1941003,-,,hrpB,ARCH_RS08955,WP_013170946.1,807,ATP-dependent helicase HrpB
+chromosome,NC_014218.1,1941000,1941599,-,,,ARCH_RS08960,WP_013170947.1,199,TetR/AcrR family transcriptional regulator
+chromosome,NC_014218.1,1941760,1943094,+,,,ARCH_RS08965,WP_013170948.1,444,hypothetical protein
+chromosome,NC_014218.1,1943144,1944367,-,,tgt,ARCH_RS08970,WP_013170949.1,407,tRNA guanosine(34) transglycosylase Tgt
+chromosome,NC_014218.1,1944387,1945214,-,,,ARCH_RS08975,WP_013170950.1,275,DUF4261 domain-containing protein
+chromosome,NC_014218.1,1945239,1945817,-,,,ARCH_RS08980,WP_145961597.1,192,hypothetical protein
+chromosome,NC_014218.1,1945885,1946805,+,,,ARCH_RS08985,WP_013170952.1,306,DUF4862 family protein
+chromosome,NC_014218.1,1946813,1947568,+,,,ARCH_RS08990,WP_013170953.1,251,thioredoxin domain-containing protein
+chromosome,NC_014218.1,1947581,1948168,+,,,ARCH_RS08995,WP_013170954.1,195,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chromosome,NC_014218.1,1948165,1948995,+,,,ARCH_RS09000,WP_013170955.1,276,aldo/keto reductase
+chromosome,NC_014218.1,1949001,1949714,+,,,ARCH_RS09005,WP_170121722.1,237,HD domain-containing protein
+chromosome,NC_014218.1,1949739,1951085,-,,dnaB,ARCH_RS09010,WP_111724864.1,448,replicative DNA helicase
+chromosome,NC_014218.1,1951781,1953115,+,,,ARCH_RS09015,WP_013170958.1,444,MATE family efflux transporter
+chromosome,NC_014218.1,1953402,1956416,-,,,ARCH_RS09020,WP_013170959.1,1004,Cys-Gln thioester bond-forming surface protein
+chromosome,NC_014218.1,1957513,1957767,+,,,ARCH_RS09515,WP_148214505.1,84,hypothetical protein
+chromosome,NC_014218.1,1958542,1961916,-,,,ARCH_RS09820,WP_013170960.1,1124,Rib/alpha-like domain-containing protein
+chromosome,NC_014218.1,1962177,1962623,-,,rplI,ARCH_RS09035,WP_013170961.1,148,50S ribosomal protein L9
+chromosome,NC_014218.1,1962647,1962883,-,,rpsR,ARCH_RS09040,WP_013170962.1,78,30S ribosomal protein S18
+chromosome,NC_014218.1,1962944,1963471,-,,,ARCH_RS09045,WP_013170963.1,175,single-stranded DNA-binding protein
+chromosome,NC_014218.1,1963490,1963795,-,,rpsF,ARCH_RS09050,WP_013170964.1,101,30S ribosomal protein S6
+chromosome,NC_014218.1,1963959,1966124,-,,,ARCH_RS09055,WP_013170965.1,721,penicillin-binding protein
+chromosome,NC_014218.1,1966130,1967374,-,,,ARCH_RS09060,WP_013170966.1,414,AI-2E family transporter
+chromosome,NC_014218.1,1967443,1968732,-,,,ARCH_RS09065,WP_049765876.1,429,MFS transporter
+chromosome,NC_014218.1,1968854,1970347,-,,,ARCH_RS09070,WP_013170968.1,497,CCA tRNA nucleotidyltransferase
+chromosome,NC_014218.1,1970412,1970918,+,,,ARCH_RS09075,WP_013170969.1,168,NUDIX hydrolase
+chromosome,NC_014218.1,1970918,1972909,+,,,ARCH_RS09080,WP_013170970.1,663,DUF6049 family protein
+chromosome,NC_014218.1,1972957,1974945,+,,,ARCH_RS09085,WP_013170971.1,662,hypothetical protein
+chromosome,NC_014218.1,1974992,1975939,+,,trxB,ARCH_RS09090,WP_013170972.1,315,thioredoxin-disulfide reductase
+chromosome,NC_014218.1,1976292,1977650,+,,,ARCH_RS09095,WP_013170974.1,452,PLP-dependent aminotransferase family protein
+chromosome,NC_014218.1,1977934,1979328,-,,,ARCH_RS09100,WP_013170975.1,464,ParB/RepB/Spo0J family partition protein
+chromosome,NC_014218.1,1979339,1980166,-,,,ARCH_RS09105,WP_223804449.1,275,ParA family protein
+chromosome,NC_014218.1,1980588,1981238,-,,rsmG,ARCH_RS09110,WP_013170977.1,216,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+chromosome,NC_014218.1,1982017,1983216,+,,,ARCH_RS09115,WP_013169363.1,399,IS110 family transposase
+chromosome,NC_014218.1,1983323,1983880,-,,,ARCH_RS09120,WP_013170978.1,185,KH domain-containing protein
+chromosome,NC_014218.1,1983921,1985054,-,,yidC,ARCH_RS09125,WP_013170979.1,377,membrane protein insertase YidC
+chromosome,NC_014218.1,1985069,1985401,-,,yidD,ARCH_RS09130,WP_013170980.1,110,membrane protein insertion efficiency factor YidD
+chromosome,NC_014218.1,1985398,1985760,-,,rnpA,ARCH_RS09135,WP_013170981.1,120,ribonuclease P protein component
+chromosome,NC_014218.1,1985761,1985901,-,,rpmH,ARCH_RS09140,WP_013170982.1,46,MULTISPECIES: 50S ribosomal protein L34
+,,,,,,,,,,
+,,,,,,genome,,moyenne,326.694318181818,
+,,,,,,,,max,1782,
+,,,,,,,,somme,575028,
+,,,,,,,,density ,#DIV/0!,

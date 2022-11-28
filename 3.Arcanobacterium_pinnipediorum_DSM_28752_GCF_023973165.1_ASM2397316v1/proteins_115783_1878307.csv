@@ -1,0 +1,1650 @@
+#Name,Accession,Start,Stop,Strand,GeneID,Locus,Locus tag,Protein product,Length,Protein Name
+chromosome,NZ_CP099547.1,1,1503,+,,dnaA,NG665_RS00005,WP_252673289.1,500,chromosomal replication initiator protein DnaA
+chromosome,NZ_CP099547.1,1849,2967,+,,dnaN,NG665_RS00010,WP_252673290.1,372,DNA polymerase III subunit beta
+chromosome,NZ_CP099547.1,2972,4246,+,,recF,NG665_RS00015,WP_252673291.1,424,DNA replication/repair protein RecF
+chromosome,NZ_CP099547.1,4243,4917,+,,,NG665_RS00020,WP_252673292.1,224,DciA family protein
+chromosome,NZ_CP099547.1,5145,7175,+,,gyrB,NG665_RS00025,WP_252674114.1,676,DNA topoisomerase (ATP-hydrolyzing) subunit B
+chromosome,NZ_CP099547.1,7195,9774,+,,gyrA,NG665_RS00030,WP_252673293.1,859,DNA gyrase subunit A
+chromosome,NZ_CP099547.1,9812,10246,+,,,NG665_RS00035,WP_252673294.1,144,DUF3566 domain-containing protein
+chromosome,NZ_CP099547.1,10518,10637,+,,,NG665_RS00045,WP_252673295.1,39,DLW-39 family protein
+chromosome,NZ_CP099547.1,11242,15975,+,,,NG665_RS00055,WP_252673296.1,1577,Ig-like domain-containing protein
+chromosome,NZ_CP099547.1,16129,16701,+,,,NG665_RS00060,WP_252673297.1,190,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,16703,17386,-,,,NG665_RS00065,WP_252673298.1,227,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP099547.1,17505,20417,+,,,NG665_RS00070,WP_252673299.1,970,YhgE/Pip domain-containing protein
+chromosome,NZ_CP099547.1,20473,21282,-,,,NG665_RS00075,WP_252673300.1,269,CAMP factor family pore-forming toxin
+chromosome,NZ_CP099547.1,21636,23288,+,,,NG665_RS00080,WP_252674115.1,550,lactate permease LctP family transporter
+chromosome,NZ_CP099547.1,23331,24119,+,,,NG665_RS00085,WP_252673301.1,262,(Fe-S)-binding protein
+chromosome,NZ_CP099547.1,24119,25657,+,,,NG665_RS00090,WP_252673302.1,512,LutB/LldF family L-lactate oxidation iron-sulfur protein
+chromosome,NZ_CP099547.1,25654,26304,+,,,NG665_RS00095,WP_252673303.1,216,LUD domain-containing protein
+chromosome,NZ_CP099547.1,26475,28322,+,,,NG665_RS00100,WP_252673304.1,615,BCCT family transporter
+chromosome,NZ_CP099547.1,28444,29442,+,,rarD,NG665_RS00105,WP_252673305.1,332,EamA family transporter RarD
+chromosome,NZ_CP099547.1,29516,30454,+,,,NG665_RS00110,WP_252673306.1,312,carbohydrate kinase
+chromosome,NZ_CP099547.1,30532,31791,-,,,NG665_RS00115,WP_252673307.1,419,AGE family epimerase/isomerase
+chromosome,NZ_CP099547.1,31984,32331,+,,,NG665_RS00120,WP_252673308.1,115,hypothetical protein
+chromosome,NZ_CP099547.1,32469,33995,-,,,NG665_RS00125,WP_252673309.1,508,M81 family metallopeptidase
+chromosome,NZ_CP099547.1,34030,35265,-,,,NG665_RS00130,WP_252673310.1,411,ROK family transcriptional regulator
+chromosome,NZ_CP099547.1,35409,37214,+,,,NG665_RS00135,WP_252673311.1,601,peptide ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,37334,38293,+,,,NG665_RS00140,WP_252673312.1,319,ABC transporter permease
+chromosome,NZ_CP099547.1,38293,39156,+,,,NG665_RS00145,WP_252673313.1,287,ABC transporter permease
+chromosome,NZ_CP099547.1,39165,41162,+,,,NG665_RS00150,WP_252673314.1,665,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,41168,42073,+,,,NG665_RS00155,WP_252673315.1,301,ROK family protein
+chromosome,NZ_CP099547.1,42067,43344,+,,,NG665_RS00160,WP_252673316.1,425,alpha-L-fucosidase
+chromosome,NZ_CP099547.1,43416,44075,+,,,NG665_RS00165,WP_252673317.1,219,copper homeostasis protein CutC
+chromosome,NZ_CP099547.1,44209,45471,-,,,NG665_RS00170,WP_252673318.1,420,DUF6287 domain-containing protein
+chromosome,NZ_CP099547.1,45731,46612,+,,,NG665_RS00175,WP_252673319.1,293,glycosyltransferase family 2 protein
+chromosome,NZ_CP099547.1,46689,47426,+,,,NG665_RS00180,WP_252673320.1,245,glycerophosphoryl diester phosphodiesterase
+chromosome,NZ_CP099547.1,47633,48625,-,,rfbB,NG665_RS00185,WP_252673321.1,330,"dTDP-glucose 4,6-dehydratase"
+chromosome,NZ_CP099547.1,48871,49785,+,,,NG665_RS00190,WP_252673322.1,304,ABC transporter permease
+chromosome,NZ_CP099547.1,49785,51023,+,,,NG665_RS00195,WP_252673323.1,412,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,51028,51249,+,,,NG665_RS00200,WP_252673324.1,73,hypothetical protein
+chromosome,NZ_CP099547.1,51201,52118,+,,,NG665_RS00205,WP_252673325.1,305,rhamnan synthesis F family protein
+chromosome,NZ_CP099547.1,52120,54180,+,,,NG665_RS00210,WP_252673326.1,686,glycoside hydrolase family 99-like domain-containing protein
+chromosome,NZ_CP099547.1,54291,56294,+,,,NG665_RS00215,WP_252673327.1,667,DUF2142 domain-containing protein
+chromosome,NZ_CP099547.1,56405,57142,+,,,NG665_RS00220,WP_252673328.1,245,glycosyltransferase family 2 protein
+chromosome,NZ_CP099547.1,57150,57554,+,,,NG665_RS00225,WP_252673329.1,134,DUF2304 domain-containing protein
+chromosome,NZ_CP099547.1,57546,57896,-,,,NG665_RS00230,WP_252673330.1,116,DUF2304 domain-containing protein
+chromosome,NZ_CP099547.1,57899,58612,-,,,NG665_RS00235,WP_252673331.1,237,glycosyltransferase family 2 protein
+chromosome,NZ_CP099547.1,58752,60299,+,,,NG665_RS00240,WP_252673332.1,515,DUF2142 domain-containing protein
+chromosome,NZ_CP099547.1,60315,61535,-,,,NG665_RS00245,WP_252673333.1,406,hypothetical protein
+chromosome,NZ_CP099547.1,61588,62469,+,,,NG665_RS00250,WP_252673334.1,293,glycosyltransferase
+chromosome,NZ_CP099547.1,62506,63363,-,,,NG665_RS00255,WP_252673335.1,285,LicD family protein
+chromosome,NZ_CP099547.1,63395,65191,-,,,NG665_RS00260,WP_252673336.1,598,phosphotransferase
+chromosome,NZ_CP099547.1,65279,66388,-,,,NG665_RS00265,WP_252673337.1,369,glycosyltransferase family 4 protein
+chromosome,NZ_CP099547.1,66417,67268,-,,rfbD,NG665_RS00270,WP_252673338.1,283,dTDP-4-dehydrorhamnose reductase
+chromosome,NZ_CP099547.1,67474,68736,-,,,NG665_RS00275,WP_252673339.1,420,oligosaccharide flippase family protein
+chromosome,NZ_CP099547.1,69081,70097,+,,,NG665_RS00280,WP_252673340.1,338,glycosyltransferase
+chromosome,NZ_CP099547.1,70257,70874,+,,,NG665_RS00285,WP_252673341.1,205,"dTDP-4-dehydrorhamnose 3,5-epimerase"
+chromosome,NZ_CP099547.1,71026,71919,-,,,NG665_RS00290,WP_252673342.1,297,glycosyltransferase family 2 protein
+chromosome,NZ_CP099547.1,71921,72796,-,,rfbA,NG665_RS00295,WP_252673343.1,291,glucose-1-phosphate thymidylyltransferase RfbA
+chromosome,NZ_CP099547.1,73002,73889,-,,,NG665_RS00300,WP_252673344.1,295,apolipoprotein A1/A4/E family protein
+chromosome,NZ_CP099547.1,74192,74713,+,,,NG665_RS00305,WP_252673345.1,173,peptidylprolyl isomerase
+chromosome,NZ_CP099547.1,74795,75370,+,,,NG665_RS00310,WP_252674116.1,191,rhomboid family intramembrane serine protease
+chromosome,NZ_CP099547.1,76204,76473,-,,,NG665_RS00315,WP_252673346.1,89,cell division protein CrgA
+chromosome,NZ_CP099547.1,76598,77530,+,,,NG665_RS00320,WP_252673347.1,310,class E sortase
+chromosome,NZ_CP099547.1,77534,77689,+,,,NG665_RS00325,WP_252673348.1,51,hypothetical protein
+chromosome,NZ_CP099547.1,77823,79724,-,,pknB,NG665_RS00330,WP_252673349.1,633,Stk1 family PASTA domain-containing Ser/Thr kinase
+chromosome,NZ_CP099547.1,79808,81253,-,,,NG665_RS00335,WP_252673350.1,481,penicillin-binding transpeptidase domain-containing protein
+chromosome,NZ_CP099547.1,81250,82788,-,,,NG665_RS00340,WP_252673351.1,512,FtsW/RodA/SpoVE family cell cycle protein
+chromosome,NZ_CP099547.1,82785,84089,-,,,NG665_RS00345,WP_252673352.1,434,protein phosphatase 2C domain-containing protein
+chromosome,NZ_CP099547.1,84089,84547,-,,,NG665_RS00350,WP_252673353.1,152,FHA domain-containing protein
+chromosome,NZ_CP099547.1,84544,85242,-,,,NG665_RS00355,WP_252673354.1,232,DUF3662 domain-containing protein
+chromosome,NZ_CP099547.1,86206,88983,+,,,NG665_RS00365,WP_252673355.1,925,SpaA isopeptide-forming pilin-related protein
+chromosome,NZ_CP099547.1,89032,90525,+,,,NG665_RS00370,WP_252673356.1,497,SpaH/EbpB family LPXTG-anchored major pilin
+chromosome,NZ_CP099547.1,90636,91541,+,,,NG665_RS00375,WP_252673357.1,301,class C sortase
+chromosome,NZ_CP099547.1,91584,92417,-,,,NG665_RS00380,WP_252673358.1,277,TRIC cation channel family protein
+chromosome,NZ_CP099547.1,92426,93364,-,,,NG665_RS00385,WP_252673359.1,312,macro domain-containing protein
+chromosome,NZ_CP099547.1,93436,94053,+,,,NG665_RS00390,WP_252673360.1,205,ribonuclease HI
+chromosome,NZ_CP099547.1,94172,96349,+,,,NG665_RS00395,WP_252673361.1,725,S9 family peptidase
+chromosome,NZ_CP099547.1,96521,97858,-,,mtnN,NG665_RS00400,WP_252673362.1,445,5\\'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+chromosome,NZ_CP099547.1,97855,98316,-,,,NG665_RS00405,WP_252673363.1,153,S-ribosylhomocysteine lyase
+chromosome,NZ_CP099547.1,98756,99007,+,,nrdH,NG665_RS00410,WP_252673364.1,83,glutaredoxin-like protein NrdH
+chromosome,NZ_CP099547.1,99028,99429,+,,nrdI,NG665_RS00415,WP_252673365.1,133,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI
+chromosome,NZ_CP099547.1,99411,101561,+,,nrdE,NG665_RS00420,WP_252673366.1,716,class 1b ribonucleoside-diphosphate reductase subunit alpha
+chromosome,NZ_CP099547.1,101596,102786,-,,,NG665_RS00425,WP_252673367.1,396,DUF1624 domain-containing protein
+chromosome,NZ_CP099547.1,102874,103848,+,,nrdF,NG665_RS00430,WP_252673368.1,324,class 1b ribonucleoside-diphosphate reductase subunit beta
+chromosome,NZ_CP099547.1,104012,104593,+,,,NG665_RS00435,WP_252673369.1,193,low molecular weight phosphotyrosine protein phosphatase
+chromosome,NZ_CP099547.1,104703,105152,-,,,NG665_RS00440,WP_252673370.1,149,SprT-like domain-containing protein
+chromosome,NZ_CP099547.1,105336,106739,-,,,NG665_RS00445,WP_252673371.1,467,putative DNA binding domain-containing protein
+chromosome,NZ_CP099547.1,106980,107663,+,,,NG665_RS00450,WP_252673372.1,227,hypothetical protein
+chromosome,NZ_CP099547.1,107810,108589,-,,,NG665_RS00455,WP_252673373.1,259,amino acid ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,108605,109579,-,,,NG665_RS00460,WP_252673374.1,324,amino acid ABC transporter permease
+chromosome,NZ_CP099547.1,109618,110532,-,,,NG665_RS00465,WP_252673375.1,304,ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,111020,115276,-,,hrpA,NG665_RS00470,WP_252673376.1,1418,ATP-dependent RNA helicase HrpA
+chromosome,NZ_CP099547.1,115455,116480,+,,,NG665_RS00475,WP_252673377.1,341,endonuclease/exonuclease/phosphatase family protein
+chromosome,NZ_CP099547.1,116571,116756,+,,,NG665_RS00480,WP_252673378.1,61,hypothetical protein
+chromosome,NZ_CP099547.1,116753,117307,+,,,NG665_RS00485,WP_252673379.1,184,hypothetical protein
+chromosome,NZ_CP099547.1,117370,117735,+,,,NG665_RS00490,WP_252673380.1,121,helix-turn-helix domain-containing protein
+chromosome,NZ_CP099547.1,117732,118151,+,,,NG665_RS00495,WP_252673381.1,139,hypothetical protein
+chromosome,NZ_CP099547.1,118110,119225,-,,,NG665_RS00500,WP_252673382.1,371,DUF2183 domain-containing protein
+chromosome,NZ_CP099547.1,119525,120769,-,,,NG665_RS00505,WP_252673383.1,414,MFS transporter
+chromosome,NZ_CP099547.1,120887,124036,+,,,NG665_RS00510,WP_252673384.1,1049,DUF6531 domain-containing protein
+chromosome,NZ_CP099547.1,124051,126462,+,,,NG665_RS00515,WP_252673385.1,803,hypothetical protein
+chromosome,NZ_CP099547.1,126452,127630,+,,,NG665_RS00520,WP_252673386.1,392,hypothetical protein
+chromosome,NZ_CP099547.1,128291,129040,-,,,NG665_RS00525,WP_252673387.1,249,GntR family transcriptional regulator
+chromosome,NZ_CP099547.1,129046,130728,-,,pgm,NG665_RS00530,WP_252673388.1,560,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)"
+chromosome,NZ_CP099547.1,130762,133386,-,,,NG665_RS00535,WP_252673389.1,874,flippase-like domain-containing protein
+chromosome,NZ_CP099547.1,133396,135579,-,,,NG665_RS00540,WP_252673390.1,727,cation-translocating P-type ATPase
+chromosome,NZ_CP099547.1,135576,135806,-,,,NG665_RS00545,WP_252673391.1,76,heavy-metal-associated domain-containing protein
+chromosome,NZ_CP099547.1,135890,137353,-,,,NG665_RS00550,WP_252673392.1,487,hypothetical protein
+chromosome,NZ_CP099547.1,137437,138102,-,,,NG665_RS00555,WP_252673393.1,221,DedA family protein
+chromosome,NZ_CP099547.1,138116,138520,-,,,NG665_RS00560,WP_252673394.1,134,phage holin family protein
+chromosome,NZ_CP099547.1,138538,139272,-,,,NG665_RS00565,WP_252673395.1,244,YwiC-like family protein
+chromosome,NZ_CP099547.1,139331,140227,-,,,NG665_RS00570,WP_252673396.1,298,hypothetical protein
+chromosome,NZ_CP099547.1,140342,141094,+,,aroD,NG665_RS00575,WP_252673397.1,250,type I 3-dehydroquinate dehydratase
+chromosome,NZ_CP099547.1,141168,141671,-,,,NG665_RS00580,WP_252673398.1,167,phosphoribosyltransferase
+chromosome,NZ_CP099547.1,141936,142895,+,,,NG665_RS00585,WP_252673399.1,319,metal ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,142940,143650,+,,,NG665_RS00590,WP_252673400.1,236,metal ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,143647,144594,+,,,NG665_RS00595,WP_252673401.1,315,metal ABC transporter permease
+chromosome,NZ_CP099547.1,144591,145457,+,,,NG665_RS00600,WP_252673402.1,288,metal ABC transporter permease
+chromosome,NZ_CP099547.1,145498,146172,-,,,NG665_RS00605,WP_252673403.1,224,metal-dependent transcriptional regulator
+chromosome,NZ_CP099547.1,146279,146860,+,,dcd,NG665_RS00610,WP_252673404.1,193,dCTP deaminase
+chromosome,NZ_CP099547.1,146914,149799,+,,,NG665_RS00615,WP_252673405.1,961,Na+/H+ antiporter subunit A
+chromosome,NZ_CP099547.1,149796,150296,+,,,NG665_RS00620,WP_252673406.1,166,Na(+)/H(+) antiporter subunit C
+chromosome,NZ_CP099547.1,150296,151846,+,,,NG665_RS00625,WP_252673407.1,516,Na+/H+ antiporter subunit D
+chromosome,NZ_CP099547.1,151843,152454,+,,,NG665_RS00630,WP_252673408.1,203,Na+/H+ antiporter subunit E
+chromosome,NZ_CP099547.1,152451,152711,+,,,NG665_RS00635,WP_252673409.1,86,monovalent cation/H+ antiporter complex subunit F
+chromosome,NZ_CP099547.1,152711,153067,+,,mnhG,NG665_RS00640,WP_252674117.1,118,monovalent cation/H(+) antiporter subunit G
+chromosome,NZ_CP099547.1,153121,153381,+,,,NG665_RS00645,WP_252673410.1,86,DUF4235 domain-containing protein
+chromosome,NZ_CP099547.1,153697,154773,+,,,NG665_RS00650,WP_252673411.1,358,thiamine ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,154787,156487,+,,,NG665_RS00655,WP_252673412.1,566,iron ABC transporter permease
+chromosome,NZ_CP099547.1,156487,157134,+,,,NG665_RS00660,WP_252673413.1,215,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,157257,158588,-,,,NG665_RS00665,WP_252673414.1,443,DUF4921 family protein
+chromosome,NZ_CP099547.1,158666,159958,+,,,NG665_RS00670,WP_252673415.1,430,MFS transporter
+chromosome,NZ_CP099547.1,160066,161067,+,,,NG665_RS00675,WP_252673416.1,333,aminoacyltransferase
+chromosome,NZ_CP099547.1,161067,162245,+,,,NG665_RS00680,WP_252673417.1,392,ATP-grasp domain-containing protein
+chromosome,NZ_CP099547.1,162253,164346,-,,,NG665_RS00685,WP_252673418.1,697,prolyl oligopeptidase family serine peptidase
+chromosome,NZ_CP099547.1,164704,166554,+,,dnaK,NG665_RS00690,WP_252673419.1,616,molecular chaperone DnaK
+chromosome,NZ_CP099547.1,166630,167250,+,,grpE,NG665_RS00695,WP_252673420.1,206,nucleotide exchange factor GrpE
+chromosome,NZ_CP099547.1,167320,168309,+,,,NG665_RS00700,WP_252673421.1,329,DnaJ domain-containing protein
+chromosome,NZ_CP099547.1,169027,169584,+,,,NG665_RS00710,WP_252673422.1,185,CoA pyrophosphatase
+chromosome,NZ_CP099547.1,169571,169984,-,,,NG665_RS00715,WP_252673423.1,137,DUF3806 domain-containing protein
+chromosome,NZ_CP099547.1,170160,173453,+,,,NG665_RS00720,WP_252673424.1,1097,ExeM/NucH family extracellular endonuclease
+chromosome,NZ_CP099547.1,174443,174958,-,,ybaK,NG665_RS00725,WP_252673425.1,171,Cys-tRNA(Pro) deacylase
+chromosome,NZ_CP099547.1,174973,175494,+,,,NG665_RS00730,WP_252673426.1,173,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,175491,176006,-,,,NG665_RS00735,WP_252673427.1,171,tryptophan-rich sensory protein
+chromosome,NZ_CP099547.1,176074,177072,+,,gluQRS,NG665_RS00740,WP_252673428.1,332,tRNA glutamyl-Q(34) synthetase GluQRS
+chromosome,NZ_CP099547.1,177093,177266,-,,,NG665_RS00745,WP_252673429.1,57,antitoxin
+chromosome,NZ_CP099547.1,177512,180178,+,,clpB,NG665_RS00750,WP_252673430.1,888,ATP-dependent chaperone ClpB
+chromosome,NZ_CP099547.1,180259,181728,+,,,NG665_RS00755,WP_252673431.1,489,amino acid permease
+chromosome,NZ_CP099547.1,181833,182912,-,,,NG665_RS00760,WP_252673432.1,359,inositol-3-phosphate synthase
+chromosome,NZ_CP099547.1,183071,183892,+,,,NG665_RS00765,WP_252673433.1,273,beta-lactamase family protein
+chromosome,NZ_CP099547.1,183899,184702,-,,,NG665_RS00770,WP_252673434.1,267,exodeoxyribonuclease III
+chromosome,NZ_CP099547.1,184739,185509,+,,,NG665_RS00775,WP_252673435.1,256,SDR family NAD(P)-dependent oxidoreductase
+chromosome,NZ_CP099547.1,185610,186014,+,,,NG665_RS00780,WP_252673436.1,134,(deoxy)nucleoside triphosphate pyrophosphohydrolase
+chromosome,NZ_CP099547.1,186017,188962,+,,,NG665_RS00785,WP_252673437.1,981,DEAD/DEAH box helicase
+chromosome,NZ_CP099547.1,189005,189508,+,,,NG665_RS00790,WP_252673438.1,167,hypothetical protein
+chromosome,NZ_CP099547.1,189588,190187,+,,,NG665_RS00795,WP_252674048.1,199,RNA methyltransferase
+chromosome,NZ_CP099547.1,190200,191084,-,,,NG665_RS00800,WP_252673439.1,294,Sir2 family NAD-dependent protein deacetylase
+chromosome,NZ_CP099547.1,191319,192917,+,,,NG665_RS00805,WP_252673440.1,532,protein phosphatase 1 regulatory subunit 42
+chromosome,NZ_CP099547.1,193197,194219,+,,fbaA,NG665_RS00810,WP_252673441.1,340,class II fructose-bisphosphate aldolase
+chromosome,NZ_CP099547.1,194457,196115,+,,,NG665_RS00815,WP_252673442.1,552,DUF4091 domain-containing protein
+chromosome,NZ_CP099547.1,196112,199150,+,,,NG665_RS00820,WP_252673443.1,1012,hypothetical protein
+chromosome,NZ_CP099547.1,199407,200732,+,,,NG665_RS00825,WP_252673444.1,441,extracellular solute-binding protein
+chromosome,NZ_CP099547.1,200799,201749,+,,,NG665_RS00830,WP_252673445.1,316,sugar ABC transporter permease
+chromosome,NZ_CP099547.1,201749,202660,+,,,NG665_RS00835,WP_252673446.1,303,carbohydrate ABC transporter permease
+chromosome,NZ_CP099547.1,202807,203280,-,,,NG665_RS00840,WP_252673447.1,157,hypothetical protein
+chromosome,NZ_CP099547.1,203267,204190,-,,,NG665_RS00845,WP_252673448.1,307,hypothetical protein
+chromosome,NZ_CP099547.1,204327,205286,-,,,NG665_RS00850,WP_252673449.1,319,hypothetical protein
+chromosome,NZ_CP099547.1,205694,207550,+,,,NG665_RS00855,WP_252673450.1,618,phosphoenolpyruvate carboxykinase (GTP)
+chromosome,NZ_CP099547.1,207898,208797,+,,,NG665_RS00860,WP_252673451.1,299,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+chromosome,NZ_CP099547.1,208923,210260,+,,gdhA,NG665_RS00865,WP_252673452.1,445,NADP-specific glutamate dehydrogenase
+chromosome,NZ_CP099547.1,210366,210731,+,,,NG665_RS00870,WP_252673453.1,121,sterol carrier family protein
+chromosome,NZ_CP099547.1,210784,211017,-,,,NG665_RS00875,WP_252673454.1,77,DUF3073 domain-containing protein
+chromosome,NZ_CP099547.1,211372,211563,+,,,NG665_RS00880,WP_168917182.1,63,MULTISPECIES: BldC family transcriptional regulator
+chromosome,NZ_CP099547.1,211673,212023,-,,,NG665_RS00885,WP_252673455.1,116,DUF3618 domain-containing protein
+chromosome,NZ_CP099547.1,212020,212463,-,,,NG665_RS00890,WP_252673456.1,147,phage holin family protein
+chromosome,NZ_CP099547.1,212577,214424,-,,murJ,NG665_RS00895,WP_252673457.1,615,murein biosynthesis integral membrane protein MurJ
+chromosome,NZ_CP099547.1,215810,216904,+,,,NG665_RS00905,WP_252674049.1,364,IS1249 family transposase
+chromosome,NZ_CP099547.1,217024,218334,+,,,NG665_RS00910,WP_252672639.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,219150,220706,+,,,NG665_RS00930,WP_252673458.1,518,mechanosensitive ion channel family protein
+chromosome,NZ_CP099547.1,220709,221161,+,,msrB,NG665_RS00935,WP_252673459.1,150,peptide-methionine (R)-S-oxide reductase MsrB
+chromosome,NZ_CP099547.1,221161,221955,+,,,NG665_RS00940,WP_252673460.1,264,endonuclease/exonuclease/phosphatase family protein
+chromosome,NZ_CP099547.1,222297,222890,+,,,NG665_RS00950,WP_252673461.1,197,hypothetical protein
+chromosome,NZ_CP099547.1,223061,224074,-,,,NG665_RS00955,WP_252673462.1,337,inorganic phosphate transporter
+chromosome,NZ_CP099547.1,224074,224658,-,,,NG665_RS00960,WP_252674050.1,194,DUF47 family protein
+chromosome,NZ_CP099547.1,224962,226392,+,,,NG665_RS00965,WP_252673463.1,476,alanine:cation symporter family protein
+chromosome,NZ_CP099547.1,226871,227662,+,,,NG665_RS00970,WP_252673464.1,263,hypothetical protein
+chromosome,NZ_CP099547.1,227696,228310,+,,,NG665_RS00975,WP_252673465.1,204,FABP family protein
+chromosome,NZ_CP099547.1,228307,229440,+,,,NG665_RS00980,WP_252673466.1,377,folate-binding protein
+chromosome,NZ_CP099547.1,229440,229901,+,,dtd,NG665_RS00985,WP_252673467.1,153,D-aminoacyl-tRNA deacylase
+chromosome,NZ_CP099547.1,229991,232588,+,,,NG665_RS00990,WP_252673468.1,865,ATP-dependent Clp protease ATP-binding subunit
+chromosome,NZ_CP099547.1,232923,234296,+,,trpB,NG665_RS00995,WP_252673469.1,457,tryptophan synthase subunit beta
+chromosome,NZ_CP099547.1,234298,235638,-,,,NG665_RS01000,WP_252673470.1,446,TRAP transporter large permease subunit
+chromosome,NZ_CP099547.1,235849,238587,+,,ppdK,NG665_RS01005,WP_252673471.1,912,"pyruvate, phosphate dikinase"
+chromosome,NZ_CP099547.1,238801,240681,+,,,NG665_RS01010,WP_252673472.1,626,acyltransferase
+chromosome,NZ_CP099547.1,240787,242151,+,,,NG665_RS01015,WP_252673473.1,454,hypothetical protein
+chromosome,NZ_CP099547.1,242207,243235,-,,,NG665_RS01020,WP_252673474.1,342,alpha/beta hydrolase
+chromosome,NZ_CP099547.1,243391,244683,+,,,NG665_RS01025,WP_252673475.1,430,MFS transporter
+chromosome,NZ_CP099547.1,244856,246418,+,,,NG665_RS01030,WP_252673476.1,520,NlpC/P60 family protein
+chromosome,NZ_CP099547.1,246524,247027,-,,,NG665_RS01035,WP_252673477.1,167,inorganic diphosphatase
+chromosome,NZ_CP099547.1,247111,248481,+,,dacB,NG665_RS01040,WP_252673478.1,456,D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+chromosome,NZ_CP099547.1,248484,249362,+,,,NG665_RS01045,WP_252673479.1,292,zinc-dependent metalloprotease
+chromosome,NZ_CP099547.1,249379,250479,+,,tilS,NG665_RS01050,WP_252673480.1,366,tRNA lysidine(34) synthetase TilS
+chromosome,NZ_CP099547.1,250476,252713,+,,ftsH,NG665_RS01055,WP_252673481.1,745,ATP-dependent zinc metalloprotease FtsH
+chromosome,NZ_CP099547.1,252706,253299,+,,folE,NG665_RS01060,WP_252673482.1,197,GTP cyclohydrolase I FolE
+chromosome,NZ_CP099547.1,253308,254120,+,,folP,NG665_RS01065,WP_252673483.1,270,dihydropteroate synthase
+chromosome,NZ_CP099547.1,254135,255010,+,,folK,NG665_RS01070,WP_252673484.1,291,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+chromosome,NZ_CP099547.1,255000,255485,+,,,NG665_RS01075,WP_252674051.1,161,DUF3180 family protein
+chromosome,NZ_CP099547.1,255505,256008,+,,,NG665_RS01080,WP_252673485.1,167,PH domain-containing protein
+chromosome,NZ_CP099547.1,256012,257550,+,,,NG665_RS01085,WP_252673486.1,512,PH domain-containing protein
+chromosome,NZ_CP099547.1,257537,258421,+,,,NG665_RS01090,WP_252673487.1,294,DUF2520 domain-containing protein
+chromosome,NZ_CP099547.1,258476,259303,+,,panC,NG665_RS01095,WP_252673488.1,275,pantoate--beta-alanine ligase
+chromosome,NZ_CP099547.1,259320,259736,+,,,NG665_RS01100,WP_252674052.1,138,aspartate 1-decarboxylase
+chromosome,NZ_CP099547.1,259806,261389,+,,lysS,NG665_RS01105,WP_252673489.1,527,lysine--tRNA ligase
+chromosome,NZ_CP099547.1,261487,265782,-,,,NG665_RS01110,WP_252673490.1,1431,exo-alpha-sialidase
+chromosome,NZ_CP099547.1,266037,267569,-,,glpK,NG665_RS01115,WP_252673491.1,510,glycerol kinase GlpK
+chromosome,NZ_CP099547.1,267637,268383,-,,,NG665_RS01120,WP_252673492.1,248,aquaporin family protein
+chromosome,NZ_CP099547.1,268568,269227,-,,,NG665_RS01125,WP_252673493.1,219,ATP-binding protein
+chromosome,NZ_CP099547.1,269318,270580,-,,,NG665_RS01130,WP_252673494.1,420,anaerobic glycerol-3-phosphate dehydrogenase subunit C
+chromosome,NZ_CP099547.1,270577,271776,-,,glpB,NG665_RS01135,WP_252673495.1,399,glycerol-3-phosphate dehydrogenase subunit GlpB
+chromosome,NZ_CP099547.1,271776,273509,-,,glpA,NG665_RS01140,WP_252673496.1,577,anaerobic glycerol-3-phosphate dehydrogenase subunit GlpA
+chromosome,NZ_CP099547.1,273687,274637,+,,,NG665_RS01145,WP_252673497.1,316,helix-turn-helix domain-containing protein
+chromosome,NZ_CP099547.1,274642,275532,-,,,NG665_RS01150,WP_252673498.1,296,A/G-specific adenine glycosylase
+chromosome,NZ_CP099547.1,275593,277071,-,,,NG665_RS01155,WP_252673499.1,492,MFS transporter
+chromosome,NZ_CP099547.1,277241,278149,+,,,NG665_RS01160,WP_252673500.1,302,hypothetical protein
+chromosome,NZ_CP099547.1,278225,279598,-,,radA,NG665_RS01165,WP_252673501.1,457,DNA repair protein RadA
+chromosome,NZ_CP099547.1,279747,280415,-,,,NG665_RS01170,WP_252673502.1,222,TrkA family potassium uptake protein
+chromosome,NZ_CP099547.1,280453,281898,-,,,NG665_RS01175,WP_252673503.1,481,TrkH family potassium uptake protein
+chromosome,NZ_CP099547.1,282267,282482,+,,,NG665_RS01180,WP_252673504.1,71,helix-turn-helix domain-containing protein
+chromosome,NZ_CP099547.1,282569,282667,+,,,NG665_RS01185,WP_005504750.1,32,MULTISPECIES: AURKAIP1/COX24 domain-containing protein
+chromosome,NZ_CP099547.1,282812,283288,+,,,NG665_RS01190,WP_252673505.1,158,MarR family transcriptional regulator
+chromosome,NZ_CP099547.1,283326,284009,+,,,NG665_RS01195,WP_252673506.1,227,histidine phosphatase family protein
+chromosome,NZ_CP099547.1,284006,284446,-,,,NG665_RS01200,WP_252673507.1,146,PLD nuclease N-terminal domain-containing protein
+chromosome,NZ_CP099547.1,284494,285372,-,,,NG665_RS01205,WP_252673508.1,292,"1,4-dihydroxy-2-naphthoate polyprenyltransferase"
+chromosome,NZ_CP099547.1,285356,286645,-,,,NG665_RS01210,WP_252673509.1,429,AMP-binding protein
+chromosome,NZ_CP099547.1,286638,287621,-,,,NG665_RS01215,WP_252674053.1,327,"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+chromosome,NZ_CP099547.1,287749,288729,+,,,NG665_RS01220,WP_252673510.1,326,o-succinylbenzoate synthase
+chromosome,NZ_CP099547.1,288740,290368,+,,menD,NG665_RS01225,WP_252673511.1,542,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+chromosome,NZ_CP099547.1,290455,291954,+,,,NG665_RS01230,WP_252673512.1,499,trypsin-like peptidase domain-containing protein
+chromosome,NZ_CP099547.1,292017,293327,-,,,NG665_RS01235,WP_252673513.1,436,isochorismate synthase
+chromosome,NZ_CP099547.1,293366,294106,+,,,NG665_RS01240,WP_252673514.1,246,class I SAM-dependent methyltransferase
+chromosome,NZ_CP099547.1,294302,295585,+,,,NG665_RS01245,WP_252673515.1,427,geranylgeranyl reductase family protein
+chromosome,NZ_CP099547.1,295677,296036,+,,,NG665_RS01250,WP_204424912.1,119,MULTISPECIES: NADH-quinone oxidoreductase subunit A
+chromosome,NZ_CP099547.1,296042,296599,+,,,NG665_RS01255,WP_252673516.1,185,NADH-quinone oxidoreductase subunit B
+chromosome,NZ_CP099547.1,296596,297294,+,,,NG665_RS01260,WP_252673517.1,232,NADH-quinone oxidoreductase subunit C
+chromosome,NZ_CP099547.1,297306,298643,+,,,NG665_RS01265,WP_252674054.1,445,NADH-quinone oxidoreductase subunit D
+chromosome,NZ_CP099547.1,298643,299323,+,,nuoE,NG665_RS01270,WP_252673518.1,226,NADH-quinone oxidoreductase subunit NuoE
+chromosome,NZ_CP099547.1,299320,300660,+,,nuoF,NG665_RS01275,WP_252673519.1,446,NADH-quinone oxidoreductase subunit NuoF
+chromosome,NZ_CP099547.1,300657,303251,+,,,NG665_RS01280,WP_252673520.1,864,NADH-quinone oxidoreductase subunit G
+chromosome,NZ_CP099547.1,303257,304576,+,,nuoH,NG665_RS01285,WP_252674055.1,439,NADH-quinone oxidoreductase subunit NuoH
+chromosome,NZ_CP099547.1,304579,305262,+,,nuoI,NG665_RS01290,WP_252673521.1,227,NADH-quinone oxidoreductase subunit NuoI
+chromosome,NZ_CP099547.1,305262,306269,+,,,NG665_RS01295,WP_252673522.1,335,NADH-quinone oxidoreductase subunit J
+chromosome,NZ_CP099547.1,306269,306568,+,,nuoK,NG665_RS01300,WP_252673523.1,99,NADH-quinone oxidoreductase subunit NuoK
+chromosome,NZ_CP099547.1,306590,308515,+,,nuoL,NG665_RS01305,WP_252674056.1,641,NADH-quinone oxidoreductase subunit L
+chromosome,NZ_CP099547.1,308535,310067,+,,,NG665_RS01310,WP_252673524.1,510,NADH-quinone oxidoreductase subunit M
+chromosome,NZ_CP099547.1,310064,311662,+,,nuoN,NG665_RS01315,WP_252673525.1,532,NADH-quinone oxidoreductase subunit NuoN
+chromosome,NZ_CP099547.1,311728,312678,+,,,NG665_RS01320,WP_252674057.1,316,polyprenyl synthetase family protein
+chromosome,NZ_CP099547.1,312789,315644,+,,secA,NG665_RS01325,WP_252673526.1,951,preprotein translocase subunit SecA
+chromosome,NZ_CP099547.1,315765,316361,-,,,NG665_RS01330,WP_252673527.1,198,Rv3235 family protein
+chromosome,NZ_CP099547.1,316367,317014,-,,,NG665_RS01335,WP_252673528.1,215,LysM peptidoglycan-binding domain-containing protein
+chromosome,NZ_CP099547.1,317154,317702,+,,,NG665_RS01340,WP_252673529.1,182,hypothetical protein
+chromosome,NZ_CP099547.1,317871,318083,-,,,NG665_RS01345,WP_252673530.1,70,helix-turn-helix domain-containing protein
+chromosome,NZ_CP099547.1,318207,318794,+,,,NG665_RS01350,WP_252673531.1,195,hypothetical protein
+chromosome,NZ_CP099547.1,318794,320011,+,,,NG665_RS01355,WP_252673532.1,405,hypothetical protein
+chromosome,NZ_CP099547.1,319990,320439,+,,,NG665_RS01360,WP_252673533.1,149,hypothetical protein
+chromosome,NZ_CP099547.1,320465,323530,-,,,NG665_RS01365,WP_252673534.1,1021,SMC family ATPase
+chromosome,NZ_CP099547.1,323532,324725,-,,,NG665_RS01370,WP_252673535.1,397,exonuclease SbcCD subunit D
+chromosome,NZ_CP099547.1,324892,326331,+,,,NG665_RS01375,WP_252673536.1,479,hypothetical protein
+chromosome,NZ_CP099547.1,326392,327309,-,,,NG665_RS01380,WP_252673537.1,305,ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,327319,328065,-,,,NG665_RS01385,WP_252673538.1,248,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,328058,328831,-,,,NG665_RS01390,WP_252673539.1,257,ABC transporter permease subunit
+chromosome,NZ_CP099547.1,328828,329838,-,,,NG665_RS01395,WP_252673540.1,336,ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,329866,331020,-,,,NG665_RS01400,WP_252673541.1,384,phosphotransferase
+chromosome,NZ_CP099547.1,331235,332302,-,,rsgA,NG665_RS01405,WP_252673542.1,355,ribosome small subunit-dependent GTPase A
+chromosome,NZ_CP099547.1,332309,333745,-,,,NG665_RS01410,WP_252673543.1,478,3-phosphoshikimate 1-carboxyvinyltransferase
+chromosome,NZ_CP099547.1,333813,334328,-,,,NG665_RS01415,WP_252673544.1,171,DoxX family protein
+chromosome,NZ_CP099547.1,334409,335167,-,,,NG665_RS01420,WP_252673545.1,252,GntR family transcriptional regulator
+chromosome,NZ_CP099547.1,335291,336211,+,,,NG665_RS01425,WP_252673546.1,306,ROK family protein
+chromosome,NZ_CP099547.1,336211,336882,+,,,NG665_RS01430,WP_252673547.1,223,N-acetylmannosamine-6-phosphate 2-epimerase
+chromosome,NZ_CP099547.1,336938,337714,+,,,NG665_RS01435,WP_252673548.1,258,glucosamine-6-phosphate deaminase
+chromosome,NZ_CP099547.1,337711,338871,+,,,NG665_RS01440,WP_252673549.1,386,amidohydrolase family protein
+chromosome,NZ_CP099547.1,338971,339579,+,,,NG665_RS01445,WP_252673550.1,202,sigma-70 family RNA polymerase sigma factor
+chromosome,NZ_CP099547.1,339579,339860,+,,rsrA,NG665_RS01450,WP_252673551.1,93,mycothiol system anti-sigma-R factor
+chromosome,NZ_CP099547.1,340222,340584,-,,,NG665_RS01455,WP_252673552.1,120,hypothetical protein
+chromosome,NZ_CP099547.1,340772,341071,-,,,NG665_RS01460,WP_252673553.1,99,hypothetical protein
+chromosome,NZ_CP099547.1,342321,342536,-,,,NG665_RS01470,WP_252673554.1,71,Arc family DNA-binding protein
+chromosome,NZ_CP099547.1,342553,343518,-,,,NG665_RS01475,WP_252673555.1,321,SPFH domain-containing protein
+chromosome,NZ_CP099547.1,343667,344914,-,,,NG665_RS01480,WP_252673556.1,415,DUF5692 family protein
+chromosome,NZ_CP099547.1,345087,346127,+,,,NG665_RS01485,WP_252673557.1,346,hypothetical protein
+chromosome,NZ_CP099547.1,346410,347474,-,,,NG665_RS01490,WP_252673558.1,354,DUF5692 family protein
+chromosome,NZ_CP099547.1,347825,351880,+,,,NG665_RS01495,WP_252673559.1,1351,HtaA domain-containing protein
+chromosome,NZ_CP099547.1,351998,353083,+,,,NG665_RS01500,WP_252673560.1,361,ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,353130,354137,+,,,NG665_RS01505,WP_252673561.1,335,iron ABC transporter permease
+chromosome,NZ_CP099547.1,354139,354924,+,,,NG665_RS01510,WP_252673562.1,261,heme ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,354962,355588,-,,,NG665_RS01515,WP_252673563.1,208,GDSL-type esterase/lipase family protein
+chromosome,NZ_CP099547.1,355818,359567,-,,,NG665_RS01520,WP_252673564.1,1249,multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit
+chromosome,NZ_CP099547.1,359733,361055,+,,,NG665_RS01525,WP_252673565.1,440,hemolysin family protein
+chromosome,NZ_CP099547.1,361052,362083,+,,,NG665_RS01530,WP_252673566.1,343,hemolysin family protein
+chromosome,NZ_CP099547.1,362179,363219,+,,,NG665_RS01535,WP_252673567.1,346,M23 family metallopeptidase
+chromosome,NZ_CP099547.1,363225,363998,+,,,NG665_RS01540,WP_252673568.1,257,glycerophosphodiester phosphodiesterase
+chromosome,NZ_CP099547.1,364277,365347,+,,,NG665_RS01545,WP_252673569.1,356,iron ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,365422,366975,+,,,NG665_RS01550,WP_252673570.1,517,iron ABC transporter permease
+chromosome,NZ_CP099547.1,366972,367616,+,,,NG665_RS01555,WP_252673571.1,214,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,367679,369001,+,,,NG665_RS01560,WP_252673572.1,440,MFS transporter
+chromosome,NZ_CP099547.1,370160,371254,-,,,NG665_RS01565,WP_252674058.1,364,IS1249 family transposase
+chromosome,NZ_CP099547.1,371761,373434,+,,argS,NG665_RS01575,WP_252673573.1,557,arginine--tRNA ligase
+chromosome,NZ_CP099547.1,373447,374295,+,,,NG665_RS01580,WP_252673574.1,282,hypothetical protein
+chromosome,NZ_CP099547.1,374543,376237,+,,rho,NG665_RS01585,WP_252674059.1,564,transcription termination factor Rho
+chromosome,NZ_CP099547.1,376448,376660,+,,rpmE,NG665_RS01590,WP_252673575.1,70,50S ribosomal protein L31
+chromosome,NZ_CP099547.1,376793,377908,+,,prfA,NG665_RS01595,WP_252673576.1,371,peptide chain release factor 1
+chromosome,NZ_CP099547.1,377916,378755,+,,prmC,NG665_RS01600,WP_252673577.1,279,peptide chain release factor N(5)-glutamine methyltransferase
+chromosome,NZ_CP099547.1,378755,379393,+,,,NG665_RS01605,WP_252674060.1,212,L-threonylcarbamoyladenylate synthase
+chromosome,NZ_CP099547.1,379390,380547,+,,,NG665_RS01610,WP_252673578.1,385,undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+chromosome,NZ_CP099547.1,380534,380965,+,,,NG665_RS01615,WP_252673579.1,143,hypothetical protein
+chromosome,NZ_CP099547.1,381106,381936,+,,atpB,NG665_RS01620,WP_252673580.1,276,F0F1 ATP synthase subunit A
+chromosome,NZ_CP099547.1,381963,382172,+,,atpE,NG665_RS01625,WP_252673581.1,69,ATP synthase F0 subunit C
+chromosome,NZ_CP099547.1,382178,382729,+,,atpF,NG665_RS01630,WP_252673582.1,183,F0F1 ATP synthase subunit B
+chromosome,NZ_CP099547.1,382729,383544,+,,,NG665_RS01635,WP_252673583.1,271,F0F1 ATP synthase subunit delta
+chromosome,NZ_CP099547.1,383588,385213,+,,atpA,NG665_RS01640,WP_252673584.1,541,F0F1 ATP synthase subunit alpha
+chromosome,NZ_CP099547.1,385216,386133,+,,,NG665_RS01645,WP_252673585.1,305,F0F1 ATP synthase subunit gamma
+chromosome,NZ_CP099547.1,386172,387632,+,,atpD,NG665_RS01650,WP_252673586.1,486,F0F1 ATP synthase subunit beta
+chromosome,NZ_CP099547.1,387632,387880,+,,atpC,NG665_RS01655,WP_252673587.1,82,ATP synthase F1 subunit epsilon
+chromosome,NZ_CP099547.1,387887,388291,+,,,NG665_RS01660,WP_252673588.1,134,DUF2550 domain-containing protein
+chromosome,NZ_CP099547.1,388384,389079,+,,nucS,NG665_RS01665,WP_252673589.1,231,endonuclease NucS
+chromosome,NZ_CP099547.1,389079,389366,+,,,NG665_RS01670,WP_252673590.1,95,ATP/GTP-binding protein
+chromosome,NZ_CP099547.1,389420,390199,+,,,NG665_RS01675,WP_252673591.1,259,alpha/beta hydrolase
+chromosome,NZ_CP099547.1,390216,391376,-,,,NG665_RS01680,WP_252673592.1,386,cell division protein DivIVA
+chromosome,NZ_CP099547.1,391521,392741,+,,,NG665_RS01685,WP_252673593.1,406,hypothetical protein
+chromosome,NZ_CP099547.1,392731,393741,+,,,NG665_RS01690,WP_252673594.1,336,hypothetical protein
+chromosome,NZ_CP099547.1,393746,394705,+,,,NG665_RS01695,WP_252673595.1,319,tetratricopeptide repeat protein
+chromosome,NZ_CP099547.1,394761,395771,-,,,NG665_RS01700,WP_252673596.1,336,LacI family transcriptional regulator
+chromosome,NZ_CP099547.1,396098,397333,+,,,NG665_RS01705,WP_252673597.1,411,extracellular solute-binding protein
+chromosome,NZ_CP099547.1,397401,399017,+,,,NG665_RS01710,WP_252673598.1,538,ABC transporter permease subunit
+chromosome,NZ_CP099547.1,399020,399913,+,,,NG665_RS01715,WP_252673599.1,297,sugar ABC transporter permease
+chromosome,NZ_CP099547.1,400018,402201,-,,glgB,NG665_RS01720,WP_252673600.1,727,"1,4-alpha-glucan branching protein GlgB"
+chromosome,NZ_CP099547.1,402250,403644,-,,,NG665_RS01725,WP_252673601.1,464,hypothetical protein
+chromosome,NZ_CP099547.1,403631,405331,-,,treS,NG665_RS01730,WP_252673602.1,566,maltose alpha-D-glucosyltransferase
+chromosome,NZ_CP099547.1,405328,407409,-,,,NG665_RS01735,WP_252673603.1,693,"alpha-1,4-glucan--maltose-1-phosphate maltosyltransferase"
+chromosome,NZ_CP099547.1,407449,407988,-,,,NG665_RS01740,WP_252673604.1,179,methylated-DNA-
+chromosome,NZ_CP099547.1,408105,410438,-,,,NG665_RS01745,WP_252674061.1,777,glycogen/starch/alpha-glucan phosphorylase
+chromosome,NZ_CP099547.1,410643,411749,-,,trpS,NG665_RS01750,WP_252673605.1,368,tryptophan--tRNA ligase
+chromosome,NZ_CP099547.1,411911,412522,-,,,NG665_RS01755,WP_197672576.1,203,MULTISPECIES: ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,412644,414014,-,,,NG665_RS01760,WP_252673606.1,456,hypothetical protein
+chromosome,NZ_CP099547.1,414814,415764,-,,,NG665_RS01765,WP_168917338.1,316,MULTISPECIES: radical SAM protein
+chromosome,NZ_CP099547.1,417310,417519,+,,,NG665_RS01775,WP_252673607.1,69,hypothetical protein
+chromosome,NZ_CP099547.1,417667,419373,+,,,NG665_RS01780,WP_252673608.1,568,alpha/beta fold hydrolase
+chromosome,NZ_CP099547.1,420199,420360,+,,,NG665_RS01785,WP_252673609.1,53,IS3 family transposase
+chromosome,NZ_CP099547.1,420953,421327,-,,,NG665_RS01790,WP_252673610.1,124,IS3 family transposase
+chromosome,NZ_CP099547.1,422056,422619,+,,,NG665_RS01795,WP_252673611.1,187,hypothetical protein
+chromosome,NZ_CP099547.1,422643,422909,+,,,NG665_RS01800,WP_252673612.1,88,hypothetical protein
+chromosome,NZ_CP099547.1,424340,424741,+,,,NG665_RS01805,WP_252673613.1,133,hypothetical protein
+chromosome,NZ_CP099547.1,424782,429977,+,,,NG665_RS01810,WP_252673614.1,1731,DUF4132 domain-containing protein
+chromosome,NZ_CP099547.1,430353,430565,-,,,NG665_RS01815,WP_204425037.1,70,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP099547.1,430608,431237,-,,,NG665_RS01820,WP_252673615.1,209,hypothetical protein
+chromosome,NZ_CP099547.1,431221,431628,-,,,NG665_RS01825,WP_252673616.1,135,hypothetical protein
+chromosome,NZ_CP099547.1,431692,433878,-,,glgX,NG665_RS01830,WP_252673617.1,728,glycogen debranching protein GlgX
+chromosome,NZ_CP099547.1,433938,434852,+,,nudC,NG665_RS01835,WP_252673618.1,304,NAD(+) diphosphatase
+chromosome,NZ_CP099547.1,434946,436934,+,,,NG665_RS01840,WP_252673619.1,662,ATP-dependent DNA helicase UvrD2
+chromosome,NZ_CP099547.1,436991,437941,-,,,NG665_RS01845,WP_252673620.1,316,hypothetical protein
+chromosome,NZ_CP099547.1,438020,439378,-,,,NG665_RS01850,WP_252673621.1,452,zinc-dependent metalloprotease
+chromosome,NZ_CP099547.1,439513,440631,+,,,NG665_RS01855,WP_252673622.1,372,pdz/dhr/glgf protein
+chromosome,NZ_CP099547.1,440691,441239,-,,,NG665_RS01860,WP_252673623.1,182,PPA1309 family protein
+chromosome,NZ_CP099547.1,441379,444429,+,,,NG665_RS01865,WP_252673624.1,1016,UPF0182 family protein
+chromosome,NZ_CP099547.1,444488,445231,-,,,NG665_RS01870,WP_252673625.1,247,hypothetical protein
+chromosome,NZ_CP099547.1,445228,445983,-,,,NG665_RS01875,WP_252673626.1,251,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,445980,446372,-,,,NG665_RS01880,WP_252673627.1,130,GntR family transcriptional regulator
+chromosome,NZ_CP099547.1,446812,446994,+,,,NG665_RS01890,WP_252673628.1,60,hypothetical protein
+chromosome,NZ_CP099547.1,447127,448437,-,,,NG665_RS01895,WP_252672639.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,449074,449808,+,,,NG665_RS01900,WP_252673629.1,244,DUF1275 domain-containing protein
+chromosome,NZ_CP099547.1,449873,450313,+,,,NG665_RS01905,WP_252673630.1,146,pyrimidine dimer DNA glycosylase/endonuclease V
+chromosome,NZ_CP099547.1,450387,450920,+,,,NG665_RS01910,WP_252673631.1,177,PadR family transcriptional regulator
+chromosome,NZ_CP099547.1,450905,451570,+,,,NG665_RS01915,WP_252673632.1,221,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,451607,453775,+,,,NG665_RS01920,WP_252673633.1,722,ABC transporter permease
+chromosome,NZ_CP099547.1,453781,454452,-,,,NG665_RS01925,WP_252673634.1,223,FMN-binding negative transcriptional regulator
+chromosome,NZ_CP099547.1,454461,455039,-,,,NG665_RS01930,WP_252673635.1,192,dihydrofolate reductase
+chromosome,NZ_CP099547.1,455036,455836,-,,,NG665_RS01935,WP_252673636.1,266,thymidylate synthase
+chromosome,NZ_CP099547.1,455833,456333,-,,,NG665_RS01940,WP_252673637.1,166,DUF2505 domain-containing protein
+chromosome,NZ_CP099547.1,456371,457795,+,,,NG665_RS01945,WP_252673638.1,474,PAS domain-containing sensor histidine kinase
+chromosome,NZ_CP099547.1,457804,458052,-,,,NG665_RS01950,WP_252673639.1,82,WhiB family transcriptional regulator
+chromosome,NZ_CP099547.1,458194,460671,-,,,NG665_RS01955,WP_252673640.1,825,hypothetical protein
+chromosome,NZ_CP099547.1,460728,461456,-,,,NG665_RS01960,WP_252673641.1,242,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,461453,462145,-,,,NG665_RS01965,WP_252673642.1,230,response regulator transcription factor
+chromosome,NZ_CP099547.1,462145,463332,-,,,NG665_RS01970,WP_252673643.1,395,sensor histidine kinase
+chromosome,NZ_CP099547.1,463371,465908,+,,,NG665_RS01975,WP_252673644.1,845,DNA ligase (NAD(+)) LigA
+chromosome,NZ_CP099547.1,465970,467229,-,,,NG665_RS01980,WP_252673645.1,419,phospholipase D-like domain-containing protein
+chromosome,NZ_CP099547.1,467287,467583,+,,gatC,NG665_RS01985,WP_252673646.1,98,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+chromosome,NZ_CP099547.1,467586,469088,+,,gatA,NG665_RS01990,WP_252673647.1,500,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA
+chromosome,NZ_CP099547.1,469093,470586,+,,gatB,NG665_RS01995,WP_252673648.1,497,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+chromosome,NZ_CP099547.1,470662,472056,+,,,NG665_RS02000,WP_252673649.1,464,NAD-dependent malic enzyme
+chromosome,NZ_CP099547.1,477855,478604,+,,,NG665_RS02020,WP_252673650.1,249,class I SAM-dependent methyltransferase
+chromosome,NZ_CP099547.1,478723,480051,+,,,NG665_RS02025,WP_252673651.1,442,threonine/serine exporter family protein
+chromosome,NZ_CP099547.1,480168,481769,-,,,NG665_RS02030,WP_252673652.1,533,transporter
+chromosome,NZ_CP099547.1,481994,483424,+,,aspA,NG665_RS02035,WP_252673653.1,476,aspartate ammonia-lyase
+chromosome,NZ_CP099547.1,483513,484649,+,,,NG665_RS02040,WP_252673654.1,378,branched-chain amino acid aminotransferase
+chromosome,NZ_CP099547.1,484913,487000,+,,pflB,NG665_RS02045,WP_252673655.1,695,formate C-acetyltransferase
+chromosome,NZ_CP099547.1,487080,487295,+,,grcA2,NG665_RS02050,WP_252674062.1,71,autonomous glycyl radical cofactor GrcA2
+chromosome,NZ_CP099547.1,487323,488249,+,,pflA,NG665_RS02055,WP_252673656.1,308,pyruvate formate-lyase-activating protein
+chromosome,NZ_CP099547.1,488306,489016,-,,,NG665_RS02060,WP_252673657.1,236,YggS family pyridoxal phosphate-dependent enzyme
+chromosome,NZ_CP099547.1,489048,491720,-,,,NG665_RS02065,WP_252673658.1,890,DUF3516 domain-containing protein
+chromosome,NZ_CP099547.1,491913,492935,+,,,NG665_RS02070,WP_252673659.1,340,efflux RND transporter periplasmic adaptor subunit
+chromosome,NZ_CP099547.1,492945,493682,+,,,NG665_RS02075,WP_252673660.1,245,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,493679,494995,+,,,NG665_RS02080,WP_252673661.1,438,ABC transporter permease
+chromosome,NZ_CP099547.1,495381,496001,-,,,NG665_RS02095,WP_252673662.1,206,hypothetical protein
+chromosome,NZ_CP099547.1,496205,497134,+,,,NG665_RS02100,WP_252673663.1,309,glutathione synthetase
+chromosome,NZ_CP099547.1,497413,498723,+,,,NG665_RS02110,WP_252672635.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,500165,500347,+,,,NG665_RS02120,WP_252673664.1,60,hypothetical protein
+chromosome,NZ_CP099547.1,501215,501817,-,,orn,NG665_RS02125,WP_252674063.1,200,oligoribonuclease
+chromosome,NZ_CP099547.1,502250,503788,+,,,NG665_RS02135,WP_252673665.1,512,GTPase domain-containing protein
+chromosome,NZ_CP099547.1,503820,505307,+,,,NG665_RS02140,WP_252673666.1,495,GTP-binding protein
+chromosome,NZ_CP099547.1,505500,506033,+,,,NG665_RS02145,WP_252673667.1,177,single-stranded DNA-binding protein
+chromosome,NZ_CP099547.1,506125,507807,+,,ettA,NG665_RS02150,WP_252673668.1,560,energy-dependent translational throttle protein EttA
+chromosome,NZ_CP099547.1,508022,508921,-,,,NG665_RS02155,WP_252673669.1,299,thioesterase family protein
+chromosome,NZ_CP099547.1,509136,511277,+,,malQ,NG665_RS02160,WP_252673670.1,713,4-alpha-glucanotransferase
+chromosome,NZ_CP099547.1,511371,511601,+,,,NG665_RS02165,WP_252673671.1,76,PTS transporter subunit EIIB
+chromosome,NZ_CP099547.1,511655,512863,-,,,NG665_RS02170,WP_252673672.1,402,dicarboxylate/amino acid:cation symporter
+chromosome,NZ_CP099547.1,513008,514063,+,,,NG665_RS02175,WP_252673673.1,351,LLM class flavin-dependent oxidoreductase
+chromosome,NZ_CP099547.1,514238,515014,-,,,NG665_RS02180,WP_252673674.1,258,formate/nitrite transporter family protein
+chromosome,NZ_CP099547.1,515102,517648,-,,pepN,NG665_RS02185,WP_252673675.1,848,aminopeptidase N
+chromosome,NZ_CP099547.1,517867,518595,-,,,NG665_RS02190,WP_252673676.1,242,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,518598,520598,-,,,NG665_RS02195,WP_252673677.1,666,peptidase M13
+chromosome,NZ_CP099547.1,520655,521098,+,,,NG665_RS02200,WP_252673678.1,147,ribose-5-phosphate isomerase
+chromosome,NZ_CP099547.1,521262,521813,-,,cysE,NG665_RS02205,WP_252673679.1,183,serine O-acetyltransferase
+chromosome,NZ_CP099547.1,521858,522787,-,,cysK,NG665_RS02210,WP_252674064.1,309,cysteine synthase A
+chromosome,NZ_CP099547.1,523044,523697,-,,,NG665_RS02215,WP_252673680.1,217,IMPACT family protein
+chromosome,NZ_CP099547.1,523867,524031,+,,rpmF,NG665_RS02220,WP_013169725.1,54,MULTISPECIES: 50S ribosomal protein L32
+chromosome,NZ_CP099547.1,524147,524851,+,,,NG665_RS02225,WP_252673681.1,234,hypothetical protein
+chromosome,NZ_CP099547.1,524851,525843,+,,,NG665_RS02230,WP_252673682.1,330,glycoside hydrolase
+chromosome,NZ_CP099547.1,525820,526683,-,,,NG665_RS02235,WP_252673683.1,287,anchored repeat-type ABC transporter permease subunit
+chromosome,NZ_CP099547.1,526680,527408,-,,,NG665_RS02240,WP_252673684.1,242,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,527405,528370,-,,,NG665_RS02245,WP_252673685.1,321,choice-of-anchor M domain-containing protein
+chromosome,NZ_CP099547.1,528367,529911,-,,,NG665_RS02250,WP_252673686.1,514,"anchored repeat ABC transporter, substrate-binding protein"
+chromosome,NZ_CP099547.1,530338,532695,+,,,NG665_RS02255,WP_252673687.1,785,carbon starvation protein A
+chromosome,NZ_CP099547.1,532802,533005,+,,,NG665_RS02260,WP_252673688.1,67,YbdD/YjiX family protein
+chromosome,NZ_CP099547.1,533085,533909,-,,,NG665_RS02265,WP_252673689.1,274,aldo/keto reductase
+chromosome,NZ_CP099547.1,534242,534538,-,,,NG665_RS02270,WP_252673690.1,98,hypothetical protein
+chromosome,NZ_CP099547.1,534575,534871,-,,,NG665_RS02275,WP_252673691.1,98,metalloregulator ArsR/SmtB family transcription factor
+chromosome,NZ_CP099547.1,535103,536170,+,,,NG665_RS02280,WP_252673692.1,355,BCCT family transporter
+chromosome,NZ_CP099547.1,536113,537162,+,,,NG665_RS02285,WP_252674065.1,349,BCCT family transporter
+chromosome,NZ_CP099547.1,537154,538860,-,,,NG665_RS02290,WP_252673693.1,568,DASS family sodium-coupled anion symporter
+chromosome,NZ_CP099547.1,539127,545039,+,,,NG665_RS02295,WP_252673694.1,1970,SpaA isopeptide-forming pilin-related protein
+chromosome,NZ_CP099547.1,545285,545953,-,,,NG665_RS02300,WP_252673695.1,222,deoxynucleoside kinase
+chromosome,NZ_CP099547.1,546208,548109,-,,,NG665_RS02305,WP_252673696.1,633,heavy metal translocating P-type ATPase
+chromosome,NZ_CP099547.1,548697,548927,+,,,NG665_RS02310,WP_252673697.1,76,(4Fe-4S)-binding protein
+chromosome,NZ_CP099547.1,549054,549725,+,,,NG665_RS02315,WP_252673698.1,223,class I SAM-dependent methyltransferase
+chromosome,NZ_CP099547.1,549977,550201,-,,,NG665_RS02320,WP_252673699.1,74,hypothetical protein
+chromosome,NZ_CP099547.1,550400,551851,-,,,NG665_RS02325,WP_252673700.1,483,NAD(P)/FAD-dependent oxidoreductase
+chromosome,NZ_CP099547.1,553081,553698,-,,,NG665_RS02330,WP_252673701.1,205,hypothetical protein
+chromosome,NZ_CP099547.1,554202,555599,+,,,NG665_RS02335,WP_252674066.1,465,DUF1906 domain-containing protein
+chromosome,NZ_CP099547.1,558086,558622,+,,,NG665_RS02345,WP_252674067.1,178,transposase
+chromosome,NZ_CP099547.1,560356,563406,+,,lanM,NG665_RS02350,WP_252673702.1,1016,type 2 lanthipeptide synthetase LanM
+chromosome,NZ_CP099547.1,563411,564112,+,,,NG665_RS02355,WP_252673703.1,233,NAD(P)H-dependent oxidoreductase
+chromosome,NZ_CP099547.1,564109,566244,+,,,NG665_RS02360,WP_252673704.1,711,peptidase domain-containing ABC transporter
+chromosome,NZ_CP099547.1,566400,568103,-,,,NG665_RS02365,WP_252673705.1,567,DUF2326 domain-containing protein
+chromosome,NZ_CP099547.1,568093,568314,-,,,NG665_RS02370,WP_252673706.1,73,hypothetical protein
+chromosome,NZ_CP099547.1,568301,569413,-,,,NG665_RS02375,WP_252673707.1,370,hypothetical protein
+chromosome,NZ_CP099547.1,569663,569806,+,,,NG665_RS02380,WP_252673708.1,47,hypothetical protein
+chromosome,NZ_CP099547.1,570160,570849,+,,,NG665_RS02385,WP_252673709.1,229,sigma-70 family RNA polymerase sigma factor
+chromosome,NZ_CP099547.1,570855,571091,+,,,NG665_RS02390,WP_252673710.1,78,hypothetical protein
+chromosome,NZ_CP099547.1,571088,571501,+,,,NG665_RS02395,WP_252673711.1,137,hypothetical protein
+chromosome,NZ_CP099547.1,571488,572624,+,,,NG665_RS02400,WP_252673712.1,378,DUF2800 domain-containing protein
+chromosome,NZ_CP099547.1,572647,573201,+,,,NG665_RS02405,WP_252673713.1,184,DUF2815 family protein
+chromosome,NZ_CP099547.1,573219,573404,+,,,NG665_RS02410,WP_252673714.1,61,hypothetical protein
+chromosome,NZ_CP099547.1,573481,575448,+,,,NG665_RS02415,WP_252673715.1,655,DNA polymerase
+chromosome,NZ_CP099547.1,575452,575643,-,,,NG665_RS02420,WP_252673716.1,63,hypothetical protein
+chromosome,NZ_CP099547.1,575791,576558,+,,,NG665_RS02425,WP_252673717.1,255,phage antirepressor KilAC domain-containing protein
+chromosome,NZ_CP099547.1,576555,576992,+,,,NG665_RS02430,WP_252673718.1,145,DUF4406 domain-containing protein
+chromosome,NZ_CP099547.1,576989,579250,+,,,NG665_RS02435,WP_252673719.1,753,"phage/plasmid primase, P4 family"
+chromosome,NZ_CP099547.1,579388,579666,+,,,NG665_RS02440,WP_252673720.1,92,VRR-NUC domain-containing protein
+chromosome,NZ_CP099547.1,579647,581023,+,,,NG665_RS02445,WP_252673721.1,458,DEAD/DEAH box helicase
+chromosome,NZ_CP099547.1,581014,581472,+,,,NG665_RS02450,WP_252673722.1,152,hypothetical protein
+chromosome,NZ_CP099547.1,581612,581989,+,,,NG665_RS02455,WP_252673723.1,125,HNH endonuclease
+chromosome,NZ_CP099547.1,581986,582237,-,,,NG665_RS02460,WP_252673724.1,83,50S ribosomal protein L7/L12
+chromosome,NZ_CP099547.1,582406,582987,-,,,NG665_RS02465,WP_252673725.1,193,ClbS/DfsB family four-helix bundle protein
+chromosome,NZ_CP099547.1,583023,583595,+,,,NG665_RS02470,WP_252673726.1,190,P27 family phage terminase small subunit
+chromosome,NZ_CP099547.1,583677,584861,+,,metK,NG665_RS02475,WP_252673727.1,394,methionine adenosyltransferase
+chromosome,NZ_CP099547.1,584836,586083,+,,,NG665_RS02480,WP_252673728.1,415,DNA methyltransferase
+chromosome,NZ_CP099547.1,586190,586477,+,,,NG665_RS02485,WP_252673729.1,95,hypothetical protein
+chromosome,NZ_CP099547.1,586704,587042,+,,,NG665_RS02490,WP_252673730.1,112,hypothetical protein
+chromosome,NZ_CP099547.1,587042,587236,+,,,NG665_RS02495,WP_252673731.1,64,hypothetical protein
+chromosome,NZ_CP099547.1,587340,588944,+,,,NG665_RS02500,WP_252673732.1,534,terminase large subunit
+chromosome,NZ_CP099547.1,588947,589261,-,,,NG665_RS02505,WP_252674068.1,104,TfoX/Sxy family protein
+chromosome,NZ_CP099547.1,589317,590621,+,,,NG665_RS02510,WP_252673733.1,434,phage portal protein
+chromosome,NZ_CP099547.1,590618,591493,+,,,NG665_RS02515,WP_252673734.1,291,Clp protease ClpP
+chromosome,NZ_CP099547.1,591508,592737,+,,,NG665_RS02520,WP_252673735.1,409,phage major capsid protein
+chromosome,NZ_CP099547.1,592761,593078,+,,,NG665_RS02525,WP_252673736.1,105,head-tail connector protein
+chromosome,NZ_CP099547.1,593081,593410,+,,,NG665_RS02530,WP_252673737.1,109,head-tail adaptor protein
+chromosome,NZ_CP099547.1,593413,593850,+,,,NG665_RS02535,WP_252673738.1,145,HK97 gp10 family phage protein
+chromosome,NZ_CP099547.1,593847,594191,+,,,NG665_RS02540,WP_252673739.1,114,hypothetical protein
+chromosome,NZ_CP099547.1,594203,594796,+,,,NG665_RS02545,WP_252673740.1,197,phage tail protein
+chromosome,NZ_CP099547.1,594809,595225,+,,,NG665_RS02550,WP_252673741.1,138,hypothetical protein
+chromosome,NZ_CP099547.1,595416,595802,-,,,NG665_RS02555,WP_252673742.1,128,hypothetical protein
+chromosome,NZ_CP099547.1,595860,598538,+,,,NG665_RS02560,WP_252673743.1,892,tape measure protein
+chromosome,NZ_CP099547.1,598541,599233,+,,,NG665_RS02565,WP_252673744.1,230,hypothetical protein
+chromosome,NZ_CP099547.1,599311,603180,+,,,NG665_RS02570,WP_252673745.1,1289,phage tail protein
+chromosome,NZ_CP099547.1,603198,603620,+,,,NG665_RS02575,WP_252673746.1,140,DUF1617 family protein
+chromosome,NZ_CP099547.1,603617,603838,+,,,NG665_RS02580,WP_252673747.1,73,acetyl-CoA carboxylase
+chromosome,NZ_CP099547.1,603919,604380,+,,,NG665_RS02585,WP_252673748.1,153,phage holin family protein
+chromosome,NZ_CP099547.1,604377,605210,+,,,NG665_RS02590,WP_252673749.1,277,N-acetylmuramoyl-L-alanine amidase
+chromosome,NZ_CP099547.1,605288,605884,-,,,NG665_RS02595,WP_252673750.1,198,hypothetical protein
+chromosome,NZ_CP099547.1,605891,606076,+,,,NG665_RS02600,WP_252673751.1,61,hypothetical protein
+chromosome,NZ_CP099547.1,606729,606938,+,,,NG665_RS02605,WP_252673752.1,69,BlaI family transcriptional regulator
+chromosome,NZ_CP099547.1,606985,608235,+,,,NG665_RS02610,WP_252673753.1,416,recombinase family protein
+chromosome,NZ_CP099547.1,608232,609803,+,,,NG665_RS02615,WP_252673754.1,523,recombinase family protein
+chromosome,NZ_CP099547.1,610293,610943,-,,,NG665_RS02625,WP_252674069.1,216,response regulator transcription factor
+chromosome,NZ_CP099547.1,610979,611722,-,,,NG665_RS02630,WP_252673755.1,247,histidine kinase
+chromosome,NZ_CP099547.1,611847,612530,+,,,NG665_RS02635,WP_252673756.1,227,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,612527,613921,+,,,NG665_RS02640,WP_252673757.1,464,hypothetical protein
+chromosome,NZ_CP099547.1,614102,615961,+,,,NG665_RS02645,WP_252673758.1,619,phosphoenolpyruvate carboxykinase (GTP)
+chromosome,NZ_CP099547.1,616093,616914,+,,,NG665_RS02650,WP_252673759.1,273,YdcF family protein
+chromosome,NZ_CP099547.1,616901,617959,-,,,NG665_RS02655,WP_252673760.1,352,GTP-binding protein
+chromosome,NZ_CP099547.1,618058,618363,+,,rpsN,NG665_RS02660,WP_252673761.1,101,30S ribosomal protein S14
+chromosome,NZ_CP099547.1,618438,618560,+,,ykgO,NG665_RS02665,WP_252673762.1,40,type B 50S ribosomal protein L36
+chromosome,NZ_CP099547.1,618560,618793,+,,rpmB,NG665_RS02670,WP_252673763.1,77,50S ribosomal protein L28
+chromosome,NZ_CP099547.1,618803,618970,+,,rpmG,NG665_RS02675,WP_252673764.1,55,50S ribosomal protein L33
+chromosome,NZ_CP099547.1,619098,619763,-,,,NG665_RS02680,WP_252673765.1,221,LPXTG cell wall anchor domain-containing protein
+chromosome,NZ_CP099547.1,620555,620701,+,,,NG665_RS02695,WP_252673766.1,48,hypothetical protein
+chromosome,NZ_CP099547.1,621355,622881,+,,tig,NG665_RS02700,WP_252673767.1,508,trigger factor
+chromosome,NZ_CP099547.1,623444,624115,+,,,NG665_RS02705,WP_252673768.1,223,ATP-dependent Clp protease proteolytic subunit
+chromosome,NZ_CP099547.1,624190,624837,+,,,NG665_RS02710,WP_252674070.1,215,ATP-dependent Clp protease proteolytic subunit
+chromosome,NZ_CP099547.1,625135,626409,+,,clpX,NG665_RS02715,WP_252673769.1,424,ATP-dependent Clp protease ATP-binding subunit ClpX
+chromosome,NZ_CP099547.1,626602,628428,-,,,NG665_RS02720,WP_252673770.1,608,AMP-dependent synthetase/ligase
+chromosome,NZ_CP099547.1,628607,631282,-,,valS,NG665_RS02725,WP_252673771.1,891,valine--tRNA ligase
+chromosome,NZ_CP099547.1,631363,632160,-,,proC,NG665_RS02730,WP_252673772.1,265,pyrroline-5-carboxylate reductase
+chromosome,NZ_CP099547.1,632165,632893,-,,,NG665_RS02735,WP_252673773.1,242,DUF1643 domain-containing protein
+chromosome,NZ_CP099547.1,632916,634682,-,,,NG665_RS02740,WP_252673774.1,588,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP099547.1,634679,636367,-,,,NG665_RS02745,WP_252673775.1,562,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP099547.1,636792,636974,+,,,NG665_RS02750,WP_252673776.1,60,hypothetical protein
+chromosome,NZ_CP099547.1,636952,640137,+,,ileS,NG665_RS02755,WP_252673777.1,1061,isoleucine--tRNA ligase
+chromosome,NZ_CP099547.1,640138,641658,+,,,NG665_RS02760,WP_252673778.1,506,bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+chromosome,NZ_CP099547.1,641655,642071,+,,ndk,NG665_RS02765,WP_252673779.1,138,nucleoside-diphosphate kinase
+chromosome,NZ_CP099547.1,642071,642679,+,,dhaL,NG665_RS02770,WP_252674071.1,202,dihydroxyacetone kinase subunit DhaL
+chromosome,NZ_CP099547.1,642684,646307,+,,smc,NG665_RS02775,WP_252673780.1,1207,chromosome segregation protein SMC
+chromosome,NZ_CP099547.1,646384,646725,+,,,NG665_RS02780,WP_252673781.1,113,hypothetical protein
+chromosome,NZ_CP099547.1,646763,647884,+,,ftsY,NG665_RS02785,WP_252673782.1,373,signal recognition particle-docking protein FtsY
+chromosome,NZ_CP099547.1,647975,649528,+,,ffh,NG665_RS02790,WP_252673783.1,517,signal recognition particle protein
+chromosome,NZ_CP099547.1,649549,650634,+,,,NG665_RS02795,WP_252673784.1,361,amidohydrolase family protein
+chromosome,NZ_CP099547.1,650840,652645,+,,,NG665_RS02800,WP_252673785.1,601,hypothetical protein
+chromosome,NZ_CP099547.1,652696,653343,+,,,NG665_RS02805,WP_252674072.1,215,TipC family immunity protein
+chromosome,NZ_CP099547.1,653678,654610,-,,,NG665_RS02810,WP_252673786.1,310,cation diffusion facilitator family transporter
+chromosome,NZ_CP099547.1,654857,655321,+,,rpsP,NG665_RS02815,WP_252674073.1,154,30S ribosomal protein S16
+chromosome,NZ_CP099547.1,655321,655557,+,,,NG665_RS02820,WP_252673787.1,78,RNA-binding protein
+chromosome,NZ_CP099547.1,655622,656143,+,,rimM,NG665_RS02825,WP_252673788.1,173,ribosome maturation factor RimM
+chromosome,NZ_CP099547.1,656143,657486,+,,trmD,NG665_RS02830,WP_252673789.1,447,tRNA (guanosine(37)-N1)-methyltransferase TrmD
+chromosome,NZ_CP099547.1,657615,657971,+,,rplS,NG665_RS02835,WP_252674074.1,118,50S ribosomal protein L19
+chromosome,NZ_CP099547.1,658117,658950,+,,lepB,NG665_RS02840,WP_252673790.1,277,signal peptidase I
+chromosome,NZ_CP099547.1,658964,659653,+,,,NG665_RS02845,WP_252673791.1,229,ribonuclease HII
+chromosome,NZ_CP099547.1,659646,659966,+,,,NG665_RS02850,WP_252673792.1,106,DUF2469 family protein
+chromosome,NZ_CP099547.1,660095,660466,+,,,NG665_RS02855,WP_252673793.1,123,YraN family protein
+chromosome,NZ_CP099547.1,660463,661992,+,,,NG665_RS02860,WP_252673794.1,509,YifB family Mg chelatase-like AAA ATPase
+chromosome,NZ_CP099547.1,661989,663134,+,,dprA,NG665_RS02865,WP_252673795.1,381,DNA-processing protein DprA
+chromosome,NZ_CP099547.1,663144,664160,+,,,NG665_RS02870,WP_252673796.1,338,tyrosine recombinase XerC
+chromosome,NZ_CP099547.1,664274,664912,-,,,NG665_RS02875,WP_252673797.1,212,M23 family metallopeptidase
+chromosome,NZ_CP099547.1,665231,666073,+,,rpsB,NG665_RS02880,WP_252673798.1,280,30S ribosomal protein S2
+chromosome,NZ_CP099547.1,666101,666970,+,,tsf,NG665_RS02885,WP_252673799.1,289,translation elongation factor Ts
+chromosome,NZ_CP099547.1,667191,667355,+,,,NG665_RS02890,WP_252673800.1,54,LacI family DNA-binding transcriptional regulator
+chromosome,NZ_CP099547.1,667476,667673,+,,,NG665_RS02895,WP_216402809.1,65,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP099547.1,667856,668008,+,,,NG665_RS02900,WP_252673801.1,50,hypothetical protein
+chromosome,NZ_CP099547.1,668709,668984,-,,,NG665_RS02905,WP_216380386.1,91,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP099547.1,669024,669596,-,,,NG665_RS02910,WP_252673802.1,190,hypothetical protein
+chromosome,NZ_CP099547.1,669739,670161,+,,,NG665_RS02915,WP_252674075.1,140,terminase
+chromosome,NZ_CP099547.1,670367,670630,+,,,NG665_RS02920,WP_252673803.1,87,terminase large subunit
+chromosome,NZ_CP099547.1,670812,671348,+,,,NG665_RS02925,WP_252673804.1,178,hypothetical protein
+chromosome,NZ_CP099547.1,671364,671840,+,,,NG665_RS02930,WP_216380398.1,158,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP099547.1,671901,672179,+,,,NG665_RS02935,WP_216452588.1,92,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP099547.1,673090,673251,+,,,NG665_RS02940,WP_252673609.1,53,IS3 family transposase
+chromosome,NZ_CP099547.1,673596,673847,+,,,NG665_RS02945,WP_252673805.1,83,integrase core domain-containing protein
+chromosome,NZ_CP099547.1,674630,674914,+,,,NG665_RS02950,WP_216402757.1,94,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP099547.1,675238,676014,+,,,NG665_RS02955,WP_252673806.1,258,electron transfer flavoprotein beta subunit/FixA family protein
+chromosome,NZ_CP099547.1,676014,676886,+,,,NG665_RS02960,WP_252673807.1,290,electron transfer flavoprotein subunit alpha/FixB family protein
+chromosome,NZ_CP099547.1,676967,678268,+,,,NG665_RS02965,WP_252673808.1,433,FAD-dependent oxidoreductase
+chromosome,NZ_CP099547.1,678268,678570,+,,,NG665_RS02970,WP_252673809.1,100,4Fe-4S dicluster domain-containing protein
+chromosome,NZ_CP099547.1,678579,680093,-,,,NG665_RS02975,WP_252673810.1,504,MFS transporter
+chromosome,NZ_CP099547.1,680327,680710,+,,,NG665_RS02980,WP_252673811.1,127,RNA-binding S4 domain-containing protein
+chromosome,NZ_CP099547.1,680746,681486,+,,pyrH,NG665_RS02985,WP_252673812.1,246,UMP kinase
+chromosome,NZ_CP099547.1,681496,682053,+,,frr,NG665_RS02990,WP_252673813.1,185,ribosome recycling factor
+chromosome,NZ_CP099547.1,682104,682949,+,,,NG665_RS02995,WP_252673814.1,281,phosphatidate cytidylyltransferase
+chromosome,NZ_CP099547.1,682995,684284,+,,rlmN,NG665_RS03000,WP_252673815.1,429,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+chromosome,NZ_CP099547.1,684277,684828,+,,,NG665_RS03005,WP_252673816.1,183,cell division protein DivIVA
+chromosome,NZ_CP099547.1,684828,686057,+,,dxr,NG665_RS03010,WP_252673817.1,409,1-deoxy-D-xylulose-5-phosphate reductoisomerase
+chromosome,NZ_CP099547.1,686064,687314,+,,,NG665_RS03015,WP_252673818.1,416,site-2 protease family protein
+chromosome,NZ_CP099547.1,687351,688505,+,,ispG,NG665_RS03020,WP_252674076.1,384,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase
+chromosome,NZ_CP099547.1,688507,689355,+,,,NG665_RS03025,WP_252673819.1,282,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,689456,691243,+,,,NG665_RS03030,WP_252674077.1,595,proline--tRNA ligase
+chromosome,NZ_CP099547.1,691398,692309,-,,,NG665_RS03035,WP_252673820.1,303,hypothetical protein
+chromosome,NZ_CP099547.1,692487,692957,+,,,NG665_RS03040,WP_252673821.1,156,ribosome maturation factor RimP
+chromosome,NZ_CP099547.1,692957,693934,+,,nusA,NG665_RS03045,WP_252673822.1,325,transcription termination factor NusA
+chromosome,NZ_CP099547.1,694076,694441,+,,,NG665_RS03050,WP_252673823.1,121,YlxR family protein
+chromosome,NZ_CP099547.1,694512,697394,+,,infB,NG665_RS03055,WP_252673824.1,960,translation initiation factor IF-2
+chromosome,NZ_CP099547.1,697427,697882,+,,rbfA,NG665_RS03060,WP_252673825.1,151,30S ribosome-binding factor RbfA
+chromosome,NZ_CP099547.1,697882,698907,+,,truB,NG665_RS03065,WP_252673826.1,341,tRNA pseudouridine(55) synthase TruB
+chromosome,NZ_CP099547.1,699133,700095,+,,,NG665_RS03070,WP_252673827.1,320,hypothetical protein
+chromosome,NZ_CP099547.1,700187,701134,+,,,NG665_RS03075,WP_252673828.1,315,hypothetical protein
+chromosome,NZ_CP099547.1,701301,702140,+,,,NG665_RS03080,WP_252673829.1,279,hypothetical protein
+chromosome,NZ_CP099547.1,702199,703173,+,,,NG665_RS03085,WP_252673830.1,324,hypothetical protein
+chromosome,NZ_CP099547.1,703269,703697,+,,,NG665_RS03090,WP_252673831.1,142,hypothetical protein
+chromosome,NZ_CP099547.1,703726,704703,+,,,NG665_RS03095,WP_252673832.1,325,hypothetical protein
+chromosome,NZ_CP099547.1,704737,705711,+,,,NG665_RS03100,WP_252673833.1,324,hypothetical protein
+chromosome,NZ_CP099547.1,705765,707036,+,,,NG665_RS03105,WP_252673834.1,423,peptidoglycan-binding protein
+chromosome,NZ_CP099547.1,707033,707698,+,,,NG665_RS03110,WP_204425295.1,221,MULTISPECIES: ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,707691,708950,+,,,NG665_RS03115,WP_252673835.1,419,ABC transporter permease
+chromosome,NZ_CP099547.1,709134,709442,+,,,NG665_RS03120,WP_211080705.1,102,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP099547.1,709446,710441,+,,,NG665_RS03125,WP_252673836.1,331,bifunctional riboflavin kinase/FAD synthetase
+chromosome,NZ_CP099547.1,711056,711760,+,,,NG665_RS03130,WP_252673837.1,234,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,711757,712929,+,,,NG665_RS03135,WP_252673838.1,390,hypothetical protein
+chromosome,NZ_CP099547.1,713811,714080,+,,rpsO,NG665_RS03140,WP_168917522.1,89,MULTISPECIES: 30S ribosomal protein S15
+chromosome,NZ_CP099547.1,714403,716775,+,,,NG665_RS03145,WP_252673839.1,790,polyribonucleotide nucleotidyltransferase
+chromosome,NZ_CP099547.1,716995,718122,+,,,NG665_RS03150,WP_252673840.1,375,MFS transporter
+chromosome,NZ_CP099547.1,718242,719561,+,,,NG665_RS03155,WP_252673841.1,439,insulinase family protein
+chromosome,NZ_CP099547.1,719623,720204,-,,,NG665_RS03160,WP_252673842.1,193,hypothetical protein
+chromosome,NZ_CP099547.1,720376,721965,+,,,NG665_RS03165,WP_252674078.1,529,ribonuclease J
+chromosome,NZ_CP099547.1,722557,723429,-,,,NG665_RS03170,WP_252673843.1,290,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,725237,725440,+,,,NG665_RS03185,WP_252673844.1,67,hypothetical protein
+chromosome,NZ_CP099547.1,725777,726223,+,,,NG665_RS03190,WP_252674079.1,148,integrase core domain-containing protein
+chromosome,NZ_CP099547.1,726795,728426,+,,,NG665_RS03195,WP_252673845.1,543,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,728848,729165,+,,,NG665_RS03200,WP_252673846.1,105,IS3 family transposase
+chromosome,NZ_CP099547.1,730016,731053,+,,,NG665_RS03205,WP_252673847.1,345,virulence RhuM family protein
+chromosome,NZ_CP099547.1,732476,735640,+,,,NG665_RS03215,WP_252673848.1,1054,N-6 DNA methylase
+chromosome,NZ_CP099547.1,735649,736164,+,,,NG665_RS03220,WP_252673849.1,171,hypothetical protein
+chromosome,NZ_CP099547.1,736797,737336,-,,,NG665_RS03225,WP_252673850.1,179,IS3 family transposase
+chromosome,NZ_CP099547.1,737840,738748,-,,,NG665_RS03230,WP_252673851.1,302,NAD(P)-binding domain-containing protein
+chromosome,NZ_CP099547.1,738886,741480,+,,,NG665_RS03235,WP_252673852.1,864,DNA translocase FtsK
+chromosome,NZ_CP099547.1,741534,742106,+,,pgsA,NG665_RS03240,WP_252673853.1,190,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+chromosome,NZ_CP099547.1,742124,742612,+,,,NG665_RS03245,WP_252673854.1,162,nicotinamide-nucleotide amidohydrolase family protein
+chromosome,NZ_CP099547.1,742751,743098,+,,,NG665_RS03250,WP_252673855.1,115,helix-turn-helix domain-containing protein
+chromosome,NZ_CP099547.1,743101,743337,+,,,NG665_RS03255,WP_252673856.1,78,DUF3046 domain-containing protein
+chromosome,NZ_CP099547.1,743664,744710,+,,recA,NG665_RS03260,WP_252673857.1,348,recombinase RecA
+chromosome,NZ_CP099547.1,744772,745356,+,,,NG665_RS03265,WP_252673858.1,194,recombination regulator RecX
+chromosome,NZ_CP099547.1,745450,746994,+,,miaB,NG665_RS03270,WP_252673859.1,514,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB
+chromosome,NZ_CP099547.1,746998,747933,+,,miaA,NG665_RS03275,WP_252673860.1,311,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+chromosome,NZ_CP099547.1,747905,748543,-,,,NG665_RS03280,WP_252673861.1,212,methyltransferase
+chromosome,NZ_CP099547.1,748643,750145,+,,hflX,NG665_RS03285,WP_252674080.1,500,GTPase HflX
+chromosome,NZ_CP099547.1,750138,752072,+,,,NG665_RS03290,WP_252673862.1,644,ATP-dependent DNA helicase
+chromosome,NZ_CP099547.1,752085,752831,-,,lexA,NG665_RS03295,WP_252673863.1,248,transcriptional repressor LexA
+chromosome,NZ_CP099547.1,753066,753695,+,,,NG665_RS03300,WP_252673864.1,209,LysM peptidoglycan-binding domain-containing protein
+chromosome,NZ_CP099547.1,753752,754210,+,,nrdR,NG665_RS03305,WP_252673865.1,152,transcriptional regulator NrdR
+chromosome,NZ_CP099547.1,754389,756614,-,,,NG665_RS03310,WP_252673866.1,741,AMP-binding protein
+chromosome,NZ_CP099547.1,756713,758968,-,,,NG665_RS03315,WP_252673867.1,751,AAA family ATPase
+chromosome,NZ_CP099547.1,759136,760155,+,,,NG665_RS03320,WP_252673868.1,339,PAC2 family protein
+chromosome,NZ_CP099547.1,760127,760954,-,,,NG665_RS03325,WP_252673869.1,275,fused MFS/spermidine synthase
+chromosome,NZ_CP099547.1,761025,762257,+,,dinB,NG665_RS03330,WP_252673870.1,410,DNA polymerase IV
+chromosome,NZ_CP099547.1,762316,762705,+,,,NG665_RS03335,WP_252673871.1,129,DUF3040 domain-containing protein
+chromosome,NZ_CP099547.1,763108,763539,+,,mraZ,NG665_RS03340,WP_252673872.1,143,division/cell wall cluster transcriptional repressor MraZ
+chromosome,NZ_CP099547.1,763651,764661,+,,rsmH,NG665_RS03345,WP_252673873.1,336,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+chromosome,NZ_CP099547.1,764658,765056,+,,,NG665_RS03350,WP_252673874.1,132,hypothetical protein
+chromosome,NZ_CP099547.1,765077,766960,+,,,NG665_RS03355,WP_252673875.1,627,penicillin-binding protein 2
+chromosome,NZ_CP099547.1,766960,768456,+,,,NG665_RS03360,WP_252673876.1,498,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase"
+chromosome,NZ_CP099547.1,768453,769871,+,,,NG665_RS03365,WP_252673877.1,472,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+chromosome,NZ_CP099547.1,769872,770957,+,,mraY,NG665_RS03370,WP_252673878.1,361,phospho-N-acetylmuramoyl-pentapeptide-transferase
+chromosome,NZ_CP099547.1,770954,772441,+,,murD,NG665_RS03375,WP_252673879.1,495,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+chromosome,NZ_CP099547.1,772441,773673,+,,,NG665_RS03380,WP_252673880.1,410,FtsW/RodA/SpoVE family cell cycle protein
+chromosome,NZ_CP099547.1,773673,774782,+,,,NG665_RS03385,WP_252673881.1,369,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+chromosome,NZ_CP099547.1,774779,776131,+,,murC,NG665_RS03390,WP_252673882.1,450,UDP-N-acetylmuramate--L-alanine ligase
+chromosome,NZ_CP099547.1,776128,777072,+,,,NG665_RS03395,WP_252673883.1,314,FtsQ-type POTRA domain-containing protein
+chromosome,NZ_CP099547.1,777193,778434,+,,ftsZ,NG665_RS03400,WP_252673884.1,413,cell division protein FtsZ
+chromosome,NZ_CP099547.1,778565,779389,+,,,NG665_RS03405,WP_252673885.1,274,polyphenol oxidase family protein
+chromosome,NZ_CP099547.1,779444,779854,+,,,NG665_RS03410,WP_252673886.1,136,cell division protein SepF
+chromosome,NZ_CP099547.1,779857,780144,+,,,NG665_RS03415,WP_252673887.1,95,YggT family protein
+chromosome,NZ_CP099547.1,780315,780896,+,,,NG665_RS03420,WP_252673888.1,193,DivIVA domain-containing protein
+chromosome,NZ_CP099547.1,780984,781493,+,,lspA,NG665_RS03425,WP_252673889.1,169,signal peptidase II
+chromosome,NZ_CP099547.1,781562,782419,+,,,NG665_RS03430,WP_252674081.1,285,RluA family pseudouridine synthase
+chromosome,NZ_CP099547.1,782441,782902,+,,,NG665_RS03435,WP_252673890.1,153,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,782960,786508,+,,dnaE,NG665_RS03440,WP_252673891.1,1182,DNA polymerase III subunit alpha
+chromosome,NZ_CP099547.1,786570,786797,-,,,NG665_RS03445,WP_252673892.1,75,RNA-binding S4 domain-containing protein
+chromosome,NZ_CP099547.1,786790,787359,-,,,NG665_RS03450,WP_252673893.1,189,VTT domain-containing protein
+chromosome,NZ_CP099547.1,787363,787758,-,,,NG665_RS03455,WP_252673894.1,131,transcriptional repressor
+chromosome,NZ_CP099547.1,787799,788662,-,,,NG665_RS03460,WP_252673895.1,287,metal ABC transporter permease
+chromosome,NZ_CP099547.1,788655,789380,-,,,NG665_RS03465,WP_252673896.1,241,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,789385,790419,-,,,NG665_RS03470,WP_252673897.1,344,metal ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,790612,792006,+,,,NG665_RS03475,WP_252673898.1,464,glycine--tRNA ligase
+chromosome,NZ_CP099547.1,791981,793225,+,,,NG665_RS03480,WP_252673899.1,414,YibE/F family protein
+chromosome,NZ_CP099547.1,793228,794451,+,,dusB,NG665_RS03485,WP_252673900.1,407,tRNA dihydrouridine synthase DusB
+chromosome,NZ_CP099547.1,794499,795749,+,,,NG665_RS03490,WP_252673901.1,416,deoxyguanosinetriphosphate triphosphohydrolase
+chromosome,NZ_CP099547.1,795868,797097,+,,,NG665_RS03495,WP_252673902.1,409,substrate-binding domain-containing protein
+chromosome,NZ_CP099547.1,797189,798697,+,,,NG665_RS03500,WP_252673903.1,502,sugar ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,798711,800369,+,,,NG665_RS03505,WP_252673904.1,552,galactoside ABC transporter permease
+chromosome,NZ_CP099547.1,800435,800773,-,,,NG665_RS03510,WP_252673905.1,112,rhodanese-like domain-containing protein
+chromosome,NZ_CP099547.1,800959,802788,+,,,NG665_RS03515,WP_252673906.1,609,glycerophosphoryl diester phosphodiesterase membrane domain-containing protein
+chromosome,NZ_CP099547.1,802893,803762,+,,,NG665_RS03520,WP_252673907.1,289,CPBP family intramembrane metalloprotease
+chromosome,NZ_CP099547.1,803854,805824,+,,dnaG,NG665_RS03525,WP_252673908.1,656,DNA primase
+chromosome,NZ_CP099547.1,806050,807360,-,,,NG665_RS03535,WP_252673909.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,807847,808464,+,,,NG665_RS03540,WP_252673910.1,205,DUF6318 family protein
+chromosome,NZ_CP099547.1,808698,809246,+,,,NG665_RS03545,WP_252673911.1,182,PKD domain-containing protein
+chromosome,NZ_CP099547.1,809256,809495,+,,,NG665_RS03550,WP_252673912.1,79,hypothetical protein
+chromosome,NZ_CP099547.1,809489,809983,+,,,NG665_RS03555,WP_252673913.1,164,hypothetical protein
+chromosome,NZ_CP099547.1,810710,811105,-,,,NG665_RS03565,WP_252673914.1,131,transposase
+chromosome,NZ_CP099547.1,811135,812019,-,,,NG665_RS03570,WP_252673915.1,294,transposase
+chromosome,NZ_CP099547.1,815185,815946,-,,,NG665_RS03580,WP_252673916.1,253,phosphatidylcholine synthase
+chromosome,NZ_CP099547.1,816134,817078,+,,,NG665_RS03585,WP_252673917.1,314,TIGR01777 family oxidoreductase
+chromosome,NZ_CP099547.1,817182,817688,+,,,NG665_RS03590,WP_252673918.1,168,DUF3145 domain-containing protein
+chromosome,NZ_CP099547.1,817720,818049,-,,,NG665_RS03595,WP_252673919.1,109,hypothetical protein
+chromosome,NZ_CP099547.1,818103,818708,+,,,NG665_RS03600,WP_252673920.1,201,hypothetical protein
+chromosome,NZ_CP099547.1,818733,819353,+,,,NG665_RS03605,WP_252673921.1,206,L-threonylcarbamoyladenylate synthase
+chromosome,NZ_CP099547.1,819371,820084,+,,,NG665_RS03610,WP_252673922.1,237,HAD hydrolase-like protein
+chromosome,NZ_CP099547.1,820062,821852,-,,,NG665_RS03615,WP_252673923.1,596,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP099547.1,821852,823624,-,,,NG665_RS03620,WP_252673924.1,590,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP099547.1,823792,826545,-,,aceE,NG665_RS03625,WP_252673925.1,917,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type"
+chromosome,NZ_CP099547.1,826842,827255,+,,,NG665_RS03630,WP_252673926.1,137,DUF3052 domain-containing protein
+chromosome,NZ_CP099547.1,827811,828905,+,,,NG665_RS03640,WP_252674049.1,364,IS1249 family transposase
+chromosome,NZ_CP099547.1,829605,830237,-,,,NG665_RS03645,WP_252673927.1,210,NAD(P)H-dependent oxidoreductase
+chromosome,NZ_CP099547.1,830250,831452,-,,,NG665_RS03650,WP_252673928.1,400,LLM class flavin-dependent oxidoreductase
+chromosome,NZ_CP099547.1,831546,832094,-,,,NG665_RS03655,WP_252673929.1,182,YceI family protein
+chromosome,NZ_CP099547.1,832461,833915,+,,,NG665_RS03660,WP_252673930.1,484,FAD-dependent oxidoreductase
+chromosome,NZ_CP099547.1,833921,834100,+,,,NG665_RS03665,WP_252673931.1,59,hypothetical protein
+chromosome,NZ_CP099547.1,834187,834987,+,,,NG665_RS03670,WP_252673932.1,266,Nif3-like dinuclear metal center hexameric protein
+chromosome,NZ_CP099547.1,835013,835759,+,,,NG665_RS03675,WP_252673933.1,248,hypothetical protein
+chromosome,NZ_CP099547.1,835731,836504,-,,,NG665_RS03680,WP_252673934.1,257,peroxide stress protein YaaA
+chromosome,NZ_CP099547.1,836994,837761,-,,,NG665_RS03690,WP_252673935.1,255,ROK family protein
+chromosome,NZ_CP099547.1,837809,838699,-,,map,NG665_RS03695,WP_252673936.1,296,type I methionyl aminopeptidase
+chromosome,NZ_CP099547.1,838780,839580,-,,panB,NG665_RS03700,WP_252673937.1,266,3-methyl-2-oxobutanoate hydroxymethyltransferase
+chromosome,NZ_CP099547.1,839701,841029,+,,,NG665_RS03705,WP_252673938.1,442,glutamine synthetase family protein
+chromosome,NZ_CP099547.1,841035,843854,+,,,NG665_RS03710,WP_252673939.1,939,bifunctional
+chromosome,NZ_CP099547.1,843885,844487,+,,,NG665_RS03715,WP_252673940.1,200,histidine phosphatase family protein
+chromosome,NZ_CP099547.1,844475,845902,-,,glnA,NG665_RS03720,WP_252673941.1,475,type I glutamate--ammonia ligase
+chromosome,NZ_CP099547.1,846006,846716,-,,,NG665_RS03725,WP_252673942.1,236,DUF4191 domain-containing protein
+chromosome,NZ_CP099547.1,846789,847919,-,,,NG665_RS03730,WP_252673943.1,376,MFS transporter
+chromosome,NZ_CP099547.1,848215,849945,-,,sucB,NG665_RS03735,WP_252673944.1,576,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase"
+chromosome,NZ_CP099547.1,849961,851337,-,,lpdA,NG665_RS03740,WP_252673945.1,458,dihydrolipoyl dehydrogenase
+chromosome,NZ_CP099547.1,851633,851950,+,,,NG665_RS03745,WP_252673946.1,105,oxidoreductase
+chromosome,NZ_CP099547.1,852139,853563,-,,,NG665_RS03750,WP_252673947.1,474,leucyl aminopeptidase
+chromosome,NZ_CP099547.1,853648,854316,-,,,NG665_RS03755,WP_252673948.1,222,DUF3043 domain-containing protein
+chromosome,NZ_CP099547.1,854394,855740,+,,,NG665_RS03760,WP_252673949.1,448,dipeptidase
+chromosome,NZ_CP099547.1,855741,856823,+,,,NG665_RS03765,WP_252673950.1,360,hypothetical protein
+chromosome,NZ_CP099547.1,856899,857240,+,,erpA,NG665_RS03770,WP_252673951.1,113,iron-sulfur cluster insertion protein ErpA
+chromosome,NZ_CP099547.1,857291,858229,+,,,NG665_RS03775,WP_252673952.1,312,FKBP-type peptidyl-prolyl cis-trans isomerase
+chromosome,NZ_CP099547.1,858394,859017,-,,,NG665_RS03780,WP_252673953.1,207,superoxide dismutase
+chromosome,NZ_CP099547.1,859227,859622,+,,,NG665_RS03785,WP_252673954.1,131,hypothetical protein
+chromosome,NZ_CP099547.1,859696,861492,-,,,NG665_RS03790,WP_252673955.1,598,DEDD exonuclease domain-containing protein
+chromosome,NZ_CP099547.1,861534,861920,-,,,NG665_RS03795,WP_252673956.1,128,hypothetical protein
+chromosome,NZ_CP099547.1,861998,863218,+,,,NG665_RS03800,WP_252673957.1,406,pyrophosphate--fructose-6-phosphate 1-phosphotransferase
+chromosome,NZ_CP099547.1,863320,864570,+,,,NG665_RS03805,WP_252673958.1,416,3-deoxy-7-phosphoheptulonate synthase
+chromosome,NZ_CP099547.1,864557,866524,-,,pknB,NG665_RS03810,WP_252673959.1,655,Stk1 family PASTA domain-containing Ser/Thr kinase
+chromosome,NZ_CP099547.1,866595,867914,-,,,NG665_RS03815,WP_252673960.1,439,LysM peptidoglycan-binding domain-containing protein
+chromosome,NZ_CP099547.1,868050,868412,+,,,NG665_RS03820,WP_252673961.1,120,Rv2175c family DNA-binding protein
+chromosome,NZ_CP099547.1,868409,869461,-,,,NG665_RS03825,WP_252673962.1,350,polyprenyl synthetase family protein
+chromosome,NZ_CP099547.1,869569,870696,+,,,NG665_RS03830,WP_252673963.1,375,DUF4192 family protein
+chromosome,NZ_CP099547.1,870936,872420,+,,,NG665_RS03835,WP_252673964.1,494,RNA polymerase sigma factor
+chromosome,NZ_CP099547.1,872493,873098,-,,,NG665_RS03840,WP_252673965.1,201,3\\'-5\\' exonuclease
+chromosome,NZ_CP099547.1,873219,873422,+,,,NG665_RS03845,WP_252673966.1,67,hypothetical protein
+chromosome,NZ_CP099547.1,873507,875612,+,,,NG665_RS03850,WP_252673967.1,701,type IIA DNA topoisomerase subunit B
+chromosome,NZ_CP099547.1,875631,876677,+,,,NG665_RS03855,WP_252673968.1,348,hypothetical protein
+chromosome,NZ_CP099547.1,876674,877639,+,,,NG665_RS03860,WP_252673969.1,321,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,877636,880053,-,,,NG665_RS03865,WP_252673970.1,805,DNA topoisomerase IV subunit A
+chromosome,NZ_CP099547.1,880166,880723,+,,,NG665_RS03870,WP_252673971.1,185,DUF5998 family protein
+chromosome,NZ_CP099547.1,880723,881844,+,,,NG665_RS03875,WP_252673972.1,373,alkaline phosphatase family protein
+chromosome,NZ_CP099547.1,881844,882512,+,,,NG665_RS03880,WP_252673973.1,222,thymidine kinase
+chromosome,NZ_CP099547.1,882624,883673,-,,sepH,NG665_RS03885,WP_252673974.1,349,septation protein SepH
+chromosome,NZ_CP099547.1,883861,884160,+,,,NG665_RS03890,WP_252673975.1,99,DUF4193 domain-containing protein
+chromosome,NZ_CP099547.1,884237,884848,+,,,NG665_RS03895,WP_252673976.1,203,DUF3710 domain-containing protein
+chromosome,NZ_CP099547.1,884849,885103,+,,,NG665_RS03900,WP_252673977.1,84,hypothetical protein
+chromosome,NZ_CP099547.1,885093,885746,+,,,NG665_RS03905,WP_252673978.1,217,DUF3159 domain-containing protein
+chromosome,NZ_CP099547.1,885691,886398,-,,,NG665_RS03910,WP_252673979.1,235,TrkA family potassium uptake protein
+chromosome,NZ_CP099547.1,886395,887048,-,,,NG665_RS03915,WP_252674082.1,217,TrkA family potassium uptake protein
+chromosome,NZ_CP099547.1,887111,888976,+,,,NG665_RS03920,WP_252673980.1,621,hypothetical protein
+chromosome,NZ_CP099547.1,888957,890165,+,,,NG665_RS03925,WP_252673981.1,402,TRAM domain-containing protein
+chromosome,NZ_CP099547.1,890254,891093,+,,,NG665_RS03930,WP_252673982.1,279,oxidoreductase
+chromosome,NZ_CP099547.1,891469,891966,+,,purE,NG665_RS03935,WP_252673983.1,165,5-(carboxyamino)imidazole ribonucleotide mutase
+chromosome,NZ_CP099547.1,891991,892683,+,,,NG665_RS03940,WP_252673984.1,230,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+chromosome,NZ_CP099547.1,892693,894117,+,,,NG665_RS03945,WP_252673985.1,474,amidophosphoribosyltransferase
+chromosome,NZ_CP099547.1,894122,895165,+,,purM,NG665_RS03950,WP_252673986.1,347,phosphoribosylformylglycinamidine cyclo-ligase
+chromosome,NZ_CP099547.1,895174,895797,+,,purN,NG665_RS03955,WP_252673987.1,207,phosphoribosylglycinamide formyltransferase
+chromosome,NZ_CP099547.1,895787,896488,+,,,NG665_RS03960,WP_252673988.1,233,IMP cyclohydrolase
+chromosome,NZ_CP099547.1,896485,897669,+,,,NG665_RS03965,WP_252673989.1,394,phosphoribosylaminoimidazolecarboxamide formyltransferase
+chromosome,NZ_CP099547.1,897682,898962,+,,purD,NG665_RS03970,WP_252673990.1,426,phosphoribosylamine--glycine ligase
+chromosome,NZ_CP099547.1,898952,902599,+,,,NG665_RS03975,WP_252673991.1,1215,phosphoribosylformylglycinamidine synthase
+chromosome,NZ_CP099547.1,902612,904285,+,,,NG665_RS03980,WP_252673992.1,557,formate--tetrahydrofolate ligase
+chromosome,NZ_CP099547.1,904322,904813,+,,,NG665_RS03985,WP_252673993.1,163,N-acetyltransferase
+chromosome,NZ_CP099547.1,904935,907613,+,,acnA,NG665_RS03990,WP_252673994.1,892,aconitate hydratase AcnA
+chromosome,NZ_CP099547.1,907738,909657,+,,dxs,NG665_RS03995,WP_252673995.1,639,1-deoxy-D-xylulose-5-phosphate synthase
+chromosome,NZ_CP099547.1,909672,910874,-,,,NG665_RS04000,WP_252673996.1,400,HRDC domain-containing protein
+chromosome,NZ_CP099547.1,910874,911476,-,,,NG665_RS04005,WP_252673997.1,200,DUF3000 domain-containing protein
+chromosome,NZ_CP099547.1,911507,913234,-,,treZ,NG665_RS04010,WP_252673998.1,575,malto-oligosyltrehalose trehalohydrolase
+chromosome,NZ_CP099547.1,913231,915741,-,,treY,NG665_RS04015,WP_252673999.1,836,malto-oligosyltrehalose synthase
+chromosome,NZ_CP099547.1,915803,918025,-,,glgX,NG665_RS04020,WP_252674000.1,740,glycogen debranching protein GlgX
+chromosome,NZ_CP099547.1,919268,920578,-,,,NG665_RS04055,WP_252674001.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,921819,923201,-,,,NG665_RS04060,WP_252674002.1,460,L-serine ammonia-lyase
+chromosome,NZ_CP099547.1,923362,925374,+,,thrS,NG665_RS04065,WP_252674003.1,670,threonine--tRNA ligase
+chromosome,NZ_CP099547.1,925383,926006,+,,,NG665_RS04070,WP_252674004.1,207,CDP-alcohol phosphatidyltransferase family protein
+chromosome,NZ_CP099547.1,926006,926971,+,,,NG665_RS04075,WP_252674005.1,321,phosphatidylinositol mannoside acyltransferase
+chromosome,NZ_CP099547.1,926968,928104,+,,,NG665_RS04080,WP_252674006.1,378,glycosyltransferase family 4 protein
+chromosome,NZ_CP099547.1,928101,928700,+,,,NG665_RS04085,WP_252674007.1,199,hypothetical protein
+chromosome,NZ_CP099547.1,928690,929844,+,,,NG665_RS04090,WP_252674008.1,384,PrsW family intramembrane metalloprotease
+chromosome,NZ_CP099547.1,929852,930412,+,,,NG665_RS04095,WP_252674009.1,186,NUDIX domain-containing protein
+chromosome,NZ_CP099547.1,930486,931250,+,,,NG665_RS04100,WP_252674010.1,254,YebC/PmpR family DNA-binding transcriptional regulator
+chromosome,NZ_CP099547.1,931250,931870,+,,ruvC,NG665_RS04105,WP_252674011.1,206,crossover junction endodeoxyribonuclease RuvC
+chromosome,NZ_CP099547.1,931908,932507,+,,ruvA,NG665_RS04110,WP_252674012.1,199,Holliday junction branch migration protein RuvA
+chromosome,NZ_CP099547.1,932511,933527,+,,ruvB,NG665_RS04115,WP_252674013.1,338,Holliday junction branch migration DNA helicase RuvB
+chromosome,NZ_CP099547.1,933694,934074,+,,,NG665_RS04120,WP_252674014.1,126,preprotein translocase subunit YajC
+chromosome,NZ_CP099547.1,934111,935967,+,,secD,NG665_RS04125,WP_252674015.1,618,protein translocase subunit SecD
+chromosome,NZ_CP099547.1,935967,937064,+,,secF,NG665_RS04130,WP_252674016.1,365,protein translocase subunit SecF
+chromosome,NZ_CP099547.1,937061,937609,+,,,NG665_RS04135,WP_252674017.1,182,adenine phosphoribosyltransferase
+chromosome,NZ_CP099547.1,937777,940095,+,,,NG665_RS04140,WP_252674018.1,772,"bifunctional (p)ppGpp synthetase/guanosine-3\\',5\\'-bis(diphosphate) 3\\'-pyrophosphohydrolase"
+chromosome,NZ_CP099547.1,940070,940627,-,,,NG665_RS04145,WP_252674019.1,185,hypothetical protein
+chromosome,NZ_CP099547.1,940728,942056,-,,,NG665_RS04150,WP_252674020.1,442,DUF349 domain-containing protein
+chromosome,NZ_CP099547.1,942159,942884,+,,,NG665_RS04155,WP_252674021.1,241,MBL fold metallo-hydrolase
+chromosome,NZ_CP099547.1,942948,944273,+,,hisS,NG665_RS04160,WP_252674022.1,441,histidine--tRNA ligase
+chromosome,NZ_CP099547.1,944279,945982,+,,,NG665_RS04165,WP_252674023.1,567,50S ribosome-binding GTPase
+chromosome,NZ_CP099547.1,945982,947589,+,,,NG665_RS04170,WP_252674024.1,535,50S ribosome-binding GTPase
+chromosome,NZ_CP099547.1,949813,951189,-,,,NG665_RS04180,WP_252674025.1,458,MFS transporter
+chromosome,NZ_CP099547.1,951419,953242,+,,aspS,NG665_RS04185,WP_252674026.1,607,aspartate--tRNA ligase
+chromosome,NZ_CP099547.1,953337,954761,+,,,NG665_RS04190,WP_252674027.1,474,"L,D-transpeptidase/peptidoglycan binding protein"
+chromosome,NZ_CP099547.1,954834,955589,+,,,NG665_RS04195,WP_252674028.1,251,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,955583,958012,-,,,NG665_RS04200,WP_252674029.1,809,MMPL family transporter
+chromosome,NZ_CP099547.1,958135,959463,+,,,NG665_RS04205,WP_252674030.1,442,replication-associated recombination protein A
+chromosome,NZ_CP099547.1,959574,960194,+,,rpsD,NG665_RS04210,WP_252674031.1,206,30S ribosomal protein S4
+chromosome,NZ_CP099547.1,960356,963025,+,,alaS,NG665_RS04215,WP_252674032.1,889,alanine--tRNA ligase
+chromosome,NZ_CP099547.1,963045,963506,+,,ruvX,NG665_RS04220,WP_252674033.1,153,Holliday junction resolvase RuvX
+chromosome,NZ_CP099547.1,963507,964631,+,,mltG,NG665_RS04225,WP_252674034.1,374,endolytic transglycosylase MltG
+chromosome,NZ_CP099547.1,964683,965360,+,,,NG665_RS04230,WP_252674035.1,225,hypothetical protein
+chromosome,NZ_CP099547.1,965386,965949,+,,,NG665_RS04235,WP_252674036.1,187,hypothetical protein
+chromosome,NZ_CP099547.1,965946,967169,+,,aroC,NG665_RS04240,WP_252674037.1,407,chorismate synthase
+chromosome,NZ_CP099547.1,967166,968716,+,,aroB,NG665_RS04245,WP_252674038.1,516,3-dehydroquinate synthase
+chromosome,NZ_CP099547.1,968713,969237,+,,,NG665_RS04250,WP_252674039.1,174,hypothetical protein
+chromosome,NZ_CP099547.1,969329,969886,+,,efp,NG665_RS04255,WP_252674040.1,185,elongation factor P
+chromosome,NZ_CP099547.1,969886,970362,+,,nusB,NG665_RS04260,WP_252674041.1,158,transcription antitermination factor NusB
+chromosome,NZ_CP099547.1,970541,971110,+,,gmk,NG665_RS04265,WP_252674042.1,189,guanylate kinase
+chromosome,NZ_CP099547.1,971137,971418,+,,rpoZ,NG665_RS04270,WP_252674043.1,93,DNA-directed RNA polymerase subunit omega
+chromosome,NZ_CP099547.1,971421,972707,+,,coaBC,NG665_RS04275,WP_252674044.1,428,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+chromosome,NZ_CP099547.1,972745,973944,+,,metK,NG665_RS04280,WP_252674045.1,399,methionine adenosyltransferase
+chromosome,NZ_CP099547.1,974000,976078,+,,,NG665_RS04285,WP_252674046.1,692,hypothetical protein
+chromosome,NZ_CP099547.1,976119,977045,+,,fmt,NG665_RS04290,WP_252674047.1,308,methionyl-tRNA formyltransferase
+chromosome,NZ_CP099547.1,977042,978502,+,,,NG665_RS04295,WP_252672441.1,486,16S rRNA methyltransferase
+chromosome,NZ_CP099547.1,978516,979178,+,,rpe,NG665_RS04300,WP_252672442.1,220,ribulose-phosphate 3-epimerase
+chromosome,NZ_CP099547.1,979398,980150,+,,,NG665_RS04305,WP_252672443.1,250,ABC transporter permease
+chromosome,NZ_CP099547.1,980163,981194,+,,,NG665_RS04310,WP_252672444.1,343,ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,981201,982301,-,,,NG665_RS04315,WP_252674083.1,366,DUF3866 family protein
+chromosome,NZ_CP099547.1,982335,983240,+,,,NG665_RS04320,WP_252672445.1,301,WYL domain-containing protein
+chromosome,NZ_CP099547.1,983227,984141,+,,,NG665_RS04325,WP_252672446.1,304,WYL domain-containing protein
+chromosome,NZ_CP099547.1,984146,986746,+,,,NG665_RS04330,WP_252672447.1,866,DEAD/DEAH box helicase
+chromosome,NZ_CP099547.1,986994,988517,+,,lnt,NG665_RS04335,WP_252672448.1,507,apolipoprotein N-acyltransferase
+chromosome,NZ_CP099547.1,988548,988901,-,,,NG665_RS04340,WP_252672449.1,117,RNA polymerase-binding protein RbpA
+chromosome,NZ_CP099547.1,989172,989687,-,,,NG665_RS04345,WP_252674084.1,171,MerR family transcriptional regulator
+chromosome,NZ_CP099547.1,989862,990617,-,,,NG665_RS04350,WP_252672450.1,251,MerR family transcriptional regulator
+chromosome,NZ_CP099547.1,990614,991066,-,,,NG665_RS04355,WP_252672451.1,150,FHA domain-containing protein
+chromosome,NZ_CP099547.1,991145,993676,-,,pepN,NG665_RS04360,WP_252672452.1,843,aminopeptidase N
+chromosome,NZ_CP099547.1,994284,994475,-,,,NG665_RS04370,WP_252672453.1,63,hypothetical protein
+chromosome,NZ_CP099547.1,994880,995101,+,,,NG665_RS04375,WP_252672454.1,73,hypothetical protein
+chromosome,NZ_CP099547.1,995183,995800,-,,,NG665_RS04380,WP_252672455.1,205,hypothetical protein
+chromosome,NZ_CP099547.1,995924,997435,-,,der,NG665_RS04385,WP_252672456.1,503,ribosome biogenesis GTPase Der
+chromosome,NZ_CP099547.1,997432,998130,-,,cmk,NG665_RS04390,WP_252674085.1,232,(d)CMP kinase
+chromosome,NZ_CP099547.1,998130,998885,-,,,NG665_RS04395,WP_252672457.1,251,rRNA pseudouridine synthase
+chromosome,NZ_CP099547.1,998882,999445,-,,scpB,NG665_RS04400,WP_252672458.1,187,SMC-Scp complex subunit ScpB
+chromosome,NZ_CP099547.1,999438,1000256,-,,,NG665_RS04405,WP_252672459.1,272,segregation/condensation protein A
+chromosome,NZ_CP099547.1,1000266,1001120,-,,,NG665_RS04410,WP_252672460.1,284,ParA family protein
+chromosome,NZ_CP099547.1,1001141,1002073,-,,xerD,NG665_RS04415,WP_252672461.1,310,site-specific tyrosine recombinase XerD
+chromosome,NZ_CP099547.1,1002172,1004271,+,,tkt,NG665_RS04420,WP_252674086.1,699,transketolase
+chromosome,NZ_CP099547.1,1004524,1004769,-,,secG,NG665_RS04425,WP_252672462.1,81,preprotein translocase subunit SecG
+chromosome,NZ_CP099547.1,1004892,1005671,-,,tpiA,NG665_RS04430,WP_252672463.1,259,triose-phosphate isomerase
+chromosome,NZ_CP099547.1,1005677,1006870,-,,,NG665_RS04435,WP_252672464.1,397,phosphoglycerate kinase
+chromosome,NZ_CP099547.1,1007008,1008015,-,,gap,NG665_RS04440,WP_252672465.1,335,type I glyceraldehyde-3-phosphate dehydrogenase
+chromosome,NZ_CP099547.1,1008231,1009223,-,,whiA,NG665_RS04445,WP_252672466.1,330,DNA-binding protein WhiA
+chromosome,NZ_CP099547.1,1009458,1010393,-,,rapZ,NG665_RS04450,WP_252672467.1,311,RNase adapter RapZ
+chromosome,NZ_CP099547.1,1010410,1012380,-,,uvrC,NG665_RS04455,WP_252672468.1,656,excinuclease ABC subunit UvrC
+chromosome,NZ_CP099547.1,1012383,1015247,-,,uvrA,NG665_RS04460,WP_252672469.1,954,excinuclease ABC subunit UvrA
+chromosome,NZ_CP099547.1,1015322,1015600,+,,,NG665_RS04465,WP_252672470.1,92,YciI family protein
+chromosome,NZ_CP099547.1,1015591,1016556,+,,,NG665_RS04470,WP_252672471.1,321,bile acid:sodium symporter
+chromosome,NZ_CP099547.1,1016803,1017846,-,,,NG665_RS04475,WP_252674087.1,347,TerC/Alx family metal homeostasis membrane protein
+chromosome,NZ_CP099547.1,1018103,1020154,-,,uvrB,NG665_RS04480,WP_252672472.1,683,excinuclease ABC subunit UvrB
+chromosome,NZ_CP099547.1,1020309,1021562,-,,,NG665_RS04485,WP_252672473.1,417,MFS transporter
+chromosome,NZ_CP099547.1,1021681,1022526,-,,coaE,NG665_RS04490,WP_252672474.1,281,dephospho-CoA kinase
+chromosome,NZ_CP099547.1,1022791,1024263,-,,rpsA,NG665_RS04495,WP_252672475.1,490,30S ribosomal protein S1
+chromosome,NZ_CP099547.1,1024434,1025222,+,,,NG665_RS04500,WP_252672476.1,262,class I SAM-dependent methyltransferase
+chromosome,NZ_CP099547.1,1025234,1027945,-,,polA,NG665_RS04505,WP_252672477.1,903,DNA polymerase I
+chromosome,NZ_CP099547.1,1028000,1028401,+,,,NG665_RS04510,WP_252672478.1,133,PaaI family thioesterase
+chromosome,NZ_CP099547.1,1028379,1028996,-,,,NG665_RS04515,WP_252674088.1,205,response regulator
+chromosome,NZ_CP099547.1,1029256,1030674,-,,pyk,NG665_RS04525,WP_252672479.1,472,pyruvate kinase
+chromosome,NZ_CP099547.1,1030685,1031548,-,,lgt,NG665_RS04530,WP_252672480.1,287,prolipoprotein diacylglyceryl transferase
+chromosome,NZ_CP099547.1,1031592,1032461,-,,,NG665_RS04535,WP_252672481.1,289,hypothetical protein
+chromosome,NZ_CP099547.1,1032454,1033830,-,,,NG665_RS04540,WP_252672482.1,458,proteasome accessory factor PafA2 family protein
+chromosome,NZ_CP099547.1,1033827,1034006,-,,,NG665_RS04545,WP_252672483.1,59,ubiquitin-like protein Pup
+chromosome,NZ_CP099547.1,1034003,1035547,-,,dop,NG665_RS04550,WP_252672484.1,514,depupylase/deamidase Dop
+chromosome,NZ_CP099547.1,1035555,1037081,-,,arc,NG665_RS04555,WP_252672485.1,508,proteasome ATPase
+chromosome,NZ_CP099547.1,1037091,1038200,-,,,NG665_RS04560,WP_252672486.1,369,tRNA (adenine-N1)-methyltransferase
+chromosome,NZ_CP099547.1,1038329,1039204,+,,,NG665_RS04565,WP_252672487.1,291,PD-(D/E)XK nuclease family protein
+chromosome,NZ_CP099547.1,1039137,1039802,-,,,NG665_RS04570,WP_252672488.1,221,HAD family phosphatase
+chromosome,NZ_CP099547.1,1039814,1040656,-,,,NG665_RS04575,WP_252672489.1,280,undecaprenyl-diphosphate phosphatase
+chromosome,NZ_CP099547.1,1040703,1041644,+,,,NG665_RS04580,WP_252672490.1,313,aldo/keto reductase
+chromosome,NZ_CP099547.1,1041665,1042000,-,,,NG665_RS04585,WP_252672491.1,111,DNA primase
+chromosome,NZ_CP099547.1,1042038,1042931,-,,,NG665_RS04590,WP_252672492.1,297,shikimate dehydrogenase
+chromosome,NZ_CP099547.1,1043838,1044470,-,,,NG665_RS04605,WP_252672493.1,210,hypothetical protein
+chromosome,NZ_CP099547.1,1044467,1044928,-,,,NG665_RS04610,WP_252672494.1,153,hypothetical protein
+chromosome,NZ_CP099547.1,1044998,1048165,-,,,NG665_RS04615,WP_252672495.1,1055,error-prone DNA polymerase
+chromosome,NZ_CP099547.1,1048158,1049714,-,,,NG665_RS04620,WP_252672496.1,518,hypothetical protein
+chromosome,NZ_CP099547.1,1049711,1050352,-,,,NG665_RS04625,WP_252672497.1,213,hypothetical protein
+chromosome,NZ_CP099547.1,1050439,1050915,+,,,NG665_RS04630,WP_252672498.1,158,tRNA (cytidine(34)-2\\'-O)-methyltransferase
+chromosome,NZ_CP099547.1,1051004,1051303,+,,,NG665_RS04635,WP_252672499.1,99,helix-turn-helix domain-containing protein
+chromosome,NZ_CP099547.1,1051300,1052145,-,,,NG665_RS04640,WP_252672500.1,281,RNA methyltransferase
+chromosome,NZ_CP099547.1,1052233,1053279,-,,,NG665_RS04645,WP_252672501.1,348,SPFH/Band 7/PHB domain protein
+chromosome,NZ_CP099547.1,1053305,1053745,-,,,NG665_RS04650,WP_252672502.1,146,NfeD family protein
+chromosome,NZ_CP099547.1,1053806,1054591,-,,,NG665_RS04655,WP_252672503.1,261,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1054630,1055853,-,,glgA,NG665_RS04660,WP_252672504.1,407,glycogen synthase
+chromosome,NZ_CP099547.1,1056038,1057297,+,,glgC,NG665_RS04665,WP_252672505.1,419,glucose-1-phosphate adenylyltransferase
+chromosome,NZ_CP099547.1,1057386,1057877,-,,,NG665_RS04670,WP_252672506.1,163,histidine phosphatase family protein
+chromosome,NZ_CP099547.1,1057881,1059494,-,,,NG665_RS04675,WP_252672507.1,537,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,1059735,1060052,-,,,NG665_RS04680,WP_252672508.1,105,metal-sulfur cluster assembly factor
+chromosome,NZ_CP099547.1,1060108,1060569,-,,,NG665_RS04685,WP_252672509.1,153,SUF system NifU family Fe-S cluster assembly protein
+chromosome,NZ_CP099547.1,1060566,1061840,-,,,NG665_RS04690,WP_252672510.1,424,SufS family cysteine desulfurase
+chromosome,NZ_CP099547.1,1061844,1062593,-,,sufC,NG665_RS04695,WP_252672511.1,249,Fe-S cluster assembly ATPase SufC
+chromosome,NZ_CP099547.1,1062629,1062952,-,,,NG665_RS04700,WP_252672512.1,107,non-heme iron oxygenase ferredoxin subunit
+chromosome,NZ_CP099547.1,1062945,1064075,-,,sufD,NG665_RS04705,WP_252672513.1,376,Fe-S cluster assembly protein SufD
+chromosome,NZ_CP099547.1,1064075,1065514,-,,sufB,NG665_RS04710,WP_252672514.1,479,Fe-S cluster assembly protein SufB
+chromosome,NZ_CP099547.1,1065511,1066242,-,,,NG665_RS04715,WP_252672515.1,243,HTH domain-containing protein
+chromosome,NZ_CP099547.1,1066375,1066986,-,,,NG665_RS04720,WP_252672516.1,203,NUDIX hydrolase
+chromosome,NZ_CP099547.1,1066983,1068554,-,,,NG665_RS04725,WP_252672517.1,523,MATE family efflux transporter
+chromosome,NZ_CP099547.1,1068564,1069379,-,,,NG665_RS04730,WP_252672518.1,271,hypothetical protein
+chromosome,NZ_CP099547.1,1069376,1070416,-,,,NG665_RS04735,WP_252672519.1,346,copper transporter
+chromosome,NZ_CP099547.1,1070426,1071604,-,,steA,NG665_RS04740,WP_252672520.1,392,putative cytokinetic ring protein SteA
+chromosome,NZ_CP099547.1,1071612,1073306,-,,recN,NG665_RS04745,WP_252672521.1,564,DNA repair protein RecN
+chromosome,NZ_CP099547.1,1073299,1074186,-,,,NG665_RS04750,WP_252672522.1,295,NAD kinase
+chromosome,NZ_CP099547.1,1074218,1075057,-,,,NG665_RS04755,WP_252672523.1,279,TlyA family RNA methyltransferase
+chromosome,NZ_CP099547.1,1075066,1075236,-,,,NG665_RS04760,WP_252672524.1,56,hypothetical protein
+chromosome,NZ_CP099547.1,1075241,1076257,-,,,NG665_RS04765,WP_252672525.1,338,HAD-IIA family hydrolase
+chromosome,NZ_CP099547.1,1076250,1077164,-,,,NG665_RS04770,WP_252672526.1,304,hypothetical protein
+chromosome,NZ_CP099547.1,1077161,1078108,-,,,NG665_RS04775,WP_252672527.1,315,hypothetical protein
+chromosome,NZ_CP099547.1,1084161,1084736,+,,,NG665_RS04795,WP_252672528.1,191,TMEM175 family protein
+chromosome,NZ_CP099547.1,1084858,1085718,+,,,NG665_RS04800,WP_252672529.1,286,DUF1295 domain-containing protein
+chromosome,NZ_CP099547.1,1085747,1087585,-,,,NG665_RS04805,WP_252672530.1,612,AMP-dependent synthetase/ligase
+chromosome,NZ_CP099547.1,1087776,1089035,-,,tyrS,NG665_RS04810,WP_252672531.1,419,tyrosine--tRNA ligase
+chromosome,NZ_CP099547.1,1089246,1090634,+,,,NG665_RS04815,WP_252672532.1,462,hypothetical protein
+chromosome,NZ_CP099547.1,1090757,1091500,-,,,NG665_RS04820,WP_252672533.1,247,NADPH-dependent oxidoreductase
+chromosome,NZ_CP099547.1,1091497,1092003,-,,,NG665_RS04825,WP_252672534.1,168,arginine repressor
+chromosome,NZ_CP099547.1,1092000,1093148,-,,,NG665_RS04830,WP_252672535.1,382,aminotransferase class III-fold pyridoxal phosphate-dependent enzyme
+chromosome,NZ_CP099547.1,1093240,1094019,-,,,NG665_RS04835,WP_252672536.1,259,SDR family oxidoreductase
+chromosome,NZ_CP099547.1,1094126,1096708,-,,pheT,NG665_RS04840,WP_252672537.1,860,phenylalanine--tRNA ligase subunit beta
+chromosome,NZ_CP099547.1,1096708,1097790,-,,pheS,NG665_RS04845,WP_252672538.1,360,phenylalanine--tRNA ligase subunit alpha
+chromosome,NZ_CP099547.1,1098053,1098403,+,,,NG665_RS04850,WP_252672539.1,116,hypothetical protein
+chromosome,NZ_CP099547.1,1098627,1099544,-,,,NG665_RS04855,WP_252672540.1,305,dihydrodipicolinate synthase family protein
+chromosome,NZ_CP099547.1,1099556,1100365,-,,,NG665_RS04860,WP_252672541.1,269,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,1100362,1102401,-,,,NG665_RS04865,WP_252672542.1,679,dipeptide/oligopeptide/nickel ABC transporter permease/ATP-binding protein
+chromosome,NZ_CP099547.1,1102404,1103354,-,,,NG665_RS04870,WP_252672543.1,316,ABC transporter permease
+chromosome,NZ_CP099547.1,1103447,1105021,-,,,NG665_RS04875,WP_252672544.1,524,ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,1105169,1106044,-,,,NG665_RS04880,WP_252672545.1,291,RNA methyltransferase
+chromosome,NZ_CP099547.1,1106126,1106506,-,,rplT,NG665_RS04885,WP_252672546.1,126,50S ribosomal protein L20
+chromosome,NZ_CP099547.1,1106534,1106728,-,,rpmI,NG665_RS04890,WP_013170184.1,64,MULTISPECIES: 50S ribosomal protein L35
+chromosome,NZ_CP099547.1,1106820,1107428,-,,infC,NG665_RS04895,WP_252672547.1,202,translation initiation factor IF-3
+chromosome,NZ_CP099547.1,1107691,1108410,-,,,NG665_RS04900,WP_252672548.1,239,SseB family protein
+chromosome,NZ_CP099547.1,1108403,1109023,-,,,NG665_RS04905,WP_252672549.1,206,hypothetical protein
+chromosome,NZ_CP099547.1,1109160,1109924,+,,,NG665_RS04910,WP_252672550.1,254,VIT family protein
+chromosome,NZ_CP099547.1,1110006,1110809,-,,,NG665_RS04915,WP_252672551.1,267,isoprenyl transferase
+chromosome,NZ_CP099547.1,1110816,1111544,-,,recO,NG665_RS04920,WP_252672552.1,242,DNA repair protein RecO
+chromosome,NZ_CP099547.1,1111552,1112484,-,,era,NG665_RS04925,WP_252672553.1,310,GTPase Era
+chromosome,NZ_CP099547.1,1112477,1113742,-,,,NG665_RS04930,WP_252672554.1,421,hemolysin family protein
+chromosome,NZ_CP099547.1,1113748,1114260,-,,ybeY,NG665_RS04935,WP_252672555.1,170,rRNA maturation RNase YbeY
+chromosome,NZ_CP099547.1,1114253,1115218,-,,,NG665_RS04940,WP_252672556.1,321,PhoH family protein
+chromosome,NZ_CP099547.1,1115229,1115972,-,,,NG665_RS04945,WP_252672557.1,247,16S rRNA (uracil(1498)-N(3))-methyltransferase
+chromosome,NZ_CP099547.1,1115972,1117105,-,,dnaJ,NG665_RS04950,WP_252672558.1,377,molecular chaperone DnaJ
+chromosome,NZ_CP099547.1,1117144,1118172,-,,hrcA,NG665_RS04955,WP_252672559.1,342,heat-inducible transcriptional repressor HrcA
+chromosome,NZ_CP099547.1,1118473,1119339,+,,,NG665_RS04960,WP_252672560.1,288,DUF3097 domain-containing protein
+chromosome,NZ_CP099547.1,1119387,1120004,-,,,NG665_RS04965,WP_252672561.1,205,hypothetical protein
+chromosome,NZ_CP099547.1,1120305,1121495,-,,hemW,NG665_RS04970,WP_252672562.1,396,radical SAM family heme chaperone HemW
+chromosome,NZ_CP099547.1,1121492,1122310,-,,trmB,NG665_RS04975,WP_252672563.1,272,tRNA (guanosine(46)-N7)-methyltransferase TrmB
+chromosome,NZ_CP099547.1,1122307,1124166,-,,lepA,NG665_RS04980,WP_252672564.1,619,translation elongation factor 4
+chromosome,NZ_CP099547.1,1124244,1124843,+,,,NG665_RS04985,WP_252672565.1,199,hypothetical protein
+chromosome,NZ_CP099547.1,1124912,1125412,+,,,NG665_RS04990,WP_252672566.1,166,PH domain-containing protein
+chromosome,NZ_CP099547.1,1125415,1126008,+,,,NG665_RS04995,WP_252672567.1,197,type II toxin-antitoxin system PemK/MazF family toxin
+chromosome,NZ_CP099547.1,1126230,1126493,+,,rpsT,NG665_RS05000,WP_252672568.1,87,30S ribosomal protein S20
+chromosome,NZ_CP099547.1,1126664,1127626,-,,holA,NG665_RS05005,WP_252672569.1,320,DNA polymerase III subunit delta
+chromosome,NZ_CP099547.1,1127631,1129067,-,,,NG665_RS05010,WP_252672570.1,478,ComEC/Rec2 family competence protein
+chromosome,NZ_CP099547.1,1129070,1129951,-,,,NG665_RS05015,WP_252672571.1,293,helix-hairpin-helix domain-containing protein
+chromosome,NZ_CP099547.1,1130085,1131935,+,,,NG665_RS05020,WP_252672572.1,616,DUF853 domain-containing protein
+chromosome,NZ_CP099547.1,1132042,1133004,-,,,NG665_RS05025,WP_252674089.1,320,aldose 1-epimerase
+chromosome,NZ_CP099547.1,1133094,1133234,+,,,NG665_RS05030,WP_252672573.1,46,hypothetical protein
+chromosome,NZ_CP099547.1,1133218,1136094,-,,leuS,NG665_RS05035,WP_252672574.1,958,leucine--tRNA ligase
+chromosome,NZ_CP099547.1,1136226,1136663,+,,,NG665_RS05040,WP_252672575.1,145,HIT family protein
+chromosome,NZ_CP099547.1,1136704,1137384,-,,,NG665_RS05045,WP_252672576.1,226,vitamin K epoxide reductase family protein
+chromosome,NZ_CP099547.1,1137368,1138144,-,,,NG665_RS05050,WP_252672577.1,258,HAD-IIB family hydrolase
+chromosome,NZ_CP099547.1,1138235,1139500,+,,,NG665_RS05055,WP_252672578.1,421,AI-2E family transporter
+chromosome,NZ_CP099547.1,1139569,1140276,+,,,NG665_RS05060,WP_252672579.1,235,purine-nucleoside phosphorylase
+chromosome,NZ_CP099547.1,1140793,1141782,+,,,NG665_RS05065,WP_252672580.1,329,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,1141779,1142510,+,,,NG665_RS05070,WP_252672581.1,243,ABC transporter permease subunit
+chromosome,NZ_CP099547.1,1142623,1143450,+,,,NG665_RS05075,WP_252672582.1,275,MetQ/NlpA family ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,1143569,1147078,-,,,NG665_RS05080,WP_252672583.1,1169,bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase
+chromosome,NZ_CP099547.1,1147231,1148805,+,,putP,NG665_RS05085,WP_252672584.1,524,sodium/proline symporter PutP
+chromosome,NZ_CP099547.1,1148831,1149478,-,,,NG665_RS05090,WP_252672585.1,215,pyroglutamyl-peptidase I
+chromosome,NZ_CP099547.1,1149577,1154976,-,,,NG665_RS05095,WP_252672586.1,1799,S8 family serine peptidase
+chromosome,NZ_CP099547.1,1155237,1155863,+,,,NG665_RS05100,WP_252672587.1,208,DUF998 domain-containing protein
+chromosome,NZ_CP099547.1,1155826,1156482,+,,,NG665_RS05105,WP_252672588.1,218,alpha/beta hydrolase
+chromosome,NZ_CP099547.1,1156466,1159663,-,,lysX,NG665_RS05110,WP_252672589.1,1065,bifunctional lysylphosphatidylglycerol synthetase/lysine--tRNA ligase LysX
+chromosome,NZ_CP099547.1,1159697,1160779,-,,pyrB,NG665_RS05115,WP_252672590.1,360,aspartate carbamoyltransferase
+chromosome,NZ_CP099547.1,1160782,1161426,-,,pyrE,NG665_RS05120,WP_252672591.1,214,orotate phosphoribosyltransferase
+chromosome,NZ_CP099547.1,1161423,1162121,-,,pyrF,NG665_RS05125,WP_252672592.1,232,orotidine-5\\'-phosphate decarboxylase
+chromosome,NZ_CP099547.1,1162118,1163050,-,,,NG665_RS05130,WP_252672593.1,310,dihydroorotate dehydrogenase
+chromosome,NZ_CP099547.1,1163047,1163811,-,,,NG665_RS05135,WP_252672594.1,254,dihydroorotate dehydrogenase electron transfer subunit
+chromosome,NZ_CP099547.1,1163816,1167007,-,,carB,NG665_RS05140,WP_252672595.1,1063,carbamoyl-phosphate synthase large subunit
+chromosome,NZ_CP099547.1,1167034,1168527,-,,,NG665_RS05145,WP_252672596.1,497,dihydroorotase
+chromosome,NZ_CP099547.1,1168687,1169622,-,,,NG665_RS05150,WP_252672597.1,311,hypothetical protein
+chromosome,NZ_CP099547.1,1169715,1171298,-,,,NG665_RS05155,WP_252672598.1,527,Na+/H+ antiporter NhaC family protein
+chromosome,NZ_CP099547.1,1171473,1171718,+,,,NG665_RS05160,WP_204423266.1,81,MULTISPECIES: type B 50S ribosomal protein L31
+chromosome,NZ_CP099547.1,1171728,1172660,-,,,NG665_RS05165,WP_252672599.1,310,alpha/beta hydrolase fold domain-containing protein
+chromosome,NZ_CP099547.1,1172723,1173073,-,,,NG665_RS05170,WP_252672600.1,116,CrcB family protein
+chromosome,NZ_CP099547.1,1173070,1173456,-,,,NG665_RS05175,WP_252672601.1,128,CrcB family protein
+chromosome,NZ_CP099547.1,1173456,1174472,-,,,NG665_RS05180,WP_252672602.1,338,hypothetical protein
+chromosome,NZ_CP099547.1,1174647,1175096,+,,,NG665_RS05185,WP_252672603.1,149,LytTR family transcriptional regulator
+chromosome,NZ_CP099547.1,1175130,1175879,+,,,NG665_RS05190,WP_252672604.1,249,DUF3021 family protein
+chromosome,NZ_CP099547.1,1175964,1177022,-,,,NG665_RS05195,WP_252672605.1,352,hypothetical protein
+chromosome,NZ_CP099547.1,1177294,1179720,+,,,NG665_RS05200,WP_252672606.1,808,fibronectin type III domain-containing protein
+chromosome,NZ_CP099547.1,1179994,1180455,+,,,NG665_RS05205,WP_252672607.1,153,DUF1440 domain-containing protein
+chromosome,NZ_CP099547.1,1180521,1181222,+,,,NG665_RS05210,WP_252672608.1,233,Crp/Fnr family transcriptional regulator
+chromosome,NZ_CP099547.1,1181215,1181583,+,,,NG665_RS05215,WP_252672609.1,122,hypothetical protein
+chromosome,NZ_CP099547.1,1181673,1182437,-,,,NG665_RS05220,WP_252672610.1,254,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1182434,1183885,-,,,NG665_RS05225,WP_252672611.1,483,ABC transporter permease/substrate-binding protein
+chromosome,NZ_CP099547.1,1184237,1185925,+,,,NG665_RS05230,WP_252672612.1,562,SulP family inorganic anion transporter
+chromosome,NZ_CP099547.1,1186126,1187964,+,,,NG665_RS05235,WP_252672613.1,612,chloride channel protein
+chromosome,NZ_CP099547.1,1188226,1189137,+,,,NG665_RS05240,WP_252672614.1,303,transporter substrate-binding domain-containing protein
+chromosome,NZ_CP099547.1,1189138,1189797,+,,,NG665_RS05245,WP_252672615.1,219,amino acid ABC transporter permease
+chromosome,NZ_CP099547.1,1189778,1190485,+,,,NG665_RS05250,WP_252672616.1,235,amino acid ABC transporter permease
+chromosome,NZ_CP099547.1,1190496,1191272,+,,,NG665_RS05255,WP_252672618.1,258,amino acid ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1191723,1192478,+,,,NG665_RS05260,WP_252672620.1,251,SIP domain-containing protein
+chromosome,NZ_CP099547.1,1192596,1193258,-,,rsgA,NG665_RS05265,WP_252672621.1,220,ribosome small subunit-dependent GTPase A
+chromosome,NZ_CP099547.1,1193340,1194278,-,,,NG665_RS05270,WP_252672623.1,312,phage portal protein
+chromosome,NZ_CP099547.1,1194312,1195121,+,,,NG665_RS05275,WP_252672625.1,269,hypothetical protein
+chromosome,NZ_CP099547.1,1195116,1196720,-,,,NG665_RS05280,WP_252672626.1,534,terminase large subunit
+chromosome,NZ_CP099547.1,1196792,1196986,-,,,NG665_RS05285,WP_252672627.1,64,hypothetical protein
+chromosome,NZ_CP099547.1,1196983,1197165,-,,,NG665_RS05290,WP_252672629.1,60,hypothetical protein
+chromosome,NZ_CP099547.1,1197267,1198517,-,,,NG665_RS05295,WP_252672630.1,416,site-specific DNA-methyltransferase
+chromosome,NZ_CP099547.1,1199757,1200329,-,,,NG665_RS05305,WP_252672631.1,190,P27 family phage terminase small subunit
+chromosome,NZ_CP099547.1,1200422,1201330,+,,,NG665_RS05310,WP_252672632.1,302,hypothetical protein
+chromosome,NZ_CP099547.1,1201473,1201811,-,,,NG665_RS05315,WP_252672633.1,112,SH3 domain-containing protein
+chromosome,NZ_CP099547.1,1201851,1202228,-,,,NG665_RS05320,WP_252672634.1,125,HNH endonuclease
+chromosome,NZ_CP099547.1,1202604,1203914,+,,,NG665_RS05325,WP_252672635.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,1203966,1204145,-,,,NG665_RS05330,WP_252672636.1,59,hypothetical protein
+chromosome,NZ_CP099547.1,1204856,1205590,+,,,NG665_RS05340,WP_252672637.1,244,HNH endonuclease family protein
+chromosome,NZ_CP099547.1,1205629,1206975,-,,,NG665_RS05345,WP_252672638.1,448,LssY C-terminal domain-containing protein
+chromosome,NZ_CP099547.1,1207926,1209236,+,,,NG665_RS05350,WP_252672639.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,1209469,1209636,-,,,NG665_RS05355,WP_252672641.1,55,hypothetical protein
+chromosome,NZ_CP099547.1,1209825,1210481,-,,,NG665_RS05365,WP_252672642.1,218,histidine phosphatase family protein
+chromosome,NZ_CP099547.1,1210491,1210961,-,,rsfS,NG665_RS05370,WP_252672643.1,156,ribosome silencing factor
+chromosome,NZ_CP099547.1,1211017,1212138,-,,,NG665_RS05375,WP_252672644.1,373,hypothetical protein
+chromosome,NZ_CP099547.1,1212131,1212871,-,,nadD,NG665_RS05380,WP_252672646.1,246,nicotinate-nucleotide adenylyltransferase
+chromosome,NZ_CP099547.1,1213040,1213405,+,,trxA,NG665_RS05385,WP_252672647.1,121,thioredoxin
+chromosome,NZ_CP099547.1,1213750,1214700,-,,,NG665_RS05390,WP_252672648.1,316,hypothetical protein
+chromosome,NZ_CP099547.1,1215067,1216596,-,,obgE,NG665_RS05395,WP_252672649.1,509,GTPase ObgE
+chromosome,NZ_CP099547.1,1216694,1216951,-,,rpmA,NG665_RS05400,WP_252672650.1,85,50S ribosomal protein L27
+chromosome,NZ_CP099547.1,1217002,1217307,-,,rplU,NG665_RS05405,WP_252672651.1,101,50S ribosomal protein L21
+chromosome,NZ_CP099547.1,1217464,1220052,-,,,NG665_RS05410,WP_252672654.1,862,Rne/Rng family ribonuclease
+chromosome,NZ_CP099547.1,1220554,1222053,+,,,NG665_RS05415,WP_252672656.1,499,cytochrome ubiquinol oxidase subunit I
+chromosome,NZ_CP099547.1,1222071,1223210,+,,cydB,NG665_RS05420,WP_252672657.1,379,cytochrome d ubiquinol oxidase subunit II
+chromosome,NZ_CP099547.1,1223541,1225202,+,,cydD,NG665_RS05425,WP_252672658.1,553,thiol reductant ABC exporter subunit CydD
+chromosome,NZ_CP099547.1,1225199,1226959,+,,cydC,NG665_RS05430,WP_252672659.1,586,thiol reductant ABC exporter subunit CydC
+chromosome,NZ_CP099547.1,1226964,1228604,+,,,NG665_RS05435,WP_252672660.1,546,GAF domain-containing protein
+chromosome,NZ_CP099547.1,1228643,1229266,-,,,NG665_RS05440,WP_252674090.1,207,response regulator transcription factor
+chromosome,NZ_CP099547.1,1229307,1230161,-,,mutM,NG665_RS05445,WP_252672661.1,284,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase
+chromosome,NZ_CP099547.1,1230176,1230883,-,,rnc,NG665_RS05450,WP_252672662.1,235,ribonuclease III
+chromosome,NZ_CP099547.1,1230883,1231434,-,,,NG665_RS05455,WP_252672663.1,183,DUF177 domain-containing protein
+chromosome,NZ_CP099547.1,1231535,1232041,-,,,NG665_RS05460,WP_252672665.1,168,hypothetical protein
+chromosome,NZ_CP099547.1,1232038,1232514,-,,coaD,NG665_RS05465,WP_252672666.1,158,pantetheine-phosphate adenylyltransferase
+chromosome,NZ_CP099547.1,1232524,1233081,-,,rsmD,NG665_RS05470,WP_252672668.1,185,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+chromosome,NZ_CP099547.1,1233090,1235351,-,,,NG665_RS05475,WP_252672669.1,753,ATP-dependent DNA helicase RecG
+chromosome,NZ_CP099547.1,1235582,1235773,+,,rpmB,NG665_RS05480,WP_091280916.1,63,MULTISPECIES: 50S ribosomal protein L28
+chromosome,NZ_CP099547.1,1235867,1236856,-,,thiL,NG665_RS05485,WP_252672670.1,329,thiamine-phosphate kinase
+chromosome,NZ_CP099547.1,1236853,1237971,-,,,NG665_RS05490,WP_252672672.1,372,D-alanine--D-alanine ligase
+chromosome,NZ_CP099547.1,1238033,1239355,-,,murA,NG665_RS05495,WP_252672673.1,440,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+chromosome,NZ_CP099547.1,1239559,1240281,+,,,NG665_RS05500,WP_252672674.1,240,IclR family transcriptional regulator
+chromosome,NZ_CP099547.1,1240302,1241435,+,,,NG665_RS05505,WP_252672675.1,377,glycosyltransferase family 4 protein
+chromosome,NZ_CP099547.1,1241581,1243593,+,,,NG665_RS05510,WP_252672676.1,670,M3 family metallopeptidase
+chromosome,NZ_CP099547.1,1244590,1246095,-,,gltX,NG665_RS05530,WP_252672678.1,501,glutamate--tRNA ligase
+chromosome,NZ_CP099547.1,1246124,1246891,-,,,NG665_RS05535,WP_252672679.1,255,fumarylacetoacetate hydrolase family protein
+chromosome,NZ_CP099547.1,1246919,1247890,+,,,NG665_RS05540,WP_252672680.1,323,hypothetical protein
+chromosome,NZ_CP099547.1,1247918,1248223,+,,,NG665_RS05545,WP_252672681.1,101,thiamine-binding protein
+chromosome,NZ_CP099547.1,1248233,1248955,-,,,NG665_RS05550,WP_252672682.1,240,DUF4097 domain-containing protein
+chromosome,NZ_CP099547.1,1249020,1249493,-,,,NG665_RS05555,WP_204423394.1,157,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP099547.1,1249760,1250854,-,,,NG665_RS05560,WP_252674091.1,364,IS1249 family transposase
+chromosome,NZ_CP099547.1,1251510,1251986,-,,bcp,NG665_RS05570,WP_252672683.1,158,thioredoxin-dependent thiol peroxidase
+chromosome,NZ_CP099547.1,1252046,1252405,-,,,NG665_RS05575,WP_252672685.1,119,hypothetical protein
+chromosome,NZ_CP099547.1,1252516,1253046,+,,,NG665_RS05580,WP_252672686.1,176,NUDIX hydrolase family protein
+chromosome,NZ_CP099547.1,1253074,1253706,-,,rdgB,NG665_RS05585,WP_252672698.1,210,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+chromosome,NZ_CP099547.1,1253706,1254452,-,,rph,NG665_RS05590,WP_252672700.1,248,ribonuclease PH
+chromosome,NZ_CP099547.1,1254563,1254949,+,,,NG665_RS05595,WP_252672701.1,128,hypothetical protein
+chromosome,NZ_CP099547.1,1255026,1255583,-,,,NG665_RS05600,WP_252672702.1,185,hypothetical protein
+chromosome,NZ_CP099547.1,1255949,1257145,-,,,NG665_RS05605,WP_252672703.1,398,Fic family protein
+chromosome,NZ_CP099547.1,1257288,1258088,-,,,NG665_RS05610,WP_252672704.1,266,MBL fold metallo-hydrolase
+chromosome,NZ_CP099547.1,1258108,1258950,-,,murI,NG665_RS05615,WP_252672705.1,280,glutamate racemase
+chromosome,NZ_CP099547.1,1258961,1259644,-,,,NG665_RS05620,WP_252672708.1,227,DUF2017 domain-containing protein
+chromosome,NZ_CP099547.1,1259644,1259913,-,,clpS,NG665_RS05625,WP_252674092.1,89,ATP-dependent Clp protease adapter ClpS
+chromosome,NZ_CP099547.1,1260028,1261374,+,,,NG665_RS05630,WP_252672709.1,448,nicotinate phosphoribosyltransferase
+chromosome,NZ_CP099547.1,1261503,1263299,-,,,NG665_RS05635,WP_252672710.1,598,DEAD/DEAH box helicase
+chromosome,NZ_CP099547.1,1263296,1263652,-,,,NG665_RS05640,WP_252672711.1,118,DUF3039 domain-containing protein
+chromosome,NZ_CP099547.1,1263814,1264095,-,,,NG665_RS05645,WP_204423435.1,93,MULTISPECIES: HU family DNA-binding protein
+chromosome,NZ_CP099547.1,1264287,1265855,-,,,NG665_RS05650,WP_252672712.1,522,transporter
+chromosome,NZ_CP099547.1,1265945,1267216,+,,,NG665_RS05655,WP_252672713.1,423,alpha/beta hydrolase-fold protein
+chromosome,NZ_CP099547.1,1267302,1268033,-,,dhaM,NG665_RS05660,WP_252672714.1,243,dihydroxyacetone kinase phosphoryl donor subunit DhaM
+chromosome,NZ_CP099547.1,1268033,1269760,-,,dhaK,NG665_RS05665,WP_252672715.1,575,dihydroxyacetone kinase subunit DhaK
+chromosome,NZ_CP099547.1,1269919,1271088,+,,,NG665_RS05670,WP_252672716.1,389,AI-2E family transporter
+chromosome,NZ_CP099547.1,1271085,1271927,-,,nadE,NG665_RS05675,WP_252672717.1,280,ammonia-dependent NAD(+) synthetase
+chromosome,NZ_CP099547.1,1272085,1276683,+,,,NG665_RS05680,WP_252672718.1,1532,TIGR03773 family transporter-associated surface protein
+chromosome,NZ_CP099547.1,1276816,1277160,-,,,NG665_RS05685,WP_252672720.1,114,N-acetyltransferase
+chromosome,NZ_CP099547.1,1277192,1278199,-,,,NG665_RS05690,WP_252672721.1,335,pirin family protein
+chromosome,NZ_CP099547.1,1278379,1279335,-,,hemH,NG665_RS05695,WP_252672722.1,318,ferrochelatase
+chromosome,NZ_CP099547.1,1279530,1281284,+,,spxB,NG665_RS05700,WP_252672723.1,584,pyruvate oxidase
+chromosome,NZ_CP099547.1,1281521,1282192,+,,,NG665_RS05705,WP_252672724.1,223,queuosine precursor transporter
+chromosome,NZ_CP099547.1,1282155,1282859,-,,,NG665_RS05710,WP_252672725.1,234,nitroreductase family protein
+chromosome,NZ_CP099547.1,1282906,1283958,+,,,NG665_RS05715,WP_252672726.1,350,LD-carboxypeptidase
+chromosome,NZ_CP099547.1,1284153,1284725,+,,,NG665_RS05720,WP_252672727.1,190,flavodoxin domain-containing protein
+chromosome,NZ_CP099547.1,1284855,1285172,-,,,NG665_RS05725,WP_252672728.1,105,DNA polymerase V family protein
+chromosome,NZ_CP099547.1,1285356,1287098,+,,,NG665_RS05730,WP_252672730.1,580,sulfite exporter TauE/SafE family protein
+chromosome,NZ_CP099547.1,1287140,1287694,+,,,NG665_RS05735,WP_252672731.1,184,sigma-70 family RNA polymerase sigma factor
+chromosome,NZ_CP099547.1,1287691,1288407,+,,,NG665_RS05740,WP_252672732.1,238,anti-sigma factor
+chromosome,NZ_CP099547.1,1288613,1292902,-,,,NG665_RS05745,WP_252672734.1,1429,family 20 glycosylhydrolase
+chromosome,NZ_CP099547.1,1293876,1294331,+,,,NG665_RS05750,WP_252672736.1,151,hypothetical protein
+chromosome,NZ_CP099547.1,1294328,1294522,+,,,NG665_RS05755,WP_252672737.1,64,helix-turn-helix transcriptional regulator
+chromosome,NZ_CP099547.1,1294595,1295236,-,,pdxT,NG665_RS05760,WP_252672738.1,213,pyridoxal 5\\'-phosphate synthase glutaminase subunit PdxT
+chromosome,NZ_CP099547.1,1295364,1296242,-,,pdxS,NG665_RS05765,WP_252672739.1,292,pyridoxal 5\\'-phosphate synthase lyase subunit PdxS
+chromosome,NZ_CP099547.1,1296578,1297234,+,,,NG665_RS05770,WP_252672741.1,218,HD domain-containing protein
+chromosome,NZ_CP099547.1,1297209,1298105,-,,,NG665_RS05775,WP_252672742.1,298,metal ABC transporter permease
+chromosome,NZ_CP099547.1,1298102,1298854,-,,,NG665_RS05780,WP_252672743.1,250,metal ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1299082,1300035,-,,,NG665_RS05785,WP_252672744.1,317,metal ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,1300239,1301549,+,,,NG665_RS05790,WP_252672745.1,436,LssY C-terminal domain-containing protein
+chromosome,NZ_CP099547.1,1301645,1302022,+,,,NG665_RS05795,WP_252672746.1,125,GntR family transcriptional regulator
+chromosome,NZ_CP099547.1,1302022,1302726,+,,,NG665_RS05800,WP_252672747.1,234,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1302726,1303538,+,,,NG665_RS05805,WP_252672748.1,270,hypothetical protein
+chromosome,NZ_CP099547.1,1303646,1304392,-,,,NG665_RS05810,WP_252672750.1,248,amino acid ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1304392,1305060,-,,,NG665_RS05815,WP_252672752.1,222,amino acid ABC transporter permease
+chromosome,NZ_CP099547.1,1305057,1305884,-,,,NG665_RS05820,WP_252672754.1,275,transporter substrate-binding domain-containing protein
+chromosome,NZ_CP099547.1,1306222,1307532,-,,brnQ,NG665_RS05825,WP_252672756.1,436,branched-chain amino acid transport system II carrier protein
+chromosome,NZ_CP099547.1,1307614,1307799,-,,,NG665_RS05830,WP_252672757.1,61,hypothetical protein
+chromosome,NZ_CP099547.1,1307965,1308741,-,,,NG665_RS05835,WP_252672758.1,258,ABC transporter permease
+chromosome,NZ_CP099547.1,1308741,1309619,-,,,NG665_RS05840,WP_252672759.1,292,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1309794,1310948,+,,galK,NG665_RS05845,WP_252672760.1,384,galactokinase
+chromosome,NZ_CP099547.1,1311099,1312535,-,,,NG665_RS05850,WP_252672761.1,478,NAD(P)/FAD-dependent oxidoreductase
+chromosome,NZ_CP099547.1,1312651,1313412,-,,,NG665_RS05855,WP_252672762.1,253,sulfite exporter TauE/SafE family protein
+chromosome,NZ_CP099547.1,1313639,1315972,-,,,NG665_RS05860,WP_252672763.1,777,5\\'-nucleotidase C-terminal domain-containing protein
+chromosome,NZ_CP099547.1,1316115,1317542,-,,purB,NG665_RS05865,WP_252672764.1,475,adenylosuccinate lyase
+chromosome,NZ_CP099547.1,1317637,1318929,-,,,NG665_RS05870,WP_252672765.1,430,adenylosuccinate synthase
+chromosome,NZ_CP099547.1,1318952,1320397,-,,,NG665_RS05875,WP_252672766.1,481,GuaB1 family IMP dehydrogenase-related protein
+chromosome,NZ_CP099547.1,1321430,1321789,-,,,NG665_RS05880,WP_252672767.1,119,cupin domain-containing protein
+chromosome,NZ_CP099547.1,1321892,1322695,-,,,NG665_RS05885,WP_252672768.1,267,methyltransferase domain-containing protein
+chromosome,NZ_CP099547.1,1322886,1323803,-,,,NG665_RS05890,WP_252672770.1,305,cation diffusion facilitator family transporter
+chromosome,NZ_CP099547.1,1323969,1324715,+,,,NG665_RS05895,WP_252672771.1,248,DUF5067 domain-containing protein
+chromosome,NZ_CP099547.1,1324775,1325566,+,,,NG665_RS05900,WP_252672772.1,263,MerR family transcriptional regulator
+chromosome,NZ_CP099547.1,1325612,1326748,-,,,NG665_RS05905,WP_252672774.1,378,MFS transporter
+chromosome,NZ_CP099547.1,1326822,1327505,-,,,NG665_RS05910,WP_252672776.1,227,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP099547.1,1327502,1329256,-,,,NG665_RS05915,WP_252672777.1,584,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP099547.1,1329253,1331043,-,,,NG665_RS05920,WP_252672779.1,596,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP099547.1,1331055,1332524,-,,,NG665_RS05925,WP_252672780.1,489,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1332521,1333330,-,,,NG665_RS05930,WP_252672781.1,269,energy-coupling factor transporter transmembrane protein EcfT
+chromosome,NZ_CP099547.1,1333345,1333965,-,,,NG665_RS05935,WP_252672782.1,206,MptD family putative ECF transporter S component
+chromosome,NZ_CP099547.1,1334138,1334917,-,,pstB,NG665_RS05940,WP_252672783.1,259,phosphate ABC transporter ATP-binding protein PstB
+chromosome,NZ_CP099547.1,1334965,1336047,-,,pstA,NG665_RS05945,WP_252672784.1,360,phosphate ABC transporter permease PstA
+chromosome,NZ_CP099547.1,1336044,1337180,-,,pstC,NG665_RS05950,WP_252672785.1,378,phosphate ABC transporter permease subunit PstC
+chromosome,NZ_CP099547.1,1337259,1338344,-,,pstS,NG665_RS05955,WP_252672786.1,361,phosphate ABC transporter substrate-binding protein PstS
+chromosome,NZ_CP099547.1,1338465,1339157,-,,,NG665_RS05960,WP_252672787.1,230,response regulator transcription factor
+chromosome,NZ_CP099547.1,1339154,1340323,-,,,NG665_RS05965,WP_252672788.1,389,ATP-binding protein
+chromosome,NZ_CP099547.1,1340471,1341151,+,,phoU,NG665_RS05970,WP_252672789.1,226,phosphate signaling complex protein PhoU
+chromosome,NZ_CP099547.1,1341178,1341582,-,,,NG665_RS05975,WP_252672791.1,134,heat-shock protein HtpX
+chromosome,NZ_CP099547.1,1341621,1341953,-,,,NG665_RS05980,WP_252672793.1,110,VOC family protein
+chromosome,NZ_CP099547.1,1342067,1343092,+,,,NG665_RS05985,WP_252672794.1,341,ADP-ribosylglycohydrolase family protein
+chromosome,NZ_CP099547.1,1343147,1344079,+,,,NG665_RS05990,WP_252672795.1,310,PfkB family carbohydrate kinase
+chromosome,NZ_CP099547.1,1344255,1347218,+,,,NG665_RS05995,WP_252672796.1,987,isopeptide-forming domain-containing fimbrial protein
+chromosome,NZ_CP099547.1,1347336,1348322,-,,,NG665_RS06000,WP_252672797.1,328,ADP-ribosylglycohydrolase family protein
+chromosome,NZ_CP099547.1,1348438,1349379,-,,,NG665_RS06005,WP_252672798.1,313,DUF5996 family protein
+chromosome,NZ_CP099547.1,1349616,1350785,-,,,NG665_RS06010,WP_252672799.1,389,hypothetical protein
+chromosome,NZ_CP099547.1,1351711,1352472,-,,,NG665_RS06020,WP_252672800.1,253,HAD-IIA family hydrolase
+chromosome,NZ_CP099547.1,1352530,1353072,-,,smpB,NG665_RS06025,WP_252672801.1,180,SsrA-binding protein SmpB
+chromosome,NZ_CP099547.1,1353090,1354394,-,,,NG665_RS06030,WP_252672802.1,434,peptidoglycan DD-metalloendopeptidase family protein
+chromosome,NZ_CP099547.1,1354397,1355311,-,,ftsX,NG665_RS06035,WP_252672804.1,304,permease-like cell division protein FtsX
+chromosome,NZ_CP099547.1,1355311,1356000,-,,ftsE,NG665_RS06040,WP_252672805.1,229,cell division ATP-binding protein FtsE
+chromosome,NZ_CP099547.1,1356179,1357312,-,,prfB,NG665_RS06045,WP_252672806.1,377,peptide chain release factor 2
+chromosome,NZ_CP099547.1,1357331,1357762,-,,,NG665_RS06050,WP_252672808.1,143,hypothetical protein
+chromosome,NZ_CP099547.1,1357759,1358247,-,,,NG665_RS06055,WP_252672809.1,162,hypothetical protein
+chromosome,NZ_CP099547.1,1358231,1358593,-,,,NG665_RS06060,WP_252672811.1,120,hypothetical protein
+chromosome,NZ_CP099547.1,1358590,1358799,-,,,NG665_RS06065,WP_252672813.1,69,hypothetical protein
+chromosome,NZ_CP099547.1,1358846,1359721,-,,,NG665_RS06070,WP_252672814.1,291,type II secretion system F family protein
+chromosome,NZ_CP099547.1,1359718,1360566,-,,,NG665_RS06075,WP_252672815.1,282,type II secretion system F family protein
+chromosome,NZ_CP099547.1,1360554,1361798,-,,tadA,NG665_RS06080,WP_252672816.1,414,Flp pilus assembly complex ATPase component TadA
+chromosome,NZ_CP099547.1,1362003,1363016,+,,,NG665_RS06085,WP_252672817.1,337,phosphotransferase
+chromosome,NZ_CP099547.1,1363184,1366726,-,,,NG665_RS06090,WP_252672818.1,1180,ATP-dependent helicase
+chromosome,NZ_CP099547.1,1366723,1369866,-,,,NG665_RS06095,WP_252672819.1,1047,PD-(D/E)XK nuclease family protein
+chromosome,NZ_CP099547.1,1369991,1370926,+,,,NG665_RS06100,WP_252672821.1,311,DUF808 domain-containing protein
+chromosome,NZ_CP099547.1,1370976,1371200,+,,,NG665_RS06105,WP_252672822.1,74,DUF3107 domain-containing protein
+chromosome,NZ_CP099547.1,1371234,1372775,+,,,NG665_RS06110,WP_252672823.1,513,DEAD/DEAH box helicase
+chromosome,NZ_CP099547.1,1372894,1373520,-,,,NG665_RS06115,WP_252672824.1,208,MarC family protein
+chromosome,NZ_CP099547.1,1373520,1374356,-,,,NG665_RS06120,WP_252672825.1,278,PHP domain-containing protein
+chromosome,NZ_CP099547.1,1374447,1375955,+,,,NG665_RS06125,WP_252672826.1,502,aminopeptidase P family protein
+chromosome,NZ_CP099547.1,1376031,1377317,+,,,NG665_RS06130,WP_252672827.1,428,CBS domain-containing protein
+chromosome,NZ_CP099547.1,1377317,1377898,+,,,NG665_RS06135,WP_252672829.1,193,DUF1003 domain-containing protein
+chromosome,NZ_CP099547.1,1377904,1379028,+,,,NG665_RS06140,WP_252672830.1,374,Mrp/NBP35 family ATP-binding protein
+chromosome,NZ_CP099547.1,1379049,1379681,+,,,NG665_RS06145,WP_252672831.1,210,O-methyltransferase
+chromosome,NZ_CP099547.1,1379735,1379911,-,,,NG665_RS06150,WP_252672832.1,58,DUF3117 domain-containing protein
+chromosome,NZ_CP099547.1,1380099,1380923,+,,,NG665_RS06155,WP_252672833.1,274,purine-nucleoside phosphorylase
+chromosome,NZ_CP099547.1,1380961,1382649,+,,,NG665_RS06160,WP_252672834.1,562,phospho-sugar mutase
+chromosome,NZ_CP099547.1,1382771,1383433,-,,deoC,NG665_RS06165,WP_252672835.1,220,deoxyribose-phosphate aldolase
+chromosome,NZ_CP099547.1,1383500,1384213,-,,,NG665_RS06170,WP_252672836.1,237,hypothetical protein
+chromosome,NZ_CP099547.1,1384213,1385502,-,,,NG665_RS06175,WP_252672837.1,429,thymidine phosphorylase
+chromosome,NZ_CP099547.1,1385502,1385981,-,,,NG665_RS06180,WP_252672839.1,159,cytidine deaminase
+chromosome,NZ_CP099547.1,1386050,1387369,-,,,NG665_RS06185,WP_252672840.1,439,ABC transporter permease
+chromosome,NZ_CP099547.1,1387366,1388637,-,,,NG665_RS06190,WP_252672842.1,423,ABC transporter permease
+chromosome,NZ_CP099547.1,1388637,1390187,-,,,NG665_RS06195,WP_252672844.1,516,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1390376,1391422,-,,,NG665_RS06200,WP_252674093.1,348,BMP family ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,1391728,1392855,-,,,NG665_RS06205,WP_252672846.1,375,mannose-1-phosphate guanylyltransferase
+chromosome,NZ_CP099547.1,1392965,1394260,-,,,NG665_RS06210,WP_252672847.1,431,YihY/virulence factor BrkB family protein
+chromosome,NZ_CP099547.1,1394260,1395129,-,,,NG665_RS06215,WP_252672849.1,289,exodeoxyribonuclease III
+chromosome,NZ_CP099547.1,1395173,1396015,-,,,NG665_RS06220,WP_252674094.1,280,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+chromosome,NZ_CP099547.1,1396061,1397365,-,,,NG665_RS06225,WP_252672850.1,434,serine hydroxymethyltransferase
+chromosome,NZ_CP099547.1,1397490,1398101,-,,,NG665_RS06230,WP_252672851.1,203,sugar O-acetyltransferase
+chromosome,NZ_CP099547.1,1398111,1399691,-,,,NG665_RS06235,WP_252672852.1,526,hypothetical protein
+chromosome,NZ_CP099547.1,1399836,1400501,-,,,NG665_RS06240,WP_252672853.1,221,response regulator transcription factor
+chromosome,NZ_CP099547.1,1400498,1401709,-,,,NG665_RS06245,WP_252672854.1,403,PspC domain-containing protein
+chromosome,NZ_CP099547.1,1401824,1403254,+,,,NG665_RS06250,WP_252672855.1,476,PspC domain-containing protein
+chromosome,NZ_CP099547.1,1403468,1403833,-,,,NG665_RS06255,WP_252672857.1,121,YchJ family metal-binding protein
+chromosome,NZ_CP099547.1,1403925,1404920,-,,,NG665_RS06260,WP_252672858.1,331,malate dehydrogenase
+chromosome,NZ_CP099547.1,1405125,1406783,-,,pgi,NG665_RS06265,WP_252672860.1,552,glucose-6-phosphate isomerase
+chromosome,NZ_CP099547.1,1406902,1409145,-,,,NG665_RS06270,WP_252672862.1,747,alpha-amylase family glycosyl hydrolase
+chromosome,NZ_CP099547.1,1409292,1411583,+,,,NG665_RS06275,WP_252672864.1,763,6-phosphofructokinase
+chromosome,NZ_CP099547.1,1411671,1411943,-,,,NG665_RS06280,WP_252672866.1,90,DUF3017 domain-containing protein
+chromosome,NZ_CP099547.1,1411936,1413297,-,,,NG665_RS06285,WP_252672867.1,453,DUF6350 family protein
+chromosome,NZ_CP099547.1,1413356,1414777,-,,,NG665_RS06290,WP_252672868.1,473,MFS transporter
+chromosome,NZ_CP099547.1,1414878,1415804,-,,sucD,NG665_RS06295,WP_252672869.1,308,succinate--CoA ligase subunit alpha
+chromosome,NZ_CP099547.1,1415814,1416986,-,,sucC,NG665_RS06300,WP_252672870.1,390,ADP-forming succinate--CoA ligase subunit beta
+chromosome,NZ_CP099547.1,1417141,1419336,-,,,NG665_RS06305,WP_252672871.1,731,acyltransferase
+chromosome,NZ_CP099547.1,1419341,1421863,-,,pcrA,NG665_RS06310,WP_252672872.1,840,DNA helicase PcrA
+chromosome,NZ_CP099547.1,1421992,1423269,+,,,NG665_RS06315,WP_252672873.1,425,MFS transporter
+chromosome,NZ_CP099547.1,1423266,1424012,+,,,NG665_RS06320,WP_252672874.1,248,MerR family transcriptional regulator
+chromosome,NZ_CP099547.1,1424155,1425519,-,,,NG665_RS06325,WP_252672875.1,454,MFS transporter
+chromosome,NZ_CP099547.1,1425746,1427164,+,,,NG665_RS06330,WP_252674095.1,472,catalase
+chromosome,NZ_CP099547.1,1427525,1428145,+,,,NG665_RS06335,WP_252674096.1,206,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein
+chromosome,NZ_CP099547.1,1428208,1428378,-,,,NG665_RS06340,WP_252672876.1,56,hypothetical protein
+chromosome,NZ_CP099547.1,1429495,1430061,-,,,NG665_RS06345,WP_252672877.1,188,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein
+chromosome,NZ_CP099547.1,1430091,1430798,-,,,NG665_RS06350,WP_252672878.1,235,hypothetical protein
+chromosome,NZ_CP099547.1,1430817,1432112,-,,,NG665_RS06355,WP_252672879.1,431,DUF4143 domain-containing protein
+chromosome,NZ_CP099547.1,1432544,1433314,-,,,NG665_RS06360,WP_252672880.1,256,hypothetical protein
+chromosome,NZ_CP099547.1,1433311,1434234,-,,,NG665_RS06365,WP_252672881.1,307,nucleotidyl transferase AbiEii/AbiGii toxin family protein
+chromosome,NZ_CP099547.1,1434227,1435174,-,,,NG665_RS06370,WP_252672882.1,315,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein
+chromosome,NZ_CP099547.1,1435380,1436432,+,,,NG665_RS06375,WP_252672883.1,350,EcsC family protein
+chromosome,NZ_CP099547.1,1436635,1437498,-,,,NG665_RS06380,WP_252672884.1,287,carbohydrate ABC transporter permease
+chromosome,NZ_CP099547.1,1437510,1438430,-,,,NG665_RS06385,WP_252672885.1,306,sugar ABC transporter permease
+chromosome,NZ_CP099547.1,1438455,1439705,-,,,NG665_RS06390,WP_091280409.1,416,MULTISPECIES: sugar ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,1439740,1442091,-,,yicI,NG665_RS06395,WP_252672886.1,783,alpha-xylosidase
+chromosome,NZ_CP099547.1,1442115,1443281,-,,xylA,NG665_RS06400,WP_252672887.1,388,xylose isomerase
+chromosome,NZ_CP099547.1,1443367,1444689,-,,xylB,NG665_RS06405,WP_252672888.1,440,xylulokinase
+chromosome,NZ_CP099547.1,1445017,1446060,+,,,NG665_RS06410,WP_252672889.1,347,ROK family protein
+chromosome,NZ_CP099547.1,1446125,1446889,-,,,NG665_RS06415,WP_252672890.1,254,class I SAM-dependent methyltransferase
+chromosome,NZ_CP099547.1,1447098,1450322,-,,,NG665_RS06420,WP_252672891.1,1074,AAA domain-containing protein
+chromosome,NZ_CP099547.1,1450718,1451827,+,,,NG665_RS06425,WP_252672892.1,369,IS1249 family transposase
+chromosome,NZ_CP099547.1,1451863,1452039,+,,,NG665_RS06430,WP_252672893.1,58,hypothetical protein
+chromosome,NZ_CP099547.1,1452256,1453350,+,,,NG665_RS06435,WP_252674058.1,364,IS1249 family transposase
+chromosome,NZ_CP099547.1,1453560,1454138,-,,,NG665_RS06440,WP_252672894.1,192,hypothetical protein
+chromosome,NZ_CP099547.1,1454588,1454848,-,,,NG665_RS06445,WP_252672895.1,86,IS3 family transposase
+chromosome,NZ_CP099547.1,1455386,1457146,+,,,NG665_RS06450,WP_252672896.1,586,RNA-directed DNA polymerase
+chromosome,NZ_CP099547.1,1457718,1458131,+,,,NG665_RS06455,WP_252672897.1,137,hypothetical protein
+chromosome,NZ_CP099547.1,1458121,1458495,+,,,NG665_RS06460,WP_252672898.1,124,integrase core domain-containing protein
+chromosome,NZ_CP099547.1,1458638,1459273,-,,,NG665_RS06465,WP_252672899.1,211,hypothetical protein
+chromosome,NZ_CP099547.1,1459275,1460441,-,,,NG665_RS06470,WP_252672900.1,388,DUF262 domain-containing protein
+chromosome,NZ_CP099547.1,1461333,1461734,+,,,NG665_RS06480,WP_252672901.1,133,DDE-type integrase/transposase/recombinase
+chromosome,NZ_CP099547.1,1461802,1464936,-,,,NG665_RS06485,WP_252672902.1,1044,type I restriction endonuclease subunit R
+chromosome,NZ_CP099547.1,1464936,1466036,-,,,NG665_RS06490,WP_252672903.1,366,restriction endonuclease subunit S
+chromosome,NZ_CP099547.1,1466042,1467601,-,,,NG665_RS06495,WP_252672904.1,519,type I restriction-modification system subunit M
+chromosome,NZ_CP099547.1,1467886,1469451,-,,guaA,NG665_RS06500,WP_252672905.1,521,glutamine-hydrolyzing GMP synthase
+chromosome,NZ_CP099547.1,1469645,1469908,+,,,NG665_RS06505,WP_252672907.1,87,hypothetical protein
+chromosome,NZ_CP099547.1,1469973,1470905,-,,,NG665_RS06510,WP_252672908.1,310,pseudouridine synthase
+chromosome,NZ_CP099547.1,1470983,1472602,+,,pta,NG665_RS06515,WP_252672909.1,539,phosphate acetyltransferase
+chromosome,NZ_CP099547.1,1472662,1473834,+,,,NG665_RS06520,WP_252672910.1,390,acetate kinase
+chromosome,NZ_CP099547.1,1473837,1474286,+,,,NG665_RS06525,WP_252672911.1,149,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,1474360,1477170,-,,,NG665_RS06530,WP_252672912.1,936,discoidin domain-containing protein
+chromosome,NZ_CP099547.1,1477539,1478930,-,,,NG665_RS06535,WP_252672913.1,463,class II fumarate hydratase
+chromosome,NZ_CP099547.1,1479049,1480158,-,,,NG665_RS06540,WP_252672914.1,369,GuaB3 family IMP dehydrogenase-related protein
+chromosome,NZ_CP099547.1,1480284,1480970,+,,,NG665_RS06545,WP_252672916.1,228,exonuclease domain-containing protein
+chromosome,NZ_CP099547.1,1481178,1482344,-,,,NG665_RS06550,WP_252672917.1,388,IMP dehydrogenase
+chromosome,NZ_CP099547.1,1482661,1482879,+,,,NG665_RS06555,WP_252674097.1,72,WhiB family transcriptional regulator
+chromosome,NZ_CP099547.1,1482986,1483282,-,,groES,NG665_RS06560,WP_252672918.1,98,co-chaperone GroES
+chromosome,NZ_CP099547.1,1483257,1483475,-,,,NG665_RS06565,WP_252672919.1,72,hypothetical protein
+chromosome,NZ_CP099547.1,1483474,1484667,+,,,NG665_RS06570,WP_252672920.1,397,SAM-dependent methyltransferase
+chromosome,NZ_CP099547.1,1484693,1485736,-,,tsaD,NG665_RS06575,WP_252672921.1,347,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+chromosome,NZ_CP099547.1,1485881,1486624,-,,,NG665_RS06580,WP_252672922.1,247,succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+chromosome,NZ_CP099547.1,1486621,1488591,-,,,NG665_RS06585,WP_252672923.1,656,fumarate reductase/succinate dehydrogenase flavoprotein subunit
+chromosome,NZ_CP099547.1,1488605,1489321,-,,,NG665_RS06590,WP_252672924.1,238,succinate dehydrogenase cytochrome b subunit
+chromosome,NZ_CP099547.1,1489509,1490009,-,,rimI,NG665_RS06595,WP_252672926.1,166,ribosomal protein S18-alanine N-acetyltransferase
+chromosome,NZ_CP099547.1,1490019,1490729,-,,tsaB,NG665_RS06600,WP_252672928.1,236,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+chromosome,NZ_CP099547.1,1490726,1491595,-,,,NG665_RS06605,WP_252672929.1,289,hypothetical protein
+chromosome,NZ_CP099547.1,1491640,1492173,-,,tsaE,NG665_RS06610,WP_252672930.1,177,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+chromosome,NZ_CP099547.1,1492214,1493338,-,,alr,NG665_RS06615,WP_252672932.1,374,alanine racemase
+chromosome,NZ_CP099547.1,1493343,1494182,-,,,NG665_RS06620,WP_252672933.1,279,NAD(P)H-hydrate dehydratase
+chromosome,NZ_CP099547.1,1494350,1495291,+,,coaA,NG665_RS06625,WP_252672934.1,313,type I pantothenate kinase
+chromosome,NZ_CP099547.1,1495343,1496674,-,,glmM,NG665_RS06630,WP_252672935.1,443,phosphoglucosamine mutase
+chromosome,NZ_CP099547.1,1496875,1497360,-,,rpsI,NG665_RS06635,WP_252672937.1,161,30S ribosomal protein S9
+chromosome,NZ_CP099547.1,1497393,1497836,-,,rplM,NG665_RS06640,WP_252672939.1,147,50S ribosomal protein L13
+chromosome,NZ_CP099547.1,1498212,1499093,-,,truA,NG665_RS06645,WP_252672941.1,293,tRNA pseudouridine(38-40) synthase TruA
+chromosome,NZ_CP099547.1,1499092,1499895,+,,,NG665_RS06650,WP_252672942.1,267,ROK family protein
+chromosome,NZ_CP099547.1,1500156,1500692,-,,rplQ,NG665_RS06655,WP_252672943.1,178,50S ribosomal protein L17
+chromosome,NZ_CP099547.1,1500728,1501732,-,,,NG665_RS06660,WP_252672944.1,334,DNA-directed RNA polymerase subunit alpha
+chromosome,NZ_CP099547.1,1501857,1502249,-,,rpsK,NG665_RS06665,WP_252672946.1,130,30S ribosomal protein S11
+chromosome,NZ_CP099547.1,1502302,1502670,-,,rpsM,NG665_RS06670,WP_252672947.1,122,30S ribosomal protein S13
+chromosome,NZ_CP099547.1,1502792,1502905,-,,rpmJ,NG665_RS06675,WP_013170544.1,37,MULTISPECIES: 50S ribosomal protein L36
+chromosome,NZ_CP099547.1,1502962,1503183,-,,infA,NG665_RS06680,WP_013170545.1,73,MULTISPECIES: translation initiation factor IF-1
+chromosome,NZ_CP099547.1,1503433,1504266,-,,map,NG665_RS06685,WP_252672948.1,277,type I methionyl aminopeptidase
+chromosome,NZ_CP099547.1,1504348,1504932,-,,,NG665_RS06690,WP_252672949.1,194,adenylate kinase
+chromosome,NZ_CP099547.1,1504929,1506215,-,,secY,NG665_RS06695,WP_252672951.1,428,preprotein translocase subunit SecY
+chromosome,NZ_CP099547.1,1506468,1506914,-,,rplO,NG665_RS06700,WP_252672952.1,148,50S ribosomal protein L15
+chromosome,NZ_CP099547.1,1506914,1507096,-,,rpmD,NG665_RS06705,WP_252672953.1,60,50S ribosomal protein L30
+chromosome,NZ_CP099547.1,1507093,1507800,-,,rpsE,NG665_RS06710,WP_252672954.1,235,30S ribosomal protein S5
+chromosome,NZ_CP099547.1,1507826,1508197,-,,rplR,NG665_RS06715,WP_252672955.1,123,50S ribosomal protein L18
+chromosome,NZ_CP099547.1,1508197,1508733,-,,rplF,NG665_RS06720,WP_252672956.1,178,50S ribosomal protein L6
+chromosome,NZ_CP099547.1,1508749,1509147,-,,rpsH,NG665_RS06725,WP_204423872.1,132,MULTISPECIES: 30S ribosomal protein S8
+chromosome,NZ_CP099547.1,1509203,1509388,-,,,NG665_RS06730,WP_204423874.1,61,MULTISPECIES: type Z 30S ribosomal protein S14
+chromosome,NZ_CP099547.1,1509394,1509891,-,,rplE,NG665_RS06735,WP_252674098.1,165,50S ribosomal protein L5
+chromosome,NZ_CP099547.1,1509948,1510292,-,,rplX,NG665_RS06740,WP_252672957.1,114,50S ribosomal protein L24
+chromosome,NZ_CP099547.1,1510296,1510664,-,,rplN,NG665_RS06745,WP_252672959.1,122,50S ribosomal protein L14
+chromosome,NZ_CP099547.1,1510756,1511040,-,,rpsQ,NG665_RS06750,WP_252672960.1,94,30S ribosomal protein S17
+chromosome,NZ_CP099547.1,1511049,1511279,-,,rpmC,NG665_RS06755,WP_252674099.1,76,50S ribosomal protein L29
+chromosome,NZ_CP099547.1,1511279,1511695,-,,rplP,NG665_RS06760,WP_252672962.1,138,50S ribosomal protein L16
+chromosome,NZ_CP099547.1,1511701,1512525,-,,rpsC,NG665_RS06765,WP_252672963.1,274,30S ribosomal protein S3
+chromosome,NZ_CP099547.1,1512528,1512887,-,,rplV,NG665_RS06770,WP_252672965.1,119,50S ribosomal protein L22
+chromosome,NZ_CP099547.1,1512914,1513195,-,,rpsS,NG665_RS06775,WP_204423885.1,93,MULTISPECIES: 30S ribosomal protein S19
+chromosome,NZ_CP099547.1,1513213,1514049,-,,rplB,NG665_RS06780,WP_204423886.1,278,MULTISPECIES: 50S ribosomal protein L2
+chromosome,NZ_CP099547.1,1514079,1514393,-,,rplW,NG665_RS06785,WP_252672966.1,104,50S ribosomal protein L23
+chromosome,NZ_CP099547.1,1514390,1515037,-,,rplD,NG665_RS06790,WP_252672967.1,215,50S ribosomal protein L4
+chromosome,NZ_CP099547.1,1515043,1515711,-,,rplC,NG665_RS06795,WP_252672968.1,222,50S ribosomal protein L3
+chromosome,NZ_CP099547.1,1515725,1516033,-,,rpsJ,NG665_RS06800,WP_013170582.1,102,MULTISPECIES: 30S ribosomal protein S10
+chromosome,NZ_CP099547.1,1516429,1517619,-,,tuf,NG665_RS06805,WP_252672969.1,396,elongation factor Tu
+chromosome,NZ_CP099547.1,1517744,1519864,-,,fusA,NG665_RS06810,WP_252672970.1,706,elongation factor G
+chromosome,NZ_CP099547.1,1519911,1520381,-,,rpsG,NG665_RS06815,WP_252672971.1,156,30S ribosomal protein S7
+chromosome,NZ_CP099547.1,1520381,1520755,-,,rpsL,NG665_RS06820,WP_252672972.1,124,30S ribosomal protein S12
+chromosome,NZ_CP099547.1,1521057,1522409,-,,,NG665_RS06825,WP_252672973.1,450,PAS domain-containing protein
+chromosome,NZ_CP099547.1,1522492,1526469,-,,rpoC,NG665_RS06830,WP_252672974.1,1325,DNA-directed RNA polymerase subunit beta\\'
+chromosome,NZ_CP099547.1,1526561,1530025,-,,rpoB,NG665_RS06835,WP_252672975.1,1154,DNA-directed RNA polymerase subunit beta
+chromosome,NZ_CP099547.1,1530479,1530865,-,,rplL,NG665_RS06840,WP_252672976.1,128,50S ribosomal protein L7/L12
+chromosome,NZ_CP099547.1,1530929,1531453,-,,rplJ,NG665_RS06845,WP_252672977.1,174,50S ribosomal protein L10
+chromosome,NZ_CP099547.1,1531704,1532324,-,,udk,NG665_RS06850,WP_252672978.1,206,uridine kinase
+chromosome,NZ_CP099547.1,1532697,1533401,-,,rplA,NG665_RS06855,WP_252672979.1,234,50S ribosomal protein L1
+chromosome,NZ_CP099547.1,1533503,1533937,-,,rplK,NG665_RS06860,WP_252672980.1,144,50S ribosomal protein L11
+chromosome,NZ_CP099547.1,1534059,1534931,-,,nusG,NG665_RS06865,WP_252672981.1,290,transcription termination/antitermination protein NusG
+chromosome,NZ_CP099547.1,1534965,1535210,-,,secE,NG665_RS06870,WP_252672982.1,81,preprotein translocase subunit SecE
+chromosome,NZ_CP099547.1,1535530,1536735,+,,,NG665_RS06880,WP_252672983.1,401,pyridoxal phosphate-dependent aminotransferase
+chromosome,NZ_CP099547.1,1536812,1537090,-,,,NG665_RS06885,WP_252672984.1,92,hypothetical protein
+chromosome,NZ_CP099547.1,1537235,1538494,-,,,NG665_RS06890,WP_252672985.1,419,aminoglycoside phosphotransferase family protein
+chromosome,NZ_CP099547.1,1538603,1539640,+,,,NG665_RS06895,WP_252672986.1,345,adenosine deaminase
+chromosome,NZ_CP099547.1,1539630,1540499,+,,,NG665_RS06900,WP_252672987.1,289,alpha/beta hydrolase
+chromosome,NZ_CP099547.1,1540490,1541146,+,,,NG665_RS06905,WP_252672988.1,218,hypothetical protein
+chromosome,NZ_CP099547.1,1541143,1542324,-,,,NG665_RS06910,WP_252672989.1,393,UDP-N-acetylmuramate dehydrogenase
+chromosome,NZ_CP099547.1,1543022,1544116,-,,,NG665_RS06915,WP_252674049.1,364,IS1249 family transposase
+chromosome,NZ_CP099547.1,1544532,1545842,-,,,NG665_RS06920,WP_252672639.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,1546956,1547453,+,,,NG665_RS06940,WP_252674100.1,165,YajQ family cyclic di-GMP-binding protein
+chromosome,NZ_CP099547.1,1547601,1548983,-,,,NG665_RS06945,WP_252672990.1,460,FAD-dependent oxidoreductase
+chromosome,NZ_CP099547.1,1549276,1549770,+,,,NG665_RS06950,WP_252672991.1,164,hypothetical protein
+chromosome,NZ_CP099547.1,1549882,1550556,-,,raiA,NG665_RS06955,WP_252672992.1,224,ribosome-associated translation inhibitor RaiA
+chromosome,NZ_CP099547.1,1550851,1551564,-,,,NG665_RS06960,WP_252672993.1,237,hypothetical protein
+chromosome,NZ_CP099547.1,1551561,1553237,-,,,NG665_RS06965,WP_252672994.1,558,LpqB family beta-propeller domain-containing protein
+chromosome,NZ_CP099547.1,1553234,1554868,-,,mtrB,NG665_RS06970,WP_252672995.1,544,MtrAB system histidine kinase MtrB
+chromosome,NZ_CP099547.1,1554874,1555548,-,,mtrA,NG665_RS06975,WP_252672996.1,224,MtrAB system response regulator MtrA
+chromosome,NZ_CP099547.1,1555598,1556047,-,,,NG665_RS06980,WP_252672997.1,149,DUF3499 domain-containing protein
+chromosome,NZ_CP099547.1,1556107,1556538,+,,,NG665_RS06985,WP_252674101.1,143,metallopeptidase family protein
+chromosome,NZ_CP099547.1,1556535,1557962,-,,,NG665_RS06990,WP_252672998.1,475,DUF5719 family protein
+chromosome,NZ_CP099547.1,1557959,1560889,-,,,NG665_RS06995,WP_252672999.1,976,glycosyltransferase
+chromosome,NZ_CP099547.1,1560913,1561197,-,,,NG665_RS07000,WP_252674102.1,94,WhiB family transcriptional regulator
+chromosome,NZ_CP099547.1,1561366,1562031,+,,,NG665_RS07005,WP_252673000.1,221,hypothetical protein
+chromosome,NZ_CP099547.1,1562097,1563254,+,,,NG665_RS07010,WP_252673001.1,385,LCP family protein
+chromosome,NZ_CP099547.1,1563270,1564688,+,,,NG665_RS07015,WP_252673002.1,472,LCP family protein
+chromosome,NZ_CP099547.1,1564738,1566054,-,,,NG665_RS07020,WP_252673003.1,438,HAMP domain-containing histidine kinase
+chromosome,NZ_CP099547.1,1566131,1566811,-,,,NG665_RS07025,WP_252673004.1,226,response regulator transcription factor
+chromosome,NZ_CP099547.1,1566881,1567936,-,,,NG665_RS07030,WP_252674103.1,351,adenylate/guanylate cyclase domain-containing protein
+chromosome,NZ_CP099547.1,1568053,1569717,+,,,NG665_RS07035,WP_252673005.1,554,DUF885 domain-containing protein
+chromosome,NZ_CP099547.1,1569714,1570373,+,,,NG665_RS07040,WP_252673006.1,219,Maf-like protein
+chromosome,NZ_CP099547.1,1570468,1571799,-,,,NG665_RS07045,WP_252673007.1,443,citrate synthase
+chromosome,NZ_CP099547.1,1571966,1572289,-,,,NG665_RS07050,WP_252673008.1,107,ferredoxin family protein
+chromosome,NZ_CP099547.1,1572397,1574076,-,,,NG665_RS07055,WP_252673009.1,559,VanW family protein
+chromosome,NZ_CP099547.1,1574086,1574475,-,,,NG665_RS07060,WP_252673010.1,129,hypothetical protein
+chromosome,NZ_CP099547.1,1574484,1576409,-,,typA,NG665_RS07065,WP_252673011.1,641,translational GTPase TypA
+chromosome,NZ_CP099547.1,1576525,1577139,+,,,NG665_RS07070,WP_252673012.1,204,PH domain-containing protein
+chromosome,NZ_CP099547.1,1577175,1578905,-,,,NG665_RS07075,WP_252673013.1,576,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP099547.1,1578902,1580872,-,,,NG665_RS07080,WP_252673014.1,656,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP099547.1,1581082,1582785,-,,,NG665_RS07085,WP_252673015.1,567,ABC transporter family substrate-binding protein
+chromosome,NZ_CP099547.1,1582977,1585106,-,,,NG665_RS07090,WP_252673016.1,709,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1585103,1586044,-,,,NG665_RS07095,WP_252673017.1,313,ABC transporter permease
+chromosome,NZ_CP099547.1,1586068,1587075,-,,,NG665_RS07100,WP_252673018.1,335,ABC transporter permease
+chromosome,NZ_CP099547.1,1587333,1588103,+,,lipB,NG665_RS07105,WP_252673019.1,256,lipoyl(octanoyl) transferase LipB
+chromosome,NZ_CP099547.1,1588070,1589149,+,,,NG665_RS07110,WP_252673020.1,359,lipoyl synthase
+chromosome,NZ_CP099547.1,1589217,1590755,-,,,NG665_RS07115,WP_252673021.1,512,AMP-binding protein
+chromosome,NZ_CP099547.1,1590752,1592044,-,,,NG665_RS07120,WP_252673022.1,430,M18 family aminopeptidase
+chromosome,NZ_CP099547.1,1592069,1592836,-,,,NG665_RS07125,WP_252673023.1,255,hypothetical protein
+chromosome,NZ_CP099547.1,1592966,1593418,-,,,NG665_RS07130,WP_252673024.1,150,hypothetical protein
+chromosome,NZ_CP099547.1,1593634,1595856,+,,,NG665_RS07135,WP_252673025.1,740,NADP-dependent isocitrate dehydrogenase
+chromosome,NZ_CP099547.1,1595975,1596499,+,,,NG665_RS07140,WP_252673026.1,174,LppP/LprE family lipoprotein
+chromosome,NZ_CP099547.1,1596669,1597625,-,,,NG665_RS07145,WP_252673027.1,318,L-lactate dehydrogenase
+chromosome,NZ_CP099547.1,1597780,1598562,+,,,NG665_RS07150,WP_252673028.1,260,"2-oxo-hepta-3-ene-1,7-dioate hydratase"
+chromosome,NZ_CP099547.1,1598576,1599835,+,,,NG665_RS07155,WP_252673029.1,419,alpha/beta hydrolase
+chromosome,NZ_CP099547.1,1599937,1600335,+,,,NG665_RS07160,WP_252673030.1,132,DUF4870 domain-containing protein
+chromosome,NZ_CP099547.1,1600416,1601636,-,,,NG665_RS07165,WP_252673031.1,406,peptidase T
+chromosome,NZ_CP099547.1,1602102,1603196,+,,,NG665_RS07170,WP_252674049.1,364,IS1249 family transposase
+chromosome,NZ_CP099547.1,1603233,1605203,+,,,NG665_RS07175,WP_252673032.1,656,glucose PTS transporter subunit IIA
+chromosome,NZ_CP099547.1,1605212,1606063,+,,,NG665_RS07180,WP_252673033.1,283,PRD domain-containing protein
+chromosome,NZ_CP099547.1,1606275,1607975,-,,ptsP,NG665_RS07185,WP_252673034.1,566,phosphoenolpyruvate--protein phosphotransferase
+chromosome,NZ_CP099547.1,1607980,1608243,-,,,NG665_RS07190,WP_252673035.1,87,HPr family phosphocarrier protein
+chromosome,NZ_CP099547.1,1614485,1615033,+,,,NG665_RS07210,WP_252673036.1,182,NAD(P)H-dependent oxidoreductase
+chromosome,NZ_CP099547.1,1615105,1615566,+,,,NG665_RS07215,WP_252674104.1,153,DNA starvation/stationary phase protection protein
+chromosome,NZ_CP099547.1,1615727,1616134,-,,,NG665_RS07220,WP_252673037.1,135,rhodanese-like domain-containing protein
+chromosome,NZ_CP099547.1,1616349,1617476,+,,,NG665_RS07225,WP_252673038.1,375,ATP-binding protein
+chromosome,NZ_CP099547.1,1617608,1618591,-,,,NG665_RS07230,WP_252673039.1,327,hypothetical protein
+chromosome,NZ_CP099547.1,1618588,1619526,-,,,NG665_RS07235,WP_252673040.1,312,sulfite exporter TauE/SafE family protein
+chromosome,NZ_CP099547.1,1619712,1620512,-,,,NG665_RS07240,WP_252673041.1,266,potassium channel family protein
+chromosome,NZ_CP099547.1,1620793,1622865,-,,,NG665_RS07245,WP_252673042.1,690,hypothetical protein
+chromosome,NZ_CP099547.1,1623189,1623770,+,,,NG665_RS07250,WP_252673043.1,193,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,1623805,1624248,-,,,NG665_RS07255,WP_252673044.1,147,DUF4065 domain-containing protein
+chromosome,NZ_CP099547.1,1624523,1625377,+,,,NG665_RS07260,WP_252673045.1,284,RelA/SpoT domain-containing protein
+chromosome,NZ_CP099547.1,1625608,1625955,-,,,NG665_RS07265,WP_252673046.1,115,nucleotide pyrophosphohydrolase
+chromosome,NZ_CP099547.1,1625958,1627793,-,,,NG665_RS07270,WP_252673047.1,611,DUF2075 domain-containing protein
+chromosome,NZ_CP099547.1,1628335,1629402,-,,,NG665_RS07275,WP_252673048.1,355,Fic family protein
+chromosome,NZ_CP099547.1,1629686,1630585,+,,,NG665_RS07280,WP_252673049.1,299,hypothetical protein
+chromosome,NZ_CP099547.1,1630714,1634166,-,,,NG665_RS07285,WP_252673050.1,1150,leucine-rich repeat domain-containing protein
+chromosome,NZ_CP099547.1,1634575,1634712,-,,,NG665_RS07290,WP_252673051.1,45,methionine/alanine import family NSS transporter small subunit
+chromosome,NZ_CP099547.1,1634709,1636313,-,,,NG665_RS07295,WP_252673052.1,534,sodium-dependent transporter
+chromosome,NZ_CP099547.1,1636573,1637370,-,,,NG665_RS07300,WP_252673053.1,265,CPBP family intramembrane metalloprotease
+chromosome,NZ_CP099547.1,1637384,1638376,-,,,NG665_RS07305,WP_252673054.1,330,LacI family transcriptional regulator
+chromosome,NZ_CP099547.1,1638424,1640106,-,,,NG665_RS07310,WP_252673055.1,560,glycoside hydrolase family 13 protein
+chromosome,NZ_CP099547.1,1640216,1641058,-,,,NG665_RS07315,WP_252673056.1,280,carbohydrate ABC transporter permease
+chromosome,NZ_CP099547.1,1641055,1642086,-,,,NG665_RS07320,WP_252674105.1,343,sugar ABC transporter permease
+chromosome,NZ_CP099547.1,1642178,1643455,-,,,NG665_RS07325,WP_252673057.1,425,ABC transporter substrate-binding protein
+chromosome,NZ_CP099547.1,1643728,1645557,+,,,NG665_RS07330,WP_252673058.1,609,hypothetical protein
+chromosome,NZ_CP099547.1,1645644,1646087,-,,,NG665_RS07335,WP_252673059.1,147,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,1646163,1646669,-,,,NG665_RS07340,WP_252673060.1,168,GNAT family N-acetyltransferase
+chromosome,NZ_CP099547.1,1646864,1647118,-,,,NG665_RS07345,WP_252673061.1,84,Txe/YoeB family addiction module toxin
+chromosome,NZ_CP099547.1,1647124,1647381,-,,,NG665_RS07350,WP_252673062.1,85,type II toxin-antitoxin system prevent-host-death family antitoxin
+chromosome,NZ_CP099547.1,1647657,1648736,-,,ychF,NG665_RS07355,WP_252673063.1,359,redox-regulated ATPase YchF
+chromosome,NZ_CP099547.1,1648872,1650092,+,,,NG665_RS07360,WP_252673064.1,406,DNA recombination protein RmuC
+chromosome,NZ_CP099547.1,1650198,1651304,-,,,NG665_RS07365,WP_252674106.1,368,4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+chromosome,NZ_CP099547.1,1651522,1652775,+,,xseA,NG665_RS07370,WP_252673065.1,417,exodeoxyribonuclease VII large subunit
+chromosome,NZ_CP099547.1,1652772,1653029,+,,,NG665_RS07375,WP_252673066.1,85,exodeoxyribonuclease VII small subunit
+chromosome,NZ_CP099547.1,1653030,1653977,+,,,NG665_RS07380,WP_252673067.1,315,carbohydrate kinase
+chromosome,NZ_CP099547.1,1654020,1654781,-,,,NG665_RS07385,WP_252674107.1,253,isoprenyl transferase
+chromosome,NZ_CP099547.1,1655004,1655669,+,,,NG665_RS07390,WP_252673068.1,221,hemolysin III family protein
+chromosome,NZ_CP099547.1,1655842,1656321,+,,greA,NG665_RS07395,WP_252673069.1,159,transcription elongation factor GreA
+chromosome,NZ_CP099547.1,1656325,1657014,+,,msrA,NG665_RS07400,WP_252673070.1,229,peptide-methionine (S)-S-oxide reductase MsrA
+chromosome,NZ_CP099547.1,1657069,1657503,+,,,NG665_RS07405,WP_252673071.1,144,FKBP-type peptidyl-prolyl cis-trans isomerase
+chromosome,NZ_CP099547.1,1657709,1658518,-,,,NG665_RS07410,WP_252673072.1,269,Bax inhibitor-1/YccA family protein
+chromosome,NZ_CP099547.1,1658812,1659753,+,,,NG665_RS07415,WP_252673073.1,313,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,1659750,1660559,+,,,NG665_RS07420,WP_252673074.1,269,ABC transporter permease
+chromosome,NZ_CP099547.1,1660910,1662190,+,,nhaA,NG665_RS07430,WP_252673075.1,426,Na+/H+ antiporter NhaA
+chromosome,NZ_CP099547.1,1662240,1663196,-,,,NG665_RS07435,WP_252673076.1,318,Ppx/GppA family phosphatase
+chromosome,NZ_CP099547.1,1663215,1663775,-,,,NG665_RS07440,WP_252673077.1,186,DUF501 domain-containing protein
+chromosome,NZ_CP099547.1,1663772,1664485,-,,,NG665_RS07445,WP_252673078.1,237,septum formation initiator family protein
+chromosome,NZ_CP099547.1,1664622,1665902,-,,eno,NG665_RS07450,WP_252673079.1,426,phosphopyruvate hydratase
+chromosome,NZ_CP099547.1,1666132,1669647,-,,mfd,NG665_RS07455,WP_252673080.1,1171,transcription-repair coupling factor
+chromosome,NZ_CP099547.1,1669729,1670313,-,,pth,NG665_RS07460,WP_252673081.1,194,aminoacyl-tRNA hydrolase
+chromosome,NZ_CP099547.1,1670487,1671086,-,,,NG665_RS07465,WP_252673082.1,199,50S ribosomal protein L25/general stress protein Ctc
+chromosome,NZ_CP099547.1,1671314,1672294,-,,,NG665_RS07470,WP_252673083.1,326,ribose-phosphate diphosphokinase
+chromosome,NZ_CP099547.1,1672356,1673423,-,,,NG665_RS07475,WP_252673084.1,355,NTP transferase domain-containing protein
+chromosome,NZ_CP099547.1,1673736,1674398,+,,,NG665_RS07485,WP_252673085.1,220,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP099547.1,1674508,1675476,+,,,NG665_RS07490,WP_252673086.1,322,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,1675478,1676701,+,,,NG665_RS07495,WP_252673087.1,407,ABC transporter permease
+chromosome,NZ_CP099547.1,1676744,1677259,-,,,NG665_RS07500,WP_252673088.1,171,MarR family winged helix-turn-helix transcriptional regulator
+chromosome,NZ_CP099547.1,1677377,1677676,-,,,NG665_RS07505,WP_252673089.1,99,hypothetical protein
+chromosome,NZ_CP099547.1,1677792,1679630,-,,,NG665_RS07510,WP_252673090.1,612,ABC-F family ATP-binding cassette domain-containing protein
+chromosome,NZ_CP099547.1,1679748,1680704,-,,ispE,NG665_RS07515,WP_252673091.1,318,4-(cytidine 5\\'-diphospho)-2-C-methyl-D-erythritol kinase
+chromosome,NZ_CP099547.1,1680881,1681366,-,,,NG665_RS07520,WP_252673092.1,161,PTS glucose transporter subunit IIA
+chromosome,NZ_CP099547.1,1681366,1682961,-,,nagE,NG665_RS07525,WP_252673093.1,531,N-acetylglucosamine-specific PTS transporter subunit IIBC
+chromosome,NZ_CP099547.1,1683006,1683845,-,,,NG665_RS07530,WP_252673094.1,279,PRD domain-containing protein
+chromosome,NZ_CP099547.1,1683973,1684869,-,,rsmA,NG665_RS07535,WP_252673095.1,298,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA
+chromosome,NZ_CP099547.1,1684938,1686137,-,,,NG665_RS07540,WP_252673096.1,399,G5 domain-containing protein
+chromosome,NZ_CP099547.1,1686254,1687216,-,,,NG665_RS07545,WP_252673097.1,320,TatD family hydrolase
+chromosome,NZ_CP099547.1,1687228,1689033,-,,metG,NG665_RS07550,WP_252673098.1,601,methionine--tRNA ligase
+chromosome,NZ_CP099547.1,1689144,1690178,+,,,NG665_RS07555,WP_252673099.1,344,isochorismatase family protein
+chromosome,NZ_CP099547.1,1690347,1692689,-,,,NG665_RS07560,WP_252673100.1,780,MMPL family transporter
+chromosome,NZ_CP099547.1,1692811,1693638,-,,rsmI,NG665_RS07565,WP_252673101.1,275,16S rRNA (cytidine(1402)-2\\'-O)-methyltransferase
+chromosome,NZ_CP099547.1,1693821,1694171,+,,,NG665_RS07570,WP_252673102.1,116,DsrE family protein
+chromosome,NZ_CP099547.1,1694240,1695166,+,,,NG665_RS07575,WP_252673103.1,308,ABC transporter ATP-binding protein
+chromosome,NZ_CP099547.1,1695169,1695924,+,,,NG665_RS07580,WP_252673104.1,251,hypothetical protein
+chromosome,NZ_CP099547.1,1695952,1697022,+,,,NG665_RS07585,WP_252673105.1,356,sensor histidine kinase
+chromosome,NZ_CP099547.1,1697058,1697663,+,,,NG665_RS07590,WP_252673106.1,201,response regulator transcription factor
+chromosome,NZ_CP099547.1,1697881,1699791,+,,,NG665_RS07595,WP_252673107.1,636,Rib/alpha-like domain-containing protein
+chromosome,NZ_CP099547.1,1699957,1700334,+,,,NG665_RS07600,WP_252673108.1,125,DUF2314 domain-containing protein
+chromosome,NZ_CP099547.1,1700358,1700825,-,,,NG665_RS07605,WP_252673109.1,155,hypothetical protein
+chromosome,NZ_CP099547.1,1700828,1701790,-,,,NG665_RS07610,WP_252673110.1,320,hypothetical protein
+chromosome,NZ_CP099547.1,1701895,1703106,-,,,NG665_RS07615,WP_252673111.1,403,molybdopterin molybdotransferase MoeA
+chromosome,NZ_CP099547.1,1703198,1703812,+,,,NG665_RS07620,WP_252673112.1,204,5-formyltetrahydrofolate cyclo-ligase
+chromosome,NZ_CP099547.1,1704008,1704667,+,,,NG665_RS07625,WP_252673113.1,219,SAF domain-containing protein
+chromosome,NZ_CP099547.1,1704710,1705087,+,,mscL,NG665_RS07630,WP_252673114.1,125,large conductance mechanosensitive channel protein MscL
+chromosome,NZ_CP099547.1,1705184,1705408,-,,,NG665_RS07635,WP_252673115.1,74,hypothetical protein
+chromosome,NZ_CP099547.1,1705395,1709642,-,,,NG665_RS07640,WP_252673116.1,1415,hypothetical protein
+chromosome,NZ_CP099547.1,1709684,1710589,-,,,NG665_RS07645,WP_252673117.1,301,rhodanese-related sulfurtransferase
+chromosome,NZ_CP099547.1,1710878,1711813,-,,,NG665_RS07655,WP_252673118.1,311,universal stress protein
+chromosome,NZ_CP099547.1,1711945,1712670,-,,,NG665_RS07660,WP_252673119.1,241,C40 family peptidase
+chromosome,NZ_CP099547.1,1712963,1713640,-,,,NG665_RS07665,WP_252673120.1,225,metal-dependent transcriptional regulator
+chromosome,NZ_CP099547.1,1713886,1715331,-,,,NG665_RS07670,WP_252674108.1,481,NCS2 family permease
+chromosome,NZ_CP099547.1,1715451,1716692,-,,manA,NG665_RS07675,WP_252673121.1,413,"mannose-6-phosphate isomerase, class I"
+chromosome,NZ_CP099547.1,1716696,1717484,-,,,NG665_RS07680,WP_252673122.1,262,DUF3027 domain-containing protein
+chromosome,NZ_CP099547.1,1717477,1717851,-,,,NG665_RS07685,WP_252673123.1,124,cold shock domain-containing protein
+chromosome,NZ_CP099547.1,1718052,1719944,+,,,NG665_RS07690,WP_252673124.1,630,TPM domain-containing protein
+chromosome,NZ_CP099547.1,1720054,1720791,+,,,NG665_RS07695,WP_252673125.1,245,PspA/IM30 family protein
+chromosome,NZ_CP099547.1,1721006,1721593,+,,,NG665_RS07700,WP_252673126.1,195,nuclease
+chromosome,NZ_CP099547.1,1721643,1722380,+,,,NG665_RS07705,WP_252673127.1,245,response regulator transcription factor
+chromosome,NZ_CP099547.1,1722464,1723903,+,,,NG665_RS07710,WP_252673128.1,479,HAMP domain-containing histidine kinase
+chromosome,NZ_CP099547.1,1723857,1724567,-,,,NG665_RS07715,WP_252673129.1,236,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chromosome,NZ_CP099547.1,1724564,1725361,-,,,NG665_RS07720,WP_252673130.1,265,SDR family NAD(P)-dependent oxidoreductase
+chromosome,NZ_CP099547.1,1725502,1726620,+,,,NG665_RS07725,WP_252673131.1,372,hypothetical protein
+chromosome,NZ_CP099547.1,1726669,1727895,-,,,NG665_RS07730,WP_252673132.1,408,MFS transporter
+chromosome,NZ_CP099547.1,1728154,1729650,+,,,NG665_RS07735,WP_252673133.1,498,CPBP family glutamic-type intramembrane protease
+chromosome,NZ_CP099547.1,1729798,1731420,-,,groL,NG665_RS07740,WP_252673134.1,540,chaperonin GroEL
+chromosome,NZ_CP099547.1,1731726,1732343,-,,,NG665_RS07745,WP_252673135.1,205,LytR C-terminal domain-containing protein
+chromosome,NZ_CP099547.1,1732414,1732674,-,,,NG665_RS07750,WP_252673136.1,86,DUF3263 domain-containing protein
+chromosome,NZ_CP099547.1,1732811,1733482,+,,,NG665_RS07755,WP_252673137.1,223,uracil-DNA glycosylase
+chromosome,NZ_CP099547.1,1733487,1734791,-,,,NG665_RS07760,WP_252673138.1,434,thioester domain-containing protein
+chromosome,NZ_CP099547.1,1735094,1736287,-,,,NG665_RS07765,WP_252673139.1,397,glycine C-acetyltransferase
+chromosome,NZ_CP099547.1,1736287,1737345,-,,tdh,NG665_RS07770,WP_252673140.1,352,L-threonine 3-dehydrogenase
+chromosome,NZ_CP099547.1,1737440,1738831,+,,,NG665_RS07775,WP_252673141.1,463,hypothetical protein
+chromosome,NZ_CP099547.1,1738847,1739515,+,,,NG665_RS07780,WP_252673142.1,222,TrkA family potassium uptake protein
+chromosome,NZ_CP099547.1,1739536,1740978,-,,,NG665_RS07785,WP_252673143.1,480,alanine:cation symporter family protein
+chromosome,NZ_CP099547.1,1741076,1741237,+,,,NG665_RS07790,WP_252673144.1,53,hypothetical protein
+chromosome,NZ_CP099547.1,1741450,1742301,-,,,NG665_RS07800,WP_252673145.1,283,DsbA family protein
+chromosome,NZ_CP099547.1,1742382,1744073,-,,,NG665_RS07805,WP_252673146.1,563,serine/threonine protein kinase
+chromosome,NZ_CP099547.1,1744308,1745435,+,,ugpC,NG665_RS07810,WP_252673147.1,375,sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC
+chromosome,NZ_CP099547.1,1745585,1746835,+,,,NG665_RS07815,WP_252673148.1,416,DUF4032 domain-containing protein
+chromosome,NZ_CP099547.1,1746910,1747527,-,,recR,NG665_RS07820,WP_252673149.1,205,recombination mediator RecR
+chromosome,NZ_CP099547.1,1747527,1750271,-,,,NG665_RS07825,WP_252673150.1,914,DNA polymerase III subunit gamma and tau
+chromosome,NZ_CP099547.1,1751150,1754482,-,,,NG665_RS07840,WP_252673151.1,1110,DUF5979 domain-containing protein
+chromosome,NZ_CP099547.1,1754858,1755946,-,,,NG665_RS07845,WP_252673152.1,362,DUF5979 domain-containing protein
+chromosome,NZ_CP099547.1,1756279,1757580,-,,,NG665_RS07850,WP_252673153.1,433,MFS transporter
+chromosome,NZ_CP099547.1,1757754,1758326,+,,,NG665_RS07855,WP_252673154.1,190,LytR C-terminal domain-containing protein
+chromosome,NZ_CP099547.1,1758330,1759700,-,,,NG665_RS07860,WP_252673155.1,456,NCS2 family nucleobase:cation symporter
+chromosome,NZ_CP099547.1,1759800,1760321,-,,,NG665_RS07865,WP_252673156.1,173,ASCH domain-containing protein
+chromosome,NZ_CP099547.1,1760329,1761633,-,,,NG665_RS07870,WP_252673157.1,434,hypothetical protein
+chromosome,NZ_CP099547.1,1761636,1762619,-,,rlmB,NG665_RS07875,WP_252673158.1,327,23S rRNA (guanosine(2251)-2\\'-O)-methyltransferase RlmB
+chromosome,NZ_CP099547.1,1762619,1764043,-,,cysS,NG665_RS07880,WP_252673159.1,474,cysteine--tRNA ligase
+chromosome,NZ_CP099547.1,1764246,1765658,+,,,NG665_RS07885,WP_252673160.1,470,MFS transporter
+chromosome,NZ_CP099547.1,1765722,1766204,-,,ispF,NG665_RS07890,WP_252673161.1,160,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+chromosome,NZ_CP099547.1,1766273,1766959,-,,ispD,NG665_RS07895,WP_252673162.1,228,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+chromosome,NZ_CP099547.1,1767022,1767567,-,,,NG665_RS07900,WP_252673163.1,181,CarD family transcriptional regulator
+chromosome,NZ_CP099547.1,1767733,1768473,-,,,NG665_RS07905,WP_252673164.1,246,phosphoglyceromutase
+chromosome,NZ_CP099547.1,1768627,1769037,+,,,NG665_RS07910,WP_252673165.1,136,YccF domain-containing protein
+chromosome,NZ_CP099547.1,1769343,1769513,+,,,NG665_RS07915,WP_252673166.1,56,hypothetical protein
+chromosome,NZ_CP099547.1,1769698,1771320,+,,,NG665_RS07920,WP_252673167.1,540,FAD-dependent oxidoreductase
+chromosome,NZ_CP099547.1,1771373,1771627,+,,,NG665_RS07925,WP_252673168.1,84,metal-sensitive transcriptional regulator
+chromosome,NZ_CP099547.1,1771780,1773246,-,,,NG665_RS07930,WP_252674109.1,488,cytosine permease
+chromosome,NZ_CP099547.1,1773474,1775360,+,,,NG665_RS07935,WP_252673169.1,628,purine/pyrimidine permease
+chromosome,NZ_CP099547.1,1781564,1782109,-,,,NG665_RS07955,WP_252673170.1,181,DMP19 family protein
+chromosome,NZ_CP099547.1,1782742,1784022,+,,,NG665_RS07960,WP_252673171.1,426,site-specific integrase
+chromosome,NZ_CP099547.1,1784038,1784364,+,,,NG665_RS07965,WP_252673172.1,108,hypothetical protein
+chromosome,NZ_CP099547.1,1784361,1785302,+,,,NG665_RS07970,WP_252673173.1,313,hypothetical protein
+chromosome,NZ_CP099547.1,1785671,1785862,+,,,NG665_RS07975,WP_252673174.1,63,hypothetical protein
+chromosome,NZ_CP099547.1,1786107,1787915,+,,,NG665_RS07980,WP_252673175.1,602,AAA family ATPase
+chromosome,NZ_CP099547.1,1788787,1789881,-,,,NG665_RS07985,WP_252674049.1,364,IS1249 family transposase
+chromosome,NZ_CP099547.1,1790502,1792076,-,,,NG665_RS07995,WP_252673176.1,524,alpha/beta hydrolase
+chromosome,NZ_CP099547.1,1792104,1793318,-,,,NG665_RS08000,WP_252673177.1,404,DNA polymerase III subunit delta\\'
+chromosome,NZ_CP099547.1,1793315,1793983,-,,tmk,NG665_RS08005,WP_252673178.1,222,dTMP kinase
+chromosome,NZ_CP099547.1,1793986,1796718,-,,topA,NG665_RS08010,WP_252673179.1,910,type I DNA topoisomerase
+chromosome,NZ_CP099547.1,1796786,1798294,-,,,NG665_RS08015,WP_252673180.1,502,methyltransferase
+chromosome,NZ_CP099547.1,1798327,1799088,-,,,NG665_RS08020,WP_252673181.1,253,anaerobic ribonucleoside-triphosphate reductase activating protein
+chromosome,NZ_CP099547.1,1799089,1800894,-,,,NG665_RS08025,WP_252673182.1,601,ribonucleoside triphosphate reductase
+chromosome,NZ_CP099547.1,1801203,1803485,+,,,NG665_RS08030,WP_252673183.1,760,DEAD/DEAH box helicase
+chromosome,NZ_CP099547.1,1803626,1804066,-,,,NG665_RS08035,WP_252673184.1,146,flp pilus-assembly TadE/G-like family protein
+chromosome,NZ_CP099547.1,1804071,1804409,-,,,NG665_RS08040,WP_252673185.1,112,hypothetical protein
+chromosome,NZ_CP099547.1,1804498,1804689,-,,,NG665_RS08045,WP_252673186.1,63,DUF4244 domain-containing protein
+chromosome,NZ_CP099547.1,1804946,1805377,-,,,NG665_RS08050,WP_252673187.1,143,type II secretion system F family protein
+chromosome,NZ_CP099547.1,1805474,1806175,-,,,NG665_RS08055,WP_252673188.1,233,hypothetical protein
+chromosome,NZ_CP099547.1,1806160,1807320,-,,,NG665_RS08060,WP_252673189.1,386,TadA family conjugal transfer-associated ATPase
+chromosome,NZ_CP099547.1,1807320,1808345,-,,,NG665_RS08065,WP_252673190.1,341,hypothetical protein
+chromosome,NZ_CP099547.1,1808529,1809713,+,,,NG665_RS08070,WP_252673191.1,394,DUF2157 domain-containing protein
+chromosome,NZ_CP099547.1,1809772,1810683,+,,,NG665_RS08075,WP_252673192.1,303,alpha/beta hydrolase
+chromosome,NZ_CP099547.1,1810717,1811409,-,,nth,NG665_RS08080,WP_252673193.1,230,endonuclease III
+chromosome,NZ_CP099547.1,1811597,1812274,+,,,NG665_RS08085,WP_252673194.1,225,Crp/Fnr family transcriptional regulator
+chromosome,NZ_CP099547.1,1812465,1812938,-,,,NG665_RS08090,WP_252673195.1,157,RidA family protein
+chromosome,NZ_CP099547.1,1812939,1813097,-,,,NG665_RS08095,WP_252673196.1,52,DUF4177 domain-containing protein
+chromosome,NZ_CP099547.1,1813151,1813471,-,,,NG665_RS08100,WP_252673197.1,106,WhiB family transcriptional regulator
+chromosome,NZ_CP099547.1,1813628,1816045,+,,,NG665_RS08105,WP_252673198.1,805,transglycosylase domain-containing protein
+chromosome,NZ_CP099547.1,1816042,1817049,+,,,NG665_RS08110,WP_252673199.1,335,metallophosphoesterase
+chromosome,NZ_CP099547.1,1817768,1818139,-,,,NG665_RS08120,WP_252673200.1,123,PfkB family carbohydrate kinase
+chromosome,NZ_CP099547.1,1818364,1818618,-,,,NG665_RS08125,WP_252673201.1,84,GlsB/YeaQ/YmgE family stress response membrane protein
+chromosome,NZ_CP099547.1,1819019,1821439,-,,,NG665_RS08130,WP_252673202.1,806,HAD-IC family P-type ATPase
+chromosome,NZ_CP099547.1,1821442,1822935,-,,,NG665_RS08135,WP_252673203.1,497,DUF1846 domain-containing protein
+chromosome,NZ_CP099547.1,1823362,1824045,-,,def,NG665_RS08140,WP_252673204.1,227,peptide deformylase
+chromosome,NZ_CP099547.1,1824656,1825513,+,,,NG665_RS08145,WP_252673205.1,285,hypothetical protein
+chromosome,NZ_CP099547.1,1825990,1827390,+,,,NG665_RS08150,WP_252673206.1,466,hypothetical protein
+chromosome,NZ_CP099547.1,1827624,1828697,+,,,NG665_RS08155,WP_252673207.1,357,acyltransferase
+chromosome,NZ_CP099547.1,1828853,1829296,+,,,NG665_RS08160,WP_252673208.1,147,YbjN domain-containing protein
+chromosome,NZ_CP099547.1,1829298,1829777,+,,,NG665_RS08165,WP_252673209.1,159,YbjN domain-containing protein
+chromosome,NZ_CP099547.1,1829786,1831642,+,,,NG665_RS08170,WP_252673210.1,618,HSP90 family protein
+chromosome,NZ_CP099547.1,1831647,1834373,+,,,NG665_RS08175,WP_252673211.1,908,hypothetical protein
+chromosome,NZ_CP099547.1,1835288,1835782,-,,tadA,NG665_RS08185,WP_252673212.1,164,tRNA adenosine(34) deaminase TadA
+chromosome,NZ_CP099547.1,1836028,1836666,+,,upp,NG665_RS08190,WP_252673213.1,212,uracil phosphoribosyltransferase
+chromosome,NZ_CP099547.1,1836668,1837666,+,,,NG665_RS08195,WP_252674110.1,332,alpha/beta hydrolase
+chromosome,NZ_CP099547.1,1837908,1838786,+,,,NG665_RS08200,WP_252673214.1,292,DUF5926 family protein
+chromosome,NZ_CP099547.1,1838980,1839750,+,,,NG665_RS08205,WP_252673215.1,256,glycosyltransferase
+chromosome,NZ_CP099547.1,1839731,1842007,-,,,NG665_RS08210,WP_252673216.1,758,hypothetical protein
+chromosome,NZ_CP099547.1,1842004,1843170,-,,,NG665_RS08215,WP_252673217.1,388,NAD(+)/NADH kinase
+chromosome,NZ_CP099547.1,1843273,1844553,+,,serS,NG665_RS08220,WP_252673218.1,426,serine--tRNA ligase
+chromosome,NZ_CP099547.1,1844558,1845493,+,,,NG665_RS08225,WP_252673219.1,311,HAD hydrolase family protein
+chromosome,NZ_CP099547.1,1845580,1847790,-,,,NG665_RS08230,WP_252673220.1,736,hypothetical protein
+chromosome,NZ_CP099547.1,1848297,1849607,+,,,NG665_RS08245,WP_252672639.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,1850463,1850966,+,,,NG665_RS08250,WP_252673221.1,167,carboxymuconolactone decarboxylase family protein
+chromosome,NZ_CP099547.1,1851074,1852090,-,,galE,NG665_RS08255,WP_252674111.1,338,UDP-glucose 4-epimerase GalE
+chromosome,NZ_CP099547.1,1852130,1853620,-,,,NG665_RS08260,WP_252673222.1,496,galactose-1-phosphate uridylyltransferase
+chromosome,NZ_CP099547.1,1853622,1854716,-,,,NG665_RS08265,WP_252673223.1,364,aminoglycoside phosphotransferase family protein
+chromosome,NZ_CP099547.1,1854713,1856875,-,,gnpA,NG665_RS08270,WP_252673224.1,720,"1,3-beta-galactosyl-N-acetylhexosamine phosphorylase"
+chromosome,NZ_CP099547.1,1857270,1858406,+,,,NG665_RS08275,WP_252673225.1,378,ROK family protein
+chromosome,NZ_CP099547.1,1858536,1859273,-,,cas5e,NG665_RS08280,WP_252673226.1,245,type I-E CRISPR-associated protein Cas5/CasD
+chromosome,NZ_CP099547.1,1859270,1860325,-,,cas7e,NG665_RS08285,WP_252673227.1,351,type I-E CRISPR-associated protein Cas7/Cse4/CasC
+chromosome,NZ_CP099547.1,1860357,1860965,-,,casB,NG665_RS08290,WP_252673228.1,202,type I-E CRISPR-associated protein Cse2/CasB
+chromosome,NZ_CP099547.1,1860985,1862616,-,,,NG665_RS08295,WP_252673229.1,543,type I-E CRISPR-associated protein Cse1/CasA
+chromosome,NZ_CP099547.1,1862864,1863562,+,,,NG665_RS08300,WP_252673230.1,232,type I-E CRISPR-associated protein Cas6/Cse3/CasE
+chromosome,NZ_CP099547.1,1863559,1866198,+,,cas3,NG665_RS08305,WP_252673231.1,879,CRISPR-associated helicase Cas3\\'
+chromosome,NZ_CP099547.1,1866195,1867148,+,,cas1e,NG665_RS08310,WP_252673232.1,317,type I-E CRISPR-associated endonuclease Cas1e
+chromosome,NZ_CP099547.1,1867145,1867459,+,,cas2e,NG665_RS08315,WP_252673233.1,104,type I-E CRISPR-associated endoribonuclease Cas2e
+chromosome,NZ_CP099547.1,1871814,1872494,-,,,NG665_RS08325,WP_252673234.1,226,hypothetical protein
+chromosome,NZ_CP099547.1,1872859,1877415,+,,,NG665_RS08330,WP_252673235.1,1518,hypothetical protein
+chromosome,NZ_CP099547.1,1877501,1878328,-,,,NG665_RS08335,WP_252673236.1,275,glutamine amidotransferase
+chromosome,NZ_CP099547.1,1878325,1879692,-,,,NG665_RS08340,WP_252673237.1,455,MurT ligase domain-containing protein
+chromosome,NZ_CP099547.1,1879714,1879857,+,,,NG665_RS08345,WP_252673238.1,47,hypothetical protein
+chromosome,NZ_CP099547.1,1879901,1881094,+,,,NG665_RS08350,WP_252673239.1,397,Gfo/Idh/MocA family oxidoreductase
+chromosome,NZ_CP099547.1,1881580,1882890,+,,,NG665_RS08355,WP_252672639.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,1883538,1888028,+,,,NG665_RS08365,WP_252673240.1,1496,glycoside hydrolase N-terminal domain-containing protein
+chromosome,NZ_CP099547.1,1888140,1888703,-,,,NG665_RS08370,WP_252673241.1,187,DM13 domain-containing protein
+chromosome,NZ_CP099547.1,1889047,1889337,+,,,NG665_RS08375,WP_252673242.1,96,hypothetical protein
+chromosome,NZ_CP099547.1,1889458,1889739,+,,,NG665_RS08380,WP_252673243.1,93,ImmA/IrrE family metallo-endopeptidase
+chromosome,NZ_CP099547.1,1890521,1890898,-,,,NG665_RS08385,WP_252673244.1,125,hypothetical protein
+chromosome,NZ_CP099547.1,1890888,1891400,-,,,NG665_RS08390,WP_252673245.1,170,ImmA/IrrE family metallo-endopeptidase
+chromosome,NZ_CP099547.1,1891808,1892110,-,,,NG665_RS08395,WP_252673246.1,100,site-specific integrase
+chromosome,NZ_CP099547.1,1894307,1894519,+,,,NG665_RS08405,WP_252673247.1,70,hypothetical protein
+chromosome,NZ_CP099547.1,1894740,1895048,+,,,NG665_RS08410,WP_252673248.1,102,hypothetical protein
+chromosome,NZ_CP099547.1,1895061,1895822,+,,,NG665_RS08415,WP_252673249.1,253,hypothetical protein
+chromosome,NZ_CP099547.1,1895874,1896545,+,,,NG665_RS08420,WP_252673250.1,223,hypothetical protein
+chromosome,NZ_CP099547.1,1896583,1897791,+,,,NG665_RS08425,WP_252673251.1,402,hypothetical protein
+chromosome,NZ_CP099547.1,1897839,1899149,+,,,NG665_RS08430,WP_252672639.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,1899605,1900828,+,,,NG665_RS08435,WP_252673252.1,407,hypothetical protein
+chromosome,NZ_CP099547.1,1900856,1902106,+,,,NG665_RS08440,WP_252673253.1,416,hypothetical protein
+chromosome,NZ_CP099547.1,1902353,1902625,+,,,NG665_RS08445,WP_252673254.1,90,50S ribosomal protein L7/L12
+chromosome,NZ_CP099547.1,1903001,1904266,-,,,NG665_RS08450,WP_252673255.1,421,methyltransferase domain-containing protein
+chromosome,NZ_CP099547.1,1904317,1904964,-,,,NG665_RS08455,WP_252673256.1,215,HAD-IA family hydrolase
+chromosome,NZ_CP099547.1,1905089,1907554,-,,hrpB,NG665_RS08460,WP_252673257.1,821,ATP-dependent helicase HrpB
+chromosome,NZ_CP099547.1,1907567,1908184,-,,,NG665_RS08465,WP_252673258.1,205,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP099547.1,1908334,1909755,+,,,NG665_RS08470,WP_252673259.1,473,hypothetical protein
+chromosome,NZ_CP099547.1,1909821,1911044,-,,tgt,NG665_RS08475,WP_252673260.1,407,tRNA guanosine(34) transglycosylase Tgt
+chromosome,NZ_CP099547.1,1911112,1911939,-,,,NG665_RS08480,WP_252673261.1,275,DUF4261 domain-containing protein
+chromosome,NZ_CP099547.1,1911960,1912538,-,,,NG665_RS08485,WP_252673262.1,192,hypothetical protein
+chromosome,NZ_CP099547.1,1912609,1913529,+,,,NG665_RS08490,WP_252673263.1,306,DUF4862 family protein
+chromosome,NZ_CP099547.1,1913534,1914349,+,,,NG665_RS08495,WP_252673264.1,271,thioredoxin domain-containing protein
+chromosome,NZ_CP099547.1,1914456,1915034,+,,,NG665_RS08500,WP_252673265.1,192,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chromosome,NZ_CP099547.1,1915036,1915866,+,,,NG665_RS08505,WP_252673266.1,276,aldo/keto reductase
+chromosome,NZ_CP099547.1,1915866,1916564,+,,,NG665_RS08510,WP_252673267.1,232,HD domain-containing protein
+chromosome,NZ_CP099547.1,1916633,1917979,-,,dnaB,NG665_RS08515,WP_252674112.1,448,replicative DNA helicase
+chromosome,NZ_CP099547.1,1918462,1919799,+,,,NG665_RS08520,WP_252673268.1,445,MATE family efflux transporter
+chromosome,NZ_CP099547.1,1920034,1921344,+,,,NG665_RS08525,WP_252672635.1,436,ISL3 family transposase
+chromosome,NZ_CP099547.1,1928986,1929432,-,,rplI,NG665_RS08535,WP_252673269.1,148,50S ribosomal protein L9
+chromosome,NZ_CP099547.1,1929454,1929690,-,,rpsR,NG665_RS08540,WP_252673270.1,78,30S ribosomal protein S18
+chromosome,NZ_CP099547.1,1929751,1930281,-,,,NG665_RS08545,WP_252673271.1,176,single-stranded DNA-binding protein
+chromosome,NZ_CP099547.1,1930300,1930605,-,,rpsF,NG665_RS08550,WP_252673272.1,101,30S ribosomal protein S6
+chromosome,NZ_CP099547.1,1930803,1933010,-,,,NG665_RS08555,WP_252673273.1,735,penicillin-binding protein
+chromosome,NZ_CP099547.1,1933016,1934290,-,,,NG665_RS08560,WP_252673274.1,424,AI-2E family transporter
+chromosome,NZ_CP099547.1,1934356,1935600,-,,,NG665_RS08565,WP_252673275.1,414,MFS transporter
+chromosome,NZ_CP099547.1,1935597,1937087,-,,,NG665_RS08570,WP_252673276.1,496,CCA tRNA nucleotidyltransferase
+chromosome,NZ_CP099547.1,1937150,1937656,+,,,NG665_RS08575,WP_252673277.1,168,NUDIX hydrolase
+chromosome,NZ_CP099547.1,1937657,1939921,+,,,NG665_RS08580,WP_252673278.1,754,DUF6049 family protein
+chromosome,NZ_CP099547.1,1940002,1942434,+,,,NG665_RS08585,WP_252673279.1,810,hypothetical protein
+chromosome,NZ_CP099547.1,1942492,1943439,+,,trxB,NG665_RS08590,WP_252673280.1,315,thioredoxin-disulfide reductase
+chromosome,NZ_CP099547.1,1943466,1943789,+,,,NG665_RS08595,WP_252673281.1,107,thioredoxin family protein
+chromosome,NZ_CP099547.1,1943792,1945102,+,,,NG665_RS08600,WP_252673282.1,436,PLP-dependent aminotransferase family protein
+chromosome,NZ_CP099547.1,1945383,1946858,-,,,NG665_RS08605,WP_252673283.1,491,ParB/RepB/Spo0J family partition protein
+chromosome,NZ_CP099547.1,1946865,1947698,-,,,NG665_RS08610,WP_252674113.1,277,ParA family protein
+chromosome,NZ_CP099547.1,1948202,1948831,-,,rsmG,NG665_RS08615,WP_252673284.1,209,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+chromosome,NZ_CP099547.1,1949259,1949852,-,,,NG665_RS08620,WP_252673285.1,197,KH domain-containing protein
+chromosome,NZ_CP099547.1,1949892,1951037,-,,yidC,NG665_RS08625,WP_252673286.1,381,membrane protein insertase YidC
+chromosome,NZ_CP099547.1,1951070,1951405,-,,yidD,NG665_RS08630,WP_252673287.1,111,membrane protein insertion efficiency factor YidD
+chromosome,NZ_CP099547.1,1951402,1951764,-,,rnpA,NG665_RS08635,WP_252673288.1,120,ribonuclease P protein component
+chromosome,NZ_CP099547.1,1951765,1951905,-,,rpmH,NG665_RS08640,WP_091279413.1,46,MULTISPECIES: 50S ribosomal protein L34
+,,,,,,,,,,
+,,,,,,,,,343.44,

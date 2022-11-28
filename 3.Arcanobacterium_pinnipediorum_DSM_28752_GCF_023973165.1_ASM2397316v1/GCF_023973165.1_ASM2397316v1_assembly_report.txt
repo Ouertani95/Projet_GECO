@@ -1,0 +1,33 @@
+# Assembly name:  ASM2397316v1
+# Organism name:  Arcanobacterium pinnipediorum (high G+C Gram-positive bacteria)
+# Infraspecific name:  strain=DSM 28752
+# Taxid:          1503041
+# BioSample:      SAMN29220662
+# BioProject:     PRJNA851267
+# Submitter:      German Federal Institute for Risk Assessment
+# Date:           2022-06-28
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Complete Genome
+# Genome representation: full
+# Assembly method: unicycler v. 0.4.8
+# Expected final version: no
+# Genome coverage: 44.0x
+# Sequencing technology: Illumina NextSeq; Oxford Nanopore MinION
+# Relation to type material: assembly from type material
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_023973165.1
+# RefSeq assembly accession: GCF_023973165.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_023973175.1	GCF_023973175.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+CP099547.1	assembled-molecule	na	Chromosome	CP099547.1	=	NZ_CP099547.1	Primary Assembly	1952277	na

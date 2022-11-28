@@ -1,0 +1,1686 @@
+#Name,Accession,Start,Stop,Strand,GeneID,Locus,Locus tag,Protein product,Length,Protein Name
+chromosome,NZ_CP070228.1,1,1554,+,,dnaA,JTE88_RS00005,WP_204424495.1,517,chromosomal replication initiator protein DnaA
+chromosome,NZ_CP070228.1,1900,3018,+,,dnaN,JTE88_RS00010,WP_204424496.1,372,DNA polymerase III subunit beta
+chromosome,NZ_CP070228.1,3023,4330,+,,recF,JTE88_RS00015,WP_204424498.1,435,DNA replication/repair protein RecF
+chromosome,NZ_CP070228.1,4327,4968,+,,,JTE88_RS00020,WP_204424500.1,213,DciA family protein
+chromosome,NZ_CP070228.1,5412,7445,+,,gyrB,JTE88_RS00025,WP_204425665.1,677,DNA topoisomerase (ATP-hydrolyzing) subunit B
+chromosome,NZ_CP070228.1,7468,10065,+,,gyrA,JTE88_RS00030,WP_204424501.1,865,DNA gyrase subunit A
+chromosome,NZ_CP070228.1,10106,10543,+,,,JTE88_RS00035,WP_204424503.1,145,DUF3566 domain-containing protein
+chromosome,NZ_CP070228.1,10771,10890,+,,,JTE88_RS09005,WP_239519520.1,39,DLW-39 family protein
+chromosome,NZ_CP070228.1,13005,17609,+,,,JTE88_RS00060,WP_204424506.1,1534,DUF4982 domain-containing protein
+chromosome,NZ_CP070228.1,17798,18370,+,,,JTE88_RS00065,WP_204424508.1,190,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,18374,19063,-,,,JTE88_RS00070,WP_204424509.1,229,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP070228.1,19182,22106,+,,,JTE88_RS00075,WP_204424510.1,974,YhgE/Pip domain-containing protein
+chromosome,NZ_CP070228.1,22170,22985,-,,,JTE88_RS00080,WP_204424512.1,271,MULTISPECIES: CAMP factor family pore-forming toxin
+chromosome,NZ_CP070228.1,23334,24992,+,,,JTE88_RS00085,WP_204424513.1,552,MULTISPECIES: lactate permease LctP family transporter
+chromosome,NZ_CP070228.1,25034,25822,+,,,JTE88_RS00090,WP_204424514.1,262,(Fe-S)-binding protein
+chromosome,NZ_CP070228.1,25849,27345,+,,,JTE88_RS00095,WP_239519596.1,498,LutB/LldF family L-lactate oxidation iron-sulfur protein
+chromosome,NZ_CP070228.1,27342,27992,+,,,JTE88_RS00100,WP_204424518.1,216,lactate utilization protein C
+chromosome,NZ_CP070228.1,28133,29830,+,,,JTE88_RS00105,WP_204424520.1,565,bifunctional metallophosphatase/5\\'-nucleotidase
+chromosome,NZ_CP070228.1,30028,32334,+,,,JTE88_RS00110,WP_204424522.1,768,exo-alpha-sialidase
+chromosome,NZ_CP070228.1,32476,34311,+,,,JTE88_RS00115,WP_204424524.1,611,BCCT family transporter
+chromosome,NZ_CP070228.1,34447,35445,+,,rarD,JTE88_RS00120,WP_204424525.1,332,MULTISPECIES: EamA family transporter RarD
+chromosome,NZ_CP070228.1,35553,37997,+,,,JTE88_RS00125,WP_204424527.1,814,VWA domain-containing protein
+chromosome,NZ_CP070228.1,38074,39261,-,,,JTE88_RS00130,WP_204424528.1,395,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,39264,42293,-,,,JTE88_RS00135,WP_204424529.1,1009,alpha-mannosidase
+chromosome,NZ_CP070228.1,42465,43496,+,,,JTE88_RS00140,WP_204424531.1,343,LacI family transcriptional regulator
+chromosome,NZ_CP070228.1,43493,44425,+,,,JTE88_RS00145,WP_204424533.1,310,carbohydrate kinase
+chromosome,NZ_CP070228.1,44493,45767,-,,,JTE88_RS00150,WP_204424534.1,424,AGE family epimerase/isomerase
+chromosome,NZ_CP070228.1,45984,46325,+,,,JTE88_RS00155,WP_204424536.1,113,hypothetical protein
+chromosome,NZ_CP070228.1,46413,47153,-,,,JTE88_RS00160,WP_204424538.1,246,TSUP family transporter
+chromosome,NZ_CP070228.1,47342,48475,+,,,JTE88_RS00165,WP_239519521.1,377,zinc-binding dehydrogenase
+chromosome,NZ_CP070228.1,48671,49870,+,,,JTE88_RS00170,WP_204424539.1,399,Gfo/Idh/MocA family oxidoreductase
+chromosome,NZ_CP070228.1,50042,51646,+,,,JTE88_RS00175,WP_239519597.1,534,MFS transporter
+chromosome,NZ_CP070228.1,51745,52020,-,,,JTE88_RS00180,WP_204424542.1,91,hypothetical protein
+chromosome,NZ_CP070228.1,52521,53381,-,,,JTE88_RS00185,WP_204424544.1,286,TIM barrel protein
+chromosome,NZ_CP070228.1,53429,54415,-,,iolG,JTE88_RS00190,WP_204424545.1,328,inositol 2-dehydrogenase
+chromosome,NZ_CP070228.1,54450,55529,-,,,JTE88_RS00195,WP_204424547.1,359,transaldolase
+chromosome,NZ_CP070228.1,55732,56508,-,,,JTE88_RS00200,WP_204424549.1,258,GntR family transcriptional regulator
+chromosome,NZ_CP070228.1,56687,57676,+,,iolC,JTE88_RS00205,WP_204424551.1,329,5-dehydro-2-deoxygluconokinase
+chromosome,NZ_CP070228.1,57673,58539,+,,,JTE88_RS00210,WP_204424552.1,288,deoxyribose-phosphate aldolase
+chromosome,NZ_CP070228.1,58536,59432,+,,iolB,JTE88_RS00215,WP_204424554.1,298,5-deoxy-glucuronate isomerase
+chromosome,NZ_CP070228.1,59429,61318,+,,iolD,JTE88_RS00220,WP_204424556.1,629,"3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)"
+chromosome,NZ_CP070228.1,61511,63004,+,,,JTE88_RS00225,WP_204425668.1,497,CoA-acylating methylmalonate-semialdehyde dehydrogenase
+chromosome,NZ_CP070228.1,63085,64611,-,,,JTE88_RS00230,WP_204424557.1,508,M81 family metallopeptidase
+chromosome,NZ_CP070228.1,64645,65748,-,,,JTE88_RS00235,WP_239519522.1,367,ROK family protein
+chromosome,NZ_CP070228.1,66021,67826,+,,,JTE88_RS00240,WP_204424561.1,601,peptide ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,67926,68885,+,,,JTE88_RS00245,WP_204424563.1,319,ABC transporter permease
+chromosome,NZ_CP070228.1,68885,69748,+,,,JTE88_RS00250,WP_204424564.1,287,ABC transporter permease
+chromosome,NZ_CP070228.1,69757,71757,+,,,JTE88_RS00255,WP_204424566.1,666,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,71763,72668,+,,,JTE88_RS00260,WP_204424569.1,301,ROK family protein
+chromosome,NZ_CP070228.1,72662,73939,+,,,JTE88_RS00265,WP_204424571.1,425,alpha-L-fucosidase
+chromosome,NZ_CP070228.1,73978,74637,+,,,JTE88_RS00270,WP_204424572.1,219,copper homeostasis protein CutC
+chromosome,NZ_CP070228.1,75411,76295,+,,,JTE88_RS00275,WP_239519523.1,294,glycosyltransferase
+chromosome,NZ_CP070228.1,76444,77187,+,,,JTE88_RS00280,WP_204425669.1,247,glycerophosphodiester phosphodiesterase family protein
+chromosome,NZ_CP070228.1,77325,78704,+,,,JTE88_RS00285,WP_204424576.1,459,MFS transporter
+chromosome,NZ_CP070228.1,78838,79830,-,,rfbB,JTE88_RS00290,WP_204424578.1,330,"dTDP-glucose 4,6-dehydratase"
+chromosome,NZ_CP070228.1,79857,81089,-,,,JTE88_RS00295,WP_204424580.1,410,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,81089,81865,-,,,JTE88_RS00300,WP_239519524.1,258,ABC transporter permease
+chromosome,NZ_CP070228.1,82194,83720,+,,,JTE88_RS00305,WP_204424583.1,508,hypothetical protein
+chromosome,NZ_CP070228.1,83717,86158,+,,,JTE88_RS00310,WP_204424584.1,813,glycosyltransferase
+chromosome,NZ_CP070228.1,86185,87762,+,,,JTE88_RS00315,WP_204424586.1,525,DUF2142 domain-containing protein
+chromosome,NZ_CP070228.1,87783,89033,-,,,JTE88_RS00320,WP_204424587.1,416,polysaccharide biosynthesis protein
+chromosome,NZ_CP070228.1,89211,90347,+,,,JTE88_RS00325,WP_239519598.1,378,glycosyltransferase
+chromosome,NZ_CP070228.1,90351,91217,-,,,JTE88_RS00330,WP_204424590.1,288,LicD family protein
+chromosome,NZ_CP070228.1,91302,93089,-,,,JTE88_RS00335,WP_204424591.1,595,phosphotransferase
+chromosome,NZ_CP070228.1,93328,94023,+,,,JTE88_RS00340,WP_239519599.1,231,glycosyltransferase
+chromosome,NZ_CP070228.1,94027,94452,+,,,JTE88_RS00345,WP_204424594.1,141,DUF2304 family protein
+chromosome,NZ_CP070228.1,94430,95539,-,,,JTE88_RS00350,WP_204424596.1,369,glycosyltransferase family 4 protein
+chromosome,NZ_CP070228.1,95691,96827,+,,,JTE88_RS00355,WP_204424597.1,378,cell wall-binding protein
+chromosome,NZ_CP070228.1,96924,97511,+,,,JTE88_RS00360,WP_204424598.1,195,hypothetical protein
+chromosome,NZ_CP070228.1,97558,99129,-,,,JTE88_RS00365,WP_204424599.1,523,NlpC/P60 family protein
+chromosome,NZ_CP070228.1,99185,100033,-,,rfbD,JTE88_RS00370,WP_204424600.1,282,dTDP-4-dehydrorhamnose reductase
+chromosome,NZ_CP070228.1,100160,100777,+,,,JTE88_RS00375,WP_204424601.1,205,"dTDP-4-dehydrorhamnose 3,5-epimerase family protein"
+chromosome,NZ_CP070228.1,100758,101726,-,,,JTE88_RS00380,WP_204424602.1,322,hypothetical protein
+chromosome,NZ_CP070228.1,101743,102618,-,,,JTE88_RS00385,WP_204424603.1,291,glycosyltransferase family 2 protein
+chromosome,NZ_CP070228.1,102620,103495,-,,rfbA,JTE88_RS00390,WP_204424604.1,291,glucose-1-phosphate thymidylyltransferase RfbA
+chromosome,NZ_CP070228.1,103698,104543,-,,,JTE88_RS00395,WP_204424605.1,281,hypothetical protein
+chromosome,NZ_CP070228.1,104767,105288,+,,,JTE88_RS00400,WP_204424606.1,173,peptidylprolyl isomerase
+chromosome,NZ_CP070228.1,105368,105949,+,,,JTE88_RS00405,WP_204424607.1,193,rhomboid family intramembrane serine protease
+chromosome,NZ_CP070228.1,106069,106338,-,,,JTE88_RS00410,WP_204424608.1,89,cell division protein CrgA
+chromosome,NZ_CP070228.1,106463,107401,+,,,JTE88_RS00415,WP_204424609.1,312,class E sortase
+chromosome,NZ_CP070228.1,107717,109621,-,,pknB,JTE88_RS00420,WP_204424610.1,634,Stk1 family PASTA domain-containing Ser/Thr kinase
+chromosome,NZ_CP070228.1,109705,111150,-,,,JTE88_RS00425,WP_204424611.1,481,penicillin-binding transpeptidase domain-containing protein
+chromosome,NZ_CP070228.1,111147,112667,-,,,JTE88_RS00430,WP_204424612.1,506,FtsW/RodA/SpoVE family cell cycle protein
+chromosome,NZ_CP070228.1,112664,113956,-,,,JTE88_RS00435,WP_204424613.1,430,serine/threonine-protein phosphatase
+chromosome,NZ_CP070228.1,113956,114414,-,,,JTE88_RS00440,WP_204424615.1,152,FHA domain-containing protein
+chromosome,NZ_CP070228.1,114411,115109,-,,,JTE88_RS00445,WP_204424616.1,232,FHA domain-containing protein
+chromosome,NZ_CP070228.1,115825,117402,+,,,JTE88_RS00455,WP_204424617.1,525,isopeptide-forming domain-containing fimbrial protein
+chromosome,NZ_CP070228.1,117490,118410,+,,,JTE88_RS00460,WP_204424618.1,306,class C sortase
+chromosome,NZ_CP070228.1,118448,119266,-,,,JTE88_RS00465,WP_204424619.1,272,TRIC cation channel family protein
+chromosome,NZ_CP070228.1,119305,120243,-,,,JTE88_RS00470,WP_204424620.1,312,macro domain-containing protein
+chromosome,NZ_CP070228.1,120314,120931,+,,,JTE88_RS00475,WP_204424621.1,205,ribonuclease HI
+chromosome,NZ_CP070228.1,120995,123172,+,,,JTE88_RS00480,WP_204424623.1,725,S9 family peptidase
+chromosome,NZ_CP070228.1,123248,124594,-,,mtnN,JTE88_RS00485,WP_204424624.1,448,5\\'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+chromosome,NZ_CP070228.1,124594,125052,-,,,JTE88_RS00490,WP_204424625.1,152,S-ribosylhomocysteine lyase
+chromosome,NZ_CP070228.1,125465,125716,+,,nrdH,JTE88_RS00495,WP_204424626.1,83,glutaredoxin-like protein NrdH
+chromosome,NZ_CP070228.1,125738,126139,+,,nrdI,JTE88_RS00500,WP_204424627.1,133,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI
+chromosome,NZ_CP070228.1,126121,128271,+,,nrdE,JTE88_RS00505,WP_204424628.1,716,class 1b ribonucleoside-diphosphate reductase subunit alpha
+chromosome,NZ_CP070228.1,128283,129437,-,,,JTE88_RS00510,WP_204424629.1,384,DUF418 domain-containing protein
+chromosome,NZ_CP070228.1,129525,130499,+,,nrdF,JTE88_RS00515,WP_204424630.1,324,class 1b ribonucleoside-diphosphate reductase subunit beta
+chromosome,NZ_CP070228.1,130602,131186,+,,,JTE88_RS00520,WP_204424632.1,194,low molecular weight phosphotyrosine protein phosphatase
+chromosome,NZ_CP070228.1,131229,131678,-,,,JTE88_RS00525,WP_204424634.1,149,SprT-like domain-containing protein
+chromosome,NZ_CP070228.1,131728,132669,+,,,JTE88_RS00530,WP_204424636.1,313,DUF952 domain-containing protein
+chromosome,NZ_CP070228.1,132721,133404,+,,,JTE88_RS00535,WP_204424638.1,227,hypothetical protein
+chromosome,NZ_CP070228.1,133428,134207,-,,,JTE88_RS00540,WP_204424639.1,259,amino acid ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,134223,135197,-,,,JTE88_RS00545,WP_204424641.1,324,amino acid ABC transporter permease
+chromosome,NZ_CP070228.1,135238,136152,-,,,JTE88_RS00550,WP_204424643.1,304,ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,136649,140878,-,,hrpA,JTE88_RS00555,WP_204424645.1,1409,ATP-dependent RNA helicase HrpA
+chromosome,NZ_CP070228.1,141055,142080,+,,,JTE88_RS00560,WP_204424646.1,341,endonuclease/exonuclease/phosphatase family protein
+chromosome,NZ_CP070228.1,142171,142353,+,,,JTE88_RS00565,WP_204424648.1,60,hypothetical protein
+chromosome,NZ_CP070228.1,142353,142910,+,,,JTE88_RS00570,WP_204424650.1,185,hypothetical protein
+chromosome,NZ_CP070228.1,142968,143333,+,,,JTE88_RS00575,WP_204424652.1,121,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,143330,143749,+,,,JTE88_RS00580,WP_204424653.1,139,hypothetical protein
+chromosome,NZ_CP070228.1,143708,144823,-,,,JTE88_RS00585,WP_204424655.1,371,DUF2183 domain-containing protein
+chromosome,NZ_CP070228.1,144900,146144,-,,,JTE88_RS00590,WP_204424657.1,414,MFS transporter
+chromosome,NZ_CP070228.1,146174,146929,-,,,JTE88_RS00595,WP_204424659.1,251,GntR family transcriptional regulator
+chromosome,NZ_CP070228.1,146939,148621,-,,pgm,JTE88_RS00600,WP_204424660.1,560,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)"
+chromosome,NZ_CP070228.1,148746,152345,-,,,JTE88_RS00605,WP_204424661.1,1199,SpaA isopeptide-forming pilin-related protein
+chromosome,NZ_CP070228.1,152752,154587,-,,,JTE88_RS00610,WP_204424662.1,611,SpaH/EbpB family LPXTG-anchored major pilin
+chromosome,NZ_CP070228.1,154788,157412,-,,,JTE88_RS00615,WP_204424663.1,874,YbhN family protein
+chromosome,NZ_CP070228.1,157422,159578,-,,cadA,JTE88_RS00620,WP_204424664.1,718,cation-translocating P-type ATPase
+chromosome,NZ_CP070228.1,159602,159832,-,,,JTE88_RS00625,WP_204424665.1,76,heavy-metal-associated domain-containing protein
+chromosome,NZ_CP070228.1,159918,161381,-,,,JTE88_RS00630,WP_204424666.1,487,hypothetical protein
+chromosome,NZ_CP070228.1,161469,162134,-,,,JTE88_RS00635,WP_204424667.1,221,DedA family protein
+chromosome,NZ_CP070228.1,162148,162552,-,,,JTE88_RS00640,WP_204424669.1,134,phage holin family protein
+chromosome,NZ_CP070228.1,162607,163401,-,,,JTE88_RS00645,WP_204424672.1,264,YwiC-like family protein
+chromosome,NZ_CP070228.1,163404,164291,-,,,JTE88_RS00650,WP_204424674.1,295,hypothetical protein
+chromosome,NZ_CP070228.1,164404,165159,+,,,JTE88_RS00655,WP_204424677.1,251,type I 3-dehydroquinate dehydratase
+chromosome,NZ_CP070228.1,165347,165850,-,,,JTE88_RS00660,WP_204424679.1,167,phosphoribosyltransferase
+chromosome,NZ_CP070228.1,166101,167039,+,,,JTE88_RS00665,WP_204424687.1,312,zinc ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,167036,167794,+,,,JTE88_RS00670,WP_239519525.1,252,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,167791,168738,+,,,JTE88_RS00675,WP_204424689.1,315,metal ABC transporter permease
+chromosome,NZ_CP070228.1,168735,169601,+,,,JTE88_RS00680,WP_204424691.1,288,metal ABC transporter permease
+chromosome,NZ_CP070228.1,169603,170277,-,,,JTE88_RS00685,WP_204424693.1,224,metal-dependent transcriptional regulator
+chromosome,NZ_CP070228.1,170372,170953,+,,dcd,JTE88_RS00690,WP_204424695.1,193,dCTP deaminase
+chromosome,NZ_CP070228.1,171007,173892,+,,,JTE88_RS00695,WP_204424697.1,961,Na+/H+ antiporter subunit A
+chromosome,NZ_CP070228.1,173889,174365,+,,,JTE88_RS00700,WP_204424700.1,158,Na(+)/H(+) antiporter subunit C
+chromosome,NZ_CP070228.1,174362,175912,+,,,JTE88_RS00705,WP_204424702.1,516,Na+/H+ antiporter subunit D
+chromosome,NZ_CP070228.1,175909,176520,+,,,JTE88_RS00710,WP_204424704.1,203,Na+/H+ antiporter subunit E
+chromosome,NZ_CP070228.1,176517,176777,+,,,JTE88_RS00715,WP_204424706.1,86,monovalent cation/H+ antiporter complex subunit F
+chromosome,NZ_CP070228.1,176777,177133,+,,mnhG,JTE88_RS00720,WP_239519526.1,118,monovalent cation/H(+) antiporter subunit G
+chromosome,NZ_CP070228.1,177187,177447,+,,,JTE88_RS00725,WP_204424708.1,86,DUF4235 domain-containing protein
+chromosome,NZ_CP070228.1,177769,178845,+,,,JTE88_RS00730,WP_204424710.1,358,thiamine ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,178878,180602,+,,,JTE88_RS00735,WP_204424712.1,574,iron ABC transporter permease
+chromosome,NZ_CP070228.1,180616,181278,+,,,JTE88_RS00740,WP_204424714.1,220,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,181275,182669,-,,,JTE88_RS00745,WP_204424715.1,464,family 20 glycosylhydrolase
+chromosome,NZ_CP070228.1,182669,183562,-,,,JTE88_RS00750,WP_204424716.1,297,carbohydrate ABC transporter permease
+chromosome,NZ_CP070228.1,183559,184548,-,,,JTE88_RS00755,WP_204424717.1,329,sugar ABC transporter permease
+chromosome,NZ_CP070228.1,184581,185873,-,,,JTE88_RS00760,WP_204424718.1,430,sugar ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,186288,187619,-,,,JTE88_RS00765,WP_204424719.1,443,DUF4921 family protein
+chromosome,NZ_CP070228.1,187697,189019,+,,,JTE88_RS00770,WP_204424720.1,440,MFS transporter
+chromosome,NZ_CP070228.1,189097,190098,+,,,JTE88_RS00775,WP_204424728.1,333,peptidoglycan bridge formation glycyltransferase FemA/FemB family protein
+chromosome,NZ_CP070228.1,190098,191276,+,,,JTE88_RS00780,WP_204424730.1,392,ATP-grasp domain-containing protein
+chromosome,NZ_CP070228.1,191291,191722,+,,,JTE88_RS00785,WP_204424732.1,143,cupin domain-containing protein
+chromosome,NZ_CP070228.1,191797,193890,-,,,JTE88_RS00790,WP_204424734.1,697,prolyl oligopeptidase family serine peptidase
+chromosome,NZ_CP070228.1,194108,195958,+,,dnaK,JTE88_RS00795,WP_204424735.1,616,molecular chaperone DnaK
+chromosome,NZ_CP070228.1,196034,196654,+,,grpE,JTE88_RS00800,WP_204424736.1,206,nucleotide exchange factor GrpE
+chromosome,NZ_CP070228.1,196734,197729,+,,,JTE88_RS00805,WP_204424737.1,331,DnaJ domain-containing protein
+chromosome,NZ_CP070228.1,198449,199006,+,,,JTE88_RS00815,WP_204424739.1,185,CoA pyrophosphatase
+chromosome,NZ_CP070228.1,198978,199406,-,,,JTE88_RS00820,WP_204424740.1,142,DUF3806 domain-containing protein
+chromosome,NZ_CP070228.1,199585,202866,+,,,JTE88_RS00825,WP_204424741.1,1093,ExeM/NucH family extracellular endonuclease
+chromosome,NZ_CP070228.1,202947,203381,-,,,JTE88_RS00830,WP_204424743.1,144,hypothetical protein
+chromosome,NZ_CP070228.1,203447,203962,-,,ybaK,JTE88_RS00835,WP_204424745.1,171,Cys-tRNA(Pro) deacylase
+chromosome,NZ_CP070228.1,203977,204489,+,,,JTE88_RS00840,WP_204424747.1,170,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,204486,205001,-,,,JTE88_RS00845,WP_204424749.1,171,tryptophan-rich sensory protein
+chromosome,NZ_CP070228.1,205062,206069,+,,gluQRS,JTE88_RS00850,WP_239519527.1,335,tRNA glutamyl-Q(34) synthetase GluQRS
+chromosome,NZ_CP070228.1,206078,206251,-,,,JTE88_RS00855,WP_204424752.1,57,Rv0909 family putative TA system antitoxin
+chromosome,NZ_CP070228.1,206498,209164,+,,clpB,JTE88_RS00860,WP_204424754.1,888,ATP-dependent chaperone ClpB
+chromosome,NZ_CP070228.1,209244,210713,+,,,JTE88_RS00865,WP_239519528.1,489,amino acid permease
+chromosome,NZ_CP070228.1,210790,211236,-,,,JTE88_RS00870,WP_204424756.1,148,IS3 family transposase
+chromosome,NZ_CP070228.1,211244,211630,-,,,JTE88_RS00875,WP_204424758.1,128,IS3 family transposase
+chromosome,NZ_CP070228.1,211705,211965,-,,,JTE88_RS00880,WP_204424760.1,86,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,212387,214306,+,,,JTE88_RS00885,WP_204424762.1,639,hypothetical protein
+chromosome,NZ_CP070228.1,214580,214840,+,,,JTE88_RS00890,WP_204424760.1,86,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,214915,215301,+,,,JTE88_RS00895,WP_204424758.1,128,IS3 family transposase
+chromosome,NZ_CP070228.1,215309,215755,+,,,JTE88_RS00900,WP_204424756.1,148,IS3 family transposase
+chromosome,NZ_CP070228.1,215850,216593,-,,,JTE88_RS00905,WP_204424764.1,247,hypothetical protein
+chromosome,NZ_CP070228.1,216590,218122,-,,,JTE88_RS00910,WP_204424766.1,510,hypothetical protein
+chromosome,NZ_CP070228.1,218340,219419,-,,,JTE88_RS00915,WP_204424768.1,359,inositol-3-phosphate synthase
+chromosome,NZ_CP070228.1,219776,220591,+,,,JTE88_RS00920,WP_204424770.1,271,serine hydrolase
+chromosome,NZ_CP070228.1,220584,221390,-,,,JTE88_RS00925,WP_204424772.1,268,exodeoxyribonuclease III
+chromosome,NZ_CP070228.1,221427,222194,+,,,JTE88_RS00930,WP_204424774.1,255,SDR family NAD(P)-dependent oxidoreductase
+chromosome,NZ_CP070228.1,222415,223221,+,,,JTE88_RS00935,WP_204424776.1,268,hypothetical protein
+chromosome,NZ_CP070228.1,223338,223736,+,,,JTE88_RS00940,WP_168917162.1,132,MULTISPECIES: (deoxy)nucleoside triphosphate pyrophosphohydrolase
+chromosome,NZ_CP070228.1,223777,225408,+,,,JTE88_RS00945,WP_168917163.1,543,MULTISPECIES: TIGR04141 family sporadically distributed protein
+chromosome,NZ_CP070228.1,225459,226163,+,,,JTE88_RS00950,WP_168917164.1,234,MULTISPECIES: Eco47II family restriction endonuclease
+chromosome,NZ_CP070228.1,226218,227480,+,,dcm,JTE88_RS00955,WP_168917165.1,420,MULTISPECIES: DNA (cytosine-5-)-methyltransferase
+chromosome,NZ_CP070228.1,227492,227995,+,,,JTE88_RS00960,WP_204424778.1,167,hypothetical protein
+chromosome,NZ_CP070228.1,228075,228704,+,,,JTE88_RS00965,WP_239519574.1,209,RNA methyltransferase
+chromosome,NZ_CP070228.1,228796,229590,-,,,JTE88_RS00970,WP_204424779.1,264,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein
+chromosome,NZ_CP070228.1,229924,230946,+,,fbaA,JTE88_RS00975,WP_204424781.1,340,class II fructose-bisphosphate aldolase
+chromosome,NZ_CP070228.1,231193,232848,+,,,JTE88_RS00980,WP_204424783.1,551,DUF4091 domain-containing protein
+chromosome,NZ_CP070228.1,232845,235865,+,,,JTE88_RS00985,WP_204424785.1,1006,hypothetical protein
+chromosome,NZ_CP070228.1,235923,237410,+,,,JTE88_RS00990,WP_204424786.1,495,cellulase family glycosylhydrolase
+chromosome,NZ_CP070228.1,237540,238862,+,,,JTE88_RS00995,WP_204424794.1,440,extracellular solute-binding protein
+chromosome,NZ_CP070228.1,238931,239881,+,,,JTE88_RS01000,WP_204424796.1,316,sugar ABC transporter permease
+chromosome,NZ_CP070228.1,239881,240792,+,,,JTE88_RS01005,WP_204424798.1,303,carbohydrate ABC transporter permease
+chromosome,NZ_CP070228.1,240859,241368,-,,,JTE88_RS01010,WP_204424800.1,169,hypothetical protein
+chromosome,NZ_CP070228.1,241352,242224,-,,,JTE88_RS01015,WP_204424801.1,290,hypothetical protein
+chromosome,NZ_CP070228.1,242347,243294,-,,,JTE88_RS01020,WP_204424803.1,315,hypothetical protein
+chromosome,NZ_CP070228.1,243697,245553,+,,,JTE88_RS01025,WP_204424804.1,618,phosphoenolpyruvate carboxykinase (GTP)
+chromosome,NZ_CP070228.1,245762,246655,+,,,JTE88_RS01030,WP_204424805.1,297,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+chromosome,NZ_CP070228.1,246786,248123,+,,gdhA,JTE88_RS01035,WP_204424806.1,445,NADP-specific glutamate dehydrogenase
+chromosome,NZ_CP070228.1,248511,249440,+,,,JTE88_RS01040,WP_239519529.1,309,class C sortase
+chromosome,NZ_CP070228.1,249500,250249,+,,,JTE88_RS01045,WP_204424807.1,249,hypothetical protein
+chromosome,NZ_CP070228.1,250267,253995,+,,,JTE88_RS01050,WP_204424808.1,1242,hypothetical protein
+chromosome,NZ_CP070228.1,254204,254560,+,,,JTE88_RS01055,WP_239519530.1,118,sterol carrier family protein
+chromosome,NZ_CP070228.1,254644,254877,-,,,JTE88_RS01060,WP_204424810.1,77,DUF3073 family protein
+chromosome,NZ_CP070228.1,255237,255431,+,,,JTE88_RS01065,WP_204424812.1,64,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,255549,255899,-,,,JTE88_RS01070,WP_204424814.1,116,DUF3618 domain-containing protein
+chromosome,NZ_CP070228.1,255896,256339,-,,,JTE88_RS01075,WP_204424815.1,147,phage holin family protein
+chromosome,NZ_CP070228.1,256461,258296,-,,,JTE88_RS01080,WP_204424817.1,611,virulence factor MviN
+chromosome,NZ_CP070228.1,258992,260563,+,,,JTE88_RS01105,WP_204424819.1,523,mechanosensitive ion channel family protein
+chromosome,NZ_CP070228.1,260569,261021,+,,msrB,JTE88_RS01110,WP_204424820.1,150,peptide-methionine (R)-S-oxide reductase MsrB
+chromosome,NZ_CP070228.1,261021,261815,+,,,JTE88_RS01115,WP_204424821.1,264,endonuclease/exonuclease/phosphatase family protein
+chromosome,NZ_CP070228.1,261837,261992,+,,,JTE88_RS01120,WP_204424822.1,51,hypothetical protein
+chromosome,NZ_CP070228.1,261965,262315,+,,,JTE88_RS01125,WP_204424823.1,116,EamA family transporter
+chromosome,NZ_CP070228.1,262688,263284,+,,,JTE88_RS01135,WP_204424824.1,198,hypothetical protein
+chromosome,NZ_CP070228.1,263377,266151,-,,,JTE88_RS01140,WP_204424826.1,924,GDSL-type esterase/lipase family protein
+chromosome,NZ_CP070228.1,266156,266644,-,,,JTE88_RS01145,WP_204424828.1,162,hypothetical protein
+chromosome,NZ_CP070228.1,266750,267760,-,,,JTE88_RS01150,WP_204424830.1,336,inorganic phosphate transporter family protein
+chromosome,NZ_CP070228.1,267760,268344,-,,,JTE88_RS01155,WP_239519575.1,194,DUF47 family protein
+chromosome,NZ_CP070228.1,268648,270078,+,,,JTE88_RS01160,WP_204424832.1,476,sodium:alanine symporter family protein
+chromosome,NZ_CP070228.1,271237,272037,+,,,JTE88_RS01165,WP_204424833.1,266,hypothetical protein
+chromosome,NZ_CP070228.1,272071,272685,+,,,JTE88_RS01170,WP_204424834.1,204,heme-binding beta-barrel domain-containing protein
+chromosome,NZ_CP070228.1,272682,273818,+,,,JTE88_RS01175,WP_204424835.1,378,folate-binding protein
+chromosome,NZ_CP070228.1,273818,274279,+,,dtd,JTE88_RS01180,WP_204424836.1,153,D-aminoacyl-tRNA deacylase
+chromosome,NZ_CP070228.1,274369,276945,+,,,JTE88_RS01185,WP_204424838.1,858,ATP-dependent Clp protease ATP-binding subunit
+chromosome,NZ_CP070228.1,278832,280172,-,,,JTE88_RS01195,WP_204424840.1,446,TRAP transporter large permease subunit
+chromosome,NZ_CP070228.1,280383,283121,+,,ppdK,JTE88_RS01200,WP_204424841.1,912,"pyruvate, phosphate dikinase"
+chromosome,NZ_CP070228.1,283313,285199,+,,,JTE88_RS01205,WP_204424842.1,628,acetyltransferase
+chromosome,NZ_CP070228.1,285306,286751,+,,,JTE88_RS01210,WP_204424843.1,481,hypothetical protein
+chromosome,NZ_CP070228.1,286793,287818,-,,,JTE88_RS01215,WP_204424845.1,341,alpha/beta hydrolase
+chromosome,NZ_CP070228.1,287987,289303,+,,,JTE88_RS01220,WP_204424847.1,438,MFS transporter
+chromosome,NZ_CP070228.1,289805,291358,+,,,JTE88_RS01225,WP_204424848.1,517,NlpC/P60 family protein
+chromosome,NZ_CP070228.1,291456,291959,-,,,JTE88_RS01230,WP_204424849.1,167,inorganic diphosphatase
+chromosome,NZ_CP070228.1,292043,293413,+,,dacB,JTE88_RS01235,WP_204424851.1,456,D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+chromosome,NZ_CP070228.1,293413,294309,+,,,JTE88_RS01240,WP_204424853.1,298,zinc-dependent metalloprotease
+chromosome,NZ_CP070228.1,294310,295410,+,,tilS,JTE88_RS01245,WP_204424855.1,366,tRNA lysidine(34) synthetase TilS
+chromosome,NZ_CP070228.1,295407,297653,+,,ftsH,JTE88_RS01250,WP_239519531.1,748,ATP-dependent zinc metalloprotease FtsH
+chromosome,NZ_CP070228.1,297646,298239,+,,folE,JTE88_RS01255,WP_204424857.1,197,GTP cyclohydrolase I FolE
+chromosome,NZ_CP070228.1,298249,299061,+,,folP,JTE88_RS01260,WP_204424858.1,270,dihydropteroate synthase
+chromosome,NZ_CP070228.1,299076,299951,+,,folK,JTE88_RS01265,WP_204424860.1,291,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+chromosome,NZ_CP070228.1,299941,300429,+,,,JTE88_RS01270,WP_204424862.1,162,DUF3180 family protein
+chromosome,NZ_CP070228.1,300475,300978,+,,,JTE88_RS01275,WP_204424864.1,167,PH domain-containing protein
+chromosome,NZ_CP070228.1,300982,302493,+,,,JTE88_RS01280,WP_204424866.1,503,PH domain-containing protein
+chromosome,NZ_CP070228.1,302483,303364,+,,,JTE88_RS01285,WP_204424868.1,293,DUF2520 domain-containing protein
+chromosome,NZ_CP070228.1,303419,304246,+,,panC,JTE88_RS01290,WP_204424870.1,275,pantoate--beta-alanine ligase
+chromosome,NZ_CP070228.1,304263,304679,+,,,JTE88_RS01295,WP_204425678.1,138,aspartate 1-decarboxylase
+chromosome,NZ_CP070228.1,304749,306332,+,,lysS,JTE88_RS01300,WP_204424872.1,527,lysine--tRNA ligase
+chromosome,NZ_CP070228.1,306441,310322,-,,,JTE88_RS01305,WP_204424874.1,1293,exo-alpha-sialidase
+chromosome,NZ_CP070228.1,310561,312093,-,,glpK,JTE88_RS01310,WP_204424876.1,510,glycerol kinase GlpK
+chromosome,NZ_CP070228.1,312160,312906,-,,,JTE88_RS01315,WP_204424878.1,248,aquaporin family protein
+chromosome,NZ_CP070228.1,313089,313748,-,,,JTE88_RS01320,WP_204424879.1,219,ATP-binding protein
+chromosome,NZ_CP070228.1,313856,315118,-,,,JTE88_RS01325,WP_204424881.1,420,anaerobic glycerol-3-phosphate dehydrogenase subunit C
+chromosome,NZ_CP070228.1,315115,316314,-,,glpB,JTE88_RS01330,WP_204424883.1,399,glycerol-3-phosphate dehydrogenase subunit GlpB
+chromosome,NZ_CP070228.1,316314,318029,-,,glpA,JTE88_RS01335,WP_204424885.1,571,anaerobic glycerol-3-phosphate dehydrogenase subunit GlpA
+chromosome,NZ_CP070228.1,318206,319156,+,,,JTE88_RS01340,WP_204424887.1,316,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,319177,320064,-,,,JTE88_RS01345,WP_239519532.1,295,A/G-specific adenine glycosylase
+chromosome,NZ_CP070228.1,320061,320606,-,,,JTE88_RS01350,WP_204424889.1,181,TetR family transcriptional regulator
+chromosome,NZ_CP070228.1,320593,322074,-,,,JTE88_RS01355,WP_204424891.1,493,MFS transporter
+chromosome,NZ_CP070228.1,322341,323270,+,,,JTE88_RS01360,WP_204424893.1,309,hypothetical protein
+chromosome,NZ_CP070228.1,323311,324684,-,,radA,JTE88_RS01365,WP_204424895.1,457,DNA repair protein RadA
+chromosome,NZ_CP070228.1,324736,325404,-,,,JTE88_RS01370,WP_204424897.1,222,TrkA family potassium uptake protein
+chromosome,NZ_CP070228.1,325442,326887,-,,,JTE88_RS01375,WP_204424899.1,481,TrkH family potassium uptake protein
+chromosome,NZ_CP070228.1,327240,327455,+,,,JTE88_RS01380,WP_204424900.1,71,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,327542,327640,+,,,JTE88_RS01385,WP_005504750.1,32,MULTISPECIES: AURKAIP1/COX24 domain-containing protein
+chromosome,NZ_CP070228.1,327800,328276,+,,,JTE88_RS01390,WP_204424901.1,158,MarR family transcriptional regulator
+chromosome,NZ_CP070228.1,328313,328975,+,,,JTE88_RS01395,WP_204424902.1,220,phosphoglycerate mutase family protein
+chromosome,NZ_CP070228.1,329041,329472,-,,,JTE88_RS01400,WP_204424903.1,143,PLDc N-terminal domain-containing protein
+chromosome,NZ_CP070228.1,329520,330398,-,,,JTE88_RS01405,WP_204424904.1,292,"1,4-dihydroxy-2-naphthoate polyprenyltransferase"
+chromosome,NZ_CP070228.1,330385,331650,-,,,JTE88_RS01410,WP_204424905.1,421,AMP-binding protein
+chromosome,NZ_CP070228.1,331667,332650,-,,,JTE88_RS01415,WP_204425680.1,327,"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+chromosome,NZ_CP070228.1,332780,333760,+,,,JTE88_RS01420,WP_204424907.1,326,o-succinylbenzoate synthase
+chromosome,NZ_CP070228.1,333771,335405,+,,menD,JTE88_RS01425,WP_204424908.1,544,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+chromosome,NZ_CP070228.1,335487,336998,+,,,JTE88_RS01430,WP_239519533.1,503,trypsin-like peptidase domain-containing protein
+chromosome,NZ_CP070228.1,337143,338447,-,,,JTE88_RS01435,WP_204424909.1,434,chorismate-binding protein
+chromosome,NZ_CP070228.1,338486,339226,+,,,JTE88_RS01440,WP_204424910.1,246,class I SAM-dependent methyltransferase
+chromosome,NZ_CP070228.1,339399,340685,+,,,JTE88_RS01445,WP_204424911.1,428,geranylgeranyl reductase family protein
+chromosome,NZ_CP070228.1,340777,341136,+,,,JTE88_RS01450,WP_204424912.1,119,MULTISPECIES: NADH-quinone oxidoreductase subunit A
+chromosome,NZ_CP070228.1,341142,341699,+,,,JTE88_RS01455,WP_204424913.1,185,NADH-quinone oxidoreductase subunit B
+chromosome,NZ_CP070228.1,341696,342394,+,,,JTE88_RS01460,WP_204424915.1,232,NADH-quinone oxidoreductase subunit C
+chromosome,NZ_CP070228.1,342406,343743,+,,,JTE88_RS01465,WP_239519576.1,445,NADH-quinone oxidoreductase subunit D
+chromosome,NZ_CP070228.1,343743,344423,+,,nuoE,JTE88_RS01470,WP_204424917.1,226,NADH-quinone oxidoreductase subunit NuoE
+chromosome,NZ_CP070228.1,344420,345760,+,,nuoF,JTE88_RS01475,WP_204424918.1,446,NADH-quinone oxidoreductase subunit NuoF
+chromosome,NZ_CP070228.1,345757,348351,+,,,JTE88_RS01480,WP_204424919.1,864,NADH-quinone oxidoreductase subunit G
+chromosome,NZ_CP070228.1,348357,349676,+,,nuoH,JTE88_RS01485,WP_239519577.1,439,NADH-quinone oxidoreductase subunit NuoH
+chromosome,NZ_CP070228.1,349680,350363,+,,nuoI,JTE88_RS01490,WP_204424921.1,227,NADH-quinone oxidoreductase subunit NuoI
+chromosome,NZ_CP070228.1,350363,351370,+,,,JTE88_RS01495,WP_204424922.1,335,NADH-quinone oxidoreductase subunit J
+chromosome,NZ_CP070228.1,351370,351669,+,,nuoK,JTE88_RS01500,WP_204424924.1,99,NADH-quinone oxidoreductase subunit NuoK
+chromosome,NZ_CP070228.1,351745,353616,+,,nuoL,JTE88_RS01505,WP_204425682.1,623,NADH-quinone oxidoreductase subunit L
+chromosome,NZ_CP070228.1,353636,355168,+,,,JTE88_RS01510,WP_204424926.1,510,NADH-quinone oxidoreductase subunit M
+chromosome,NZ_CP070228.1,355165,356763,+,,nuoN,JTE88_RS01515,WP_204424928.1,532,NADH-quinone oxidoreductase subunit NuoN
+chromosome,NZ_CP070228.1,356763,357779,+,,,JTE88_RS01520,WP_239519534.1,338,polyprenyl synthetase family protein
+chromosome,NZ_CP070228.1,357897,360704,+,,secA,JTE88_RS01525,WP_204424929.1,935,preprotein translocase subunit SecA
+chromosome,NZ_CP070228.1,360827,361393,-,,,JTE88_RS01530,WP_204424930.1,188,Rv3235 family protein
+chromosome,NZ_CP070228.1,361399,362034,-,,,JTE88_RS01535,WP_204424931.1,211,LysM peptidoglycan-binding domain-containing protein
+chromosome,NZ_CP070228.1,362176,362730,+,,,JTE88_RS01540,WP_204424932.1,184,hypothetical protein
+chromosome,NZ_CP070228.1,362886,363098,-,,,JTE88_RS01545,WP_204424933.1,70,excisionase family DNA-binding protein
+chromosome,NZ_CP070228.1,363223,363813,+,,,JTE88_RS01550,WP_204424934.1,196,SAF domain-containing protein
+chromosome,NZ_CP070228.1,363810,365033,+,,,JTE88_RS01555,WP_204424936.1,407,hypothetical protein
+chromosome,NZ_CP070228.1,365012,365461,+,,,JTE88_RS01560,WP_204424937.1,149,hypothetical protein
+chromosome,NZ_CP070228.1,365468,368533,-,,,JTE88_RS01565,WP_204424938.1,1021,SMC family ATPase
+chromosome,NZ_CP070228.1,368535,369728,-,,,JTE88_RS01570,WP_204424939.1,397,exonuclease SbcCD subunit D C-terminal domain-containing protein
+chromosome,NZ_CP070228.1,369895,371334,+,,,JTE88_RS01575,WP_204424940.1,479,hypothetical protein
+chromosome,NZ_CP070228.1,371517,372776,+,,,JTE88_RS01580,WP_204424941.1,419,SIR2 family protein
+chromosome,NZ_CP070228.1,372861,373934,-,,rsgA,JTE88_RS01585,WP_204424942.1,357,ribosome small subunit-dependent GTPase A
+chromosome,NZ_CP070228.1,373931,375301,-,,aroA,JTE88_RS01590,WP_204424943.1,456,3-phosphoshikimate 1-carboxyvinyltransferase
+chromosome,NZ_CP070228.1,375322,375837,-,,,JTE88_RS01595,WP_204424945.1,171,DoxX family protein
+chromosome,NZ_CP070228.1,375907,376665,-,,,JTE88_RS01600,WP_204424947.1,252,GntR family transcriptional regulator
+chromosome,NZ_CP070228.1,376791,377711,+,,,JTE88_RS01605,WP_204424948.1,306,ROK family protein
+chromosome,NZ_CP070228.1,377711,378382,+,,,JTE88_RS01610,WP_204424949.1,223,N-acetylmannosamine-6-phosphate 2-epimerase
+chromosome,NZ_CP070228.1,378440,379216,+,,,JTE88_RS01615,WP_204424950.1,258,glucosamine-6-phosphate deaminase
+chromosome,NZ_CP070228.1,379213,380373,+,,,JTE88_RS01620,WP_204424951.1,386,amidohydrolase family protein
+chromosome,NZ_CP070228.1,380486,381094,+,,,JTE88_RS01625,WP_204424952.1,202,sigma-70 family RNA polymerase sigma factor
+chromosome,NZ_CP070228.1,381091,381372,+,,,JTE88_RS01630,WP_204424953.1,93,mycothiol system anti-sigma-R factor
+chromosome,NZ_CP070228.1,381674,382030,-,,,JTE88_RS01635,WP_204424955.1,118,hypothetical protein
+chromosome,NZ_CP070228.1,382023,382754,-,,,JTE88_RS01640,WP_204424957.1,243,DUF2599 domain-containing protein
+chromosome,NZ_CP070228.1,383660,384241,+,,,JTE88_RS01645,WP_204424959.1,193,hypothetical protein
+chromosome,NZ_CP070228.1,384177,384392,-,,,JTE88_RS09015,WP_091278637.1,71,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,384397,385362,-,,,JTE88_RS01650,WP_204424961.1,321,SPFH domain-containing protein
+chromosome,NZ_CP070228.1,385516,386763,-,,,JTE88_RS01655,WP_204424962.1,415,DUF5692 family protein
+chromosome,NZ_CP070228.1,386936,387976,+,,,JTE88_RS01660,WP_204424963.1,346,hypothetical protein
+chromosome,NZ_CP070228.1,388208,389272,-,,,JTE88_RS01665,WP_204424964.1,354,DUF5692 family protein
+chromosome,NZ_CP070228.1,389634,392897,+,,,JTE88_RS01670,WP_204424965.1,1087,HtaA domain-containing protein
+chromosome,NZ_CP070228.1,393026,394096,+,,,JTE88_RS01675,WP_204424966.1,356,ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,394101,395150,+,,,JTE88_RS01680,WP_204424967.1,349,iron ABC transporter permease
+chromosome,NZ_CP070228.1,395152,395934,+,,,JTE88_RS01685,WP_204424968.1,260,heme ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,395951,396568,-,,,JTE88_RS01690,WP_239519535.1,205,GDSL-type esterase/lipase family protein
+chromosome,NZ_CP070228.1,396696,400421,-,,,JTE88_RS01695,WP_204424969.1,1241,multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit
+chromosome,NZ_CP070228.1,400608,401930,+,,,JTE88_RS01700,WP_239519536.1,440,CNNM domain-containing protein
+chromosome,NZ_CP070228.1,401927,402958,+,,,JTE88_RS01705,WP_204424971.1,343,hemolysin family protein
+chromosome,NZ_CP070228.1,403055,404119,+,,,JTE88_RS01710,WP_204424973.1,354,M23 family metallopeptidase
+chromosome,NZ_CP070228.1,404125,404892,+,,,JTE88_RS01715,WP_204424975.1,255,glycerophosphodiester phosphodiesterase family protein
+chromosome,NZ_CP070228.1,405119,406792,+,,argS,JTE88_RS01725,WP_204424977.1,557,arginine--tRNA ligase
+chromosome,NZ_CP070228.1,406806,407654,+,,,JTE88_RS01730,WP_204424979.1,282,hypothetical protein
+chromosome,NZ_CP070228.1,407903,409600,+,,rho,JTE88_RS01735,WP_204425690.1,565,transcription termination factor Rho
+chromosome,NZ_CP070228.1,409802,410014,+,,rpmE,JTE88_RS01740,WP_204424981.1,70,50S ribosomal protein L31
+chromosome,NZ_CP070228.1,410133,411248,+,,prfA,JTE88_RS01745,WP_204424982.1,371,peptide chain release factor 1
+chromosome,NZ_CP070228.1,411258,412097,+,,prmC,JTE88_RS01750,WP_204424983.1,279,peptide chain release factor N(5)-glutamine methyltransferase
+chromosome,NZ_CP070228.1,412097,412735,+,,,JTE88_RS01755,WP_204425692.1,212,L-threonylcarbamoyladenylate synthase
+chromosome,NZ_CP070228.1,412732,413895,+,,,JTE88_RS01760,WP_204424984.1,387,undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+chromosome,NZ_CP070228.1,413876,414307,+,,,JTE88_RS01765,WP_204424985.1,143,hypothetical protein
+chromosome,NZ_CP070228.1,414449,415279,+,,atpB,JTE88_RS01770,WP_239519537.1,276,F0F1 ATP synthase subunit A
+chromosome,NZ_CP070228.1,415307,415516,+,,atpE,JTE88_RS01775,WP_091278578.1,69,MULTISPECIES: ATP synthase F0 subunit C
+chromosome,NZ_CP070228.1,415522,416073,+,,atpF,JTE88_RS01780,WP_204424986.1,183,F0F1 ATP synthase subunit B
+chromosome,NZ_CP070228.1,416073,416888,+,,,JTE88_RS01785,WP_204424987.1,271,F0F1 ATP synthase subunit delta
+chromosome,NZ_CP070228.1,416932,418557,+,,atpA,JTE88_RS01790,WP_204424989.1,541,F0F1 ATP synthase subunit alpha
+chromosome,NZ_CP070228.1,418560,419459,+,,,JTE88_RS01795,WP_204424991.1,299,F0F1 ATP synthase subunit gamma
+chromosome,NZ_CP070228.1,419498,420958,+,,atpD,JTE88_RS01800,WP_204424993.1,486,F0F1 ATP synthase subunit beta
+chromosome,NZ_CP070228.1,420928,421206,+,,atpC,JTE88_RS01805,WP_204424995.1,92,ATP synthase F1 subunit epsilon
+chromosome,NZ_CP070228.1,421210,421617,+,,,JTE88_RS01810,WP_204424997.1,135,DUF2550 family protein
+chromosome,NZ_CP070228.1,421765,422460,+,,nucS,JTE88_RS01815,WP_204424999.1,231,endonuclease NucS
+chromosome,NZ_CP070228.1,422460,422747,+,,,JTE88_RS01820,WP_204425001.1,95,ATP/GTP-binding protein
+chromosome,NZ_CP070228.1,422787,423566,+,,,JTE88_RS01825,WP_204425003.1,259,alpha/beta hydrolase
+chromosome,NZ_CP070228.1,423563,424726,-,,,JTE88_RS01830,WP_204425005.1,387,DivIVA domain-containing protein
+chromosome,NZ_CP070228.1,424871,425959,+,,,JTE88_RS01835,WP_204425007.1,362,hypothetical protein
+chromosome,NZ_CP070228.1,425991,426998,+,,,JTE88_RS01840,WP_204425008.1,335,hypothetical protein
+chromosome,NZ_CP070228.1,427003,427938,+,,,JTE88_RS01845,WP_204425010.1,311,tetratricopeptide repeat protein
+chromosome,NZ_CP070228.1,427935,428945,-,,,JTE88_RS01850,WP_204425012.1,336,LacI family transcriptional regulator
+chromosome,NZ_CP070228.1,429270,430505,+,,,JTE88_RS01855,WP_204425014.1,411,extracellular solute-binding protein
+chromosome,NZ_CP070228.1,430573,432189,+,,,JTE88_RS01860,WP_204425016.1,538,ABC transporter permease subunit
+chromosome,NZ_CP070228.1,432192,433085,+,,,JTE88_RS01865,WP_204425018.1,297,sugar ABC transporter permease
+chromosome,NZ_CP070228.1,433186,435531,+,,,JTE88_RS01870,WP_204425020.1,781,alpha-xylosidase
+chromosome,NZ_CP070228.1,435635,437818,-,,glgB,JTE88_RS01875,WP_204425022.1,727,"1,4-alpha-glucan branching protein GlgB"
+chromosome,NZ_CP070228.1,437873,439261,-,,,JTE88_RS01880,WP_204425023.1,462,hypothetical protein
+chromosome,NZ_CP070228.1,439248,440927,-,,treS,JTE88_RS01885,WP_204425696.1,559,maltose alpha-D-glucosyltransferase
+chromosome,NZ_CP070228.1,440945,443026,-,,,JTE88_RS01890,WP_204425024.1,693,DUF3416 domain-containing protein
+chromosome,NZ_CP070228.1,443066,443605,-,,,JTE88_RS01895,WP_204425025.1,179,methylated-DNA-
+chromosome,NZ_CP070228.1,443739,446072,-,,,JTE88_RS01900,WP_239519578.1,777,glycogen/starch/alpha-glucan family phosphorylase
+chromosome,NZ_CP070228.1,446279,447385,-,,trpS,JTE88_RS01905,WP_168917335.1,368,MULTISPECIES: tryptophan--tRNA ligase
+chromosome,NZ_CP070228.1,447547,448200,-,,,JTE88_RS01910,WP_204425028.1,217,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,448280,449650,-,,,JTE88_RS01915,WP_168917337.1,456,MULTISPECIES: ABC transporter permease
+chromosome,NZ_CP070228.1,450450,451400,-,,,JTE88_RS01920,WP_168917338.1,316,MULTISPECIES: radical SAM protein
+chromosome,NZ_CP070228.1,452949,453158,+,,,JTE88_RS01930,WP_204425029.1,69,hypothetical protein
+chromosome,NZ_CP070228.1,453306,455012,+,,,JTE88_RS01935,WP_204425031.1,568,alpha/beta fold hydrolase
+chromosome,NZ_CP070228.1,455838,456014,+,,,JTE88_RS01940,WP_204425032.1,58,IS3 family transposase
+chromosome,NZ_CP070228.1,456341,456592,+,,,JTE88_RS01945,WP_204424104.1,83,integrase core domain-containing protein
+chromosome,NZ_CP070228.1,456589,456963,-,,,JTE88_RS01950,WP_204425033.1,124,IS3 family transposase
+chromosome,NZ_CP070228.1,458281,458547,+,,,JTE88_RS01960,WP_204425034.1,88,hypothetical protein
+chromosome,NZ_CP070228.1,459977,460378,+,,,JTE88_RS01970,WP_204425035.1,133,hypothetical protein
+chromosome,NZ_CP070228.1,460419,465614,+,,,JTE88_RS01975,WP_204425036.1,1731,DUF5724 domain-containing protein
+chromosome,NZ_CP070228.1,465990,466202,-,,,JTE88_RS01980,WP_204425037.1,70,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,466245,467453,-,,,JTE88_RS01985,WP_204425039.1,402,MFS transporter
+chromosome,NZ_CP070228.1,468051,469037,+,,,JTE88_RS01990,WP_239519579.1,328,winged helix DNA-binding domain-containing protein
+chromosome,NZ_CP070228.1,469824,470954,+,,,JTE88_RS01995,WP_204425043.1,376,MFS transporter
+chromosome,NZ_CP070228.1,471170,471379,+,,,JTE88_RS02000,WP_204425045.1,69,hypothetical protein
+chromosome,NZ_CP070228.1,471520,472764,+,,,JTE88_RS02005,WP_204425047.1,414,MFS transporter
+chromosome,NZ_CP070228.1,473426,475609,-,,glgX,JTE88_RS02010,WP_239519538.1,727,glycogen debranching protein GlgX
+chromosome,NZ_CP070228.1,475669,476604,+,,nudC,JTE88_RS02015,WP_204425048.1,311,NAD(+) diphosphatase
+chromosome,NZ_CP070228.1,476700,478688,+,,,JTE88_RS02020,WP_204425049.1,662,UvrD-helicase domain-containing protein
+chromosome,NZ_CP070228.1,478699,479685,-,,,JTE88_RS02025,WP_204425050.1,328,hypothetical protein
+chromosome,NZ_CP070228.1,479765,481123,-,,,JTE88_RS02030,WP_204425051.1,452,zinc-dependent metalloprotease
+chromosome,NZ_CP070228.1,481249,482379,+,,,JTE88_RS02035,WP_204425052.1,376,pdz/dhr/glgf protein
+chromosome,NZ_CP070228.1,482427,482975,-,,,JTE88_RS02040,WP_204425053.1,182,PPA1309 family protein
+chromosome,NZ_CP070228.1,483115,486162,+,,,JTE88_RS02045,WP_204425055.1,1015,UPF0182 family protein
+chromosome,NZ_CP070228.1,486241,486996,-,,,JTE88_RS02050,WP_204425056.1,251,hypothetical protein
+chromosome,NZ_CP070228.1,486993,487748,-,,,JTE88_RS02055,WP_204425057.1,251,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,487745,488131,-,,,JTE88_RS02060,WP_239519539.1,128,GntR family transcriptional regulator
+chromosome,NZ_CP070228.1,490256,490660,+,,,JTE88_RS02080,WP_204425059.1,134,winged helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,490660,492297,+,,,JTE88_RS02085,WP_204425060.1,545,cation-translocating P-type ATPase
+chromosome,NZ_CP070228.1,492278,492565,+,,,JTE88_RS02090,WP_204425061.1,95,hypothetical protein
+chromosome,NZ_CP070228.1,492688,493128,+,,,JTE88_RS02095,WP_204425062.1,146,DNA lyase
+chromosome,NZ_CP070228.1,493200,493730,+,,,JTE88_RS02100,WP_204425064.1,176,PadR family transcriptional regulator
+chromosome,NZ_CP070228.1,493718,494383,+,,,JTE88_RS02105,WP_204425066.1,221,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,494387,496585,+,,,JTE88_RS02110,WP_204425068.1,732,FtsX-like permease family protein
+chromosome,NZ_CP070228.1,496591,497262,-,,,JTE88_RS02115,WP_204425069.1,223,FMN-binding negative transcriptional regulator
+chromosome,NZ_CP070228.1,497301,497837,-,,,JTE88_RS02120,WP_204425070.1,178,dihydrofolate reductase
+chromosome,NZ_CP070228.1,497861,498661,-,,,JTE88_RS02125,WP_204425071.1,266,thymidylate synthase
+chromosome,NZ_CP070228.1,498661,499155,-,,,JTE88_RS02130,WP_204425072.1,164,DUF2505 family protein
+chromosome,NZ_CP070228.1,499193,500620,+,,,JTE88_RS02135,WP_204425073.1,475,PAS domain-containing sensor histidine kinase
+chromosome,NZ_CP070228.1,500657,500905,-,,,JTE88_RS02140,WP_204425074.1,82,WhiB family transcriptional regulator
+chromosome,NZ_CP070228.1,501024,503555,-,,,JTE88_RS02145,WP_204425076.1,843,hypothetical protein
+chromosome,NZ_CP070228.1,503557,504282,-,,,JTE88_RS02150,WP_204425078.1,241,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,504279,504971,-,,,JTE88_RS02155,WP_204425080.1,230,response regulator transcription factor
+chromosome,NZ_CP070228.1,504964,506157,-,,,JTE88_RS02160,WP_204425082.1,397,sensor histidine kinase
+chromosome,NZ_CP070228.1,506196,508718,+,,,JTE88_RS02165,WP_239519540.1,840,DNA ligase (NAD(+)) LigA
+chromosome,NZ_CP070228.1,508724,509983,-,,,JTE88_RS02170,WP_204425083.1,419,phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase family protein
+chromosome,NZ_CP070228.1,510041,510337,+,,gatC,JTE88_RS02175,WP_204425084.1,98,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+chromosome,NZ_CP070228.1,510340,511842,+,,gatA,JTE88_RS02180,WP_204425085.1,500,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA
+chromosome,NZ_CP070228.1,511847,513340,+,,gatB,JTE88_RS02185,WP_204425086.1,497,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+chromosome,NZ_CP070228.1,513417,514817,+,,,JTE88_RS02190,WP_204425087.1,466,NAD-dependent malic enzyme
+chromosome,NZ_CP070228.1,520851,521606,+,,,JTE88_RS02210,WP_204425088.1,251,class I SAM-dependent methyltransferase
+chromosome,NZ_CP070228.1,521727,523055,+,,,JTE88_RS02215,WP_204425090.1,442,threonine/serine exporter family protein
+chromosome,NZ_CP070228.1,523219,524820,-,,,JTE88_RS02220,WP_204425092.1,533,transporter
+chromosome,NZ_CP070228.1,525026,526459,+,,aspA,JTE88_RS02225,WP_204425094.1,477,aspartate ammonia-lyase
+chromosome,NZ_CP070228.1,526536,527690,+,,,JTE88_RS02230,WP_239519541.1,384,branched-chain amino acid aminotransferase
+chromosome,NZ_CP070228.1,530360,531286,+,,,JTE88_RS02245,WP_204425097.1,308,pyruvate formate-lyase-activating protein
+chromosome,NZ_CP070228.1,531382,531834,-,,,JTE88_RS02250,WP_204425098.1,150,hypothetical protein
+chromosome,NZ_CP070228.1,531952,532749,-,,,JTE88_RS02255,WP_204425099.1,265,MerR family transcriptional regulator
+chromosome,NZ_CP070228.1,532801,533532,-,,,JTE88_RS02260,WP_204425101.1,243,YggS family pyridoxal phosphate-dependent enzyme
+chromosome,NZ_CP070228.1,533564,536236,-,,,JTE88_RS02265,WP_204425103.1,890,DUF3516 domain-containing protein
+chromosome,NZ_CP070228.1,536431,537453,+,,,JTE88_RS02270,WP_204425105.1,340,efflux RND transporter periplasmic adaptor subunit
+chromosome,NZ_CP070228.1,537463,538197,+,,,JTE88_RS02275,WP_204425107.1,244,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,538197,539513,+,,,JTE88_RS02280,WP_204425109.1,438,ABC transporter permease
+chromosome,NZ_CP070228.1,539900,540520,-,,,JTE88_RS02295,WP_204425111.1,206,hypothetical protein
+chromosome,NZ_CP070228.1,540726,541655,+,,,JTE88_RS02300,WP_204425113.1,309,glutathione synthetase
+chromosome,NZ_CP070228.1,542002,542655,-,,orn,JTE88_RS02310,WP_204425115.1,217,oligoribonuclease
+chromosome,NZ_CP070228.1,542974,544512,+,,,JTE88_RS02320,WP_204425117.1,512,GTPase domain-containing protein
+chromosome,NZ_CP070228.1,544555,546021,+,,,JTE88_RS02325,WP_204425125.1,488,GTP-binding protein
+chromosome,NZ_CP070228.1,546183,546716,+,,,JTE88_RS02330,WP_204425127.1,177,single-stranded DNA-binding protein
+chromosome,NZ_CP070228.1,546808,548490,+,,ettA,JTE88_RS02335,WP_204425129.1,560,energy-dependent translational throttle protein EttA
+chromosome,NZ_CP070228.1,548718,549650,-,,,JTE88_RS02340,WP_239519542.1,310,thioesterase family protein
+chromosome,NZ_CP070228.1,549829,551976,+,,malQ,JTE88_RS02345,WP_204425131.1,715,4-alpha-glucanotransferase
+chromosome,NZ_CP070228.1,552076,552306,+,,,JTE88_RS02350,WP_204425133.1,76,PTS transporter subunit EIIB
+chromosome,NZ_CP070228.1,552359,553555,-,,,JTE88_RS02355,WP_204425135.1,398,cation:dicarboxylase symporter family transporter
+chromosome,NZ_CP070228.1,553699,554754,+,,,JTE88_RS02360,WP_204425137.1,351,LLM class flavin-dependent oxidoreductase
+chromosome,NZ_CP070228.1,554840,555616,-,,,JTE88_RS02365,WP_204425139.1,258,formate/nitrite transporter family protein
+chromosome,NZ_CP070228.1,555711,558257,-,,pepN,JTE88_RS02370,WP_204425141.1,848,aminopeptidase N
+chromosome,NZ_CP070228.1,558542,558997,+,,,JTE88_RS02375,WP_204425143.1,151,hypothetical protein
+chromosome,NZ_CP070228.1,559092,559784,-,,,JTE88_RS02380,WP_204425145.1,230,hypothetical protein
+chromosome,NZ_CP070228.1,559787,561787,-,,,JTE88_RS02385,WP_204425147.1,666,peptidase M13
+chromosome,NZ_CP070228.1,561845,562288,+,,,JTE88_RS02390,WP_204425149.1,147,ribose-5-phosphate isomerase
+chromosome,NZ_CP070228.1,562404,562985,-,,cysE,JTE88_RS02395,WP_204425151.1,193,serine O-acetyltransferase
+chromosome,NZ_CP070228.1,562999,563928,-,,cysK,JTE88_RS02400,WP_204425705.1,309,cysteine synthase A
+chromosome,NZ_CP070228.1,564207,564860,-,,,JTE88_RS02405,WP_204425153.1,217,YigZ family protein
+chromosome,NZ_CP070228.1,565030,565194,+,,rpmF,JTE88_RS02410,WP_013169725.1,54,MULTISPECIES: 50S ribosomal protein L32
+chromosome,NZ_CP070228.1,565317,566003,+,,,JTE88_RS02415,WP_204425155.1,228,hypothetical protein
+chromosome,NZ_CP070228.1,566003,566995,+,,,JTE88_RS02420,WP_204425157.1,330,glycoside hydrolase
+chromosome,NZ_CP070228.1,566972,567835,-,,,JTE88_RS02425,WP_204425158.1,287,anchored repeat-type ABC transporter permease subunit
+chromosome,NZ_CP070228.1,567832,568560,-,,,JTE88_RS02430,WP_204425159.1,242,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,568557,569525,-,,,JTE88_RS02435,WP_204425160.1,322,choice-of-anchor M domain-containing protein
+chromosome,NZ_CP070228.1,569522,571078,-,,,JTE88_RS02440,WP_239519543.1,518,"anchored repeat ABC transporter, substrate-binding protein"
+chromosome,NZ_CP070228.1,571530,573887,+,,,JTE88_RS02445,WP_204425161.1,785,carbon starvation protein A
+chromosome,NZ_CP070228.1,573957,574160,+,,,JTE88_RS02450,WP_204425162.1,67,CstA-like transporter-associated (seleno)protein
+chromosome,NZ_CP070228.1,575189,575989,+,,,JTE88_RS02460,WP_204425163.1,266,hypothetical protein
+chromosome,NZ_CP070228.1,576310,576474,+,,,JTE88_RS02465,WP_204425165.1,54,FAD-dependent oxidoreductase
+chromosome,NZ_CP070228.1,576584,576880,-,,,JTE88_RS02470,WP_204425166.1,98,hypothetical protein
+chromosome,NZ_CP070228.1,576911,577213,-,,,JTE88_RS02475,WP_204425167.1,100,winged helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,577449,579473,+,,betT,JTE88_RS02480,WP_239519544.1,674,choline BCCT transporter BetT
+chromosome,NZ_CP070228.1,579485,581191,-,,,JTE88_RS02485,WP_239519545.1,568,DASS family sodium-coupled anion symporter
+chromosome,NZ_CP070228.1,581376,582041,-,,,JTE88_RS02490,WP_204425171.1,221,deoxynucleoside kinase
+chromosome,NZ_CP070228.1,582676,583896,+,,,JTE88_RS02495,WP_204425172.1,406,argininosuccinate synthase
+chromosome,NZ_CP070228.1,583896,585269,+,,argH,JTE88_RS02500,WP_204425173.1,457,argininosuccinate lyase
+chromosome,NZ_CP070228.1,585596,586243,-,,,JTE88_RS02505,WP_204425174.1,215,deoxyribonuclease
+chromosome,NZ_CP070228.1,586515,587969,-,,,JTE88_RS02510,WP_204425175.1,484,NAD(P)/FAD-dependent oxidoreductase
+chromosome,NZ_CP070228.1,587991,588371,-,,,JTE88_RS02515,WP_197672575.1,126,MULTISPECIES: DoxX family protein
+chromosome,NZ_CP070228.1,589612,589839,+,,,JTE88_RS02520,WP_239519546.1,75,terminase large subunit
+chromosome,NZ_CP070228.1,590007,590357,+,,,JTE88_RS02525,WP_204425176.1,116,hypothetical protein
+chromosome,NZ_CP070228.1,590608,590805,+,,,JTE88_RS02530,WP_204425177.1,65,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,591199,591627,+,,,JTE88_RS02540,WP_204425178.1,142,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,591780,591899,+,,,JTE88_RS02545,WP_204425179.1,39,MULTISPECIES: DUF2283 domain-containing protein
+chromosome,NZ_CP070228.1,592137,592286,+,,,JTE88_RS02555,WP_204425858.1,49,hypothetical protein
+chromosome,NZ_CP070228.1,592566,593186,-,,,JTE88_RS02560,WP_204425181.1,206,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,594042,594329,+,,,JTE88_RS02570,WP_204425185.1,95,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,594819,595151,-,,,JTE88_RS02575,WP_204425187.1,110,type II toxin-antitoxin system RelE/ParE family toxin
+chromosome,NZ_CP070228.1,595151,595447,-,,,JTE88_RS02580,WP_204425189.1,98,MULTISPECIES: type II toxin-antitoxin system RelB/DinJ family antitoxin
+chromosome,NZ_CP070228.1,596584,596778,+,,,JTE88_RS09035,WP_239519547.1,64,hypothetical protein
+chromosome,NZ_CP070228.1,597112,597459,+,,,JTE88_RS02590,WP_204425192.1,115,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,597759,598457,-,,,JTE88_RS02595,WP_204425194.1,232,hypothetical protein
+chromosome,NZ_CP070228.1,598622,599119,-,,,JTE88_RS02600,WP_204425196.1,165,MULTISPECIES: DUF4258 domain-containing protein
+chromosome,NZ_CP070228.1,600450,601106,-,,,JTE88_RS02615,WP_204425714.1,218,response regulator transcription factor
+chromosome,NZ_CP070228.1,601142,601885,-,,,JTE88_RS02620,WP_204425198.1,247,histidine kinase
+chromosome,NZ_CP070228.1,602012,602695,+,,,JTE88_RS02625,WP_204425199.1,227,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,602692,604086,+,,,JTE88_RS02630,WP_204425200.1,464,hypothetical protein
+chromosome,NZ_CP070228.1,604093,604470,-,,,JTE88_RS02635,WP_204425201.1,125,hypothetical protein
+chromosome,NZ_CP070228.1,604518,604730,+,,,JTE88_RS02640,WP_204425202.1,70,hypothetical protein
+chromosome,NZ_CP070228.1,605122,605943,+,,,JTE88_RS02645,WP_204425203.1,273,YdcF family protein
+chromosome,NZ_CP070228.1,605930,606988,-,,,JTE88_RS02650,WP_204425205.1,352,GTP-binding protein
+chromosome,NZ_CP070228.1,607087,607392,+,,rpsN,JTE88_RS02655,WP_204425207.1,101,30S ribosomal protein S14
+chromosome,NZ_CP070228.1,607536,607658,+,,ykgO,JTE88_RS02660,WP_091282213.1,40,MULTISPECIES: type B 50S ribosomal protein L36
+chromosome,NZ_CP070228.1,607658,607891,+,,rpmB,JTE88_RS02665,WP_204425209.1,77,50S ribosomal protein L28
+chromosome,NZ_CP070228.1,607900,608067,+,,rpmG,JTE88_RS02670,WP_204425211.1,55,50S ribosomal protein L33
+chromosome,NZ_CP070228.1,608181,609047,-,,,JTE88_RS02675,WP_204425212.1,288,hypothetical protein
+chromosome,NZ_CP070228.1,609900,611450,+,,tig,JTE88_RS02690,WP_204425213.1,516,trigger factor
+chromosome,NZ_CP070228.1,611751,612845,+,,,JTE88_RS02695,WP_204425214.1,364,IS1249 family transposase
+chromosome,NZ_CP070228.1,613250,613921,+,,,JTE88_RS02700,WP_239519548.1,223,ATP-dependent Clp protease proteolytic subunit
+chromosome,NZ_CP070228.1,613996,614643,+,,,JTE88_RS02705,WP_204425716.1,215,ATP-dependent Clp protease proteolytic subunit
+chromosome,NZ_CP070228.1,614866,616152,+,,clpX,JTE88_RS02710,WP_204425216.1,428,ATP-dependent Clp protease ATP-binding subunit ClpX
+chromosome,NZ_CP070228.1,616276,618102,-,,,JTE88_RS02715,WP_204425217.1,608,AMP-dependent synthetase/ligase
+chromosome,NZ_CP070228.1,618335,621007,-,,valS,JTE88_RS02720,WP_204425218.1,890,valine--tRNA ligase
+chromosome,NZ_CP070228.1,621089,621886,-,,proC,JTE88_RS02725,WP_204425219.1,265,pyrroline-5-carboxylate reductase
+chromosome,NZ_CP070228.1,621891,622619,-,,,JTE88_RS02730,WP_204425221.1,242,DUF1643 domain-containing protein
+chromosome,NZ_CP070228.1,623085,624827,-,,,JTE88_RS02735,WP_204425222.1,580,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,624824,626536,-,,,JTE88_RS02740,WP_239519549.1,570,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,627121,630306,+,,ileS,JTE88_RS02745,WP_204425223.1,1061,isoleucine--tRNA ligase
+chromosome,NZ_CP070228.1,630307,631827,+,,,JTE88_RS02750,WP_204425224.1,506,bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+chromosome,NZ_CP070228.1,631824,632240,+,,ndk,JTE88_RS02755,WP_204425225.1,138,nucleoside-diphosphate kinase
+chromosome,NZ_CP070228.1,632240,632848,+,,dhaL,JTE88_RS02760,WP_204425719.1,202,dihydroxyacetone kinase subunit DhaL
+chromosome,NZ_CP070228.1,632853,636467,+,,smc,JTE88_RS02765,WP_204425226.1,1204,chromosome segregation protein SMC
+chromosome,NZ_CP070228.1,636543,636926,+,,,JTE88_RS02770,WP_204425227.1,127,hypothetical protein
+chromosome,NZ_CP070228.1,636964,638121,+,,ftsY,JTE88_RS02775,WP_204425228.1,385,signal recognition particle-docking protein FtsY
+chromosome,NZ_CP070228.1,638213,639766,+,,ffh,JTE88_RS02780,WP_204425229.1,517,signal recognition particle protein
+chromosome,NZ_CP070228.1,639775,640848,+,,,JTE88_RS02785,WP_204425230.1,357,amidohydrolase family protein
+chromosome,NZ_CP070228.1,640949,641338,-,,,JTE88_RS02790,WP_204425231.1,129,hypothetical protein
+chromosome,NZ_CP070228.1,641470,642402,-,,,JTE88_RS02795,WP_204425232.1,310,cation diffusion facilitator family transporter
+chromosome,NZ_CP070228.1,642649,643113,+,,rpsP,JTE88_RS02800,WP_204425233.1,154,30S ribosomal protein S16
+chromosome,NZ_CP070228.1,643113,643349,+,,,JTE88_RS02805,WP_204425234.1,78,RNA-binding protein
+chromosome,NZ_CP070228.1,643414,643935,+,,rimM,JTE88_RS02810,WP_204425236.1,173,ribosome maturation factor RimM
+chromosome,NZ_CP070228.1,643935,645278,+,,trmD,JTE88_RS02815,WP_204425238.1,447,tRNA (guanosine(37)-N1)-methyltransferase TrmD
+chromosome,NZ_CP070228.1,645407,645754,+,,rplS,JTE88_RS02820,WP_239519580.1,115,50S ribosomal protein L19
+chromosome,NZ_CP070228.1,645908,646741,+,,lepB,JTE88_RS02825,WP_204425240.1,277,signal peptidase I
+chromosome,NZ_CP070228.1,646755,647423,+,,,JTE88_RS02830,WP_204425241.1,222,ribonuclease HII
+chromosome,NZ_CP070228.1,647439,647750,+,,,JTE88_RS02835,WP_204425242.1,103,DUF2469 domain-containing protein
+chromosome,NZ_CP070228.1,647897,648268,+,,,JTE88_RS02840,WP_204425243.1,123,YraN family protein
+chromosome,NZ_CP070228.1,648265,649788,+,,,JTE88_RS02845,WP_204425244.1,507,YifB family Mg chelatase-like AAA ATPase
+chromosome,NZ_CP070228.1,649788,650963,+,,dprA,JTE88_RS02850,WP_204425245.1,391,DNA-processing protein DprA
+chromosome,NZ_CP070228.1,650960,651895,+,,,JTE88_RS02855,WP_204425246.1,311,tyrosine recombinase XerC
+chromosome,NZ_CP070228.1,651965,652579,-,,,JTE88_RS02860,WP_204425247.1,204,M23 family metallopeptidase
+chromosome,NZ_CP070228.1,652900,653724,+,,rpsB,JTE88_RS02865,WP_204425249.1,274,30S ribosomal protein S2
+chromosome,NZ_CP070228.1,653752,654624,+,,tsf,JTE88_RS02870,WP_204425250.1,290,translation elongation factor Ts
+chromosome,NZ_CP070228.1,654938,655714,+,,,JTE88_RS02875,WP_204425251.1,258,electron transfer flavoprotein beta subunit/FixA family protein
+chromosome,NZ_CP070228.1,655714,656586,+,,,JTE88_RS02880,WP_204425252.1,290,electron transfer flavoprotein subunit alpha/FixB family protein
+chromosome,NZ_CP070228.1,656667,657968,+,,,JTE88_RS02885,WP_204425253.1,433,FAD-dependent oxidoreductase
+chromosome,NZ_CP070228.1,657968,658270,+,,,JTE88_RS02890,WP_204425254.1,100,MULTISPECIES: 4Fe-4S dicluster domain-containing protein
+chromosome,NZ_CP070228.1,658498,658812,+,,,JTE88_RS02895,WP_204425255.1,104,SdpI family protein
+chromosome,NZ_CP070228.1,658771,660252,-,,,JTE88_RS02900,WP_204425256.1,493,MFS transporter
+chromosome,NZ_CP070228.1,660407,660790,+,,,JTE88_RS02905,WP_091282091.1,127,MULTISPECIES: RNA-binding S4 domain-containing protein
+chromosome,NZ_CP070228.1,660826,661566,+,,pyrH,JTE88_RS02910,WP_204425257.1,246,UMP kinase
+chromosome,NZ_CP070228.1,661576,662133,+,,frr,JTE88_RS02915,WP_204425259.1,185,ribosome recycling factor
+chromosome,NZ_CP070228.1,662136,663029,+,,,JTE88_RS02920,WP_204425261.1,297,phosphatidate cytidylyltransferase
+chromosome,NZ_CP070228.1,663065,664354,+,,rlmN,JTE88_RS02925,WP_204425263.1,429,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+chromosome,NZ_CP070228.1,664347,664898,+,,,JTE88_RS02930,WP_204425265.1,183,DivIVA domain-containing protein
+chromosome,NZ_CP070228.1,664898,666127,+,,dxr,JTE88_RS02935,WP_204425267.1,409,1-deoxy-D-xylulose-5-phosphate reductoisomerase
+chromosome,NZ_CP070228.1,666143,667384,+,,,JTE88_RS02940,WP_204425269.1,413,site-2 protease family protein
+chromosome,NZ_CP070228.1,667415,668575,+,,ispG,JTE88_RS02945,WP_204425271.1,386,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase
+chromosome,NZ_CP070228.1,668577,669425,+,,,JTE88_RS02950,WP_204425273.1,282,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,669589,671376,+,,,JTE88_RS02955,WP_204425274.1,595,proline--tRNA ligase
+chromosome,NZ_CP070228.1,671547,672458,-,,,JTE88_RS02960,WP_204425275.1,303,hypothetical protein
+chromosome,NZ_CP070228.1,672578,673048,+,,,JTE88_RS02965,WP_204425276.1,156,ribosome maturation factor RimP
+chromosome,NZ_CP070228.1,673048,674025,+,,nusA,JTE88_RS02970,WP_204425277.1,325,transcription termination factor NusA
+chromosome,NZ_CP070228.1,674093,674515,+,,,JTE88_RS02975,WP_239519550.1,140,DUF448 domain-containing protein
+chromosome,NZ_CP070228.1,674586,677486,+,,infB,JTE88_RS02980,WP_204425278.1,966,translation initiation factor IF-2
+chromosome,NZ_CP070228.1,677519,677974,+,,rbfA,JTE88_RS02985,WP_204425279.1,151,30S ribosome-binding factor RbfA
+chromosome,NZ_CP070228.1,677974,678999,+,,truB,JTE88_RS02990,WP_239519551.1,341,tRNA pseudouridine(55) synthase TruB
+chromosome,NZ_CP070228.1,679539,680348,+,,,JTE88_RS02995,WP_204425281.1,269,hypothetical protein
+chromosome,NZ_CP070228.1,680440,681387,+,,,JTE88_RS03000,WP_204425283.1,315,hypothetical protein
+chromosome,NZ_CP070228.1,681484,681681,+,,,JTE88_RS03005,WP_204425286.1,65,hypothetical protein
+chromosome,NZ_CP070228.1,682063,682902,+,,,JTE88_RS03010,WP_204425288.1,279,hypothetical protein
+chromosome,NZ_CP070228.1,683440,684414,+,,,JTE88_RS03015,WP_204425290.1,324,hypothetical protein
+chromosome,NZ_CP070228.1,684468,685739,+,,,JTE88_RS03020,WP_204425293.1,423,peptidoglycan-binding protein
+chromosome,NZ_CP070228.1,685736,686401,+,,,JTE88_RS03025,WP_204425295.1,221,MULTISPECIES: ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,686394,687653,+,,,JTE88_RS03030,WP_168917520.1,419,MULTISPECIES: ABC transporter permease
+chromosome,NZ_CP070228.1,687825,688115,+,,,JTE88_RS03035,WP_204425296.1,96,hypothetical protein
+chromosome,NZ_CP070228.1,688119,689114,+,,,JTE88_RS03040,WP_204425297.1,331,bifunctional riboflavin kinase/FAD synthetase
+chromosome,NZ_CP070228.1,689284,689691,+,,,JTE88_RS03045,WP_204425298.1,135,hypothetical protein
+chromosome,NZ_CP070228.1,689834,690103,+,,rpsO,JTE88_RS03050,WP_204425302.1,89,30S ribosomal protein S15
+chromosome,NZ_CP070228.1,690426,692789,+,,,JTE88_RS03055,WP_204425304.1,787,polyribonucleotide nucleotidyltransferase
+chromosome,NZ_CP070228.1,692919,694094,+,,,JTE88_RS03060,WP_204425306.1,391,MFS transporter
+chromosome,NZ_CP070228.1,694191,695513,+,,,JTE88_RS03065,WP_204425308.1,440,insulinase family protein
+chromosome,NZ_CP070228.1,695551,696132,-,,,JTE88_RS03070,WP_204425310.1,193,hypothetical protein
+chromosome,NZ_CP070228.1,696304,697893,+,,,JTE88_RS03075,WP_239519581.1,529,RNase J family beta-CASP ribonuclease
+chromosome,NZ_CP070228.1,698488,699612,-,,,JTE88_RS03080,WP_204425314.1,374,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,699660,701450,-,,,JTE88_RS03085,WP_204425316.1,596,iron ABC transporter permease
+chromosome,NZ_CP070228.1,701482,702534,-,,,JTE88_RS03090,WP_204425318.1,350,ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,702653,703417,-,,,JTE88_RS03095,WP_204425320.1,254,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,703423,704415,-,,,JTE88_RS03100,WP_091282028.1,330,MULTISPECIES: ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,704434,705462,-,,,JTE88_RS03105,WP_204425321.1,342,iron ABC transporter permease
+chromosome,NZ_CP070228.1,705470,706597,-,,,JTE88_RS03110,WP_204425322.1,375,prolyl oligopeptidase family serine peptidase
+chromosome,NZ_CP070228.1,707097,709331,+,,,JTE88_RS03115,WP_204425323.1,744,YcaO-like family protein
+chromosome,NZ_CP070228.1,709364,711103,+,,,JTE88_RS03120,WP_204425324.1,579,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,711109,712833,+,,,JTE88_RS03125,WP_204425325.1,574,MULTISPECIES: ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,713532,713828,-,,,JTE88_RS03140,WP_204425328.1,98,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,714134,714811,-,,,JTE88_RS03150,WP_204425330.1,225,response regulator
+chromosome,NZ_CP070228.1,714827,715321,-,,,JTE88_RS09045,WP_239519552.1,164,ATP-binding protein
+chromosome,NZ_CP070228.1,715645,716553,-,,,JTE88_RS03160,WP_204425334.1,302,2-hydroxyacid dehydrogenase
+chromosome,NZ_CP070228.1,716690,719314,+,,,JTE88_RS03165,WP_204425336.1,874,DNA translocase FtsK
+chromosome,NZ_CP070228.1,719369,719953,+,,pgsA,JTE88_RS03170,WP_204425337.1,194,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+chromosome,NZ_CP070228.1,719959,720447,+,,,JTE88_RS03175,WP_204425340.1,162,nicotinamide-nucleotide amidohydrolase family protein
+chromosome,NZ_CP070228.1,720587,720934,+,,,JTE88_RS03180,WP_204425725.1,115,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,720937,721173,+,,,JTE88_RS03185,WP_204425342.1,78,DUF3046 domain-containing protein
+chromosome,NZ_CP070228.1,721461,722507,+,,recA,JTE88_RS03190,WP_204425343.1,348,recombinase RecA
+chromosome,NZ_CP070228.1,722566,723150,+,,,JTE88_RS03195,WP_204425344.1,194,recombination regulator RecX
+chromosome,NZ_CP070228.1,723245,724789,+,,miaB,JTE88_RS03200,WP_204425345.1,514,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB
+chromosome,NZ_CP070228.1,724793,725734,+,,miaA,JTE88_RS03205,WP_204425346.1,313,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+chromosome,NZ_CP070228.1,725700,726386,-,,,JTE88_RS03210,WP_239519553.1,228,methyltransferase
+chromosome,NZ_CP070228.1,726508,727941,+,,hflX,JTE88_RS03215,WP_239519582.1,477,GTPase HflX
+chromosome,NZ_CP070228.1,727934,729868,+,,,JTE88_RS03220,WP_239519554.1,644,DEAD/DEAH box helicase
+chromosome,NZ_CP070228.1,729986,730807,-,,lexA,JTE88_RS03225,WP_239519555.1,273,transcriptional repressor LexA
+chromosome,NZ_CP070228.1,730972,731577,+,,,JTE88_RS03230,WP_204425347.1,201,LysM domain-containing protein
+chromosome,NZ_CP070228.1,731627,732076,+,,nrdR,JTE88_RS03235,WP_204425348.1,149,transcriptional regulator NrdR
+chromosome,NZ_CP070228.1,732208,734328,-,,,JTE88_RS03240,WP_204425349.1,706,AMP-binding protein
+chromosome,NZ_CP070228.1,734431,736686,-,,,JTE88_RS03245,WP_204425351.1,751,AAA family ATPase
+chromosome,NZ_CP070228.1,736855,737874,+,,,JTE88_RS03250,WP_204425353.1,339,PAC2 family protein
+chromosome,NZ_CP070228.1,737846,738673,-,,,JTE88_RS03255,WP_204425354.1,275,fused MFS/spermidine synthase
+chromosome,NZ_CP070228.1,738740,739972,+,,dinB,JTE88_RS03260,WP_204425355.1,410,DNA polymerase IV
+chromosome,NZ_CP070228.1,740044,740433,+,,,JTE88_RS03265,WP_204425356.1,129,DUF3040 domain-containing protein
+chromosome,NZ_CP070228.1,740770,741201,+,,mraZ,JTE88_RS03270,WP_204425357.1,143,division/cell wall cluster transcriptional repressor MraZ
+chromosome,NZ_CP070228.1,741314,742324,+,,rsmH,JTE88_RS03275,WP_204425358.1,336,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+chromosome,NZ_CP070228.1,742321,742719,+,,,JTE88_RS03280,WP_204425359.1,132,hypothetical protein
+chromosome,NZ_CP070228.1,742739,744625,+,,,JTE88_RS03285,WP_239519556.1,628,penicillin-binding transpeptidase domain-containing protein
+chromosome,NZ_CP070228.1,744601,746106,+,,,JTE88_RS03290,WP_239519557.1,501,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase"
+chromosome,NZ_CP070228.1,746103,747521,+,,,JTE88_RS03295,WP_204425360.1,472,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+chromosome,NZ_CP070228.1,747522,748607,+,,mraY,JTE88_RS03300,WP_204425362.1,361,phospho-N-acetylmuramoyl-pentapeptide-transferase
+chromosome,NZ_CP070228.1,748589,750091,+,,murD,JTE88_RS03305,WP_204425364.1,500,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+chromosome,NZ_CP070228.1,750091,751323,+,,,JTE88_RS03310,WP_204425366.1,410,putative lipid II flippase FtsW
+chromosome,NZ_CP070228.1,751323,752429,+,,,JTE88_RS03315,WP_204425368.1,368,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+chromosome,NZ_CP070228.1,752429,753781,+,,murC,JTE88_RS03320,WP_204425738.1,450,UDP-N-acetylmuramate--L-alanine ligase
+chromosome,NZ_CP070228.1,753778,754782,+,,,JTE88_RS03325,WP_204425370.1,334,FtsQ-type POTRA domain-containing protein
+chromosome,NZ_CP070228.1,754904,756139,+,,ftsZ,JTE88_RS03330,WP_204425372.1,411,cell division protein FtsZ
+chromosome,NZ_CP070228.1,756239,757018,+,,pgeF,JTE88_RS03335,WP_204425373.1,259,peptidoglycan editing factor PgeF
+chromosome,NZ_CP070228.1,757073,757483,+,,,JTE88_RS03340,WP_204425374.1,136,cell division protein SepF
+chromosome,NZ_CP070228.1,757486,757782,+,,,JTE88_RS03345,WP_204425375.1,98,YggT family protein
+chromosome,NZ_CP070228.1,757953,758534,+,,,JTE88_RS03350,WP_204425376.1,193,DivIVA domain-containing protein
+chromosome,NZ_CP070228.1,758621,759133,+,,lspA,JTE88_RS03355,WP_239519558.1,170,signal peptidase II
+chromosome,NZ_CP070228.1,759196,760053,+,,,JTE88_RS03360,WP_204425742.1,285,RluA family pseudouridine synthase
+chromosome,NZ_CP070228.1,760053,760514,+,,,JTE88_RS03365,WP_204425377.1,153,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,760572,764123,+,,dnaE,JTE88_RS03370,WP_204425378.1,1183,DNA polymerase III subunit alpha
+chromosome,NZ_CP070228.1,764236,764463,-,,,JTE88_RS03375,WP_204425379.1,75,RNA-binding S4 domain-containing protein
+chromosome,NZ_CP070228.1,764465,765025,-,,,JTE88_RS03380,WP_204425380.1,186,VTT domain-containing protein
+chromosome,NZ_CP070228.1,765029,765415,-,,,JTE88_RS03385,WP_204425382.1,128,transcriptional repressor
+chromosome,NZ_CP070228.1,765465,766328,-,,,JTE88_RS03390,WP_204425384.1,287,metal ABC transporter permease
+chromosome,NZ_CP070228.1,766321,767046,-,,,JTE88_RS03395,WP_204425386.1,241,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,767051,768172,-,,,JTE88_RS03400,WP_204425388.1,373,zinc ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,768365,769759,+,,,JTE88_RS03405,WP_204425390.1,464,glycine--tRNA ligase
+chromosome,NZ_CP070228.1,769683,770984,+,,,JTE88_RS03410,WP_239519559.1,433,YibE/F family protein
+chromosome,NZ_CP070228.1,770981,772204,+,,dusB,JTE88_RS03415,WP_204425392.1,407,tRNA dihydrouridine synthase DusB
+chromosome,NZ_CP070228.1,772248,773498,+,,,JTE88_RS03420,WP_204425394.1,416,deoxyguanosinetriphosphate triphosphohydrolase
+chromosome,NZ_CP070228.1,773618,774850,+,,,JTE88_RS03425,WP_204425396.1,410,substrate-binding domain-containing protein
+chromosome,NZ_CP070228.1,774941,776449,+,,,JTE88_RS03430,WP_204425398.1,502,sugar ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,776464,778122,+,,,JTE88_RS03435,WP_204425399.1,552,galactoside ABC transporter permease
+chromosome,NZ_CP070228.1,778266,778601,-,,,JTE88_RS03440,WP_204425401.1,111,rhodanese-like domain-containing protein
+chromosome,NZ_CP070228.1,778739,780709,+,,dnaG,JTE88_RS03445,WP_204425402.1,656,DNA primase
+chromosome,NZ_CP070228.1,780969,781595,+,,,JTE88_RS03455,WP_204425403.1,208,DUF6318 family protein
+chromosome,NZ_CP070228.1,781588,782376,+,,,JTE88_RS03460,WP_204425404.1,262,hypothetical protein
+chromosome,NZ_CP070228.1,782386,782625,+,,,JTE88_RS03465,WP_204425405.1,79,hypothetical protein
+chromosome,NZ_CP070228.1,782619,783113,+,,,JTE88_RS03470,WP_204425406.1,164,hypothetical protein
+chromosome,NZ_CP070228.1,784167,784772,-,,,JTE88_RS03485,WP_204425410.1,201,transposase family protein
+chromosome,NZ_CP070228.1,785481,786575,+,,,JTE88_RS03490,WP_204425412.1,364,IS1249 family transposase
+chromosome,NZ_CP070228.1,786695,787009,+,,,JTE88_RS03495,WP_204425414.1,104,hypothetical protein
+chromosome,NZ_CP070228.1,788020,789279,+,,,JTE88_RS03500,WP_204425416.1,419,ABC transporter permease subunit
+chromosome,NZ_CP070228.1,790214,792526,+,,,JTE88_RS03510,WP_204425418.1,770,YPDG domain-containing protein
+chromosome,NZ_CP070228.1,794163,794405,-,,,JTE88_RS09055,WP_239519560.1,80,hypothetical protein
+chromosome,NZ_CP070228.1,794411,794956,-,,,JTE88_RS03525,WP_239519561.1,181,hypothetical protein
+chromosome,NZ_CP070228.1,794953,795204,-,,,JTE88_RS09060,WP_239519562.1,83,hypothetical protein
+chromosome,NZ_CP070228.1,795182,795700,-,,,JTE88_RS09065,WP_239519563.1,172,ABC transporter permease subunit
+chromosome,NZ_CP070228.1,796327,796698,+,,,JTE88_RS03535,WP_204425424.1,123,hypothetical protein
+chromosome,NZ_CP070228.1,796997,797743,-,,,JTE88_RS03540,WP_239519564.1,248,phosphatidylcholine synthase
+chromosome,NZ_CP070228.1,797932,798876,+,,,JTE88_RS03545,WP_204425426.1,314,TIGR01777 family oxidoreductase
+chromosome,NZ_CP070228.1,798979,799485,+,,,JTE88_RS03550,WP_204425428.1,168,DUF3145 family protein
+chromosome,NZ_CP070228.1,799492,799821,-,,,JTE88_RS03555,WP_204425430.1,109,hypothetical protein
+chromosome,NZ_CP070228.1,799874,800479,+,,,JTE88_RS03560,WP_204425431.1,201,hypothetical protein
+chromosome,NZ_CP070228.1,800504,801124,+,,,JTE88_RS03565,WP_204425434.1,206,L-threonylcarbamoyladenylate synthase
+chromosome,NZ_CP070228.1,801147,801860,+,,,JTE88_RS03570,WP_204425436.1,237,HAD hydrolase-like protein
+chromosome,NZ_CP070228.1,801835,803628,-,,,JTE88_RS03575,WP_204425438.1,597,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,803628,805400,-,,,JTE88_RS03580,WP_204425440.1,590,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,805524,808277,-,,aceE,JTE88_RS03585,WP_204425442.1,917,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type"
+chromosome,NZ_CP070228.1,808574,808987,+,,,JTE88_RS03590,WP_204425444.1,137,DUF3052 family protein
+chromosome,NZ_CP070228.1,809255,809629,-,,,JTE88_RS03600,WP_204425451.1,124,transposase
+chromosome,NZ_CP070228.1,809892,810986,+,,,JTE88_RS03605,WP_204425453.1,364,IS1249 family transposase
+chromosome,NZ_CP070228.1,812880,814649,-,,,JTE88_RS03615,WP_204425455.1,589,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,814633,815331,-,,,JTE88_RS03620,WP_204425456.1,232,hypothetical protein
+chromosome,NZ_CP070228.1,815334,816116,-,,,JTE88_RS03625,WP_204425457.1,260,hypothetical protein
+chromosome,NZ_CP070228.1,816126,816779,-,,,JTE88_RS03630,WP_239519583.1,217,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,817233,817496,-,,,JTE88_RS03640,WP_204425461.1,87,hypothetical protein
+chromosome,NZ_CP070228.1,817502,819358,-,,,JTE88_RS03645,WP_204425463.1,618,asparagine synthase-related protein
+chromosome,NZ_CP070228.1,819417,819545,-,,,JTE88_RS03650,WP_204425465.1,42,lasso RiPP family leader peptide-containing protein
+chromosome,NZ_CP070228.1,821785,824466,-,,,JTE88_RS03660,WP_204425467.1,893,hypothetical protein
+chromosome,NZ_CP070228.1,825501,825719,-,,,JTE88_RS03665,WP_204425468.1,72,hypothetical protein
+chromosome,NZ_CP070228.1,826014,826520,+,,,JTE88_RS03670,WP_204425469.1,168,transposase
+chromosome,NZ_CP070228.1,826621,827250,-,,,JTE88_RS03675,WP_204425470.1,209,NAD(P)H-dependent oxidoreductase
+chromosome,NZ_CP070228.1,827264,828466,-,,,JTE88_RS03680,WP_239519565.1,400,LLM class flavin-dependent oxidoreductase
+chromosome,NZ_CP070228.1,828561,829109,-,,,JTE88_RS03685,WP_204425471.1,182,YceI family protein
+chromosome,NZ_CP070228.1,829461,830096,+,,,JTE88_RS09070,WP_239519566.1,211,FAD-dependent oxidoreductase
+chromosome,NZ_CP070228.1,830111,830647,+,,,JTE88_RS09075,WP_239519567.1,178,hypothetical protein
+chromosome,NZ_CP070228.1,830922,831722,+,,,JTE88_RS03695,WP_204425472.1,266,Nif3-like dinuclear metal center hexameric protein
+chromosome,NZ_CP070228.1,831746,832492,+,,,JTE88_RS03700,WP_204425473.1,248,hypothetical protein
+chromosome,NZ_CP070228.1,832461,833237,-,,,JTE88_RS03705,WP_204425475.1,258,peroxide stress protein YaaA
+chromosome,NZ_CP070228.1,833751,834518,-,,,JTE88_RS03715,WP_204425476.1,255,ROK family protein
+chromosome,NZ_CP070228.1,834565,835455,-,,map,JTE88_RS03720,WP_204425477.1,296,type I methionyl aminopeptidase
+chromosome,NZ_CP070228.1,835534,836334,-,,panB,JTE88_RS03725,WP_204425478.1,266,3-methyl-2-oxobutanoate hydroxymethyltransferase
+chromosome,NZ_CP070228.1,836453,837781,+,,,JTE88_RS03730,WP_204425479.1,442,glutamine synthetase family protein
+chromosome,NZ_CP070228.1,837787,840618,+,,,JTE88_RS03735,WP_204425480.1,943,bifunctional
+chromosome,NZ_CP070228.1,840649,841251,+,,,JTE88_RS03740,WP_204425481.1,200,phosphoglycerate mutase family protein
+chromosome,NZ_CP070228.1,841239,842666,-,,glnA,JTE88_RS03745,WP_204425482.1,475,type I glutamate--ammonia ligase
+chromosome,NZ_CP070228.1,842771,843481,-,,,JTE88_RS03750,WP_204425484.1,236,DUF4191 family protein
+chromosome,NZ_CP070228.1,843554,844738,-,,,JTE88_RS03755,WP_204425486.1,394,MFS transporter
+chromosome,NZ_CP070228.1,844940,846673,-,,sucB,JTE88_RS03760,WP_204425487.1,577,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase"
+chromosome,NZ_CP070228.1,846689,848065,-,,lpdA,JTE88_RS03765,WP_204425488.1,458,dihydrolipoyl dehydrogenase
+chromosome,NZ_CP070228.1,848298,848615,+,,,JTE88_RS03770,WP_204425489.1,105,oxidoreductase
+chromosome,NZ_CP070228.1,848774,849646,+,,mtnN,JTE88_RS03775,WP_204425490.1,290,5\\'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+chromosome,NZ_CP070228.1,849863,851287,-,,,JTE88_RS03780,WP_239519568.1,474,leucyl aminopeptidase
+chromosome,NZ_CP070228.1,851374,852042,-,,,JTE88_RS03785,WP_204425492.1,222,DUF3043 domain-containing protein
+chromosome,NZ_CP070228.1,852121,853467,+,,,JTE88_RS03790,WP_204425494.1,448,dipeptidase
+chromosome,NZ_CP070228.1,853468,854550,+,,,JTE88_RS03795,WP_204425496.1,360,hypothetical protein
+chromosome,NZ_CP070228.1,854626,854967,+,,erpA,JTE88_RS03800,WP_204425498.1,113,iron-sulfur cluster insertion protein ErpA
+chromosome,NZ_CP070228.1,855019,855963,+,,,JTE88_RS03805,WP_239519569.1,314,FKBP-type peptidyl-prolyl cis-trans isomerase
+chromosome,NZ_CP070228.1,856124,856747,-,,,JTE88_RS03810,WP_204425502.1,207,superoxide dismutase
+chromosome,NZ_CP070228.1,856935,857354,+,,,JTE88_RS03815,WP_204425503.1,139,hypothetical protein
+chromosome,NZ_CP070228.1,857429,859240,-,,,JTE88_RS03820,WP_204425504.1,603,DEDD exonuclease domain-containing protein
+chromosome,NZ_CP070228.1,859282,859668,-,,,JTE88_RS03825,WP_204425505.1,128,hypothetical protein
+chromosome,NZ_CP070228.1,859747,860967,+,,,JTE88_RS03830,WP_204425506.1,406,pyrophosphate--fructose-6-phosphate 1-phosphotransferase
+chromosome,NZ_CP070228.1,861030,862310,+,,,JTE88_RS03835,WP_204425507.1,426,3-deoxy-7-phosphoheptulonate synthase
+chromosome,NZ_CP070228.1,862297,864270,-,,pknB,JTE88_RS03840,WP_204425508.1,657,Stk1 family PASTA domain-containing Ser/Thr kinase
+chromosome,NZ_CP070228.1,864340,865629,-,,,JTE88_RS03845,WP_204425510.1,429,lytic transglycosylase domain-containing protein
+chromosome,NZ_CP070228.1,865764,866126,+,,,JTE88_RS03850,WP_204425511.1,120,Rv2175c family DNA-binding protein
+chromosome,NZ_CP070228.1,866249,867301,-,,,JTE88_RS03855,WP_204425513.1,350,polyprenyl synthetase family protein
+chromosome,NZ_CP070228.1,867409,868518,+,,,JTE88_RS03860,WP_204425515.1,369,DUF4192 family protein
+chromosome,NZ_CP070228.1,868749,870218,+,,,JTE88_RS03865,WP_204425516.1,489,RNA polymerase sigma factor
+chromosome,NZ_CP070228.1,870229,870834,-,,,JTE88_RS03870,WP_204425517.1,201,3\\'-5\\' exonuclease
+chromosome,NZ_CP070228.1,870955,871158,+,,,JTE88_RS03875,WP_204425518.1,67,hypothetical protein
+chromosome,NZ_CP070228.1,871244,873349,+,,,JTE88_RS03880,WP_204425749.1,701,type IIA DNA topoisomerase subunit B
+chromosome,NZ_CP070228.1,873368,874414,+,,,JTE88_RS03885,WP_204425519.1,348,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,874411,875376,+,,,JTE88_RS03890,WP_204425520.1,321,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,875422,877839,-,,,JTE88_RS03895,WP_204425521.1,805,DNA topoisomerase IV subunit A
+chromosome,NZ_CP070228.1,877952,878512,+,,,JTE88_RS03900,WP_204425522.1,186,DUF5998 family protein
+chromosome,NZ_CP070228.1,878512,879633,+,,,JTE88_RS03905,WP_204425529.1,373,alkaline phosphatase family protein
+chromosome,NZ_CP070228.1,879633,880286,+,,,JTE88_RS03910,WP_204425530.1,217,thymidine kinase
+chromosome,NZ_CP070228.1,880340,881368,-,,sepH,JTE88_RS03915,WP_204425531.1,342,septation protein SepH
+chromosome,NZ_CP070228.1,881555,881854,+,,,JTE88_RS03920,WP_204425532.1,99,DUF4193 family protein
+chromosome,NZ_CP070228.1,881932,882543,+,,,JTE88_RS03925,WP_204425533.1,203,DUF3710 domain-containing protein
+chromosome,NZ_CP070228.1,882543,882797,+,,,JTE88_RS03930,WP_204425534.1,84,hypothetical protein
+chromosome,NZ_CP070228.1,882790,883437,+,,,JTE88_RS03935,WP_204425536.1,215,DUF3159 domain-containing protein
+chromosome,NZ_CP070228.1,883388,884095,-,,,JTE88_RS03940,WP_204425537.1,235,TrkA family potassium uptake protein
+chromosome,NZ_CP070228.1,884092,884745,-,,,JTE88_RS03945,WP_204425751.1,217,TrkA family potassium uptake protein
+chromosome,NZ_CP070228.1,884808,886673,+,,,JTE88_RS03950,WP_204425538.1,621,APC family permease
+chromosome,NZ_CP070228.1,886654,887862,+,,,JTE88_RS03955,WP_204425539.1,402,TRAM domain-containing protein
+chromosome,NZ_CP070228.1,887932,888753,+,,,JTE88_RS03960,WP_204425540.1,273,oxidoreductase
+chromosome,NZ_CP070228.1,889032,889529,+,,purE,JTE88_RS03965,WP_239519570.1,165,5-(carboxyamino)imidazole ribonucleotide mutase
+chromosome,NZ_CP070228.1,889554,890246,+,,,JTE88_RS03970,WP_204425542.1,230,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+chromosome,NZ_CP070228.1,890257,891681,+,,,JTE88_RS03975,WP_204425543.1,474,amidophosphoribosyltransferase
+chromosome,NZ_CP070228.1,891685,892728,+,,purM,JTE88_RS03980,WP_204425545.1,347,phosphoribosylformylglycinamidine cyclo-ligase
+chromosome,NZ_CP070228.1,892738,893361,+,,purN,JTE88_RS03985,WP_204425546.1,207,phosphoribosylglycinamide formyltransferase
+chromosome,NZ_CP070228.1,893351,894052,+,,,JTE88_RS03990,WP_204425547.1,233,hypothetical protein
+chromosome,NZ_CP070228.1,894049,895233,+,,,JTE88_RS03995,WP_204425548.1,394,phosphoribosylaminoimidazolecarboxamide formyltransferase
+chromosome,NZ_CP070228.1,895246,896526,+,,purD,JTE88_RS04000,WP_204425549.1,426,phosphoribosylamine--glycine ligase
+chromosome,NZ_CP070228.1,896516,901849,+,,,JTE88_RS04005,WP_239519571.1,1777,phosphoribosylformylglycinamidine synthase
+chromosome,NZ_CP070228.1,902023,904701,+,,acnA,JTE88_RS04015,WP_204425550.1,892,aconitate hydratase AcnA
+chromosome,NZ_CP070228.1,904851,906728,+,,dxs,JTE88_RS04020,WP_204425551.1,625,1-deoxy-D-xylulose-5-phosphate synthase
+chromosome,NZ_CP070228.1,906796,908001,-,,,JTE88_RS04025,WP_204425553.1,401,HRDC domain-containing protein
+chromosome,NZ_CP070228.1,908001,908591,-,,,JTE88_RS04030,WP_204425554.1,196,DUF3000 family protein
+chromosome,NZ_CP070228.1,908643,910379,-,,treZ,JTE88_RS04035,WP_204425555.1,578,malto-oligosyltrehalose trehalohydrolase
+chromosome,NZ_CP070228.1,910376,912886,-,,treY,JTE88_RS04040,WP_204425556.1,836,malto-oligosyltrehalose synthase
+chromosome,NZ_CP070228.1,912951,915170,-,,glgX,JTE88_RS04045,WP_204425557.1,739,glycogen debranching protein GlgX
+chromosome,NZ_CP070228.1,915352,915513,+,,,JTE88_RS04050,WP_204425558.1,53,hypothetical protein
+chromosome,NZ_CP070228.1,916567,917949,-,,,JTE88_RS04085,WP_204425559.1,460,L-serine ammonia-lyase
+chromosome,NZ_CP070228.1,918155,920122,+,,thrS,JTE88_RS04090,WP_239519584.1,655,threonine--tRNA ligase
+chromosome,NZ_CP070228.1,920131,920754,+,,,JTE88_RS04095,WP_204425561.1,207,CDP-alcohol phosphatidyltransferase family protein
+chromosome,NZ_CP070228.1,920754,921719,+,,,JTE88_RS04100,WP_204425562.1,321,phosphatidylinositol mannoside acyltransferase
+chromosome,NZ_CP070228.1,921716,922852,+,,,JTE88_RS04105,WP_204425564.1,378,glycosyltransferase family 4 protein
+chromosome,NZ_CP070228.1,922849,923448,+,,,JTE88_RS04110,WP_204425566.1,199,hypothetical protein
+chromosome,NZ_CP070228.1,923441,924592,+,,,JTE88_RS04115,WP_204425568.1,383,PrsW family glutamic-type intramembrane protease
+chromosome,NZ_CP070228.1,924600,925157,+,,,JTE88_RS04120,WP_204425570.1,185,NUDIX domain-containing protein
+chromosome,NZ_CP070228.1,925231,925995,+,,,JTE88_RS04125,WP_204425572.1,254,YebC/PmpR family DNA-binding transcriptional regulator
+chromosome,NZ_CP070228.1,925996,926616,+,,ruvC,JTE88_RS04130,WP_204425574.1,206,crossover junction endodeoxyribonuclease RuvC
+chromosome,NZ_CP070228.1,926653,927249,+,,ruvA,JTE88_RS04135,WP_204425576.1,198,Holliday junction branch migration protein RuvA
+chromosome,NZ_CP070228.1,927253,928269,+,,ruvB,JTE88_RS04140,WP_204425577.1,338,Holliday junction branch migration DNA helicase RuvB
+chromosome,NZ_CP070228.1,928455,928835,+,,yajC,JTE88_RS04145,WP_204425578.1,126,preprotein translocase subunit YajC
+chromosome,NZ_CP070228.1,928874,930730,+,,secD,JTE88_RS04150,WP_204425579.1,618,protein translocase subunit SecD
+chromosome,NZ_CP070228.1,930730,931827,+,,secF,JTE88_RS04155,WP_204425580.1,365,protein translocase subunit SecF
+chromosome,NZ_CP070228.1,931824,932372,+,,,JTE88_RS04160,WP_204425581.1,182,adenine phosphoribosyltransferase
+chromosome,NZ_CP070228.1,932531,934849,+,,,JTE88_RS04165,WP_204425582.1,772,"bifunctional (p)ppGpp synthetase/guanosine-3\\',5\\'-bis(diphosphate) 3\\'-pyrophosphohydrolase"
+chromosome,NZ_CP070228.1,934824,935381,-,,,JTE88_RS04170,WP_204425583.1,185,hypothetical protein
+chromosome,NZ_CP070228.1,935519,936847,-,,,JTE88_RS04175,WP_204425584.1,442,DUF349 domain-containing protein
+chromosome,NZ_CP070228.1,936950,937681,+,,,JTE88_RS04180,WP_204425586.1,243,MBL fold metallo-hydrolase
+chromosome,NZ_CP070228.1,937741,939069,+,,hisS,JTE88_RS04185,WP_204425587.1,442,histidine--tRNA ligase
+chromosome,NZ_CP070228.1,939072,940775,+,,,JTE88_RS04190,WP_204425588.1,567,dynamin family protein
+chromosome,NZ_CP070228.1,940772,942379,+,,,JTE88_RS04195,WP_204425589.1,535,50S ribosome-binding GTPase
+chromosome,NZ_CP070228.1,944536,945909,-,,,JTE88_RS04205,WP_204425591.1,457,MFS transporter
+chromosome,NZ_CP070228.1,946140,947957,+,,aspS,JTE88_RS04210,WP_204425592.1,605,aspartate--tRNA ligase
+chromosome,NZ_CP070228.1,948044,949468,+,,,JTE88_RS04215,WP_204425593.1,474,"L,D-transpeptidase"
+chromosome,NZ_CP070228.1,949533,950291,+,,,JTE88_RS04220,WP_204425595.1,252,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,950282,952711,-,,,JTE88_RS04225,WP_204425596.1,809,MMPL family transporter
+chromosome,NZ_CP070228.1,952827,954155,+,,,JTE88_RS04230,WP_239519572.1,442,AAA family ATPase
+chromosome,NZ_CP070228.1,954267,954887,+,,rpsD,JTE88_RS04235,WP_204425602.1,206,30S ribosomal protein S4
+chromosome,NZ_CP070228.1,955047,957716,+,,alaS,JTE88_RS04240,WP_204425604.1,889,alanine--tRNA ligase
+chromosome,NZ_CP070228.1,957738,958199,+,,ruvX,JTE88_RS04245,WP_204425605.1,153,Holliday junction resolvase RuvX
+chromosome,NZ_CP070228.1,958200,959330,+,,mltG,JTE88_RS04250,WP_204425607.1,376,endolytic transglycosylase MltG
+chromosome,NZ_CP070228.1,959334,960053,+,,,JTE88_RS04255,WP_204425609.1,239,hypothetical protein
+chromosome,NZ_CP070228.1,960079,960636,+,,,JTE88_RS04260,WP_204425611.1,185,A24 family peptidase
+chromosome,NZ_CP070228.1,960633,961856,+,,aroC,JTE88_RS04265,WP_204425613.1,407,chorismate synthase
+chromosome,NZ_CP070228.1,961853,963403,+,,aroB,JTE88_RS04270,WP_204425615.1,516,3-dehydroquinate synthase
+chromosome,NZ_CP070228.1,963400,963960,+,,,JTE88_RS04275,WP_204425617.1,186,hypothetical protein
+chromosome,NZ_CP070228.1,964017,964574,+,,efp,JTE88_RS04280,WP_204425619.1,185,elongation factor P
+chromosome,NZ_CP070228.1,964574,965050,+,,nusB,JTE88_RS04285,WP_204425620.1,158,transcription antitermination factor NusB
+chromosome,NZ_CP070228.1,965218,965784,+,,gmk,JTE88_RS04290,WP_204425622.1,188,guanylate kinase
+chromosome,NZ_CP070228.1,965832,966095,+,,rpoZ,JTE88_RS04295,WP_204425624.1,87,DNA-directed RNA polymerase subunit omega
+chromosome,NZ_CP070228.1,966098,967378,+,,coaBC,JTE88_RS04300,WP_204425626.1,426,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+chromosome,NZ_CP070228.1,967429,968628,+,,metK,JTE88_RS04305,WP_204425628.1,399,methionine adenosyltransferase
+chromosome,NZ_CP070228.1,968685,970757,+,,,JTE88_RS04310,WP_204425629.1,690,hypothetical protein
+chromosome,NZ_CP070228.1,970797,971723,+,,fmt,JTE88_RS04315,WP_204425631.1,308,methionyl-tRNA formyltransferase
+chromosome,NZ_CP070228.1,971720,973180,+,,,JTE88_RS04320,WP_204425632.1,486,16S rRNA methyltransferase
+chromosome,NZ_CP070228.1,973194,973856,+,,rpe,JTE88_RS04325,WP_204425634.1,220,ribulose-phosphate 3-epimerase
+chromosome,NZ_CP070228.1,974077,974829,+,,,JTE88_RS04330,WP_204425636.1,250,ABC transporter permease
+chromosome,NZ_CP070228.1,974840,975871,+,,,JTE88_RS04335,WP_204425638.1,343,ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,975884,976981,-,,,JTE88_RS04340,WP_204425754.1,365,DUF3866 family protein
+chromosome,NZ_CP070228.1,977015,977920,+,,,JTE88_RS04345,WP_204425639.1,301,WYL domain-containing protein
+chromosome,NZ_CP070228.1,977907,978821,+,,,JTE88_RS04350,WP_204425641.1,304,WYL domain-containing protein
+chromosome,NZ_CP070228.1,978826,981429,+,,,JTE88_RS04355,WP_239519573.1,867,DEAD/DEAH box helicase
+chromosome,NZ_CP070228.1,981771,983195,+,,lnt,JTE88_RS04360,WP_204425643.1,474,apolipoprotein N-acyltransferase
+chromosome,NZ_CP070228.1,983224,983580,-,,,JTE88_RS04365,WP_204425645.1,118,RNA polymerase-binding protein RbpA
+chromosome,NZ_CP070228.1,983833,984348,-,,,JTE88_RS04370,WP_204425756.1,171,MerR family transcriptional regulator
+chromosome,NZ_CP070228.1,984523,985266,-,,,JTE88_RS04375,WP_204425647.1,247,MerR family transcriptional regulator
+chromosome,NZ_CP070228.1,985263,985715,-,,,JTE88_RS04380,WP_204425649.1,150,FHA domain-containing protein
+chromosome,NZ_CP070228.1,985794,988325,-,,pepN,JTE88_RS04385,WP_204425651.1,843,aminopeptidase N
+chromosome,NZ_CP070228.1,989597,991012,-,,der,JTE88_RS04400,WP_239519585.1,471,ribosome biogenesis GTPase Der
+chromosome,NZ_CP070228.1,991108,991806,-,,cmk,JTE88_RS04405,WP_204425655.1,232,(d)CMP kinase
+chromosome,NZ_CP070228.1,991807,992562,-,,,JTE88_RS04410,WP_204425657.1,251,rRNA pseudouridine synthase
+chromosome,NZ_CP070228.1,992559,993122,-,,scpB,JTE88_RS04415,WP_204425659.1,187,SMC-Scp complex subunit ScpB
+chromosome,NZ_CP070228.1,993115,993933,-,,,JTE88_RS04420,WP_204425661.1,272,segregation/condensation protein A
+chromosome,NZ_CP070228.1,993943,994797,-,,,JTE88_RS04425,WP_204425663.1,284,ParA family protein
+chromosome,NZ_CP070228.1,994818,995750,-,,xerD,JTE88_RS04430,WP_204422960.1,310,site-specific tyrosine recombinase XerD
+chromosome,NZ_CP070228.1,995849,997945,+,,tkt,JTE88_RS04435,WP_204422961.1,698,transketolase
+chromosome,NZ_CP070228.1,998113,998358,-,,secG,JTE88_RS04440,WP_091281421.1,81,MULTISPECIES: preprotein translocase subunit SecG
+chromosome,NZ_CP070228.1,998482,999261,-,,tpiA,JTE88_RS04445,WP_204422962.1,259,triose-phosphate isomerase
+chromosome,NZ_CP070228.1,999268,1000461,-,,,JTE88_RS04450,WP_204422964.1,397,phosphoglycerate kinase
+chromosome,NZ_CP070228.1,1000599,1001606,-,,gap,JTE88_RS04455,WP_204422967.1,335,type I glyceraldehyde-3-phosphate dehydrogenase
+chromosome,NZ_CP070228.1,1001824,1002816,-,,whiA,JTE88_RS04460,WP_204422969.1,330,DNA-binding protein WhiA
+chromosome,NZ_CP070228.1,1002913,1003872,-,,yvcK,JTE88_RS04465,WP_204422971.1,319,uridine diphosphate-N-acetylglucosamine-binding protein YvcK
+chromosome,NZ_CP070228.1,1003872,1004807,-,,rapZ,JTE88_RS04470,WP_204422972.1,311,RNase adapter RapZ
+chromosome,NZ_CP070228.1,1004824,1006797,-,,uvrC,JTE88_RS04475,WP_204422973.1,657,excinuclease ABC subunit UvrC
+chromosome,NZ_CP070228.1,1006800,1009664,-,,uvrA,JTE88_RS04480,WP_204422975.1,954,excinuclease ABC subunit UvrA
+chromosome,NZ_CP070228.1,1009739,1010017,+,,,JTE88_RS04485,WP_204422978.1,92,YciI family protein
+chromosome,NZ_CP070228.1,1010008,1010967,+,,,JTE88_RS04490,WP_204422980.1,319,bile acid:sodium symporter family protein
+chromosome,NZ_CP070228.1,1011588,1013516,+,,,JTE88_RS04500,WP_204422982.1,642,hypothetical protein
+chromosome,NZ_CP070228.1,1013521,1014165,+,,,JTE88_RS04505,WP_204422984.1,214,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,1014237,1015844,-,,,JTE88_RS04510,WP_204422986.1,535,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,1016915,1017901,-,,,JTE88_RS04520,WP_204425760.1,328,TerC/Alx family metal homeostasis membrane protein
+chromosome,NZ_CP070228.1,1018162,1020213,-,,uvrB,JTE88_RS04525,WP_204422990.1,683,excinuclease ABC subunit UvrB
+chromosome,NZ_CP070228.1,1020368,1021621,-,,,JTE88_RS04530,WP_204422993.1,417,MFS transporter
+chromosome,NZ_CP070228.1,1021738,1022583,-,,coaE,JTE88_RS04535,WP_204422998.1,281,dephospho-CoA kinase
+chromosome,NZ_CP070228.1,1022695,1023777,-,,,JTE88_RS04540,WP_204422999.1,360,ABC transporter permease
+chromosome,NZ_CP070228.1,1023774,1024418,-,,,JTE88_RS04545,WP_239519479.1,214,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,1024411,1025421,-,,,JTE88_RS04550,WP_204423001.1,336,peptidoglycan-binding protein
+chromosome,NZ_CP070228.1,1025500,1025820,-,,,JTE88_RS04555,WP_204423003.1,106,hypothetical protein
+chromosome,NZ_CP070228.1,1025918,1026661,+,,,JTE88_RS04560,WP_204423004.1,247,hypothetical protein
+chromosome,NZ_CP070228.1,1026760,1028232,-,,rpsA,JTE88_RS04565,WP_204423006.1,490,30S ribosomal protein S1
+chromosome,NZ_CP070228.1,1028403,1029191,+,,,JTE88_RS04570,WP_204423008.1,262,methyltransferase domain-containing protein
+chromosome,NZ_CP070228.1,1029210,1031921,-,,polA,JTE88_RS04575,WP_204423010.1,903,DNA polymerase I
+chromosome,NZ_CP070228.1,1031976,1032377,+,,,JTE88_RS04580,WP_204423012.1,133,PaaI family thioesterase
+chromosome,NZ_CP070228.1,1032355,1032975,-,,,JTE88_RS04585,WP_239519586.1,206,response regulator
+chromosome,NZ_CP070228.1,1033231,1034649,-,,pyk,JTE88_RS04595,WP_204423016.1,472,pyruvate kinase
+chromosome,NZ_CP070228.1,1034660,1035523,-,,lgt,JTE88_RS04600,WP_204423018.1,287,prolipoprotein diacylglyceryl transferase
+chromosome,NZ_CP070228.1,1035568,1036437,-,,,JTE88_RS04605,WP_204423020.1,289,hypothetical protein
+chromosome,NZ_CP070228.1,1036430,1037806,-,,,JTE88_RS04610,WP_239519480.1,458,proteasome accessory factor PafA2 family protein
+chromosome,NZ_CP070228.1,1037803,1037982,-,,,JTE88_RS04615,WP_204423022.1,59,ubiquitin-like protein Pup
+chromosome,NZ_CP070228.1,1037982,1039526,-,,,JTE88_RS04620,WP_204423024.1,514,depupylase/deamidase Dop
+chromosome,NZ_CP070228.1,1039534,1041060,-,,arc,JTE88_RS04625,WP_204423025.1,508,proteasome ATPase
+chromosome,NZ_CP070228.1,1041070,1042179,-,,,JTE88_RS04630,WP_204423027.1,369,tRNA (adenine-N1)-methyltransferase
+chromosome,NZ_CP070228.1,1042310,1043185,+,,,JTE88_RS04635,WP_204423028.1,291,PD-(D/E)XK nuclease family protein
+chromosome,NZ_CP070228.1,1043118,1043783,-,,,JTE88_RS04640,WP_204423030.1,221,HAD family phosphatase
+chromosome,NZ_CP070228.1,1043795,1044637,-,,,JTE88_RS04645,WP_204423031.1,280,undecaprenyl-diphosphate phosphatase
+chromosome,NZ_CP070228.1,1044684,1045625,+,,,JTE88_RS04650,WP_204423033.1,313,aldo/keto reductase
+chromosome,NZ_CP070228.1,1045698,1046045,-,,,JTE88_RS04655,WP_204423034.1,115,DNA primase
+chromosome,NZ_CP070228.1,1046083,1046979,-,,,JTE88_RS04660,WP_204423035.1,298,shikimate dehydrogenase
+chromosome,NZ_CP070228.1,1047925,1048479,-,,,JTE88_RS04675,WP_204423037.1,184,hypothetical protein
+chromosome,NZ_CP070228.1,1048479,1048937,-,,,JTE88_RS04680,WP_204423038.1,152,hypothetical protein
+chromosome,NZ_CP070228.1,1049007,1052171,-,,,JTE88_RS04685,WP_204423039.1,1054,error-prone DNA polymerase
+chromosome,NZ_CP070228.1,1052168,1053721,-,,,JTE88_RS04690,WP_204423040.1,517,hypothetical protein
+chromosome,NZ_CP070228.1,1053718,1054359,-,,,JTE88_RS04695,WP_204423041.1,213,hypothetical protein
+chromosome,NZ_CP070228.1,1054445,1054921,+,,,JTE88_RS04700,WP_204423044.1,158,tRNA (cytidine(34)-2\\'-O)-methyltransferase
+chromosome,NZ_CP070228.1,1055054,1055353,+,,,JTE88_RS04705,WP_204423045.1,99,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,1055356,1056201,-,,,JTE88_RS04710,WP_204423046.1,281,RNA methyltransferase
+chromosome,NZ_CP070228.1,1056286,1057332,-,,,JTE88_RS04715,WP_204423047.1,348,SPFH/Band 7/PHB domain protein
+chromosome,NZ_CP070228.1,1057358,1057777,-,,,JTE88_RS04720,WP_204423048.1,139,NfeD family protein
+chromosome,NZ_CP070228.1,1057857,1058642,-,,,JTE88_RS04725,WP_204423050.1,261,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1058682,1059905,-,,glgA,JTE88_RS04730,WP_204423052.1,407,glycogen synthase
+chromosome,NZ_CP070228.1,1060091,1061350,+,,,JTE88_RS04735,WP_204423054.1,419,glucose-1-phosphate adenylyltransferase
+chromosome,NZ_CP070228.1,1061457,1061948,-,,,JTE88_RS04740,WP_204423056.1,163,histidine phosphatase family protein
+chromosome,NZ_CP070228.1,1061952,1063565,-,,,JTE88_RS04745,WP_239519481.1,537,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,1063681,1064574,+,,,JTE88_RS04750,WP_204423058.1,297,neutral zinc metallopeptidase
+chromosome,NZ_CP070228.1,1064680,1064997,-,,,JTE88_RS04755,WP_204423059.1,105,metal-sulfur cluster assembly factor
+chromosome,NZ_CP070228.1,1065078,1065539,-,,,JTE88_RS04760,WP_204423061.1,153,SUF system NifU family Fe-S cluster assembly protein
+chromosome,NZ_CP070228.1,1065542,1066810,-,,,JTE88_RS04765,WP_204423062.1,422,SufS family cysteine desulfurase
+chromosome,NZ_CP070228.1,1066814,1067563,-,,sufC,JTE88_RS04770,WP_204423063.1,249,Fe-S cluster assembly ATPase SufC
+chromosome,NZ_CP070228.1,1067601,1067924,-,,,JTE88_RS04775,WP_204423065.1,107,non-heme iron oxygenase ferredoxin subunit
+chromosome,NZ_CP070228.1,1067917,1069047,-,,sufD,JTE88_RS04780,WP_204423067.1,376,Fe-S cluster assembly protein SufD
+chromosome,NZ_CP070228.1,1069047,1070486,-,,sufB,JTE88_RS04785,WP_204423069.1,479,Fe-S cluster assembly protein SufB
+chromosome,NZ_CP070228.1,1070483,1071214,-,,,JTE88_RS04790,WP_204423071.1,243,HTH domain-containing protein
+chromosome,NZ_CP070228.1,1071337,1071954,-,,,JTE88_RS04795,WP_204423073.1,205,NUDIX hydrolase
+chromosome,NZ_CP070228.1,1071951,1073522,-,,,JTE88_RS04800,WP_204423075.1,523,MATE family efflux transporter
+chromosome,NZ_CP070228.1,1073549,1074364,-,,,JTE88_RS04805,WP_204423077.1,271,"beta-carotene 15,15\\'-monooxygenase"
+chromosome,NZ_CP070228.1,1074361,1075389,-,,,JTE88_RS04810,WP_204423079.1,342,copper transporter
+chromosome,NZ_CP070228.1,1075399,1076577,-,,steA,JTE88_RS04815,WP_239519482.1,392,putative cytokinetic ring protein SteA
+chromosome,NZ_CP070228.1,1076585,1078279,-,,recN,JTE88_RS04820,WP_204423083.1,564,DNA repair protein RecN
+chromosome,NZ_CP070228.1,1078272,1079207,-,,,JTE88_RS04825,WP_204423084.1,311,NAD kinase
+chromosome,NZ_CP070228.1,1079281,1080120,-,,,JTE88_RS04830,WP_204423086.1,279,TlyA family RNA methyltransferase
+chromosome,NZ_CP070228.1,1080129,1080299,-,,,JTE88_RS04835,WP_204423088.1,56,hypothetical protein
+chromosome,NZ_CP070228.1,1080309,1081319,-,,,JTE88_RS04840,WP_204423096.1,336,HAD-IIA family hydrolase
+chromosome,NZ_CP070228.1,1081312,1082640,-,,,JTE88_RS04845,WP_204423098.1,442,hypothetical protein
+chromosome,NZ_CP070228.1,1088507,1089085,+,,,JTE88_RS04865,WP_204423106.1,192,TMEM175 family protein
+chromosome,NZ_CP070228.1,1089462,1089614,-,,,JTE88_RS04870,WP_204423108.1,50,hypothetical protein
+chromosome,NZ_CP070228.1,1090435,1090701,-,,,JTE88_RS04880,WP_204423112.1,88,hypothetical protein
+chromosome,NZ_CP070228.1,1091653,1092684,-,,,JTE88_RS04885,WP_204423114.1,343,DUF5692 family protein
+chromosome,NZ_CP070228.1,1092757,1093764,-,,,JTE88_RS04890,WP_204425765.1,335,hypothetical protein
+chromosome,NZ_CP070228.1,1093969,1095327,+,,,JTE88_RS04895,WP_204423116.1,452,DUF5692 family protein
+chromosome,NZ_CP070228.1,1095489,1096748,-,,tyrS,JTE88_RS04900,WP_204423118.1,419,tyrosine--tRNA ligase
+chromosome,NZ_CP070228.1,1096951,1098387,+,,,JTE88_RS04905,WP_239519483.1,478,hypothetical protein
+chromosome,NZ_CP070228.1,1098480,1099226,-,,,JTE88_RS04910,WP_239519484.1,248,nitroreductase family protein
+chromosome,NZ_CP070228.1,1099223,1099729,-,,argR,JTE88_RS04915,WP_204425768.1,168,arginine repressor
+chromosome,NZ_CP070228.1,1099729,1100874,-,,,JTE88_RS04920,WP_204423120.1,381,aminotransferase class III-fold pyridoxal phosphate-dependent enzyme
+chromosome,NZ_CP070228.1,1100958,1101746,-,,,JTE88_RS04925,WP_204423121.1,262,SDR family oxidoreductase
+chromosome,NZ_CP070228.1,1101887,1104469,-,,pheT,JTE88_RS04930,WP_204423123.1,860,phenylalanine--tRNA ligase subunit beta
+chromosome,NZ_CP070228.1,1104469,1105551,-,,pheS,JTE88_RS04935,WP_204423124.1,360,phenylalanine--tRNA ligase subunit alpha
+chromosome,NZ_CP070228.1,1105781,1106131,+,,,JTE88_RS04940,WP_204423126.1,116,hypothetical protein
+chromosome,NZ_CP070228.1,1106365,1107282,-,,,JTE88_RS04945,WP_204423128.1,305,dihydrodipicolinate synthase family protein
+chromosome,NZ_CP070228.1,1107294,1108103,-,,,JTE88_RS04950,WP_204423130.1,269,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,1108100,1110139,-,,,JTE88_RS04955,WP_204423132.1,679,dipeptide/oligopeptide/nickel ABC transporter permease/ATP-binding protein
+chromosome,NZ_CP070228.1,1110142,1111092,-,,,JTE88_RS04960,WP_204423133.1,316,ABC transporter permease
+chromosome,NZ_CP070228.1,1111185,1112756,-,,,JTE88_RS04965,WP_204423135.1,523,ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,1112930,1113778,-,,,JTE88_RS04970,WP_204423137.1,282,RNA methyltransferase
+chromosome,NZ_CP070228.1,1113858,1114238,-,,rplT,JTE88_RS04975,WP_204423139.1,126,50S ribosomal protein L20
+chromosome,NZ_CP070228.1,1114266,1114460,-,,rpmI,JTE88_RS04980,WP_013170184.1,64,MULTISPECIES: 50S ribosomal protein L35
+chromosome,NZ_CP070228.1,1114553,1115248,-,,infC,JTE88_RS04985,WP_204423141.1,231,translation initiation factor IF-3
+chromosome,NZ_CP070228.1,1115423,1116142,-,,,JTE88_RS04990,WP_204423142.1,239,SseB family protein
+chromosome,NZ_CP070228.1,1116135,1116713,-,,,JTE88_RS04995,WP_204423144.1,192,hypothetical protein
+chromosome,NZ_CP070228.1,1116912,1117676,+,,,JTE88_RS05000,WP_204423145.1,254,VIT family protein
+chromosome,NZ_CP070228.1,1117755,1118555,-,,,JTE88_RS05005,WP_204423147.1,266,isoprenyl transferase
+chromosome,NZ_CP070228.1,1118562,1119290,-,,recO,JTE88_RS05010,WP_204423149.1,242,DNA repair protein RecO
+chromosome,NZ_CP070228.1,1119297,1120229,-,,era,JTE88_RS05015,WP_204423151.1,310,GTPase Era
+chromosome,NZ_CP070228.1,1120222,1121487,-,,,JTE88_RS05020,WP_204423152.1,421,hemolysin family protein
+chromosome,NZ_CP070228.1,1121494,1122006,-,,ybeY,JTE88_RS05025,WP_204423154.1,170,rRNA maturation RNase YbeY
+chromosome,NZ_CP070228.1,1121999,1122964,-,,,JTE88_RS05030,WP_204423156.1,321,PhoH family protein
+chromosome,NZ_CP070228.1,1122975,1123718,-,,,JTE88_RS05035,WP_204423158.1,247,16S rRNA (uracil(1498)-N(3))-methyltransferase
+chromosome,NZ_CP070228.1,1123718,1124866,-,,dnaJ,JTE88_RS05040,WP_204423160.1,382,molecular chaperone DnaJ
+chromosome,NZ_CP070228.1,1124905,1125933,-,,hrcA,JTE88_RS05045,WP_204423162.1,342,heat-inducible transcriptional repressor HrcA
+chromosome,NZ_CP070228.1,1126174,1127391,-,,,JTE88_RS05050,WP_204423164.1,405,ATP-binding protein
+chromosome,NZ_CP070228.1,1127549,1128412,+,,,JTE88_RS05055,WP_239519485.1,287,DUF3097 family protein
+chromosome,NZ_CP070228.1,1128538,1129155,-,,,JTE88_RS05060,WP_204423168.1,205,hypothetical protein
+chromosome,NZ_CP070228.1,1129349,1136308,-,,pulA,JTE88_RS05065,WP_204423170.1,2319,"pullulanase-type alpha-1,6-glucosidase"
+chromosome,NZ_CP070228.1,1137300,1137959,-,,,JTE88_RS05070,WP_204423172.1,219,hypothetical protein
+chromosome,NZ_CP070228.1,1137963,1138286,-,,,JTE88_RS05075,WP_204423174.1,107,hypothetical protein
+chromosome,NZ_CP070228.1,1138365,1139555,-,,hemW,JTE88_RS05080,WP_204423176.1,396,radical SAM family heme chaperone HemW
+chromosome,NZ_CP070228.1,1139552,1140370,-,,trmB,JTE88_RS05085,WP_204423177.1,272,tRNA (guanosine(46)-N7)-methyltransferase TrmB
+chromosome,NZ_CP070228.1,1140367,1142226,-,,lepA,JTE88_RS05090,WP_204423179.1,619,translation elongation factor 4
+chromosome,NZ_CP070228.1,1142304,1142903,+,,,JTE88_RS05095,WP_204423181.1,199,hypothetical protein
+chromosome,NZ_CP070228.1,1143006,1143506,+,,,JTE88_RS05100,WP_204423183.1,166,PH domain-containing protein
+chromosome,NZ_CP070228.1,1143511,1144116,+,,,JTE88_RS05105,WP_239519486.1,201,type II toxin-antitoxin system PemK/MazF family toxin
+chromosome,NZ_CP070228.1,1144337,1144603,+,,rpsT,JTE88_RS05110,WP_204423187.1,88,30S ribosomal protein S20
+chromosome,NZ_CP070228.1,1144691,1145653,-,,holA,JTE88_RS05115,WP_204423189.1,320,DNA polymerase III subunit delta
+chromosome,NZ_CP070228.1,1145658,1147088,-,,,JTE88_RS05120,WP_204423194.1,476,ComEC/Rec2 family competence protein
+chromosome,NZ_CP070228.1,1147091,1147981,-,,,JTE88_RS05125,WP_204423196.1,296,helix-hairpin-helix domain-containing protein
+chromosome,NZ_CP070228.1,1148115,1149995,+,,,JTE88_RS05130,WP_204423197.1,626,DUF853 family protein
+chromosome,NZ_CP070228.1,1150153,1151115,-,,,JTE88_RS05135,WP_204425770.1,320,aldose 1-epimerase
+chromosome,NZ_CP070228.1,1151393,1154272,-,,leuS,JTE88_RS05140,WP_204423199.1,959,leucine--tRNA ligase
+chromosome,NZ_CP070228.1,1154389,1154826,+,,,JTE88_RS05145,WP_204423201.1,145,HIT family protein
+chromosome,NZ_CP070228.1,1154831,1155511,-,,,JTE88_RS05150,WP_204423202.1,226,vitamin K epoxide reductase family protein
+chromosome,NZ_CP070228.1,1155513,1156271,-,,,JTE88_RS05155,WP_204423204.1,252,HAD-IIB family hydrolase
+chromosome,NZ_CP070228.1,1156363,1157616,+,,,JTE88_RS05160,WP_204423209.1,417,AI-2E family transporter
+chromosome,NZ_CP070228.1,1157697,1158404,+,,,JTE88_RS05165,WP_204423211.1,235,DeoD-type purine-nucleoside phosphorylase
+chromosome,NZ_CP070228.1,1158593,1158844,-,,,JTE88_RS05170,WP_204423212.1,83,hypothetical protein
+chromosome,NZ_CP070228.1,1158930,1159919,+,,,JTE88_RS05175,WP_204423217.1,329,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,1159916,1160650,+,,,JTE88_RS05180,WP_204423219.1,244,ABC transporter permease
+chromosome,NZ_CP070228.1,1160784,1161611,+,,,JTE88_RS05185,WP_204423220.1,275,MetQ/NlpA family ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,1161742,1165251,-,,,JTE88_RS05190,WP_204423222.1,1169,proline dehydrogenase family protein
+chromosome,NZ_CP070228.1,1165403,1166977,+,,putP,JTE88_RS05195,WP_204423223.1,524,sodium/proline symporter PutP
+chromosome,NZ_CP070228.1,1167031,1167675,-,,,JTE88_RS05200,WP_204423225.1,214,pyroglutamyl-peptidase I
+chromosome,NZ_CP070228.1,1167770,1173220,-,,,JTE88_RS05205,WP_204423230.1,1816,S8 family serine peptidase
+chromosome,NZ_CP070228.1,1173505,1174104,+,,,JTE88_RS05210,WP_204423232.1,199,DUF998 domain-containing protein
+chromosome,NZ_CP070228.1,1174067,1174726,+,,,JTE88_RS05215,WP_204423234.1,219,alpha/beta hydrolase
+chromosome,NZ_CP070228.1,1174730,1177927,-,,lysX,JTE88_RS05220,WP_204423235.1,1065,bifunctional lysylphosphatidylglycerol synthetase/lysine--tRNA ligase LysX
+chromosome,NZ_CP070228.1,1177964,1179046,-,,pyrB,JTE88_RS05225,WP_204423237.1,360,aspartate carbamoyltransferase
+chromosome,NZ_CP070228.1,1179049,1179687,-,,pyrE,JTE88_RS05230,WP_204425772.1,212,orotate phosphoribosyltransferase
+chromosome,NZ_CP070228.1,1179690,1180388,-,,pyrF,JTE88_RS05235,WP_204423239.1,232,orotidine-5\\'-phosphate decarboxylase
+chromosome,NZ_CP070228.1,1180385,1181317,-,,,JTE88_RS05240,WP_204423246.1,310,dihydroorotate dehydrogenase
+chromosome,NZ_CP070228.1,1181314,1182078,-,,,JTE88_RS05245,WP_204423247.1,254,dihydroorotate dehydrogenase electron transfer subunit
+chromosome,NZ_CP070228.1,1182083,1185274,-,,carB,JTE88_RS05250,WP_204423259.1,1063,carbamoyl-phosphate synthase large subunit
+chromosome,NZ_CP070228.1,1185327,1186592,-,,,JTE88_RS05255,WP_204423261.1,421,dihydroorotase
+chromosome,NZ_CP070228.1,1186977,1187834,-,,,JTE88_RS05260,WP_204423262.1,285,hypothetical protein
+chromosome,NZ_CP070228.1,1187921,1189501,-,,,JTE88_RS05265,WP_204423264.1,526,Na+/H+ antiporter NhaC family protein
+chromosome,NZ_CP070228.1,1189673,1189918,+,,,JTE88_RS05270,WP_204423266.1,81,MULTISPECIES: type B 50S ribosomal protein L31
+chromosome,NZ_CP070228.1,1189935,1190831,-,,,JTE88_RS05275,WP_204423267.1,298,alpha/beta hydrolase fold domain-containing protein
+chromosome,NZ_CP070228.1,1190832,1192400,-,,,JTE88_RS05280,WP_204423268.1,522,MFS transporter
+chromosome,NZ_CP070228.1,1192412,1193038,-,,,JTE88_RS05285,WP_204423270.1,208,TetR family transcriptional regulator
+chromosome,NZ_CP070228.1,1193080,1193430,-,,crcB,JTE88_RS05290,WP_204423271.1,116,fluoride efflux transporter CrcB
+chromosome,NZ_CP070228.1,1193427,1193813,-,,,JTE88_RS05295,WP_204423273.1,128,CrcB family protein
+chromosome,NZ_CP070228.1,1193810,1194829,-,,,JTE88_RS05300,WP_204423275.1,339,diacylglycerol kinase family protein
+chromosome,NZ_CP070228.1,1195018,1195470,+,,,JTE88_RS05305,WP_204423280.1,150,LytTR family transcriptional regulator
+chromosome,NZ_CP070228.1,1195480,1196229,+,,,JTE88_RS05310,WP_204423282.1,249,DUF3021 family protein
+chromosome,NZ_CP070228.1,1196597,1197187,+,,,JTE88_RS05315,WP_204423284.1,196,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,1197414,1199129,+,,,JTE88_RS05320,WP_239519487.1,571,SulP family inorganic anion transporter
+chromosome,NZ_CP070228.1,1199629,1200228,-,,,JTE88_RS05325,WP_204423285.1,199,winged helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,1200225,1200584,-,,,JTE88_RS05330,WP_204423286.1,119,hypothetical protein
+chromosome,NZ_CP070228.1,1200627,1201559,-,,,JTE88_RS05335,WP_204423288.1,310,MFS transporter
+chromosome,NZ_CP070228.1,1201963,1202145,-,,,JTE88_RS05340,WP_204423290.1,60,hypothetical protein
+chromosome,NZ_CP070228.1,1202587,1202826,+,,,JTE88_RS05345,WP_204423291.1,79,hypothetical protein
+chromosome,NZ_CP070228.1,1203011,1204891,+,,,JTE88_RS05350,WP_239519488.1,626,chloride channel protein
+chromosome,NZ_CP070228.1,1204893,1205666,-,,,JTE88_RS05355,WP_204423293.1,257,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1205663,1207117,-,,,JTE88_RS05360,WP_239519489.1,484,ABC transporter permease subunit
+chromosome,NZ_CP070228.1,1207525,1208682,-,,,JTE88_RS05365,WP_204423296.1,385,MFS transporter
+chromosome,NZ_CP070228.1,1209568,1209942,+,,,JTE88_RS05370,WP_204423298.1,124,PH domain-containing protein
+chromosome,NZ_CP070228.1,1210044,1210307,-,,,JTE88_RS05375,WP_204423300.1,87,hypothetical protein
+chromosome,NZ_CP070228.1,1210616,1211812,-,,,JTE88_RS05380,WP_204423301.1,398,MFS transporter
+chromosome,NZ_CP070228.1,1212024,1212764,+,,,JTE88_RS05390,WP_204423307.1,246,DUF1524 domain-containing protein
+chromosome,NZ_CP070228.1,1212994,1213650,-,,,JTE88_RS05400,WP_204423308.1,218,phosphoglycerate mutase family protein
+chromosome,NZ_CP070228.1,1213660,1214130,-,,rsfS,JTE88_RS05405,WP_204423315.1,156,ribosome silencing factor
+chromosome,NZ_CP070228.1,1214164,1215150,-,,,JTE88_RS05410,WP_204423316.1,328,hypothetical protein
+chromosome,NZ_CP070228.1,1215147,1215884,-,,nadD,JTE88_RS05415,WP_239519490.1,245,nicotinate-nucleotide adenylyltransferase
+chromosome,NZ_CP070228.1,1216052,1216417,+,,trxA,JTE88_RS05420,WP_204423324.1,121,thioredoxin
+chromosome,NZ_CP070228.1,1216530,1217480,-,,,JTE88_RS05425,WP_204423326.1,316,hypothetical protein
+chromosome,NZ_CP070228.1,1217848,1219374,-,,obgE,JTE88_RS05430,WP_204423327.1,508,GTPase ObgE
+chromosome,NZ_CP070228.1,1219472,1219729,-,,rpmA,JTE88_RS05435,WP_013170278.1,85,MULTISPECIES: 50S ribosomal protein L27
+chromosome,NZ_CP070228.1,1219779,1220084,-,,rplU,JTE88_RS05440,WP_013170279.1,101,MULTISPECIES: 50S ribosomal protein L21
+chromosome,NZ_CP070228.1,1220244,1222754,-,,,JTE88_RS05445,WP_239519491.1,836,Rne/Rng family ribonuclease
+chromosome,NZ_CP070228.1,1223250,1224749,+,,,JTE88_RS05450,WP_204423328.1,499,cytochrome ubiquinol oxidase subunit I
+chromosome,NZ_CP070228.1,1224767,1225906,+,,cydB,JTE88_RS05455,WP_204423330.1,379,cytochrome d ubiquinol oxidase subunit II
+chromosome,NZ_CP070228.1,1226134,1227795,+,,cydD,JTE88_RS05460,WP_204423336.1,553,thiol reductant ABC exporter subunit CydD
+chromosome,NZ_CP070228.1,1227798,1229555,+,,cydC,JTE88_RS05465,WP_239519492.1,585,thiol reductant ABC exporter subunit CydC
+chromosome,NZ_CP070228.1,1229559,1231199,+,,,JTE88_RS05470,WP_204423338.1,546,GAF domain-containing sensor histidine kinase
+chromosome,NZ_CP070228.1,1231279,1231902,-,,,JTE88_RS05475,WP_204425782.1,207,response regulator transcription factor
+chromosome,NZ_CP070228.1,1231943,1232797,-,,mutM,JTE88_RS05480,WP_204423339.1,284,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase
+chromosome,NZ_CP070228.1,1232831,1233556,-,,rnc,JTE88_RS05485,WP_204423341.1,241,ribonuclease III
+chromosome,NZ_CP070228.1,1233556,1234107,-,,,JTE88_RS05490,WP_204423342.1,183,YceD family protein
+chromosome,NZ_CP070228.1,1234162,1234668,-,,,JTE88_RS05495,WP_204423344.1,168,hypothetical protein
+chromosome,NZ_CP070228.1,1234665,1235141,-,,coaD,JTE88_RS05500,WP_204423345.1,158,pantetheine-phosphate adenylyltransferase
+chromosome,NZ_CP070228.1,1235146,1235709,-,,rsmD,JTE88_RS05505,WP_204423350.1,187,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+chromosome,NZ_CP070228.1,1235718,1237985,-,,,JTE88_RS05510,WP_204423351.1,755,ATP-dependent DNA helicase RecG
+chromosome,NZ_CP070228.1,1238218,1238409,+,,rpmB,JTE88_RS05515,WP_091280916.1,63,MULTISPECIES: 50S ribosomal protein L28
+chromosome,NZ_CP070228.1,1238498,1239475,-,,thiL,JTE88_RS05520,WP_204423353.1,325,thiamine-phosphate kinase
+chromosome,NZ_CP070228.1,1239483,1240601,-,,,JTE88_RS05525,WP_204423355.1,372,D-alanine--D-alanine ligase
+chromosome,NZ_CP070228.1,1240646,1241473,-,,,JTE88_RS05530,WP_204423357.1,275,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chromosome,NZ_CP070228.1,1241494,1242816,-,,murA,JTE88_RS05535,WP_204423365.1,440,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+chromosome,NZ_CP070228.1,1243023,1243754,+,,,JTE88_RS05540,WP_091280900.1,243,MULTISPECIES: IclR family transcriptional regulator
+chromosome,NZ_CP070228.1,1243764,1244897,+,,,JTE88_RS05545,WP_204423367.1,377,glycosyltransferase family 4 protein
+chromosome,NZ_CP070228.1,1244964,1246982,+,,,JTE88_RS05550,WP_204423369.1,672,M3 family metallopeptidase
+chromosome,NZ_CP070228.1,1247042,1247965,-,,,JTE88_RS05555,WP_091280890.1,307,MULTISPECIES: phospholipase
+chromosome,NZ_CP070228.1,1249058,1249663,-,,,JTE88_RS05570,WP_204423387.1,201,transposase family protein
+chromosome,NZ_CP070228.1,1250307,1251812,-,,gltX,JTE88_RS05590,WP_204423388.1,501,glutamate--tRNA ligase
+chromosome,NZ_CP070228.1,1251841,1252608,-,,,JTE88_RS05595,WP_091280872.1,255,MULTISPECIES: fumarylacetoacetate hydrolase family protein
+chromosome,NZ_CP070228.1,1252636,1253631,+,,,JTE88_RS05600,WP_204423390.1,331,hypothetical protein
+chromosome,NZ_CP070228.1,1253635,1253940,+,,,JTE88_RS05605,WP_204423392.1,101,MTH1187 family thiamine-binding protein
+chromosome,NZ_CP070228.1,1253950,1254672,-,,,JTE88_RS05610,WP_204423393.1,240,DUF4097 family beta strand repeat-containing protein
+chromosome,NZ_CP070228.1,1254737,1255210,-,,,JTE88_RS05615,WP_204423394.1,157,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,1255419,1256513,-,,,JTE88_RS05620,WP_204423399.1,364,IS1249 family transposase
+chromosome,NZ_CP070228.1,1257149,1257628,-,,bcp,JTE88_RS05630,WP_204423400.1,159,thioredoxin-dependent thiol peroxidase
+chromosome,NZ_CP070228.1,1257690,1258004,-,,,JTE88_RS05635,WP_204423402.1,104,hypothetical protein
+chromosome,NZ_CP070228.1,1258132,1258662,+,,,JTE88_RS05640,WP_204423404.1,176,DUF4916 domain-containing protein
+chromosome,NZ_CP070228.1,1258668,1259300,-,,rdgB,JTE88_RS05645,WP_204423410.1,210,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+chromosome,NZ_CP070228.1,1259300,1260046,-,,rph,JTE88_RS05650,WP_204423412.1,248,ribonuclease PH
+chromosome,NZ_CP070228.1,1260855,1261268,+,,,JTE88_RS05655,WP_204423414.1,137,hypothetical protein
+chromosome,NZ_CP070228.1,1262103,1262660,-,,,JTE88_RS05660,WP_204423416.1,185,hypothetical protein
+chromosome,NZ_CP070228.1,1263026,1264222,-,,,JTE88_RS05665,WP_204423418.1,398,Fic family protein
+chromosome,NZ_CP070228.1,1264369,1265169,-,,,JTE88_RS05670,WP_204423419.1,266,MBL fold metallo-hydrolase
+chromosome,NZ_CP070228.1,1265170,1266030,-,,murI,JTE88_RS05675,WP_204423421.1,286,glutamate racemase
+chromosome,NZ_CP070228.1,1266041,1266724,-,,,JTE88_RS05680,WP_204423423.1,227,DUF2017 family protein
+chromosome,NZ_CP070228.1,1266724,1266987,-,,clpS,JTE88_RS05685,WP_239519587.1,87,ATP-dependent Clp protease adapter ClpS
+chromosome,NZ_CP070228.1,1267108,1268454,+,,,JTE88_RS05690,WP_204423430.1,448,nicotinate phosphoribosyltransferase
+chromosome,NZ_CP070228.1,1268639,1270435,-,,,JTE88_RS05695,WP_204423431.1,598,DEAD/DEAH box helicase
+chromosome,NZ_CP070228.1,1270432,1270788,-,,,JTE88_RS05700,WP_204423433.1,118,DUF3039 domain-containing protein
+chromosome,NZ_CP070228.1,1270949,1271230,-,,,JTE88_RS05705,WP_204423435.1,93,MULTISPECIES: HU family DNA-binding protein
+chromosome,NZ_CP070228.1,1271423,1272961,-,,,JTE88_RS05710,WP_239519493.1,512,transporter
+chromosome,NZ_CP070228.1,1273082,1274353,+,,,JTE88_RS05715,WP_204423438.1,423,alpha/beta hydrolase-fold protein
+chromosome,NZ_CP070228.1,1274527,1275264,-,,dhaM,JTE88_RS05720,WP_204423440.1,245,dihydroxyacetone kinase phosphoryl donor subunit DhaM
+chromosome,NZ_CP070228.1,1275264,1276997,-,,dhaK,JTE88_RS05725,WP_204423441.1,577,dihydroxyacetone kinase subunit DhaK
+chromosome,NZ_CP070228.1,1277153,1278316,+,,,JTE88_RS05730,WP_204423442.1,387,AI-2E family transporter
+chromosome,NZ_CP070228.1,1278333,1279160,-,,nadE,JTE88_RS05735,WP_204423443.1,275,ammonia-dependent NAD(+) synthetase
+chromosome,NZ_CP070228.1,1279317,1283933,+,,,JTE88_RS05740,WP_204423444.1,1538,TIGR03773 family transporter-associated surface protein
+chromosome,NZ_CP070228.1,1284036,1284380,-,,,JTE88_RS05745,WP_204423447.1,114,N-acetyltransferase
+chromosome,NZ_CP070228.1,1284410,1285429,-,,,JTE88_RS05750,WP_204423449.1,339,pirin family protein
+chromosome,NZ_CP070228.1,1285475,1286464,-,,,JTE88_RS05755,WP_204423455.1,329,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1286461,1288893,-,,,JTE88_RS05760,WP_204423457.1,810,substrate-binding domain-containing protein
+chromosome,NZ_CP070228.1,1288967,1290295,-,,,JTE88_RS05765,WP_239519494.1,442,MFS transporter
+chromosome,NZ_CP070228.1,1290467,1291162,-,,,JTE88_RS05770,WP_204423461.1,231,response regulator transcription factor
+chromosome,NZ_CP070228.1,1291159,1291965,-,,,JTE88_RS05775,WP_239519495.1,268,ATP-binding protein
+chromosome,NZ_CP070228.1,1291993,1292958,-,,hemH,JTE88_RS05780,WP_204423466.1,321,ferrochelatase
+chromosome,NZ_CP070228.1,1293152,1294906,+,,spxB,JTE88_RS05785,WP_204423473.1,584,pyruvate oxidase
+chromosome,NZ_CP070228.1,1295051,1295962,+,,,JTE88_RS05790,WP_204423475.1,303,hypothetical protein
+chromosome,NZ_CP070228.1,1295959,1296336,+,,,JTE88_RS05795,WP_204423476.1,125,GntR family transcriptional regulator
+chromosome,NZ_CP070228.1,1296504,1297175,+,,,JTE88_RS05800,WP_204423482.1,223,queuosine precursor transporter
+chromosome,NZ_CP070228.1,1297138,1297842,-,,,JTE88_RS05805,WP_204423490.1,234,nitroreductase family protein
+chromosome,NZ_CP070228.1,1297889,1298941,+,,,JTE88_RS05810,WP_204423491.1,350,LD-carboxypeptidase
+chromosome,NZ_CP070228.1,1299059,1299634,+,,,JTE88_RS05815,WP_204423493.1,191,hypothetical protein
+chromosome,NZ_CP070228.1,1299716,1300015,-,,,JTE88_RS05820,WP_204423494.1,99,hypothetical protein
+chromosome,NZ_CP070228.1,1300202,1301950,+,,,JTE88_RS05825,WP_204423498.1,582,cytochrome c biogenesis protein/redoxin
+chromosome,NZ_CP070228.1,1301993,1302547,+,,,JTE88_RS05830,WP_204423499.1,184,sigma-70 family RNA polymerase sigma factor
+chromosome,NZ_CP070228.1,1302544,1303236,+,,,JTE88_RS05835,WP_204423500.1,230,anti-sigma factor
+chromosome,NZ_CP070228.1,1303328,1303480,-,,,JTE88_RS05840,WP_204425856.1,50,hypothetical protein
+chromosome,NZ_CP070228.1,1303650,1304105,+,,,JTE88_RS05845,WP_204423502.1,151,hypothetical protein
+chromosome,NZ_CP070228.1,1304102,1304296,+,,,JTE88_RS05850,WP_204423503.1,64,helix-turn-helix transcriptional regulator
+chromosome,NZ_CP070228.1,1304376,1304588,+,,,JTE88_RS05855,WP_204423504.1,70,DUF6290 family protein
+chromosome,NZ_CP070228.1,1304657,1304875,+,,,JTE88_RS05860,WP_239519496.1,72,type II toxin-antitoxin system RelE/ParE family toxin
+chromosome,NZ_CP070228.1,1304863,1305534,-,,pdxT,JTE88_RS05865,WP_204423507.1,223,pyridoxal 5\\'-phosphate synthase glutaminase subunit PdxT
+chromosome,NZ_CP070228.1,1305630,1306508,-,,pdxS,JTE88_RS05870,WP_204423512.1,292,pyridoxal 5\\'-phosphate synthase lyase subunit PdxS
+chromosome,NZ_CP070228.1,1306729,1307571,+,,,JTE88_RS05875,WP_204423514.1,280,S-adenosyl-l-methionine hydroxide adenosyltransferase family protein
+chromosome,NZ_CP070228.1,1307589,1308143,+,,,JTE88_RS05880,WP_204423515.1,184,ECF-type riboflavin transporter substrate-binding protein
+chromosome,NZ_CP070228.1,1308176,1309942,+,,,JTE88_RS05885,WP_204423517.1,588,energy-coupling factor ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1309935,1310765,+,,,JTE88_RS05890,WP_239519497.1,276,energy-coupling factor transporter transmembrane protein EcfT
+chromosome,NZ_CP070228.1,1310813,1311466,+,,,JTE88_RS05895,WP_204423520.1,217,HD domain-containing protein
+chromosome,NZ_CP070228.1,1311438,1312316,-,,,JTE88_RS05900,WP_204423522.1,292,metal ABC transporter permease
+chromosome,NZ_CP070228.1,1312313,1313065,-,,,JTE88_RS05905,WP_204423524.1,250,metal ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1313323,1314285,-,,,JTE88_RS05910,WP_204423525.1,320,metal ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,1314448,1315782,+,,,JTE88_RS05915,WP_204423527.1,444,LssY C-terminal domain-containing protein
+chromosome,NZ_CP070228.1,1315871,1316227,+,,,JTE88_RS05920,WP_204423529.1,118,GntR family transcriptional regulator
+chromosome,NZ_CP070228.1,1316250,1316954,+,,,JTE88_RS05925,WP_204423531.1,234,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1316954,1317766,+,,,JTE88_RS05930,WP_204423532.1,270,hypothetical protein
+chromosome,NZ_CP070228.1,1317873,1318619,-,,,JTE88_RS05935,WP_204423533.1,248,amino acid ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1318619,1319284,-,,,JTE88_RS05940,WP_239519498.1,221,ABC transporter permease subunit
+chromosome,NZ_CP070228.1,1319284,1320111,-,,,JTE88_RS05945,WP_204423536.1,275,transporter substrate-binding domain-containing protein
+chromosome,NZ_CP070228.1,1320455,1321765,-,,brnQ,JTE88_RS05950,WP_204423538.1,436,branched-chain amino acid transport system II carrier protein
+chromosome,NZ_CP070228.1,1321850,1322023,-,,,JTE88_RS05955,WP_204423539.1,57,hypothetical protein
+chromosome,NZ_CP070228.1,1322188,1322964,-,,,JTE88_RS05960,WP_204423540.1,258,ABC transporter permease subunit
+chromosome,NZ_CP070228.1,1322964,1323842,-,,,JTE88_RS05965,WP_204423542.1,292,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1324004,1325158,+,,galK,JTE88_RS05970,WP_204423543.1,384,galactokinase
+chromosome,NZ_CP070228.1,1325255,1326682,-,,,JTE88_RS05975,WP_204423545.1,475,NAD(P)/FAD-dependent oxidoreductase
+chromosome,NZ_CP070228.1,1326795,1327556,-,,,JTE88_RS05980,WP_204423546.1,253,sulfite exporter TauE/SafE family protein
+chromosome,NZ_CP070228.1,1327735,1330044,-,,,JTE88_RS05985,WP_239519499.1,769,5\\'-nucleotidase C-terminal domain-containing protein
+chromosome,NZ_CP070228.1,1330183,1331028,-,,,JTE88_RS05990,WP_204423551.1,281,NisI/SpaI family lantibiotic immunity lipoprotein
+chromosome,NZ_CP070228.1,1331109,1332536,-,,purB,JTE88_RS05995,WP_204423552.1,475,adenylosuccinate lyase
+chromosome,NZ_CP070228.1,1332633,1333925,-,,,JTE88_RS06000,WP_204423554.1,430,adenylosuccinate synthase
+chromosome,NZ_CP070228.1,1333948,1335393,-,,,JTE88_RS06005,WP_204423555.1,481,GuaB1 family IMP dehydrogenase-related protein
+chromosome,NZ_CP070228.1,1335581,1338178,+,,,JTE88_RS06010,WP_204423562.1,865,cadherin repeat domain-containing protein
+chromosome,NZ_CP070228.1,1338234,1339343,-,,,JTE88_RS06015,WP_204423569.1,369,Cna B-type domain-containing protein
+chromosome,NZ_CP070228.1,1339333,1340496,-,,,JTE88_RS06020,WP_204423570.1,387,hypothetical protein
+chromosome,NZ_CP070228.1,1340723,1341928,-,,,JTE88_RS06025,WP_204423572.1,401,MFS transporter
+chromosome,NZ_CP070228.1,1341958,1342647,-,,,JTE88_RS06030,WP_204423573.1,229,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP070228.1,1342632,1344386,-,,,JTE88_RS06035,WP_204423574.1,584,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,1344383,1346173,-,,,JTE88_RS06040,WP_204423576.1,596,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,1346163,1347653,-,,,JTE88_RS06045,WP_204423577.1,496,energy-coupling factor ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1347650,1348444,-,,,JTE88_RS06050,WP_204423579.1,264,MULTISPECIES: energy-coupling factor transporter transmembrane protein EcfT
+chromosome,NZ_CP070228.1,1348453,1349073,-,,,JTE88_RS06055,WP_239519500.1,206,MptD family putative ECF transporter S component
+chromosome,NZ_CP070228.1,1349270,1350352,+,,,JTE88_RS06060,WP_204423581.1,360,TDT family transporter
+chromosome,NZ_CP070228.1,1350360,1351139,-,,pstB,JTE88_RS06065,WP_204425792.1,259,phosphate ABC transporter ATP-binding protein PstB
+chromosome,NZ_CP070228.1,1351178,1352257,-,,pstA,JTE88_RS06070,WP_239519501.1,359,phosphate ABC transporter permease PstA
+chromosome,NZ_CP070228.1,1352254,1353375,-,,pstC,JTE88_RS06075,WP_204423583.1,373,phosphate ABC transporter permease subunit PstC
+chromosome,NZ_CP070228.1,1353468,1354544,-,,pstS,JTE88_RS06080,WP_204425796.1,358,phosphate ABC transporter substrate-binding protein PstS
+chromosome,NZ_CP070228.1,1354671,1355363,-,,,JTE88_RS06085,WP_204423585.1,230,response regulator transcription factor
+chromosome,NZ_CP070228.1,1355363,1356529,-,,,JTE88_RS06090,WP_204423587.1,388,ATP-binding protein
+chromosome,NZ_CP070228.1,1356679,1357359,+,,phoU,JTE88_RS06095,WP_204423588.1,226,phosphate signaling complex protein PhoU
+chromosome,NZ_CP070228.1,1357788,1358222,-,,,JTE88_RS06105,WP_204423590.1,144,low molecular weight phosphatase family protein
+chromosome,NZ_CP070228.1,1358394,1358708,+,,,JTE88_RS06110,WP_204423592.1,104,ArsR family transcriptional regulator
+chromosome,NZ_CP070228.1,1358705,1358944,+,,,JTE88_RS06115,WP_204423594.1,79,hypothetical protein
+chromosome,NZ_CP070228.1,1359004,1359660,+,,,JTE88_RS06120,WP_239519588.1,218,permease
+chromosome,NZ_CP070228.1,1359717,1359950,+,,,JTE88_RS06125,WP_204423600.1,77,MTH895/ArsE family thioredoxin-like protein
+chromosome,NZ_CP070228.1,1360072,1361061,-,,,JTE88_RS06130,WP_204423604.1,329,DUF5996 family protein
+chromosome,NZ_CP070228.1,1361502,1362452,+,,,JTE88_RS06135,WP_204423614.1,316,Abi family protein
+chromosome,NZ_CP070228.1,1363674,1364435,-,,,JTE88_RS06145,WP_204423615.1,253,HAD-IIA family hydrolase
+chromosome,NZ_CP070228.1,1364609,1365151,-,,smpB,JTE88_RS06150,WP_204423618.1,180,SsrA-binding protein SmpB
+chromosome,NZ_CP070228.1,1365169,1366476,-,,,JTE88_RS06155,WP_204423619.1,435,peptidoglycan DD-metalloendopeptidase family protein
+chromosome,NZ_CP070228.1,1366479,1367393,-,,ftsX,JTE88_RS06160,WP_204423621.1,304,permease-like cell division protein FtsX
+chromosome,NZ_CP070228.1,1367393,1368082,-,,ftsE,JTE88_RS06165,WP_204423622.1,229,cell division ATP-binding protein FtsE
+chromosome,NZ_CP070228.1,1368294,1369427,-,,prfB,JTE88_RS06170,WP_204423624.1,377,peptide chain release factor 2
+chromosome,NZ_CP070228.1,1369443,1369892,-,,,JTE88_RS06175,WP_204423626.1,149,hypothetical protein
+chromosome,NZ_CP070228.1,1369889,1370326,-,,,JTE88_RS06180,WP_204423628.1,145,hypothetical protein
+chromosome,NZ_CP070228.1,1370310,1370672,-,,,JTE88_RS06185,WP_204423629.1,120,pilus assembly protein
+chromosome,NZ_CP070228.1,1370669,1370854,-,,,JTE88_RS06190,WP_204425800.1,61,hypothetical protein
+chromosome,NZ_CP070228.1,1370920,1371792,-,,,JTE88_RS06195,WP_204423631.1,290,type II secretion system F family protein
+chromosome,NZ_CP070228.1,1371789,1372634,-,,,JTE88_RS06200,WP_204423634.1,281,type II secretion system F family protein
+chromosome,NZ_CP070228.1,1372622,1373866,-,,tadA,JTE88_RS06205,WP_204423636.1,414,"ATPase, T2SS/T4P/T4SS family"
+chromosome,NZ_CP070228.1,1374077,1375090,+,,,JTE88_RS06210,WP_204423637.1,337,phosphotransferase
+chromosome,NZ_CP070228.1,1375095,1378652,-,,,JTE88_RS06215,WP_204423639.1,1185,DEAD/DEAH box helicase
+chromosome,NZ_CP070228.1,1378649,1381795,-,,,JTE88_RS06220,WP_204423640.1,1048,DEAD/DEAH box helicase
+chromosome,NZ_CP070228.1,1381921,1382856,+,,,JTE88_RS06225,WP_204423642.1,311,DUF808 family protein
+chromosome,NZ_CP070228.1,1382906,1383130,+,,,JTE88_RS06230,WP_204423643.1,74,DUF3107 family protein
+chromosome,NZ_CP070228.1,1383164,1384738,+,,,JTE88_RS06235,WP_204423645.1,524,DEAD/DEAH box helicase
+chromosome,NZ_CP070228.1,1384864,1385490,-,,,JTE88_RS06240,WP_204423647.1,208,MarC family protein
+chromosome,NZ_CP070228.1,1385490,1386326,-,,,JTE88_RS06245,WP_204423648.1,278,PHP domain-containing protein
+chromosome,NZ_CP070228.1,1386417,1387925,+,,,JTE88_RS06250,WP_204423650.1,502,aminopeptidase P family protein
+chromosome,NZ_CP070228.1,1388004,1389290,+,,,JTE88_RS06255,WP_204423652.1,428,CBS domain-containing protein
+chromosome,NZ_CP070228.1,1389290,1389871,+,,,JTE88_RS06260,WP_204423653.1,193,DUF1003 domain-containing protein
+chromosome,NZ_CP070228.1,1389877,1391001,+,,,JTE88_RS06265,WP_204423654.1,374,P-loop NTPase
+chromosome,NZ_CP070228.1,1391020,1391649,+,,,JTE88_RS06270,WP_204423656.1,209,O-methyltransferase
+chromosome,NZ_CP070228.1,1391708,1392442,-,,tatC,JTE88_RS06275,WP_204425802.1,244,twin-arginine translocase subunit TatC
+chromosome,NZ_CP070228.1,1392475,1392666,-,,tatA,JTE88_RS06280,WP_204423658.1,63,twin-arginine translocase TatA/TatE family subunit
+chromosome,NZ_CP070228.1,1392854,1393606,+,,modA,JTE88_RS06285,WP_204423660.1,250,molybdate ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,1393609,1395108,+,,,JTE88_RS06290,WP_204423667.1,499,ABC transporter permease
+chromosome,NZ_CP070228.1,1395120,1395608,-,,moaC,JTE88_RS06295,WP_204423669.1,162,cyclic pyranopterin monophosphate synthase MoaC
+chromosome,NZ_CP070228.1,1395619,1396830,-,,,JTE88_RS06300,WP_204423671.1,403,molybdopterin molybdotransferase MoeA
+chromosome,NZ_CP070228.1,1396844,1397560,-,,,JTE88_RS06305,WP_204423672.1,238,HesA/MoeB/ThiF family protein
+chromosome,NZ_CP070228.1,1397608,1398618,+,,,JTE88_RS06310,WP_204423674.1,336,molybdenum cofactor biosynthesis protein MoaE
+chromosome,NZ_CP070228.1,1398628,1398882,-,,,JTE88_RS06315,WP_204423675.1,84,MoaD/ThiS family protein
+chromosome,NZ_CP070228.1,1398920,1400026,-,,moaA,JTE88_RS06320,WP_204423677.1,368,"GTP 3\\',8-cyclase MoaA"
+chromosome,NZ_CP070228.1,1400092,1400967,-,,,JTE88_RS06325,WP_204423679.1,291,4Fe-4S dicluster domain-containing protein
+chromosome,NZ_CP070228.1,1400960,1401586,-,,,JTE88_RS06330,WP_204423680.1,208,molecular chaperone TorD family protein
+chromosome,NZ_CP070228.1,1401707,1402669,-,,,JTE88_RS06335,WP_204423686.1,320,dimethyl sulfoxide reductase anchor subunit
+chromosome,NZ_CP070228.1,1402669,1403310,-,,dmsB,JTE88_RS06340,WP_204425804.1,213,dimethylsulfoxide reductase subunit B
+chromosome,NZ_CP070228.1,1403319,1405871,-,,,JTE88_RS06345,WP_204423688.1,850,molybdopterin-dependent oxidoreductase
+chromosome,NZ_CP070228.1,1406117,1406797,+,,,JTE88_RS06350,WP_204423689.1,226,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP070228.1,1406813,1407163,+,,,JTE88_RS06355,WP_204423691.1,116,translocase
+chromosome,NZ_CP070228.1,1407147,1407419,+,,,JTE88_RS06360,WP_204423693.1,90,DUF6457 domain-containing protein
+chromosome,NZ_CP070228.1,1407423,1408049,+,,,JTE88_RS06365,WP_204423694.1,208,NTP transferase domain-containing protein
+chromosome,NZ_CP070228.1,1408096,1408278,-,,,JTE88_RS06370,WP_204423695.1,60,DUF3117 domain-containing protein
+chromosome,NZ_CP070228.1,1408352,1409071,-,,,JTE88_RS06375,WP_204423697.1,239,TIGR00730 family Rossman fold protein
+chromosome,NZ_CP070228.1,1409174,1409998,+,,,JTE88_RS06380,WP_204423698.1,274,purine-nucleoside phosphorylase
+chromosome,NZ_CP070228.1,1410037,1411725,+,,,JTE88_RS06385,WP_204423700.1,562,phospho-sugar mutase
+chromosome,NZ_CP070228.1,1411953,1412615,-,,deoC,JTE88_RS06390,WP_204423701.1,220,deoxyribose-phosphate aldolase
+chromosome,NZ_CP070228.1,1412679,1413413,-,,,JTE88_RS06395,WP_204423702.1,244,hypothetical protein
+chromosome,NZ_CP070228.1,1413413,1414702,-,,,JTE88_RS06400,WP_204423704.1,429,thymidine phosphorylase
+chromosome,NZ_CP070228.1,1414702,1415172,-,,,JTE88_RS06405,WP_204423706.1,156,cytidine deaminase
+chromosome,NZ_CP070228.1,1415241,1416539,-,,,JTE88_RS06410,WP_239519589.1,432,ABC transporter permease
+chromosome,NZ_CP070228.1,1416563,1417828,-,,,JTE88_RS06415,WP_204423707.1,421,ABC transporter permease
+chromosome,NZ_CP070228.1,1417828,1419378,-,,,JTE88_RS06420,WP_204423709.1,516,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1419566,1420609,-,,,JTE88_RS06425,WP_204425807.1,347,BMP family ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,1420915,1422042,-,,,JTE88_RS06430,WP_239519502.1,375,sugar phosphate nucleotidyltransferase
+chromosome,NZ_CP070228.1,1422071,1423360,-,,,JTE88_RS06435,WP_204423710.1,429,YihY/virulence factor BrkB family protein
+chromosome,NZ_CP070228.1,1423360,1424229,-,,,JTE88_RS06440,WP_204423712.1,289,exodeoxyribonuclease III
+chromosome,NZ_CP070228.1,1424276,1425136,-,,,JTE88_RS06445,WP_204423714.1,286,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+chromosome,NZ_CP070228.1,1425164,1426447,-,,,JTE88_RS06450,WP_204423716.1,427,serine hydroxymethyltransferase
+chromosome,NZ_CP070228.1,1426577,1427437,+,,purU,JTE88_RS06455,WP_204423718.1,286,formyltetrahydrofolate deformylase
+chromosome,NZ_CP070228.1,1428136,1428498,-,,,JTE88_RS06465,WP_204423721.1,120,YchJ family metal-binding protein
+chromosome,NZ_CP070228.1,1428868,1429863,-,,,JTE88_RS06470,WP_091280476.1,331,MULTISPECIES: malate dehydrogenase
+chromosome,NZ_CP070228.1,1430140,1430598,+,,,JTE88_RS06475,WP_204423723.1,152,hypothetical protein
+chromosome,NZ_CP070228.1,1430733,1431050,+,,,JTE88_RS06480,WP_204423724.1,105,hypothetical protein
+chromosome,NZ_CP070228.1,1431141,1432799,-,,pgi,JTE88_RS06485,WP_204423726.1,552,glucose-6-phosphate isomerase
+chromosome,NZ_CP070228.1,1432906,1435161,-,,,JTE88_RS06490,WP_204423727.1,751,alpha-amylase family glycosyl hydrolase
+chromosome,NZ_CP070228.1,1435307,1437598,+,,,JTE88_RS06495,WP_204423729.1,763,6-phosphofructokinase
+chromosome,NZ_CP070228.1,1437661,1437933,-,,,JTE88_RS06500,WP_204423731.1,90,DUF3017 domain-containing protein
+chromosome,NZ_CP070228.1,1437926,1439224,-,,,JTE88_RS06505,WP_204423733.1,432,DUF6350 family protein
+chromosome,NZ_CP070228.1,1439283,1440548,-,,,JTE88_RS06510,WP_204423735.1,421,MFS transporter
+chromosome,NZ_CP070228.1,1440739,1441665,-,,sucD,JTE88_RS06515,WP_204423737.1,308,succinate--CoA ligase subunit alpha
+chromosome,NZ_CP070228.1,1441675,1442847,-,,sucC,JTE88_RS06520,WP_204423738.1,390,ADP-forming succinate--CoA ligase subunit beta
+chromosome,NZ_CP070228.1,1442955,1445078,-,,,JTE88_RS06525,WP_204423740.1,707,acyltransferase
+chromosome,NZ_CP070228.1,1445083,1447602,-,,pcrA,JTE88_RS06530,WP_204423742.1,839,DNA helicase PcrA
+chromosome,NZ_CP070228.1,1447738,1449051,+,,,JTE88_RS06535,WP_204423744.1,437,MFS transporter
+chromosome,NZ_CP070228.1,1449032,1449778,+,,,JTE88_RS06540,WP_204423746.1,248,MerR family transcriptional regulator
+chromosome,NZ_CP070228.1,1449921,1451285,-,,,JTE88_RS06545,WP_204423747.1,454,MFS transporter
+chromosome,NZ_CP070228.1,1451512,1452930,+,,,JTE88_RS06550,WP_239519590.1,472,catalase
+chromosome,NZ_CP070228.1,1453308,1453874,+,,idi,JTE88_RS06555,WP_204423751.1,188,isopentenyl-diphosphate Delta-isomerase
+chromosome,NZ_CP070228.1,1453871,1454962,+,,,JTE88_RS06560,WP_204423752.1,363,polyprenyl synthetase family protein
+chromosome,NZ_CP070228.1,1454959,1455891,+,,,JTE88_RS06565,WP_204423754.1,310,squalene/phytoene synthase family protein
+chromosome,NZ_CP070228.1,1455884,1457626,+,,crtI,JTE88_RS06570,WP_204423756.1,580,phytoene desaturase family protein
+chromosome,NZ_CP070228.1,1457626,1458339,+,,,JTE88_RS06575,WP_204423758.1,237,hypothetical protein
+chromosome,NZ_CP070228.1,1458323,1459237,+,,,JTE88_RS06580,WP_204423760.1,304,prenyltransferase
+chromosome,NZ_CP070228.1,1460164,1460706,-,,,JTE88_RS06585,WP_239519591.1,180,nucleotidyl transferase AbiEii/AbiGii toxin family protein
+chromosome,NZ_CP070228.1,1460779,1461120,-,,,JTE88_RS06590,WP_204423761.1,113,hypothetical protein
+chromosome,NZ_CP070228.1,1461113,1462060,-,,,JTE88_RS06595,WP_204423763.1,315,type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein
+chromosome,NZ_CP070228.1,1462105,1464819,-,,,JTE88_RS06600,WP_204423765.1,904,AAA domain-containing protein
+chromosome,NZ_CP070228.1,1465084,1466847,+,,,JTE88_RS06605,WP_204423767.1,587,DUF262 domain-containing protein
+chromosome,NZ_CP070228.1,1470000,1470746,-,,,JTE88_RS06615,WP_204423769.1,248,carotenoid biosynthesis protein
+chromosome,NZ_CP070228.1,1470964,1471251,+,,,JTE88_RS06620,WP_204423771.1,95,TfoX/Sxy family protein
+chromosome,NZ_CP070228.1,1472261,1472539,+,,,JTE88_RS06630,WP_204423773.1,92,hypothetical protein
+chromosome,NZ_CP070228.1,1473113,1473289,+,,,JTE88_RS06635,WP_204423775.1,58,hypothetical protein
+chromosome,NZ_CP070228.1,1473588,1473749,+,,,JTE88_RS06640,WP_204423777.1,53,hypothetical protein
+chromosome,NZ_CP070228.1,1475013,1475468,-,,,JTE88_RS06645,WP_204423779.1,151,hypothetical protein
+chromosome,NZ_CP070228.1,1475854,1479246,-,,,JTE88_RS06650,WP_204423781.1,1130,DUF499 domain-containing protein
+chromosome,NZ_CP070228.1,1479327,1482104,-,,,JTE88_RS06655,WP_204423782.1,925,DUF1156 domain-containing protein
+chromosome,NZ_CP070228.1,1482152,1485727,-,,,JTE88_RS06660,WP_239519503.1,1191,helicase-related protein
+chromosome,NZ_CP070228.1,1485798,1489415,-,,,JTE88_RS06665,WP_204423783.1,1205,SIR2 family protein
+chromosome,NZ_CP070228.1,1490177,1490338,-,,,JTE88_RS06675,WP_204423785.1,53,hypothetical protein
+chromosome,NZ_CP070228.1,1490338,1490532,-,,,JTE88_RS06680,WP_204423787.1,64,hypothetical protein
+chromosome,NZ_CP070228.1,1491030,1491419,+,,,JTE88_RS06685,WP_204423789.1,129,hypothetical protein
+chromosome,NZ_CP070228.1,1491554,1493119,-,,guaA,JTE88_RS06690,WP_204423790.1,521,MULTISPECIES: glutamine-hydrolyzing GMP synthase
+chromosome,NZ_CP070228.1,1493319,1493585,+,,,JTE88_RS06695,WP_204423792.1,88,MULTISPECIES: hypothetical protein
+chromosome,NZ_CP070228.1,1493650,1494579,-,,,JTE88_RS06700,WP_204423794.1,309,pseudouridine synthase
+chromosome,NZ_CP070228.1,1494659,1496278,+,,pta,JTE88_RS06705,WP_204423796.1,539,phosphate acetyltransferase
+chromosome,NZ_CP070228.1,1496336,1497508,+,,,JTE88_RS06710,WP_204423798.1,390,acetate kinase
+chromosome,NZ_CP070228.1,1497511,1497963,+,,,JTE88_RS06715,WP_204423800.1,150,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,1498251,1500470,+,,,JTE88_RS06720,WP_204423801.1,739,YPDG domain-containing protein
+chromosome,NZ_CP070228.1,1500809,1500946,+,,,JTE88_RS06725,WP_204423803.1,45,hypothetical protein
+chromosome,NZ_CP070228.1,1501048,1503987,-,,,JTE88_RS06730,WP_204423804.1,979,discoidin domain-containing protein
+chromosome,NZ_CP070228.1,1504284,1505672,-,,,JTE88_RS06735,WP_204423806.1,462,class II fumarate hydratase
+chromosome,NZ_CP070228.1,1505804,1506913,-,,,JTE88_RS06740,WP_204423807.1,369,GuaB3 family IMP dehydrogenase-related protein
+chromosome,NZ_CP070228.1,1507040,1507726,+,,,JTE88_RS06745,WP_204423809.1,228,exonuclease domain-containing protein
+chromosome,NZ_CP070228.1,1507843,1509387,-,,ahpF,JTE88_RS06750,WP_204423810.1,514,alkyl hydroperoxide reductase subunit F
+chromosome,NZ_CP070228.1,1509388,1509951,-,,ahpC,JTE88_RS06755,WP_204423812.1,187,alkyl hydroperoxide reductase subunit C
+chromosome,NZ_CP070228.1,1510176,1511342,-,,,JTE88_RS06760,WP_204423813.1,388,IMP dehydrogenase
+chromosome,NZ_CP070228.1,1511646,1511864,+,,,JTE88_RS06765,WP_239519592.1,72,WhiB family transcriptional regulator
+chromosome,NZ_CP070228.1,1512125,1512766,-,,,JTE88_RS06775,WP_204423816.1,213,RloB domain-containing protein
+chromosome,NZ_CP070228.1,1512763,1514136,-,,,JTE88_RS06780,WP_204423818.1,457,AAA family ATPase
+chromosome,NZ_CP070228.1,1514289,1514585,-,,groES,JTE88_RS06785,WP_204423820.1,98,co-chaperone GroES
+chromosome,NZ_CP070228.1,1514560,1514763,-,,,JTE88_RS06790,WP_204423822.1,67,hypothetical protein
+chromosome,NZ_CP070228.1,1514778,1515971,+,,,JTE88_RS06795,WP_204423824.1,397,SAM-dependent methyltransferase
+chromosome,NZ_CP070228.1,1516012,1517055,-,,tsaD,JTE88_RS06800,WP_204423826.1,347,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+chromosome,NZ_CP070228.1,1517182,1517925,-,,,JTE88_RS06805,WP_204423828.1,247,succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+chromosome,NZ_CP070228.1,1517922,1519892,-,,,JTE88_RS06810,WP_204423830.1,656,fumarate reductase/succinate dehydrogenase flavoprotein subunit
+chromosome,NZ_CP070228.1,1519905,1520621,-,,,JTE88_RS06815,WP_204423832.1,238,succinate dehydrogenase cytochrome b subunit
+chromosome,NZ_CP070228.1,1520798,1521310,-,,,JTE88_RS06820,WP_204423834.1,170,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,1521320,1522030,-,,tsaB,JTE88_RS06825,WP_204423836.1,236,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+chromosome,NZ_CP070228.1,1522027,1522947,-,,,JTE88_RS06830,WP_204423838.1,306,hypothetical protein
+chromosome,NZ_CP070228.1,1522953,1523477,-,,tsaE,JTE88_RS06835,WP_204423840.1,174,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+chromosome,NZ_CP070228.1,1523518,1524642,-,,alr,JTE88_RS06840,WP_204423841.1,374,alanine racemase
+chromosome,NZ_CP070228.1,1524647,1525486,-,,,JTE88_RS06845,WP_204423843.1,279,NAD(P)H-hydrate dehydratase
+chromosome,NZ_CP070228.1,1525496,1527352,-,,glmS,JTE88_RS06850,WP_204423845.1,618,glutamine--fructose-6-phosphate transaminase (isomerizing)
+chromosome,NZ_CP070228.1,1527541,1528482,+,,coaA,JTE88_RS06855,WP_204423847.1,313,type I pantothenate kinase
+chromosome,NZ_CP070228.1,1528644,1529975,-,,glmM,JTE88_RS06860,WP_204423849.1,443,phosphoglucosamine mutase
+chromosome,NZ_CP070228.1,1530212,1530697,-,,rpsI,JTE88_RS06865,WP_204423851.1,161,30S ribosomal protein S9
+chromosome,NZ_CP070228.1,1530727,1531170,-,,rplM,JTE88_RS06870,WP_204423852.1,147,50S ribosomal protein L13
+chromosome,NZ_CP070228.1,1531494,1532378,-,,truA,JTE88_RS06875,WP_204423854.1,294,tRNA pseudouridine(38-40) synthase TruA
+chromosome,NZ_CP070228.1,1532377,1533174,+,,,JTE88_RS06880,WP_204423856.1,265,ROK family protein
+chromosome,NZ_CP070228.1,1533871,1534875,-,,,JTE88_RS06890,WP_204423859.1,334,DNA-directed RNA polymerase subunit alpha
+chromosome,NZ_CP070228.1,1535000,1535392,-,,rpsK,JTE88_RS06895,WP_204423861.1,130,30S ribosomal protein S11
+chromosome,NZ_CP070228.1,1535445,1535813,-,,rpsM,JTE88_RS06900,WP_204423863.1,122,30S ribosomal protein S13
+chromosome,NZ_CP070228.1,1535934,1536047,-,,rpmJ,JTE88_RS06905,WP_013170544.1,37,MULTISPECIES: 50S ribosomal protein L36
+chromosome,NZ_CP070228.1,1536104,1536325,-,,infA,JTE88_RS06910,WP_013170545.1,73,MULTISPECIES: translation initiation factor IF-1
+chromosome,NZ_CP070228.1,1536535,1537368,-,,map,JTE88_RS06915,WP_204423865.1,277,type I methionyl aminopeptidase
+chromosome,NZ_CP070228.1,1537447,1538031,-,,,JTE88_RS06920,WP_204423867.1,194,adenylate kinase
+chromosome,NZ_CP070228.1,1538028,1539314,-,,secY,JTE88_RS06925,WP_204425819.1,428,preprotein translocase subunit SecY
+chromosome,NZ_CP070228.1,1539571,1540017,-,,rplO,JTE88_RS06930,WP_239519504.1,148,50S ribosomal protein L15
+chromosome,NZ_CP070228.1,1540017,1540199,-,,rpmD,JTE88_RS06935,WP_013170563.1,60,MULTISPECIES: 50S ribosomal protein L30
+chromosome,NZ_CP070228.1,1540196,1540903,-,,rpsE,JTE88_RS06940,WP_204423868.1,235,30S ribosomal protein S5
+chromosome,NZ_CP070228.1,1540929,1541300,-,,rplR,JTE88_RS06945,WP_204425823.1,123,50S ribosomal protein L18
+chromosome,NZ_CP070228.1,1541300,1541836,-,,rplF,JTE88_RS06950,WP_204423870.1,178,50S ribosomal protein L6
+chromosome,NZ_CP070228.1,1541852,1542250,-,,rpsH,JTE88_RS06955,WP_204423872.1,132,MULTISPECIES: 30S ribosomal protein S8
+chromosome,NZ_CP070228.1,1542306,1542491,-,,,JTE88_RS06960,WP_204423874.1,61,MULTISPECIES: type Z 30S ribosomal protein S14
+chromosome,NZ_CP070228.1,1542497,1542994,-,,rplE,JTE88_RS06965,WP_239519593.1,165,50S ribosomal protein L5
+chromosome,NZ_CP070228.1,1543051,1543395,-,,rplX,JTE88_RS06970,WP_204423876.1,114,50S ribosomal protein L24
+chromosome,NZ_CP070228.1,1543399,1543767,-,,rplN,JTE88_RS06975,WP_013170571.1,122,MULTISPECIES: 50S ribosomal protein L14
+chromosome,NZ_CP070228.1,1543859,1544143,-,,rpsQ,JTE88_RS06980,WP_204423878.1,94,30S ribosomal protein S17
+chromosome,NZ_CP070228.1,1544152,1544370,-,,rpmC,JTE88_RS06985,WP_204425827.1,72,50S ribosomal protein L29
+chromosome,NZ_CP070228.1,1544382,1544798,-,,rplP,JTE88_RS06990,WP_204423880.1,138,50S ribosomal protein L16
+chromosome,NZ_CP070228.1,1544804,1545628,-,,rpsC,JTE88_RS06995,WP_204423882.1,274,30S ribosomal protein S3
+chromosome,NZ_CP070228.1,1545631,1545990,-,,rplV,JTE88_RS07000,WP_204423883.1,119,50S ribosomal protein L22
+chromosome,NZ_CP070228.1,1546017,1546298,-,,rpsS,JTE88_RS07005,WP_204423885.1,93,MULTISPECIES: 30S ribosomal protein S19
+chromosome,NZ_CP070228.1,1546316,1547152,-,,rplB,JTE88_RS07010,WP_204423886.1,278,MULTISPECIES: 50S ribosomal protein L2
+chromosome,NZ_CP070228.1,1547182,1547496,-,,rplW,JTE88_RS07015,WP_204423888.1,104,50S ribosomal protein L23
+chromosome,NZ_CP070228.1,1547493,1548140,-,,rplD,JTE88_RS07020,WP_204423890.1,215,50S ribosomal protein L4
+chromosome,NZ_CP070228.1,1548146,1548814,-,,rplC,JTE88_RS07025,WP_204423892.1,222,50S ribosomal protein L3
+chromosome,NZ_CP070228.1,1548828,1549136,-,,rpsJ,JTE88_RS07030,WP_013170582.1,102,MULTISPECIES: 30S ribosomal protein S10
+chromosome,NZ_CP070228.1,1549470,1550660,-,,tuf,JTE88_RS07035,WP_204423893.1,396,elongation factor Tu
+chromosome,NZ_CP070228.1,1550785,1552905,-,,fusA,JTE88_RS07040,WP_204423895.1,706,elongation factor G
+chromosome,NZ_CP070228.1,1552952,1553422,-,,rpsG,JTE88_RS07045,WP_204423896.1,156,30S ribosomal protein S7
+chromosome,NZ_CP070228.1,1553422,1553796,-,,rpsL,JTE88_RS07050,WP_013170586.1,124,MULTISPECIES: 30S ribosomal protein S12
+chromosome,NZ_CP070228.1,1554101,1555450,-,,,JTE88_RS07055,WP_204423898.1,449,PAS domain-containing protein
+chromosome,NZ_CP070228.1,1555534,1559511,-,,rpoC,JTE88_RS07060,WP_204423899.1,1325,DNA-directed RNA polymerase subunit beta\\'
+chromosome,NZ_CP070228.1,1559603,1563067,-,,,JTE88_RS07065,WP_204423901.1,1154,DNA-directed RNA polymerase subunit beta
+chromosome,NZ_CP070228.1,1563549,1563935,-,,rplL,JTE88_RS07070,WP_204423903.1,128,50S ribosomal protein L7/L12
+chromosome,NZ_CP070228.1,1564001,1564525,-,,rplJ,JTE88_RS07075,WP_204423904.1,174,50S ribosomal protein L10
+chromosome,NZ_CP070228.1,1564775,1565395,-,,udk,JTE88_RS07080,WP_204423906.1,206,uridine kinase
+chromosome,NZ_CP070228.1,1565725,1566429,-,,rplA,JTE88_RS07085,WP_204423908.1,234,50S ribosomal protein L1
+chromosome,NZ_CP070228.1,1566531,1566965,-,,rplK,JTE88_RS07090,WP_204423909.1,144,50S ribosomal protein L11
+chromosome,NZ_CP070228.1,1567087,1567914,-,,nusG,JTE88_RS07095,WP_204423911.1,275,transcription termination/antitermination protein NusG
+chromosome,NZ_CP070228.1,1567948,1568193,-,,secE,JTE88_RS07100,WP_204423913.1,81,preprotein translocase subunit SecE
+chromosome,NZ_CP070228.1,1568512,1569717,+,,,JTE88_RS07110,WP_204423915.1,401,pyridoxal phosphate-dependent aminotransferase
+chromosome,NZ_CP070228.1,1569797,1570078,-,,,JTE88_RS07115,WP_204423916.1,93,hypothetical protein
+chromosome,NZ_CP070228.1,1570492,1571805,-,,,JTE88_RS07120,WP_204423918.1,437,phosphotransferase
+chromosome,NZ_CP070228.1,1571860,1572897,+,,,JTE88_RS07125,WP_204423920.1,345,adenosine deaminase
+chromosome,NZ_CP070228.1,1572887,1573750,+,,,JTE88_RS07130,WP_204423921.1,287,alpha/beta hydrolase
+chromosome,NZ_CP070228.1,1573747,1574427,+,,,JTE88_RS07135,WP_204423923.1,226,hypothetical protein
+chromosome,NZ_CP070228.1,1574445,1575626,-,,,JTE88_RS07140,WP_204423925.1,393,UDP-N-acetylmuramate dehydrogenase
+chromosome,NZ_CP070228.1,1576463,1576957,+,,,JTE88_RS07165,WP_204423928.1,164,YajQ family cyclic di-GMP-binding protein
+chromosome,NZ_CP070228.1,1577142,1578527,-,,,JTE88_RS07170,WP_204423929.1,461,FAD-dependent oxidoreductase
+chromosome,NZ_CP070228.1,1578751,1579230,+,,,JTE88_RS07175,WP_204423931.1,159,hypothetical protein
+chromosome,NZ_CP070228.1,1579381,1580052,-,,raiA,JTE88_RS07180,WP_204423932.1,223,ribosome-associated translation inhibitor RaiA
+chromosome,NZ_CP070228.1,1580310,1581068,-,,,JTE88_RS07185,WP_204423933.1,252,phosphoribosyltransferase family protein
+chromosome,NZ_CP070228.1,1581020,1582696,-,,,JTE88_RS07190,WP_204423935.1,558,LpqB family beta-propeller domain-containing protein
+chromosome,NZ_CP070228.1,1582693,1584327,-,,mtrB,JTE88_RS07195,WP_239519505.1,544,MtrAB system histidine kinase MtrB
+chromosome,NZ_CP070228.1,1584333,1585007,-,,mtrA,JTE88_RS07200,WP_204423938.1,224,MtrAB system response regulator MtrA
+chromosome,NZ_CP070228.1,1585059,1585508,-,,,JTE88_RS07205,WP_204423940.1,149,DUF3499 family protein
+chromosome,NZ_CP070228.1,1585565,1585993,+,,,JTE88_RS07210,WP_204423942.1,142,metallopeptidase family protein
+chromosome,NZ_CP070228.1,1586011,1587441,-,,,JTE88_RS07215,WP_204423944.1,476,DUF5719 family protein
+chromosome,NZ_CP070228.1,1587438,1590359,-,,,JTE88_RS07220,WP_204423946.1,973,glycosyltransferase
+chromosome,NZ_CP070228.1,1590383,1590667,-,,,JTE88_RS07225,WP_204425829.1,94,WhiB family transcriptional regulator
+chromosome,NZ_CP070228.1,1590850,1591500,+,,,JTE88_RS07230,WP_204423947.1,216,TIGR03089 family protein
+chromosome,NZ_CP070228.1,1591566,1592723,+,,,JTE88_RS07235,WP_204423949.1,385,LCP family protein
+chromosome,NZ_CP070228.1,1592740,1594140,+,,,JTE88_RS09095,WP_239519506.1,466,LCP family protein
+chromosome,NZ_CP070228.1,1594178,1595494,-,,,JTE88_RS07245,WP_204423951.1,438,HAMP domain-containing histidine kinase
+chromosome,NZ_CP070228.1,1595557,1596237,-,,,JTE88_RS07250,WP_204423952.1,226,response regulator transcription factor
+chromosome,NZ_CP070228.1,1596324,1597367,-,,,JTE88_RS07255,WP_239519507.1,347,adenylate/guanylate cyclase domain-containing protein
+chromosome,NZ_CP070228.1,1597498,1599162,+,,,JTE88_RS07260,WP_204423954.1,554,DUF885 family protein
+chromosome,NZ_CP070228.1,1599159,1599848,+,,,JTE88_RS07265,WP_239519508.1,229,Maf family nucleotide pyrophosphatase
+chromosome,NZ_CP070228.1,1600000,1601331,-,,,JTE88_RS07270,WP_204423955.1,443,citrate synthase
+chromosome,NZ_CP070228.1,1601494,1601817,-,,,JTE88_RS07275,WP_204423957.1,107,ferredoxin family protein
+chromosome,NZ_CP070228.1,1601931,1603619,-,,,JTE88_RS07280,WP_204423959.1,562,VanW family protein
+chromosome,NZ_CP070228.1,1603626,1604018,-,,,JTE88_RS07285,WP_204423961.1,130,hypothetical protein
+chromosome,NZ_CP070228.1,1604026,1605951,-,,typA,JTE88_RS07290,WP_204423963.1,641,translational GTPase TypA
+chromosome,NZ_CP070228.1,1606069,1606683,+,,,JTE88_RS07295,WP_204423965.1,204,PH domain-containing protein
+chromosome,NZ_CP070228.1,1606710,1608440,-,,,JTE88_RS07300,WP_204423967.1,576,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,1608437,1610527,-,,,JTE88_RS07305,WP_204423969.1,696,ABC transporter ATP-binding protein/permease
+chromosome,NZ_CP070228.1,1610575,1612266,-,,,JTE88_RS07310,WP_204423970.1,563,ABC transporter family substrate-binding protein
+chromosome,NZ_CP070228.1,1612459,1614588,-,,,JTE88_RS07315,WP_204423972.1,709,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1614585,1615550,-,,,JTE88_RS07320,WP_204423974.1,321,ABC transporter permease
+chromosome,NZ_CP070228.1,1615550,1616557,-,,,JTE88_RS07325,WP_204423975.1,335,ABC transporter permease
+chromosome,NZ_CP070228.1,1616815,1617606,+,,lipB,JTE88_RS07330,WP_204423977.1,263,lipoyl(octanoyl) transferase LipB
+chromosome,NZ_CP070228.1,1617585,1618631,+,,,JTE88_RS07335,WP_204423978.1,348,lipoyl synthase
+chromosome,NZ_CP070228.1,1618703,1620250,-,,,JTE88_RS07340,WP_204423980.1,515,AMP-binding protein
+chromosome,NZ_CP070228.1,1620247,1621539,-,,,JTE88_RS07345,WP_204423982.1,430,M18 family aminopeptidase
+chromosome,NZ_CP070228.1,1621565,1622332,-,,,JTE88_RS07350,WP_204423983.1,255,alpha/beta fold hydrolase
+chromosome,NZ_CP070228.1,1622452,1622904,-,,,JTE88_RS07355,WP_204423984.1,150,protein phosphatase
+chromosome,NZ_CP070228.1,1623121,1625343,+,,,JTE88_RS07360,WP_204423986.1,740,NADP-dependent isocitrate dehydrogenase
+chromosome,NZ_CP070228.1,1625453,1625977,+,,,JTE88_RS07365,WP_204423988.1,174,LppP/LprE family lipoprotein
+chromosome,NZ_CP070228.1,1626113,1627069,-,,,JTE88_RS07370,WP_204423990.1,318,L-lactate dehydrogenase
+chromosome,NZ_CP070228.1,1627226,1628008,+,,,JTE88_RS07375,WP_204423992.1,260,"2-oxo-hepta-3-ene-1,7-dioate hydratase"
+chromosome,NZ_CP070228.1,1628018,1629280,+,,,JTE88_RS07380,WP_204423994.1,420,alpha/beta fold hydrolase
+chromosome,NZ_CP070228.1,1629339,1629737,+,,,JTE88_RS07385,WP_204424001.1,132,DUF4870 domain-containing protein
+chromosome,NZ_CP070228.1,1629857,1631020,-,,,JTE88_RS07390,WP_239519509.1,387,peptidase T
+chromosome,NZ_CP070228.1,1631321,1633291,+,,,JTE88_RS07395,WP_204424005.1,656,glucose PTS transporter subunit IIA
+chromosome,NZ_CP070228.1,1633300,1634151,+,,,JTE88_RS07400,WP_204424007.1,283,PRD domain-containing protein
+chromosome,NZ_CP070228.1,1634401,1636101,-,,ptsP,JTE88_RS07405,WP_204424009.1,566,phosphoenolpyruvate--protein phosphotransferase
+chromosome,NZ_CP070228.1,1636106,1636369,-,,,JTE88_RS07410,WP_204424011.1,87,HPr family phosphocarrier protein
+chromosome,NZ_CP070228.1,1642484,1643032,+,,,JTE88_RS07430,WP_204424013.1,182,NAD(P)H-dependent oxidoreductase
+chromosome,NZ_CP070228.1,1643102,1643563,+,,,JTE88_RS07435,WP_204424015.1,153,DNA starvation/stationary phase protection protein
+chromosome,NZ_CP070228.1,1643625,1644041,-,,,JTE88_RS07440,WP_204424017.1,138,rhodanese-like domain-containing protein
+chromosome,NZ_CP070228.1,1644057,1644770,-,,,JTE88_RS07445,WP_204424019.1,237,ion channel
+chromosome,NZ_CP070228.1,1644783,1645496,-,,,JTE88_RS07450,WP_204424021.1,237,ASCH domain-containing protein
+chromosome,NZ_CP070228.1,1645698,1646564,+,,,JTE88_RS07455,WP_204424022.1,288,Abi family protein
+chromosome,NZ_CP070228.1,1649658,1650071,-,,,JTE88_RS07470,WP_204424024.1,137,hypothetical protein
+chromosome,NZ_CP070228.1,1650323,1650823,-,,,JTE88_RS07475,WP_204424025.1,166,hypothetical protein
+chromosome,NZ_CP070228.1,1651001,1651903,-,,,JTE88_RS07480,WP_204424027.1,300,class C sortase
+chromosome,NZ_CP070228.1,1652108,1653700,-,,,JTE88_RS07485,WP_204424028.1,530,SpaH/EbpB family LPXTG-anchored major pilin
+chromosome,NZ_CP070228.1,1653748,1657401,-,,,JTE88_RS07490,WP_204424030.1,1217,SpaA isopeptide-forming pilin-related protein
+chromosome,NZ_CP070228.1,1658808,1658948,-,,,JTE88_RS07500,WP_204424031.1,46,hypothetical protein
+chromosome,NZ_CP070228.1,1658945,1659532,-,,,JTE88_RS07505,WP_204424033.1,195,extracellular solute-binding protein
+chromosome,NZ_CP070228.1,1659593,1659823,+,,,JTE88_RS07510,WP_204424035.1,76,hypothetical protein
+chromosome,NZ_CP070228.1,1660283,1660534,+,,,JTE88_RS07515,WP_204424037.1,83,integrase core domain-containing protein
+chromosome,NZ_CP070228.1,1660561,1660713,-,,,JTE88_RS07520,WP_204424039.1,50,hypothetical protein
+chromosome,NZ_CP070228.1,1661533,1661802,-,,,JTE88_RS07525,WP_204424041.1,89,transposase
+chromosome,NZ_CP070228.1,1661985,1662161,+,,,JTE88_RS07530,WP_204424043.1,58,hypothetical protein
+chromosome,NZ_CP070228.1,1663166,1664206,-,,,JTE88_RS07540,WP_239519510.1,346,HipA domain-containing protein
+chromosome,NZ_CP070228.1,1664203,1664460,-,,,JTE88_RS07545,WP_204424044.1,85,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,1664692,1665510,-,,,JTE88_RS07550,WP_204424046.1,272,methyltransferase domain-containing protein
+chromosome,NZ_CP070228.1,1665507,1665860,-,,,JTE88_RS07555,WP_204424048.1,117,cupin domain-containing protein
+chromosome,NZ_CP070228.1,1667836,1668918,-,,,JTE88_RS07565,WP_204424049.1,360,Fic family protein
+chromosome,NZ_CP070228.1,1669278,1669427,-,,,JTE88_RS07570,WP_204424051.1,49,methionine/alanine import family NSS transporter small subunit
+chromosome,NZ_CP070228.1,1669424,1671088,-,,,JTE88_RS07575,WP_204424053.1,554,sodium-dependent transporter
+chromosome,NZ_CP070228.1,1671361,1672308,-,,,JTE88_RS07580,WP_204424054.1,315,DUF4300 family protein
+chromosome,NZ_CP070228.1,1672305,1673111,-,,,JTE88_RS07585,WP_204424056.1,268,CPBP family intramembrane metalloprotease
+chromosome,NZ_CP070228.1,1673202,1674191,-,,,JTE88_RS07590,WP_204424058.1,329,LacI family transcriptional regulator
+chromosome,NZ_CP070228.1,1674267,1675931,-,,,JTE88_RS07595,WP_204424059.1,554,glycoside hydrolase family 13 protein
+chromosome,NZ_CP070228.1,1675991,1676833,-,,,JTE88_RS07600,WP_204424061.1,280,carbohydrate ABC transporter permease
+chromosome,NZ_CP070228.1,1676830,1677867,-,,,JTE88_RS07605,WP_204424063.1,345,sugar ABC transporter permease
+chromosome,NZ_CP070228.1,1677960,1679237,-,,,JTE88_RS07610,WP_204424064.1,425,ABC transporter substrate-binding protein
+chromosome,NZ_CP070228.1,1679564,1681528,+,,,JTE88_RS07615,WP_204424065.1,654,hypothetical protein
+chromosome,NZ_CP070228.1,1681700,1682242,-,,,JTE88_RS07620,WP_204424067.1,180,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,1682298,1682738,-,,,JTE88_RS07625,WP_204424068.1,146,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,1682897,1683637,-,,,JTE88_RS07630,WP_204424070.1,246,hypothetical protein
+chromosome,NZ_CP070228.1,1684171,1684707,-,,,JTE88_RS07635,WP_204424071.1,178,GNAT family N-acetyltransferase
+chromosome,NZ_CP070228.1,1684717,1684971,-,,,JTE88_RS07640,WP_204424073.1,84,Txe/YoeB family addiction module toxin
+chromosome,NZ_CP070228.1,1684977,1685234,-,,,JTE88_RS07645,WP_204424075.1,85,type II toxin-antitoxin system prevent-host-death family antitoxin
+chromosome,NZ_CP070228.1,1685597,1686676,-,,ychF,JTE88_RS07650,WP_204424077.1,359,redox-regulated ATPase YchF
+chromosome,NZ_CP070228.1,1686814,1688046,+,,,JTE88_RS07655,WP_204424079.1,410,DNA recombination protein RmuC
+chromosome,NZ_CP070228.1,1688126,1689238,-,,,JTE88_RS07660,WP_239519594.1,370,4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+chromosome,NZ_CP070228.1,1689457,1690710,+,,xseA,JTE88_RS07665,WP_204424081.1,417,exodeoxyribonuclease VII large subunit
+chromosome,NZ_CP070228.1,1690707,1690964,+,,,JTE88_RS07670,WP_204424083.1,85,exodeoxyribonuclease VII small subunit
+chromosome,NZ_CP070228.1,1690965,1691909,+,,,JTE88_RS07675,WP_204424084.1,314,carbohydrate kinase
+chromosome,NZ_CP070228.1,1691990,1692751,-,,,JTE88_RS07680,WP_204424086.1,253,isoprenyl transferase
+chromosome,NZ_CP070228.1,1692974,1693639,+,,,JTE88_RS07685,WP_204424088.1,221,hemolysin III family protein
+chromosome,NZ_CP070228.1,1693800,1694279,+,,greA,JTE88_RS07690,WP_204424090.1,159,transcription elongation factor GreA
+chromosome,NZ_CP070228.1,1694283,1694972,+,,msrA,JTE88_RS07695,WP_204424091.1,229,peptide-methionine (S)-S-oxide reductase MsrA
+chromosome,NZ_CP070228.1,1695029,1695463,+,,,JTE88_RS07700,WP_204424093.1,144,FKBP-type peptidyl-prolyl cis-trans isomerase
+chromosome,NZ_CP070228.1,1695620,1696426,-,,,JTE88_RS07705,WP_204424094.1,268,Bax inhibitor-1/YccA family protein
+chromosome,NZ_CP070228.1,1696682,1697623,+,,,JTE88_RS07710,WP_204424096.1,313,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1697620,1698429,+,,,JTE88_RS07715,WP_204424097.1,269,ABC transporter permease subunit
+chromosome,NZ_CP070228.1,1698802,1700079,+,,nhaA,JTE88_RS07725,WP_204424099.1,425,Na+/H+ antiporter NhaA
+chromosome,NZ_CP070228.1,1700239,1700427,+,,,JTE88_RS07730,WP_204424101.1,62,hypothetical protein
+chromosome,NZ_CP070228.1,1700737,1700913,+,,,JTE88_RS07735,WP_204424102.1,58,hypothetical protein
+chromosome,NZ_CP070228.1,1701240,1701491,+,,,JTE88_RS07740,WP_204424104.1,83,integrase core domain-containing protein
+chromosome,NZ_CP070228.1,1701750,1705001,-,,,JTE88_RS07745,WP_204424106.1,1083,DUF5979 domain-containing protein
+chromosome,NZ_CP070228.1,1705145,1706101,-,,,JTE88_RS07750,WP_204424108.1,318,Ppx/GppA family phosphatase
+chromosome,NZ_CP070228.1,1706106,1706684,-,,,JTE88_RS07755,WP_204424109.1,192,DUF501 domain-containing protein
+chromosome,NZ_CP070228.1,1706719,1707213,-,,,JTE88_RS07760,WP_204424111.1,164,septum formation initiator family protein
+chromosome,NZ_CP070228.1,1707666,1708946,-,,eno,JTE88_RS07765,WP_204424113.1,426,phosphopyruvate hydratase
+chromosome,NZ_CP070228.1,1709283,1712798,-,,mfd,JTE88_RS07770,WP_204424114.1,1171,transcription-repair coupling factor
+chromosome,NZ_CP070228.1,1712866,1713453,-,,pth,JTE88_RS07775,WP_204424116.1,195,aminoacyl-tRNA hydrolase
+chromosome,NZ_CP070228.1,1713641,1714231,-,,,JTE88_RS07780,WP_204424117.1,196,50S ribosomal protein L25/general stress protein Ctc
+chromosome,NZ_CP070228.1,1714478,1715458,-,,,JTE88_RS07785,WP_204424119.1,326,ribose-phosphate diphosphokinase
+chromosome,NZ_CP070228.1,1715521,1716588,-,,,JTE88_RS07790,WP_204424121.1,355,NTP transferase domain-containing protein
+chromosome,NZ_CP070228.1,1716900,1717562,+,,,JTE88_RS07800,WP_204424123.1,220,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP070228.1,1717671,1718639,+,,,JTE88_RS07805,WP_204424124.1,322,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,1718641,1719858,+,,,JTE88_RS07810,WP_204424126.1,405,ABC transporter permease
+chromosome,NZ_CP070228.1,1719881,1720396,-,,,JTE88_RS07815,WP_204424128.1,171,MarR family winged helix-turn-helix transcriptional regulator
+chromosome,NZ_CP070228.1,1720514,1720813,-,,,JTE88_RS07820,WP_204424129.1,99,hypothetical protein
+chromosome,NZ_CP070228.1,1720930,1722771,-,,,JTE88_RS07825,WP_204424131.1,613,ATP-binding cassette domain-containing protein
+chromosome,NZ_CP070228.1,1722890,1723846,-,,ispE,JTE88_RS07830,WP_204424133.1,318,4-(cytidine 5\\'-diphospho)-2-C-methyl-D-erythritol kinase
+chromosome,NZ_CP070228.1,1723948,1724433,-,,,JTE88_RS07835,WP_204424135.1,161,glucose PTS transporter subunit IIA
+chromosome,NZ_CP070228.1,1724433,1726028,-,,nagE,JTE88_RS07840,WP_204424137.1,531,N-acetylglucosamine-specific PTS transporter subunit IIBC
+chromosome,NZ_CP070228.1,1726065,1726913,-,,,JTE88_RS07845,WP_204424138.1,282,PRD domain-containing protein
+chromosome,NZ_CP070228.1,1727041,1727937,-,,rsmA,JTE88_RS07850,WP_204424140.1,298,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA
+chromosome,NZ_CP070228.1,1728074,1729276,-,,,JTE88_RS07855,WP_204424142.1,400,G5 domain-containing protein
+chromosome,NZ_CP070228.1,1729393,1730355,-,,,JTE88_RS07860,WP_204424144.1,320,TatD family hydrolase
+chromosome,NZ_CP070228.1,1730373,1732178,-,,metG,JTE88_RS07865,WP_204424146.1,601,methionine--tRNA ligase
+chromosome,NZ_CP070228.1,1732288,1733322,+,,,JTE88_RS07870,WP_204424148.1,344,isochorismatase family protein
+chromosome,NZ_CP070228.1,1733519,1735879,-,,,JTE88_RS07875,WP_204424150.1,786,MMPL family transporter
+chromosome,NZ_CP070228.1,1736001,1736828,-,,rsmI,JTE88_RS07880,WP_204424152.1,275,16S rRNA (cytidine(1402)-2\\'-O)-methyltransferase
+chromosome,NZ_CP070228.1,1736953,1737303,+,,,JTE88_RS07885,WP_204424153.1,116,DsrE family protein
+chromosome,NZ_CP070228.1,1737372,1738322,+,,,JTE88_RS07890,WP_204424155.1,316,ABC transporter ATP-binding protein
+chromosome,NZ_CP070228.1,1738325,1739080,+,,,JTE88_RS07895,WP_204424157.1,251,ABC transporter permease
+chromosome,NZ_CP070228.1,1739106,1740176,+,,,JTE88_RS07900,WP_204424158.1,356,sensor histidine kinase
+chromosome,NZ_CP070228.1,1740196,1740801,+,,,JTE88_RS07905,WP_204424159.1,201,response regulator transcription factor
+chromosome,NZ_CP070228.1,1743049,1743426,+,,,JTE88_RS07915,WP_204424162.1,125,DUF2314 domain-containing protein
+chromosome,NZ_CP070228.1,1743437,1743883,-,,,JTE88_RS07920,WP_204424164.1,148,hypothetical protein
+chromosome,NZ_CP070228.1,1743889,1744833,-,,,JTE88_RS07925,WP_204424166.1,314,hypothetical protein
+chromosome,NZ_CP070228.1,1744937,1746148,-,,,JTE88_RS07930,WP_204424167.1,403,molybdopterin molybdotransferase MoeA
+chromosome,NZ_CP070228.1,1746276,1746857,+,,,JTE88_RS07935,WP_239519511.1,193,5-formyltetrahydrofolate cyclo-ligase
+chromosome,NZ_CP070228.1,1747014,1747676,+,,,JTE88_RS07940,WP_204424170.1,220,SAF domain-containing protein
+chromosome,NZ_CP070228.1,1747717,1748094,+,,mscL,JTE88_RS07945,WP_204424172.1,125,large conductance mechanosensitive channel protein MscL
+chromosome,NZ_CP070228.1,1748128,1748334,-,,,JTE88_RS07950,WP_204424174.1,68,hypothetical protein
+chromosome,NZ_CP070228.1,1748348,1752631,-,,,JTE88_RS07955,WP_204424176.1,1427,hypothetical protein
+chromosome,NZ_CP070228.1,1752674,1753579,-,,,JTE88_RS07960,WP_204424178.1,301,rhodanese-related sulfurtransferase
+chromosome,NZ_CP070228.1,1753817,1754752,-,,,JTE88_RS07970,WP_204424180.1,311,universal stress protein
+chromosome,NZ_CP070228.1,1754889,1755620,-,,,JTE88_RS07975,WP_204424182.1,243,NlpC/P60 family protein
+chromosome,NZ_CP070228.1,1755850,1756536,-,,,JTE88_RS07980,WP_204424183.1,228,metal-dependent transcriptional regulator
+chromosome,NZ_CP070228.1,1756716,1758161,-,,,JTE88_RS07985,WP_204425839.1,481,NCS2 family permease
+chromosome,NZ_CP070228.1,1758280,1759557,-,,manA,JTE88_RS07990,WP_204424185.1,425,"mannose-6-phosphate isomerase, class I"
+chromosome,NZ_CP070228.1,1759561,1760349,-,,,JTE88_RS07995,WP_239519512.1,262,DUF3027 domain-containing protein
+chromosome,NZ_CP070228.1,1760342,1760716,-,,,JTE88_RS08000,WP_204424188.1,124,cold shock domain-containing protein
+chromosome,NZ_CP070228.1,1760917,1762833,+,,,JTE88_RS08005,WP_204424190.1,638,TPM domain-containing protein
+chromosome,NZ_CP070228.1,1762915,1763652,+,,,JTE88_RS08010,WP_204424192.1,245,PspA/IM30 family protein
+chromosome,NZ_CP070228.1,1763884,1764471,+,,,JTE88_RS08015,WP_204424193.1,195,nuclease
+chromosome,NZ_CP070228.1,1764520,1765257,+,,,JTE88_RS08020,WP_204424195.1,245,response regulator transcription factor
+chromosome,NZ_CP070228.1,1765261,1766742,+,,,JTE88_RS08025,WP_204424197.1,493,HAMP domain-containing histidine kinase
+chromosome,NZ_CP070228.1,1766749,1767459,-,,,JTE88_RS08030,WP_204424199.1,236,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chromosome,NZ_CP070228.1,1767456,1768253,-,,,JTE88_RS08035,WP_204424200.1,265,SDR family NAD(P)-dependent oxidoreductase
+chromosome,NZ_CP070228.1,1768394,1769503,+,,,JTE88_RS08040,WP_204424202.1,369,hypothetical protein
+chromosome,NZ_CP070228.1,1769804,1771297,+,,,JTE88_RS08045,WP_204424204.1,497,CPBP family intramembrane metalloprotease
+chromosome,NZ_CP070228.1,1771408,1773030,-,,groL,JTE88_RS08050,WP_204424206.1,540,chaperonin GroEL
+chromosome,NZ_CP070228.1,1773299,1773874,-,,,JTE88_RS08055,WP_204424207.1,191,LytR C-terminal domain-containing protein
+chromosome,NZ_CP070228.1,1773919,1774179,-,,,JTE88_RS08060,WP_204424209.1,86,DUF3263 domain-containing protein
+chromosome,NZ_CP070228.1,1774237,1774917,+,,,JTE88_RS08065,WP_239519513.1,226,uracil-DNA glycosylase
+chromosome,NZ_CP070228.1,1774914,1776224,-,,,JTE88_RS08070,WP_204424213.1,436,Cys-Gln thioester bond-forming surface protein
+chromosome,NZ_CP070228.1,1776489,1777682,-,,,JTE88_RS08075,WP_204424214.1,397,glycine C-acetyltransferase
+chromosome,NZ_CP070228.1,1777682,1778740,-,,tdh,JTE88_RS08080,WP_204424216.1,352,L-threonine 3-dehydrogenase
+chromosome,NZ_CP070228.1,1778836,1780227,+,,,JTE88_RS08085,WP_239519514.1,463,hypothetical protein
+chromosome,NZ_CP070228.1,1780244,1780912,+,,,JTE88_RS08090,WP_204424217.1,222,TrkA family potassium uptake protein
+chromosome,NZ_CP070228.1,1781024,1782466,-,,,JTE88_RS08095,WP_204424218.1,480,sodium:alanine symporter family protein
+chromosome,NZ_CP070228.1,1782906,1783754,-,,,JTE88_RS08105,WP_204424220.1,282,thioredoxin domain-containing protein
+chromosome,NZ_CP070228.1,1783835,1785433,-,,,JTE88_RS08110,WP_204424221.1,532,serine/threonine protein kinase
+chromosome,NZ_CP070228.1,1785648,1786775,+,,ugpC,JTE88_RS08115,WP_204424222.1,375,sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC
+chromosome,NZ_CP070228.1,1786897,1788147,+,,,JTE88_RS08120,WP_204424224.1,416,DUF4032 domain-containing protein
+chromosome,NZ_CP070228.1,1788235,1788849,-,,recR,JTE88_RS08125,WP_204424225.1,204,recombination mediator RecR
+chromosome,NZ_CP070228.1,1788849,1791566,-,,,JTE88_RS08130,WP_204424226.1,905,DNA polymerase III subunit gamma and tau
+chromosome,NZ_CP070228.1,1792156,1793460,-,,,JTE88_RS08145,WP_204424227.1,434,MFS transporter
+chromosome,NZ_CP070228.1,1793613,1794185,+,,,JTE88_RS08150,WP_204424228.1,190,LytR C-terminal domain-containing protein
+chromosome,NZ_CP070228.1,1794189,1795559,-,,,JTE88_RS08155,WP_204424229.1,456,nitrate reductase
+chromosome,NZ_CP070228.1,1795659,1796180,-,,,JTE88_RS08160,WP_204424230.1,173,ASCH domain-containing protein
+chromosome,NZ_CP070228.1,1796189,1797463,-,,,JTE88_RS08165,WP_204424231.1,424,hypothetical protein
+chromosome,NZ_CP070228.1,1797466,1798449,-,,rlmB,JTE88_RS08170,WP_204424232.1,327,23S rRNA (guanosine(2251)-2\\'-O)-methyltransferase RlmB
+chromosome,NZ_CP070228.1,1798449,1799873,-,,cysS,JTE88_RS08175,WP_204424233.1,474,cysteine--tRNA ligase
+chromosome,NZ_CP070228.1,1800075,1801490,+,,,JTE88_RS08180,WP_204424235.1,471,MFS transporter
+chromosome,NZ_CP070228.1,1801588,1802070,-,,ispF,JTE88_RS08185,WP_204424237.1,160,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+chromosome,NZ_CP070228.1,1802070,1802774,-,,ispD,JTE88_RS08190,WP_204424239.1,234,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+chromosome,NZ_CP070228.1,1802838,1803383,-,,,JTE88_RS08195,WP_204424240.1,181,CarD family transcriptional regulator
+chromosome,NZ_CP070228.1,1803571,1804311,-,,,JTE88_RS08200,WP_204424241.1,246,phosphoglyceromutase
+chromosome,NZ_CP070228.1,1804465,1804875,+,,,JTE88_RS08205,WP_204424242.1,136,YccF domain-containing protein
+chromosome,NZ_CP070228.1,1805197,1806819,+,,,JTE88_RS08210,WP_204424243.1,540,FAD-dependent oxidoreductase
+chromosome,NZ_CP070228.1,1806850,1807104,+,,,JTE88_RS08215,WP_204424244.1,84,metal-sensitive transcriptional regulator
+chromosome,NZ_CP070228.1,1807219,1808685,-,,,JTE88_RS08220,WP_204424245.1,488,cytosine permease
+chromosome,NZ_CP070228.1,1808930,1810816,+,,,JTE88_RS08225,WP_204424247.1,628,purine/pyrimidine permease
+chromosome,NZ_CP070228.1,1818953,1819132,+,,,JTE88_RS08255,WP_204424250.1,59,hypothetical protein
+chromosome,NZ_CP070228.1,1819448,1820278,+,,,JTE88_RS08260,WP_204424252.1,276,tyrosine-type recombinase/integrase
+chromosome,NZ_CP070228.1,1820281,1821057,+,,,JTE88_RS08265,WP_204424253.1,258,ParA family protein
+chromosome,NZ_CP070228.1,1821087,1821428,+,,,JTE88_RS08270,WP_204424255.1,113,hypothetical protein
+chromosome,NZ_CP070228.1,1821471,1821701,-,,,JTE88_RS08275,WP_204424257.1,76,hypothetical protein
+chromosome,NZ_CP070228.1,1822241,1822630,+,,,JTE88_RS08280,WP_204424259.1,129,hypothetical protein
+chromosome,NZ_CP070228.1,1823829,1824323,+,,,JTE88_RS08285,WP_204424260.1,164,hypothetical protein
+chromosome,NZ_CP070228.1,1824537,1824851,-,,,JTE88_RS08290,WP_204424262.1,104,hypothetical protein
+chromosome,NZ_CP070228.1,1825151,1825489,+,,,JTE88_RS08295,WP_204424264.1,112,plasmid mobilization relaxosome protein MobC
+chromosome,NZ_CP070228.1,1825446,1826813,+,,,JTE88_RS08300,WP_204424266.1,455,relaxase/mobilization nuclease domain-containing protein
+chromosome,NZ_CP070228.1,1826813,1827361,+,,,JTE88_RS08305,WP_204424268.1,182,DUF3801 domain-containing protein
+chromosome,NZ_CP070228.1,1827388,1828242,+,,,JTE88_RS08310,WP_204424270.1,284,hypothetical protein
+chromosome,NZ_CP070228.1,1828230,1828478,+,,,JTE88_RS08315,WP_204424272.1,82,hypothetical protein
+chromosome,NZ_CP070228.1,1828488,1828958,+,,,JTE88_RS08320,WP_204424274.1,156,hypothetical protein
+chromosome,NZ_CP070228.1,1828955,1830634,+,,,JTE88_RS08325,WP_204424276.1,559,type IV secretory system conjugative DNA transfer family protein
+chromosome,NZ_CP070228.1,1830708,1831769,-,,,JTE88_RS08330,WP_204424278.1,353,hypothetical protein
+chromosome,NZ_CP070228.1,1831809,1832621,-,,,JTE88_RS08335,WP_204424280.1,270,hypothetical protein
+chromosome,NZ_CP070228.1,1832626,1834269,-,,,JTE88_RS08340,WP_204424282.1,547,transglycosylase SLT domain-containing protein
+chromosome,NZ_CP070228.1,1834324,1836726,-,,,JTE88_RS08345,WP_204424284.1,800,ATP-binding protein
+chromosome,NZ_CP070228.1,1836674,1837039,-,,,JTE88_RS08350,WP_168918438.1,121,MULTISPECIES: PrgI family protein
+chromosome,NZ_CP070228.1,1837050,1837247,-,,,JTE88_RS08355,WP_204424285.1,65,hypothetical protein
+chromosome,NZ_CP070228.1,1837429,1838169,-,,,JTE88_RS08360,WP_204424287.1,246,hypothetical protein
+chromosome,NZ_CP070228.1,1838169,1839146,-,,,JTE88_RS08365,WP_204424289.1,325,hypothetical protein
+chromosome,NZ_CP070228.1,1839149,1839370,-,,,JTE88_RS08370,WP_204424291.1,73,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,1840053,1841627,-,,,JTE88_RS08380,WP_204424293.1,524,alpha/beta hydrolase
+chromosome,NZ_CP070228.1,1841655,1842842,-,,,JTE88_RS08385,WP_204424295.1,395,DNA polymerase III subunit delta\\'
+chromosome,NZ_CP070228.1,1842839,1843507,-,,tmk,JTE88_RS08390,WP_204424297.1,222,dTMP kinase
+chromosome,NZ_CP070228.1,1843511,1846270,-,,topA,JTE88_RS08395,WP_204424299.1,919,type I DNA topoisomerase
+chromosome,NZ_CP070228.1,1846338,1847852,-,,,JTE88_RS08400,WP_204424301.1,504,methyltransferase
+chromosome,NZ_CP070228.1,1847860,1848621,-,,,JTE88_RS08405,WP_204424315.1,253,anaerobic ribonucleoside-triphosphate reductase activating protein
+chromosome,NZ_CP070228.1,1848622,1850430,-,,,JTE88_RS08410,WP_204424316.1,602,ribonucleoside triphosphate reductase
+chromosome,NZ_CP070228.1,1850727,1853015,+,,,JTE88_RS08415,WP_204424318.1,762,DEAD/DEAH box helicase
+chromosome,NZ_CP070228.1,1853012,1853320,-,,,JTE88_RS08420,WP_204424320.1,102,hypothetical protein
+chromosome,NZ_CP070228.1,1853397,1853750,-,,,JTE88_RS08425,WP_204424322.1,117,hypothetical protein
+chromosome,NZ_CP070228.1,1853877,1854068,-,,,JTE88_RS08430,WP_204424323.1,63,DUF4244 domain-containing protein
+chromosome,NZ_CP070228.1,1854254,1854781,-,,,JTE88_RS08435,WP_204424325.1,175,type II secretion system F family protein
+chromosome,NZ_CP070228.1,1854782,1855468,-,,,JTE88_RS08440,WP_204424327.1,228,hypothetical protein
+chromosome,NZ_CP070228.1,1855477,1856625,-,,,JTE88_RS08445,WP_204424329.1,382,TadA family conjugal transfer-associated ATPase
+chromosome,NZ_CP070228.1,1856622,1857647,-,,,JTE88_RS08450,WP_204424331.1,341,hypothetical protein
+chromosome,NZ_CP070228.1,1857830,1858999,+,,,JTE88_RS08455,WP_204424332.1,389,hypothetical protein
+chromosome,NZ_CP070228.1,1859028,1859939,+,,,JTE88_RS08460,WP_204424334.1,303,alpha/beta hydrolase
+chromosome,NZ_CP070228.1,1859960,1860652,-,,nth,JTE88_RS08465,WP_204424336.1,230,endonuclease III
+chromosome,NZ_CP070228.1,1860839,1861516,+,,,JTE88_RS08470,WP_204424338.1,225,Crp/Fnr family transcriptional regulator
+chromosome,NZ_CP070228.1,1861689,1862162,-,,,JTE88_RS08475,WP_204424340.1,157,RidA family protein
+chromosome,NZ_CP070228.1,1862163,1862321,-,,,JTE88_RS08480,WP_204424342.1,52,DUF4177 domain-containing protein
+chromosome,NZ_CP070228.1,1862378,1862698,-,,,JTE88_RS08485,WP_204424344.1,106,WhiB family transcriptional regulator
+chromosome,NZ_CP070228.1,1862854,1865277,+,,,JTE88_RS08490,WP_204424345.1,807,penicillin-binding protein
+chromosome,NZ_CP070228.1,1865293,1866270,+,,,JTE88_RS08495,WP_204424346.1,325,metallophosphoesterase
+chromosome,NZ_CP070228.1,1866569,1867471,-,,rbsK,JTE88_RS08505,WP_204424348.1,300,ribokinase
+chromosome,NZ_CP070228.1,1867475,1868440,-,,,JTE88_RS08510,WP_239519515.1,321,DUF4432 family protein
+chromosome,NZ_CP070228.1,1868504,1869847,-,,fucP,JTE88_RS08515,WP_204424352.1,447,L-fucose:H+ symporter permease
+chromosome,NZ_CP070228.1,1870011,1870982,-,,,JTE88_RS08520,WP_204424354.1,323,MarR family transcriptional regulator
+chromosome,NZ_CP070228.1,1871111,1874371,-,,,JTE88_RS08525,WP_204424356.1,1086,integrin alpha
+chromosome,NZ_CP070228.1,1874511,1877138,-,,,JTE88_RS08530,WP_204424357.1,875,exo-alpha-sialidase
+chromosome,NZ_CP070228.1,1877311,1877568,-,,,JTE88_RS08535,WP_204424359.1,85,GlsB/YeaQ/YmgE family stress response membrane protein
+chromosome,NZ_CP070228.1,1877964,1880384,-,,,JTE88_RS08540,WP_204424361.1,806,HAD-IC family P-type ATPase
+chromosome,NZ_CP070228.1,1880387,1881880,-,,,JTE88_RS08545,WP_204424364.1,497,DUF1846 domain-containing protein
+chromosome,NZ_CP070228.1,1882165,1882863,-,,def,JTE88_RS08550,WP_204424365.1,232,peptide deformylase
+chromosome,NZ_CP070228.1,1883310,1884185,+,,,JTE88_RS08555,WP_204424367.1,291,hypothetical protein
+chromosome,NZ_CP070228.1,1884352,1885629,+,,,JTE88_RS08560,WP_204424368.1,425,hypothetical protein
+chromosome,NZ_CP070228.1,1885756,1886829,+,,,JTE88_RS08565,WP_204424370.1,357,acyltransferase family protein
+chromosome,NZ_CP070228.1,1886987,1887430,+,,,JTE88_RS08570,WP_204424372.1,147,YbjN domain-containing protein
+chromosome,NZ_CP070228.1,1887432,1887908,+,,,JTE88_RS08575,WP_204424373.1,158,YbjN domain-containing protein
+chromosome,NZ_CP070228.1,1887933,1889789,+,,,JTE88_RS08580,WP_204424375.1,618,HSP90 family protein
+chromosome,NZ_CP070228.1,1889794,1892520,+,,,JTE88_RS08585,WP_204424376.1,908,hypothetical protein
+chromosome,NZ_CP070228.1,1892675,1895164,-,,,JTE88_RS08590,WP_204424378.1,829,SpaA isopeptide-forming pilin-related protein
+chromosome,NZ_CP070228.1,1896770,1896961,-,,,JTE88_RS08610,WP_204424383.1,63,hypothetical protein
+chromosome,NZ_CP070228.1,1897315,1901229,-,,,JTE88_RS08615,WP_204424385.1,1304,VaFE repeat-containing surface-anchored protein
+chromosome,NZ_CP070228.1,1902057,1902509,-,,tadA,JTE88_RS08625,WP_239519516.1,150,tRNA adenosine(34) deaminase TadA
+chromosome,NZ_CP070228.1,1902674,1903312,+,,upp,JTE88_RS08630,WP_204424387.1,212,uracil phosphoribosyltransferase
+chromosome,NZ_CP070228.1,1903278,1904312,+,,,JTE88_RS08635,WP_239519517.1,344,alpha/beta fold hydrolase
+chromosome,NZ_CP070228.1,1904405,1905262,+,,,JTE88_RS08640,WP_204424389.1,285,DUF5926 family protein
+chromosome,NZ_CP070228.1,1905398,1906168,+,,,JTE88_RS08645,WP_204424391.1,256,glycosyltransferase
+chromosome,NZ_CP070228.1,1906201,1908489,-,,,JTE88_RS08650,WP_204424393.1,762,hypothetical protein
+chromosome,NZ_CP070228.1,1908486,1909652,-,,,JTE88_RS08655,WP_204424395.1,388,diacylglycerol kinase family protein
+chromosome,NZ_CP070228.1,1909744,1911027,+,,serS,JTE88_RS08660,WP_204424396.1,427,serine--tRNA ligase
+chromosome,NZ_CP070228.1,1911029,1911964,+,,,JTE88_RS08665,WP_204424398.1,311,HAD-IIB family hydrolase
+chromosome,NZ_CP070228.1,1911991,1914120,-,,,JTE88_RS08670,WP_204424399.1,709,hypothetical protein
+chromosome,NZ_CP070228.1,1914912,1915691,-,,,JTE88_RS08685,WP_204424401.1,259,alpha/beta fold hydrolase
+chromosome,NZ_CP070228.1,1915941,1916444,+,,,JTE88_RS08690,WP_204424402.1,167,carboxymuconolactone decarboxylase family protein
+chromosome,NZ_CP070228.1,1916570,1917586,-,,galE,JTE88_RS08695,WP_204424404.1,338,UDP-glucose 4-epimerase GalE
+chromosome,NZ_CP070228.1,1917626,1919116,-,,,JTE88_RS08700,WP_204424406.1,496,galactose-1-phosphate uridylyltransferase
+chromosome,NZ_CP070228.1,1919118,1920191,-,,,JTE88_RS08705,WP_204424408.1,357,phosphotransferase
+chromosome,NZ_CP070228.1,1920188,1922350,-,,gnpA,JTE88_RS08710,WP_204424410.1,720,"1,3-beta-galactosyl-N-acetylhexosamine phosphorylase"
+chromosome,NZ_CP070228.1,1922667,1923404,-,,cas5e,JTE88_RS08715,WP_204424412.1,245,type I-E CRISPR-associated protein Cas5/CasD
+chromosome,NZ_CP070228.1,1923401,1924459,-,,cas7e,JTE88_RS08720,WP_204424414.1,352,type I-E CRISPR-associated protein Cas7/Cse4/CasC
+chromosome,NZ_CP070228.1,1924492,1925100,-,,casB,JTE88_RS08725,WP_204424415.1,202,type I-E CRISPR-associated protein Cse2/CasB
+chromosome,NZ_CP070228.1,1925120,1926751,-,,,JTE88_RS08730,WP_204424417.1,543,type I-E CRISPR-associated protein Cse1/CasA
+chromosome,NZ_CP070228.1,1927001,1927699,+,,cas6e,JTE88_RS08735,WP_204424419.1,232,type I-E CRISPR-associated protein Cas6/Cse3/CasE
+chromosome,NZ_CP070228.1,1927696,1930347,+,,cas3,JTE88_RS08740,WP_204424421.1,883,CRISPR-associated helicase Cas3\\'
+chromosome,NZ_CP070228.1,1930454,1931305,+,,cas1,JTE88_RS08745,WP_239519518.1,283,CRISPR-associated endonuclease Cas1
+chromosome,NZ_CP070228.1,1931305,1931616,+,,cas2e,JTE88_RS08750,WP_204425848.1,103,type I-E CRISPR-associated endoribonuclease Cas2e
+chromosome,NZ_CP070228.1,1936781,1937890,+,,,JTE88_RS08770,WP_204424425.1,369,IS1249 family transposase
+chromosome,NZ_CP070228.1,1937972,1939336,+,,,JTE88_RS08775,WP_204424426.1,454,MurT ligase domain-containing protein
+chromosome,NZ_CP070228.1,1939333,1940151,+,,,JTE88_RS08780,WP_204424428.1,272,glutamine amidotransferase
+chromosome,NZ_CP070228.1,1940539,1941672,-,,,JTE88_RS08785,WP_204424430.1,377,hypothetical protein
+chromosome,NZ_CP070228.1,1941837,1943066,-,,,JTE88_RS08790,WP_204424431.1,409,methyltransferase domain-containing protein
+chromosome,NZ_CP070228.1,1943066,1944241,-,,,JTE88_RS08795,WP_204424433.1,391,HipA domain-containing protein
+chromosome,NZ_CP070228.1,1944228,1944563,-,,,JTE88_RS08800,WP_204424435.1,111,helix-turn-helix domain-containing protein
+chromosome,NZ_CP070228.1,1944613,1945266,-,,,JTE88_RS08805,WP_204424437.1,217,HAD-IA family hydrolase
+chromosome,NZ_CP070228.1,1945344,1945685,+,,,JTE88_RS08810,WP_204424439.1,113,DUF3800 domain-containing protein
+chromosome,NZ_CP070228.1,1945835,1946059,+,,,JTE88_RS08815,WP_204424440.1,74,hypothetical protein
+chromosome,NZ_CP070228.1,1946222,1948732,-,,hrpB,JTE88_RS08820,WP_239519519.1,836,ATP-dependent helicase HrpB
+chromosome,NZ_CP070228.1,1948729,1949328,-,,,JTE88_RS08825,WP_204424441.1,199,TetR/AcrR family transcriptional regulator
+chromosome,NZ_CP070228.1,1949548,1950924,+,,,JTE88_RS08830,WP_204424443.1,458,hypothetical protein
+chromosome,NZ_CP070228.1,1950944,1952164,-,,tgt,JTE88_RS08835,WP_204424444.1,406,tRNA guanosine(34) transglycosylase Tgt
+chromosome,NZ_CP070228.1,1952245,1953072,-,,,JTE88_RS08840,WP_204424445.1,275,DUF4261 domain-containing protein
+chromosome,NZ_CP070228.1,1953093,1953671,-,,,JTE88_RS08845,WP_204424447.1,192,hypothetical protein
+chromosome,NZ_CP070228.1,1953743,1954663,+,,,JTE88_RS08850,WP_204424448.1,306,DUF4862 family protein
+chromosome,NZ_CP070228.1,1954668,1955447,+,,,JTE88_RS08855,WP_204424450.1,259,thioredoxin domain-containing protein
+chromosome,NZ_CP070228.1,1955497,1956075,+,,,JTE88_RS08860,WP_204424451.1,192,1-acyl-sn-glycerol-3-phosphate acyltransferase
+chromosome,NZ_CP070228.1,1956079,1956906,+,,,JTE88_RS08865,WP_204424453.1,275,aldo/keto reductase
+chromosome,NZ_CP070228.1,1956910,1957605,+,,,JTE88_RS08870,WP_204424454.1,231,HD domain-containing protein
+chromosome,NZ_CP070228.1,1957618,1958964,-,,dnaB,JTE88_RS08875,WP_204425852.1,448,replicative DNA helicase
+chromosome,NZ_CP070228.1,1959480,1960811,+,,,JTE88_RS08880,WP_204424456.1,443,MATE family efflux transporter
+chromosome,NZ_CP070228.1,1960897,1963683,-,,,JTE88_RS08885,WP_204424458.1,928,hypothetical protein
+chromosome,NZ_CP070228.1,1965449,1965895,-,,rplI,JTE88_RS08895,WP_204424460.1,148,50S ribosomal protein L9
+chromosome,NZ_CP070228.1,1965917,1966153,-,,rpsR,JTE88_RS08900,WP_204424462.1,78,30S ribosomal protein S18
+chromosome,NZ_CP070228.1,1966214,1966744,-,,,JTE88_RS08905,WP_204424463.1,176,single-stranded DNA-binding protein
+chromosome,NZ_CP070228.1,1966763,1967068,-,,rpsF,JTE88_RS08910,WP_204424466.1,101,30S ribosomal protein S6
+chromosome,NZ_CP070228.1,1967249,1969414,-,,,JTE88_RS08915,WP_204424468.1,721,penicillin-binding protein
+chromosome,NZ_CP070228.1,1969417,1970697,-,,,JTE88_RS08920,WP_204424469.1,426,AI-2E family transporter
+chromosome,NZ_CP070228.1,1970763,1972037,-,,,JTE88_RS08925,WP_204424471.1,424,MFS transporter
+chromosome,NZ_CP070228.1,1972041,1973534,-,,,JTE88_RS08930,WP_204424473.1,497,CCA tRNA nucleotidyltransferase
+chromosome,NZ_CP070228.1,1973597,1974103,+,,,JTE88_RS08935,WP_204424474.1,168,NUDIX hydrolase
+chromosome,NZ_CP070228.1,1974104,1976194,+,,,JTE88_RS08940,WP_204424476.1,696,DUF6049 family protein
+chromosome,NZ_CP070228.1,1976249,1978312,+,,,JTE88_RS08945,WP_204424478.1,687,hypothetical protein
+chromosome,NZ_CP070228.1,1978373,1979308,+,,trxB,JTE88_RS08950,WP_204424479.1,311,thioredoxin-disulfide reductase
+chromosome,NZ_CP070228.1,1979320,1979670,+,,,JTE88_RS08955,WP_204424480.1,116,thioredoxin domain-containing protein
+chromosome,NZ_CP070228.1,1979673,1980989,+,,,JTE88_RS08960,WP_204424482.1,438,PLP-dependent aminotransferase family protein
+chromosome,NZ_CP070228.1,1981385,1982779,-,,,JTE88_RS08965,WP_204424484.1,464,ParB/RepB/Spo0J family partition protein
+chromosome,NZ_CP070228.1,1982784,1983623,-,,,JTE88_RS08970,WP_239519595.1,279,AAA family ATPase
+chromosome,NZ_CP070228.1,1984139,1984768,-,,rsmG,JTE88_RS08975,WP_204424486.1,209,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+chromosome,NZ_CP070228.1,1985089,1985658,-,,,JTE88_RS08980,WP_204424488.1,189,single-stranded DNA-binding protein
+chromosome,NZ_CP070228.1,1985697,1986842,-,,yidC,JTE88_RS08985,WP_204424489.1,381,membrane protein insertase YidC
+chromosome,NZ_CP070228.1,1986878,1987189,-,,yidD,JTE88_RS08990,WP_204424491.1,103,membrane protein insertion efficiency factor YidD
+chromosome,NZ_CP070228.1,1987186,1987548,-,,rnpA,JTE88_RS08995,WP_204424493.1,120,ribonuclease P protein component
+chromosome,NZ_CP070228.1,1987549,1987689,-,,rpmH,JTE88_RS09000,WP_013170982.1,46,MULTISPECIES: 50S ribosomal protein L34
+,,,,,,,,,,
+,,,,,,,,,341.01,

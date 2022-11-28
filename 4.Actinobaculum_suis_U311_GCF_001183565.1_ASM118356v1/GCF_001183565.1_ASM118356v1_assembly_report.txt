@@ -1,0 +1,90 @@
+# Assembly name:  ASM118356v1
+# Organism name:  Actinobaculum suis (high GC Gram+)
+# Infraspecific name:  strain=U311
+# Taxid:          1657
+# BioSample:      SAMN03783260
+# BioProject:     PRJNA287444
+# Submitter:      School of Veterinary Medicine and Animal Science / University of Sao Paulo
+# Date:           2015-07-21
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    LFUS01
+# Assembly method: CLC NGS Cell v. 7.5.1
+# Expected final version: no
+# Genome coverage: 60.0x
+# Sequencing technology: Illumina MiSeq
+# GenBank assembly accession: GCA_001183565.1
+# RefSeq assembly accession: GCF_001183565.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_001183575.1	GCF_001183575.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+R9-3-1_contig_1	unplaced-scaffold	na	na	LFUS01000001.1	=	NZ_LFUS01000001.1	Primary Assembly	59306	na
+R9-3-1_contig_10	unplaced-scaffold	na	na	LFUS01000010.1	=	NZ_LFUS01000010.1	Primary Assembly	29993	na
+R9-3-1_contig_11	unplaced-scaffold	na	na	LFUS01000011.1	=	NZ_LFUS01000011.1	Primary Assembly	93736	na
+R9-3-1_contig_12	unplaced-scaffold	na	na	LFUS01000012.1	=	NZ_LFUS01000012.1	Primary Assembly	87129	na
+R9-3-1_contig_13	unplaced-scaffold	na	na	LFUS01000013.1	=	NZ_LFUS01000013.1	Primary Assembly	33411	na
+R9-3-1_contig_14	unplaced-scaffold	na	na	LFUS01000014.1	=	NZ_LFUS01000014.1	Primary Assembly	58869	na
+R9-3-1_contig_15	unplaced-scaffold	na	na	LFUS01000015.1	=	NZ_LFUS01000015.1	Primary Assembly	57906	na
+R9-3-1_contig_16	unplaced-scaffold	na	na	LFUS01000016.1	=	NZ_LFUS01000016.1	Primary Assembly	1525	na
+R9-3-1_contig_17	unplaced-scaffold	na	na	LFUS01000017.1	=	NZ_LFUS01000017.1	Primary Assembly	69766	na
+R9-3-1_contig_18	unplaced-scaffold	na	na	LFUS01000018.1	=	NZ_LFUS01000018.1	Primary Assembly	205384	na
+R9-3-1_contig_19	unplaced-scaffold	na	na	LFUS01000019.1	=	NZ_LFUS01000019.1	Primary Assembly	49661	na
+R9-3-1_contig_2	unplaced-scaffold	na	na	LFUS01000002.1	=	NZ_LFUS01000002.1	Primary Assembly	159967	na
+R9-3-1_contig_20	unplaced-scaffold	na	na	LFUS01000020.1	=	NZ_LFUS01000020.1	Primary Assembly	41673	na
+R9-3-1_contig_21	unplaced-scaffold	na	na	LFUS01000021.1	=	NZ_LFUS01000021.1	Primary Assembly	46259	na
+R9-3-1_contig_22	unplaced-scaffold	na	na	LFUS01000022.1	=	NZ_LFUS01000022.1	Primary Assembly	34978	na
+R9-3-1_contig_23	unplaced-scaffold	na	na	LFUS01000023.1	=	NZ_LFUS01000023.1	Primary Assembly	92616	na
+R9-3-1_contig_24	unplaced-scaffold	na	na	LFUS01000024.1	=	NZ_LFUS01000024.1	Primary Assembly	36828	na
+R9-3-1_contig_25	unplaced-scaffold	na	na	LFUS01000025.1	=	NZ_LFUS01000025.1	Primary Assembly	134668	na
+R9-3-1_contig_26	unplaced-scaffold	na	na	LFUS01000026.1	=	NZ_LFUS01000026.1	Primary Assembly	28182	na
+R9-3-1_contig_27	unplaced-scaffold	na	na	LFUS01000027.1	=	NZ_LFUS01000027.1	Primary Assembly	91506	na
+R9-3-1_contig_28	unplaced-scaffold	na	na	LFUS01000028.1	=	NZ_LFUS01000028.1	Primary Assembly	62957	na
+R9-3-1_contig_29	unplaced-scaffold	na	na	LFUS01000029.1	=	NZ_LFUS01000029.1	Primary Assembly	62606	na
+R9-3-1_contig_3	unplaced-scaffold	na	na	LFUS01000003.1	=	NZ_LFUS01000003.1	Primary Assembly	2289	na
+R9-3-1_contig_30	unplaced-scaffold	na	na	LFUS01000030.1	=	NZ_LFUS01000030.1	Primary Assembly	84547	na
+R9-3-1_contig_31	unplaced-scaffold	na	na	LFUS01000031.1	=	NZ_LFUS01000031.1	Primary Assembly	75465	na
+R9-3-1_contig_32	unplaced-scaffold	na	na	LFUS01000032.1	=	NZ_LFUS01000032.1	Primary Assembly	112095	na
+R9-3-1_contig_33	unplaced-scaffold	na	na	LFUS01000033.1	=	NZ_LFUS01000033.1	Primary Assembly	20631	na
+R9-3-1_contig_34	unplaced-scaffold	na	na	LFUS01000034.1	=	NZ_LFUS01000034.1	Primary Assembly	57600	na
+R9-3-1_contig_35	unplaced-scaffold	na	na	LFUS01000035.1	=	NZ_LFUS01000035.1	Primary Assembly	19577	na
+R9-3-1_contig_36	unplaced-scaffold	na	na	LFUS01000036.1	=	NZ_LFUS01000036.1	Primary Assembly	9550	na
+R9-3-1_contig_37	unplaced-scaffold	na	na	LFUS01000037.1	=	NZ_LFUS01000037.1	Primary Assembly	7471	na
+R9-3-1_contig_38	unplaced-scaffold	na	na	LFUS01000038.1	=	NZ_LFUS01000038.1	Primary Assembly	13638	na
+R9-3-1_contig_39	unplaced-scaffold	na	na	LFUS01000039.1	=	NZ_LFUS01000039.1	Primary Assembly	57616	na
+R9-3-1_contig_4	unplaced-scaffold	na	na	LFUS01000004.1	=	NZ_LFUS01000004.1	Primary Assembly	3666	na
+R9-3-1_contig_40	unplaced-scaffold	na	na	LFUS01000040.1	=	NZ_LFUS01000040.1	Primary Assembly	17863	na
+R9-3-1_contig_41	unplaced-scaffold	na	na	LFUS01000041.1	=	NZ_LFUS01000041.1	Primary Assembly	80703	na
+R9-3-1_contig_42	unplaced-scaffold	na	na	LFUS01000042.1	=	NZ_LFUS01000042.1	Primary Assembly	3782	na
+R9-3-1_contig_43	unplaced-scaffold	na	na	LFUS01000043.1	=	NZ_LFUS01000043.1	Primary Assembly	9454	na
+R9-3-1_contig_44	unplaced-scaffold	na	na	LFUS01000044.1	=	NZ_LFUS01000044.1	Primary Assembly	13799	na
+R9-3-1_contig_45	unplaced-scaffold	na	na	LFUS01000045.1	=	NZ_LFUS01000045.1	Primary Assembly	39536	na
+R9-3-1_contig_46	unplaced-scaffold	na	na	LFUS01000046.1	=	NZ_LFUS01000046.1	Primary Assembly	8801	na
+R9-3-1_contig_47	unplaced-scaffold	na	na	LFUS01000047.1	=	NZ_LFUS01000047.1	Primary Assembly	3424	na
+R9-3-1_contig_48	unplaced-scaffold	na	na	LFUS01000048.1	=	NZ_LFUS01000048.1	Primary Assembly	19947	na
+R9-3-1_contig_49	unplaced-scaffold	na	na	LFUS01000049.1	=	NZ_LFUS01000049.1	Primary Assembly	17076	na
+R9-3-1_contig_5	unplaced-scaffold	na	na	LFUS01000005.1	=	NZ_LFUS01000005.1	Primary Assembly	13493	na
+R9-3-1_contig_50	unplaced-scaffold	na	na	LFUS01000050.1	=	NZ_LFUS01000050.1	Primary Assembly	5725	na
+R9-3-1_contig_51	unplaced-scaffold	na	na	LFUS01000051.1	=	NZ_LFUS01000051.1	Primary Assembly	1982	na
+R9-3-1_contig_52	unplaced-scaffold	na	na	LFUS01000052.1	=	NZ_LFUS01000052.1	Primary Assembly	2282	na
+R9-3-1_contig_53	unplaced-scaffold	na	na	LFUS01000053.1	=	NZ_LFUS01000053.1	Primary Assembly	3042	na
+R9-3-1_contig_54	unplaced-scaffold	na	na	LFUS01000054.1	=	NZ_LFUS01000054.1	Primary Assembly	5973	na
+R9-3-1_contig_55	unplaced-scaffold	na	na	LFUS01000055.1	=	NZ_LFUS01000055.1	Primary Assembly	1539	na
+R9-3-1_contig_56	unplaced-scaffold	na	na	LFUS01000056.1	=	NZ_LFUS01000056.1	Primary Assembly	5446	na
+R9-3-1_contig_57	unplaced-scaffold	na	na	LFUS01000057.1	=	NZ_LFUS01000057.1	Primary Assembly	2416	na
+R9-3-1_contig_58	unplaced-scaffold	na	na	LFUS01000058.1	=	NZ_LFUS01000058.1	Primary Assembly	1268	na
+R9-3-1_contig_59	unplaced-scaffold	na	na	LFUS01000059.1	=	NZ_LFUS01000059.1	Primary Assembly	1505	na
+R9-3-1_contig_6	unplaced-scaffold	na	na	LFUS01000006.1	=	NZ_LFUS01000006.1	Primary Assembly	9082	na
+R9-3-1_contig_7	unplaced-scaffold	na	na	LFUS01000007.1	=	NZ_LFUS01000007.1	Primary Assembly	61730	na
+R9-3-1_contig_8	unplaced-scaffold	na	na	LFUS01000008.1	=	NZ_LFUS01000008.1	Primary Assembly	24229	na
+R9-3-1_contig_9	unplaced-scaffold	na	na	LFUS01000009.1	=	NZ_LFUS01000009.1	Primary Assembly	1490	na
